@@ -104,7 +104,6 @@ class Game(object):
                               + str(name) + ' '\
                               + str(number) + '/'\
                               + ' FAILED!'
-                    #print self.game
                     print failure
                     print
                     failures.append(failure)
@@ -112,47 +111,20 @@ class Game(object):
         if len(failures) == 0:
             print "No failures in this game!"
         return failures
-
-##    def formatPlayerNames(self):
-        
-    def moveBaserunners(self, array, dictionary, row, onBase):
-        """
-        Moves all baserunners according to the play.
-
-        array: an array representing a game as determined
-            by formatFile(self).
-        row: an integer representing the horizontal index
-            of array i.e. array[row, collumn].
-        onBase: A list of length 3 representing runners on base.
-            i.e. [runnerOnFirst, runnerOnSecond, runnerOnThird].
-            Bases that are empty are filled with an empty string'
-        """
-        play = array[row-1, dictionary['Play Description']]
-        row2 = row-1
-        while array[row2, dictionary['Inn']] == '':
-            row2 -= 1
-            play = array[row2, dictionary['Play Description']]
-        batter = str(array[row2, dictionary['Batter']]).split()[-1] 
-        runnerOnFirst = onBase[0]
-        runnerOnSecond = onBase[1]
-        runnerOnThird = onBase[2]
-        newOnBase = ['', '', '']
-
-        # Move Runner on Third
+   
+    def moveRunnerOnThird(self, runnerOnThird, newOnBase, play):
         if runnerOnThird != '':
+            newOnBase[2] = runnerOnThird
             if runnerOnThird + ' Scores' in play\
                or runnerOnThird + ' Steals Hm' in play\
                or runnerOnThird + ' Caught Stealing' in play\
                or runnerOnThird + ' out at' in play\
                or runnerOnThird + ' Picked off 3B' in play\
                or 'Ground Ball Double Play' in play:
-                newOnBase[2] = ''
-            else:
-                newOnBase[2] = runnerOnThird
-            if runnerOnThird + ' stays at 3B' in play:
-                newOnBase[2] = runnerOnThird
+                newOnBase[2] = ''    
+        return newOnBase
 
-        # Move Runner on Second
+    def moveRunnerOnSecond(self, runnerOnSecond, newOnBase, play):
         if runnerOnSecond != '':
             newOnBase[1] = runnerOnSecond
             if runnerOnSecond + ' Caught Stealing' in play\
@@ -169,8 +141,9 @@ class Game(object):
                 newOnBase[1] = ''
             if runnerOnSecond + ' stays at 2B' in play:
                 newOnBase[1] = runnerOnSecond
+        return newOnBase
 
-        # Move Runner on First
+    def moveRunnerOnFirst(self, runnerOnFirst, newOnBase, play):
         if runnerOnFirst != '':
             newOnBase[0] = runnerOnFirst
             if runnerOnFirst + ' Caught Stealing' in play\
@@ -192,31 +165,9 @@ class Game(object):
                 newOnBase[0] = ''
             if runnerOnFirst + ' stays at 1B' in play:
                 newOnBase[0] = runnerOnFirst
+        return newOnBase
 
-
-        ###################################
-        ###################################
-        ### This block of code guards #####
-        ### against two players on the ####
-        ### same team with the same last ##
-        ### name. #########################
-        ###################################
-        ###################################        
-
-        batter2 = batter
-        if (runnerOnFirst == batter\
-           or runnerOnSecond == batter\
-           or runnerOnThird == batter)\
-           and (runnerOnFirst in play\
-                or runnerOnSecond in play
-                or runnerOnThird in play):
-            batter += ' '
-            
-        ###################################
-        ###################################
-
-
-        # Move Batter
+    def moveBatter(self, batter, batter2, newOnBase, play):
         if 'Walk;' in play\
            or 'Intentional Walk' in play\
            or play == 'Walk'\
@@ -251,6 +202,50 @@ class Game(object):
         if batter + ' out at 2B' in play:
             newOnBase[0] = ''
             newOnBase[1] = ''
+        return newOnBase
+
+    def moveBaserunners(self, array, dictionary, row, onBase):
+        """
+        Moves all baserunners according to the play.
+
+        array: an array representing a game as determined
+            by formatFile(self).
+        row: an integer representing the horizontal index
+            of array i.e. array[row, collumn].
+        onBase: A list of length 3 representing runners on base.
+            i.e. [runnerOnFirst, runnerOnSecond, runnerOnThird].
+            Bases that are empty are filled with an empty string'
+        """
+        play = array[row-1, dictionary['Play Description']]
+        row2 = row-1
+        while array[row2, dictionary['Inn']] == '':
+            row2 -= 1
+            play = array[row2, dictionary['Play Description']]
+        batter = str(array[row2, dictionary['Batter']]).split()[-1] 
+        runnerOnFirst = onBase[0]
+        runnerOnSecond = onBase[1]
+        runnerOnThird = onBase[2]
+        newOnBase = ['', '', '']
+
+        # This block of code guards against
+        # two players on the same team with
+        # the same last name. 
+        ###################################        
+        batter2 = batter
+        if (runnerOnFirst == batter\
+           or runnerOnSecond == batter\
+           or runnerOnThird == batter)\
+           and (runnerOnFirst in play\
+                or runnerOnSecond in play
+                or runnerOnThird in play):
+            batter += ' ' 
+        ###################################
+
+        newOnBase = self.moveRunnerOnThird(runnerOnThird, newOnBase, play)
+        newOnBase = self.moveRunnerOnSecond(runnerOnSecond, newOnBase, play)
+        newOnBase = self.moveRunnerOnFirst(runnerOnFirst, newOnBase, play)
+        newOnBase = self.moveBatter(batter, batter2, newOnBase, play)
+
         return newOnBase
 
     def formatBaserunners(self):
