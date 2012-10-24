@@ -306,8 +306,18 @@ class Game(object):
                         names[namesIndex] = pinchRunner
 
                 # Compiles data
+                baseEmpty = '______'
+                onFirst = names[0]
+                onSecond = names[1]
+                onThird = names[2]
+                if onFirst == '':
+                    onFirst = baseEmpty
+                if onSecond == '':
+                    onSecond = baseEmpty
+                if onThird == '':
+                    onThird = baseEmpty
                 numbers = array[row, dictionary['RoB']]
-                namesList.append([str(names)])
+                namesList.append([onFirst + ', ' + onSecond + ', ' + onThird])
                 numbersList.append([str(numbers)])
                 testNames.append(names)
                 testNumbers.append(numbers)
