@@ -23,6 +23,7 @@ class Game(object):
                 fileList.append(row)
         self.list = fileList
         self.game = csv_file
+        self.labels = self.list[0]
              
     def formatFile(self):
         """
@@ -44,12 +45,21 @@ class Game(object):
             index[key] = col.index(key)
         return index
 
+    def writeFile(self, array):
+        fileList = []
+        for row in array[:, :]:
+            fileList.append(row)
+        updatedFile = open('ProcessedFiles/'+ self.game, 'w')
+        writer = csv.writer(updatedFile, 'excel')
+        self.game = writer.writerows(fileList)
+        
+
     def getLabels(self):
         """
         Prints every catagory in database.
         """
-        for label in self.list[0]:
-            print label
+        for label in self.labels:
+            print " " + label
 
     def lookUp(self, row, key):
         """
@@ -58,7 +68,7 @@ class Game(object):
 
         key is str
         """
-        array = self.formatFile()
+        array = self.formatBaserunners()[0]
         dictionary = self.formatIndices()
         return array[row, dictionary[key]]
     
@@ -313,13 +323,15 @@ class Game(object):
         col = dictionary['RoB']
         array = numpy.delete(array, numpy.s_[col:col+1], 1)
         array = numpy.insert(array, [col], namesList, 1)
+
+        self.writeFile(array)
         
         # Tests whether new baserunner data is consistent with
         # the original data and returns failures
         failures = self.checkBaserunners(testNames, testNumbers, array, dictionary)        
         NumFailures = len(failures)
         return (array, NumFailures)
-            
+    
     def displayGame(self):
         """
         Displays the game array
@@ -343,6 +355,42 @@ class Game(object):
                   + ' ' + str(array[row, dictionary['RoB']])\
                   + ' ' + str(array[row, dictionary['Batter']])\
                   + ': ' + str(array[row, dictionary['Play Description']])
+            
+    def lookUpColumns(self):
+        """
+        Allows user to print customized collumns.
+        """
+        array = self.formatFile()
+        dictionary = self.formatIndices()
+        print
+        print "Labels:"
+        self.getLabels()
+        print
+        cols = []
+        x = '1'
+        while x == '1':
+            choice = raw_input("Choose a label from above: ")
+            if choice not in self.labels:
+                x = '1'
+                print
+                print 'Error: label not valid, please try again!'
+                continue
+            else:
+                cols.append(choice)
+            x = raw_input("To add another label, press 1; to reprint labels, press 2; to print collumns, press enter: ")
+            if x == "1":
+                continue
+            elif x == "2":
+                print "Labels"
+                self.getLabels()
+                x = '1'
+                continue
+        for row in range(array.shape[0]):
+            print "row: " + str(row),
+            for label in cols:
+                print array[row, dictionary[label]],
+                if cols.index(label) == len(cols)-1:
+                    print ''           
 
 # End Class "Games"
 
