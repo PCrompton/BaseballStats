@@ -1,136 +1,136 @@
 Inn,Score,Out,RoB,Pit(cnt)Sequence,R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
 Top of the 1st Astros Batting Tied 0-0 Braves' Jaret Wright facing 1-2-3,Top of the 1st Astros Batting Tied 0-0 Braves' Jaret Wright facing 1-2-3,Top of the 1st Astros Batting Tied 0-0 Braves' Jaret Wright facing 1-2-3,,Top of the 1st Astros Batting Tied 0-0 Braves' Jaret Wright facing 1-2-3,Top of the 1st Astros Batting Tied 0-0 Braves' Jaret Wright facing 1-2-3,Top of the 1st Astros Batting Tied 0-0 Braves' Jaret Wright facing 1-2-3,Top of the 1st Astros Batting Tied 0-0 Braves' Jaret Wright facing 1-2-3,Top of the 1st Astros Batting Tied 0-0 Braves' Jaret Wright facing 1-2-3,Top of the 1st Astros Batting Tied 0-0 Braves' Jaret Wright facing 1-2-3,Top of the 1st Astros Batting Tied 0-0 Braves' Jaret Wright facing 1-2-3,Top of the 1st Astros Batting Tied 0-0 Braves' Jaret Wright facing 1-2-3
-t1,0-0,0,"['', '', '']",6(3-2) BBCLBC,O,HOU,C. Biggio,J. Wright,-2%,48%,Strikeout Looking
-t1,0-0,1,"['', '', '']",3(1-1) CBX,,HOU,C. Beltran,J. Wright,2%,50%,Single to CF (Fly Ball)
-t1,0-0,1,"['Beltran', '', '']",5(2-2) C1CBB1X,O,HOU,J. Bagwell,J. Wright,-3%,47%,Flyball: CF
-t1,0-0,2,"['Beltran', '', '']",4(1-2) CBS1>B,,HOU,L. Berkman,J. Wright,1%,48%,Beltran Steals 2B
-t1,0-0,2,"['', 'Beltran', '']",7(3-2) CBS1>B.>FBX,O,HOU,L. Berkman,J. Wright,-3%,45%,Flyball: CF
+t1,0-0,0,"______, ______, ______",6(3-2) BBCLBC,O,HOU,C. Biggio,J. Wright,-2%,48%,Strikeout Looking
+t1,0-0,1,"______, ______, ______",3(1-1) CBX,,HOU,C. Beltran,J. Wright,2%,50%,Single to CF (Fly Ball)
+t1,0-0,1,"C. Beltran, ______, ______",5(2-2) C1CBB1X,O,HOU,J. Bagwell,J. Wright,-3%,47%,Flyball: CF
+t1,0-0,2,"C. Beltran, ______, ______",4(1-2) CBS1>B,,HOU,L. Berkman,J. Wright,1%,48%,C. Beltran Steals 2B
+t1,0-0,2,"______, C. Beltran, ______",7(3-2) CBS1>B.>FBX,O,HOU,L. Berkman,J. Wright,-3%,45%,Flyball: CF
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Astros 0 Braves 0.,0 runs 1 hit 0 errors 1 LOB. Astros 0 Braves 0.,0 runs 1 hit 0 errors 1 LOB. Astros 0 Braves 0.
 Bottom of the 1st Braves Batting Tied 0-0 Astros' Roger Clemens facing 1-2-3,Bottom of the 1st Braves Batting Tied 0-0 Astros' Roger Clemens facing 1-2-3,Bottom of the 1st Braves Batting Tied 0-0 Astros' Roger Clemens facing 1-2-3,,Bottom of the 1st Braves Batting Tied 0-0 Astros' Roger Clemens facing 1-2-3,Bottom of the 1st Braves Batting Tied 0-0 Astros' Roger Clemens facing 1-2-3,Bottom of the 1st Braves Batting Tied 0-0 Astros' Roger Clemens facing 1-2-3,Bottom of the 1st Braves Batting Tied 0-0 Astros' Roger Clemens facing 1-2-3,Bottom of the 1st Braves Batting Tied 0-0 Astros' Roger Clemens facing 1-2-3,Bottom of the 1st Braves Batting Tied 0-0 Astros' Roger Clemens facing 1-2-3,Bottom of the 1st Braves Batting Tied 0-0 Astros' Roger Clemens facing 1-2-3,Bottom of the 1st Braves Batting Tied 0-0 Astros' Roger Clemens facing 1-2-3
-b1,0-0,0,"['', '', '']",1(0-0) X,O,ATL,R. Furcal,R. Clemens,2%,47%,Bunt Groundout: P-1B
-b1,0-0,1,"['', '', '']",1(0-0) X,,ATL,M. Giles,R. Clemens,-2%,45%,Reached on E9 (Line Drive)
-b1,0-0,1,"['Giles', '', '']",2(1-0) B1>C,,ATL,J. Drew,R. Clemens,-2%,43%,Giles Steals 2B
-b1,0-0,1,"['', 'Giles', '']",4(2-1) B1>C.B*B,,ATL,J. Drew,R. Clemens,-3%,41%,Wild Pitch; Giles to 3B
-b1,0-0,1,"['', '', 'Giles']",5(3-1) B1>C.B*B.B,,ATL,J. Drew,R. Clemens,-2%,39%,Walk
-b1,0-0,1,"['Drew', '', 'Giles']",6(3-2) BCBBS>B,,ATL,C. Jones,R. Clemens,-3%,36%,Walk; Drew to 2B
-b1,0-0,1,"['Jones', 'Drew', 'Giles']",3(1-1) BSX,RO,ATL,J. Estrada,R. Clemens,0%,36%,Flyball: RF/Sacrifice Fly; Giles Scores/unER
-b1,1-0,2,"['Jones', 'Drew', '']",4(1-2) SBCX,O,ATL,A. LaRoche,R. Clemens,4%,40%,Groundout: 2B-1B
+b1,0-0,0,"______, ______, ______",1(0-0) X,O,ATL,R. Furcal,R. Clemens,2%,47%,Bunt Groundout: P-1B
+b1,0-0,1,"______, ______, ______",1(0-0) X,,ATL,M. Giles,R. Clemens,-2%,45%,Reached on E9 (Line Drive)
+b1,0-0,1,"M. Giles, ______, ______",2(1-0) B1>C,,ATL,J. Drew,R. Clemens,-2%,43%,M. Giles Steals 2B
+b1,0-0,1,"______, M. Giles, ______",4(2-1) B1>C.B*B,,ATL,J. Drew,R. Clemens,-3%,41%,Wild Pitch; M. Giles to 3B
+b1,0-0,1,"______, ______, M. Giles",5(3-1) B1>C.B*B.B,,ATL,J. Drew,R. Clemens,-2%,39%,Walk
+b1,0-0,1,"J. Drew, ______, M. Giles",6(3-2) BCBBS>B,,ATL,C. Jones,R. Clemens,-3%,36%,Walk; J. Drew to 2B
+b1,0-0,1,"C. Jones, J. Drew, M. Giles",3(1-1) BSX,RO,ATL,J. Estrada,R. Clemens,0%,36%,Flyball: RF/Sacrifice Fly; M. Giles Scores/unER
+b1,1-0,2,"C. Jones, J. Drew, ______",4(1-2) SBCX,O,ATL,A. LaRoche,R. Clemens,4%,40%,Groundout: 2B-1B
 ,,,,,,,,,1 run 0 hits 1 error 2 LOB. Astros 0 Braves 1.,1 run 0 hits 1 error 2 LOB. Astros 0 Braves 1.,1 run 0 hits 1 error 2 LOB. Astros 0 Braves 1.
 Top of the 2nd Astros Batting Behind 0-1 Braves' Jaret Wright facing 5-6-7,Top of the 2nd Astros Batting Behind 0-1 Braves' Jaret Wright facing 5-6-7,Top of the 2nd Astros Batting Behind 0-1 Braves' Jaret Wright facing 5-6-7,,Top of the 2nd Astros Batting Behind 0-1 Braves' Jaret Wright facing 5-6-7,Top of the 2nd Astros Batting Behind 0-1 Braves' Jaret Wright facing 5-6-7,Top of the 2nd Astros Batting Behind 0-1 Braves' Jaret Wright facing 5-6-7,Top of the 2nd Astros Batting Behind 0-1 Braves' Jaret Wright facing 5-6-7,Top of the 2nd Astros Batting Behind 0-1 Braves' Jaret Wright facing 5-6-7,Top of the 2nd Astros Batting Behind 0-1 Braves' Jaret Wright facing 5-6-7,Top of the 2nd Astros Batting Behind 0-1 Braves' Jaret Wright facing 5-6-7,Top of the 2nd Astros Batting Behind 0-1 Braves' Jaret Wright facing 5-6-7
-t2,0-1,0,"['', '', '']",6(1-2) FCBFFS,O,HOU,J. Kent,J. Wright,-2%,37%,Strikeout Swinging
-t2,0-1,1,"['', '', '']",5(2-2) SCBBC,O,HOU,M. Ensberg,J. Wright,-2%,36%,Strikeout Looking
-t2,0-1,2,"['', '', '']",4(1-2) BFFX,O,HOU,J. Vizcaino,J. Wright,-1%,34%,Groundout: 2B-1B
+t2,0-1,0,"______, ______, ______",6(1-2) FCBFFS,O,HOU,J. Kent,J. Wright,-2%,37%,Strikeout Swinging
+t2,0-1,1,"______, ______, ______",5(2-2) SCBBC,O,HOU,M. Ensberg,J. Wright,-2%,36%,Strikeout Looking
+t2,0-1,2,"______, ______, ______",4(1-2) BFFX,O,HOU,J. Vizcaino,J. Wright,-1%,34%,Groundout: 2B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Astros 0 Braves 1.,0 runs 0 hits 0 errors 0 LOB. Astros 0 Braves 1.,0 runs 0 hits 0 errors 0 LOB. Astros 0 Braves 1.
 Bottom of the 2nd Braves Batting Ahead 1-0 Astros' Roger Clemens facing 7-8-9,Bottom of the 2nd Braves Batting Ahead 1-0 Astros' Roger Clemens facing 7-8-9,Bottom of the 2nd Braves Batting Ahead 1-0 Astros' Roger Clemens facing 7-8-9,,Bottom of the 2nd Braves Batting Ahead 1-0 Astros' Roger Clemens facing 7-8-9,Bottom of the 2nd Braves Batting Ahead 1-0 Astros' Roger Clemens facing 7-8-9,Bottom of the 2nd Braves Batting Ahead 1-0 Astros' Roger Clemens facing 7-8-9,Bottom of the 2nd Braves Batting Ahead 1-0 Astros' Roger Clemens facing 7-8-9,Bottom of the 2nd Braves Batting Ahead 1-0 Astros' Roger Clemens facing 7-8-9,Bottom of the 2nd Braves Batting Ahead 1-0 Astros' Roger Clemens facing 7-8-9,Bottom of the 2nd Braves Batting Ahead 1-0 Astros' Roger Clemens facing 7-8-9,Bottom of the 2nd Braves Batting Ahead 1-0 Astros' Roger Clemens facing 7-8-9
-b2,1-0,0,"['', '', '']",6(1-2) SSBFFX,,ATL,A. Jones,R. Clemens,-3%,31%,Single to CF (Ground Ball)
-b2,1-0,0,"['Jones', '', '']",4(1-2) 1>F11B111FX,,ATL,C. Thomas,R. Clemens,-5%,27%,Single to LF (Line Drive); Jones to 2B
-b2,1-0,0,"['Thomas', 'Jones', '']",2(0-1) LX,O,ATL,J. Wright,R. Clemens,0%,27%,Bunt Groundout: 1B-2B/Sacrifice; Jones to 3B; Thomas to 2B
-b2,1-0,1,"['', 'Thomas', 'Jones']",5(2-2) SBFBS,O,ATL,R. Furcal,R. Clemens,7%,34%,Strikeout Swinging
-b2,1-0,2,"['', 'Thomas', 'Jones']",1(0-0) X,O,ATL,M. Giles,R. Clemens,5%,39%,Groundout: 3B-1B
+b2,1-0,0,"______, ______, ______",6(1-2) SSBFFX,,ATL,A. Jones,R. Clemens,-3%,31%,Single to CF (Ground Ball)
+b2,1-0,0,"A. Jones, ______, ______",4(1-2) 1>F11B111FX,,ATL,C. Thomas,R. Clemens,-5%,27%,Single to LF (Line Drive); C. A. Jones to 2B
+b2,1-0,0,"C. Thomas, A. Jones, ______",2(0-1) LX,O,ATL,J. Wright,R. Clemens,0%,27%,Bunt Groundout: 1B-2B/Sacrifice; C. A. Jones to 3B; C. Thomas to 2B
+b2,1-0,1,"______, C. Thomas, A. Jones",5(2-2) SBFBS,O,ATL,R. Furcal,R. Clemens,7%,34%,Strikeout Swinging
+b2,1-0,2,"______, C. Thomas, A. Jones",1(0-0) X,O,ATL,M. Giles,R. Clemens,5%,39%,Groundout: 3B-1B
 ,,,,,,,,,0 runs 2 hits 0 errors 2 LOB. Astros 0 Braves 1.,0 runs 2 hits 0 errors 2 LOB. Astros 0 Braves 1.,0 runs 2 hits 0 errors 2 LOB. Astros 0 Braves 1.
 Top of the 3rd Astros Batting Behind 0-1 Braves' Jaret Wright facing 8-9-1,Top of the 3rd Astros Batting Behind 0-1 Braves' Jaret Wright facing 8-9-1,Top of the 3rd Astros Batting Behind 0-1 Braves' Jaret Wright facing 8-9-1,,Top of the 3rd Astros Batting Behind 0-1 Braves' Jaret Wright facing 8-9-1,Top of the 3rd Astros Batting Behind 0-1 Braves' Jaret Wright facing 8-9-1,Top of the 3rd Astros Batting Behind 0-1 Braves' Jaret Wright facing 8-9-1,Top of the 3rd Astros Batting Behind 0-1 Braves' Jaret Wright facing 8-9-1,Top of the 3rd Astros Batting Behind 0-1 Braves' Jaret Wright facing 8-9-1,Top of the 3rd Astros Batting Behind 0-1 Braves' Jaret Wright facing 8-9-1,Top of the 3rd Astros Batting Behind 0-1 Braves' Jaret Wright facing 8-9-1,Top of the 3rd Astros Batting Behind 0-1 Braves' Jaret Wright facing 8-9-1
-t3,0-1,0,"['', '', '']",1(0-0) X,R,HOU,B. Ausmus,J. Wright,11%,50%,Home Run (Fly Ball)
-t3,1-1,0,"['', '', '']",3(1-1) BFX,O,HOU,R. Clemens,J. Wright,-3%,47%,Groundout: 2B-1B
-t3,1-1,1,"['', '', '']",7(2-2) BFBSFFS,O,HOU,C. Biggio,J. Wright,-2%,46%,Strikeout Swinging
-t3,1-1,2,"['', '', '']",2(1-0) BX,,HOU,C. Beltran,J. Wright,1%,47%,Single to LF (Ground Ball)
-t3,1-1,2,"['Beltran', '', '']",3(2-0) 1BBX,R,HOU,J. Bagwell,J. Wright,12%,59%,Double to RF (Fly Ball); Beltran Scores
-t3,2-1,2,"['', 'Bagwell', '']",3(2-0) BBX,RR,HOU,L. Berkman,J. Wright,17%,77%,Home Run (Fly Ball); Bagwell Scores
-t3,4-1,2,"['', '', '']",3(1-1) FBX,O,HOU,J. Kent,J. Wright,-1%,76%,Groundout: 2B-1B
+t3,0-1,0,"______, ______, ______",1(0-0) X,R,HOU,B. Ausmus,J. Wright,11%,50%,Home Run (Fly Ball)
+t3,1-1,0,"______, ______, ______",3(1-1) BFX,O,HOU,R. Clemens,J. Wright,-3%,47%,Groundout: 2B-1B
+t3,1-1,1,"______, ______, ______",7(2-2) BFBSFFS,O,HOU,C. Biggio,J. Wright,-2%,46%,Strikeout Swinging
+t3,1-1,2,"______, ______, ______",2(1-0) BX,,HOU,C. Beltran,J. Wright,1%,47%,Single to LF (Ground Ball)
+t3,1-1,2,"C. Beltran, ______, ______",3(2-0) 1BBX,R,HOU,J. Bagwell,J. Wright,12%,59%,Double to RF (Fly Ball); C. Beltran Scores
+t3,2-1,2,"______, J. Bagwell, ______",3(2-0) BBX,RR,HOU,L. Berkman,J. Wright,17%,77%,Home Run (Fly Ball); J. Bagwell Scores
+t3,4-1,2,"______, ______, ______",3(1-1) FBX,O,HOU,J. Kent,J. Wright,-1%,76%,Groundout: 2B-1B
 ,,,,,,,,,4 runs 4 hits 0 errors 0 LOB. Astros 4 Braves 1.,4 runs 4 hits 0 errors 0 LOB. Astros 4 Braves 1.,4 runs 4 hits 0 errors 0 LOB. Astros 4 Braves 1.
 Bottom of the 3rd Braves Batting Behind 1-4 Astros' Roger Clemens facing 3-4-5,Bottom of the 3rd Braves Batting Behind 1-4 Astros' Roger Clemens facing 3-4-5,Bottom of the 3rd Braves Batting Behind 1-4 Astros' Roger Clemens facing 3-4-5,,Bottom of the 3rd Braves Batting Behind 1-4 Astros' Roger Clemens facing 3-4-5,Bottom of the 3rd Braves Batting Behind 1-4 Astros' Roger Clemens facing 3-4-5,Bottom of the 3rd Braves Batting Behind 1-4 Astros' Roger Clemens facing 3-4-5,Bottom of the 3rd Braves Batting Behind 1-4 Astros' Roger Clemens facing 3-4-5,Bottom of the 3rd Braves Batting Behind 1-4 Astros' Roger Clemens facing 3-4-5,Bottom of the 3rd Braves Batting Behind 1-4 Astros' Roger Clemens facing 3-4-5,Bottom of the 3rd Braves Batting Behind 1-4 Astros' Roger Clemens facing 3-4-5,Bottom of the 3rd Braves Batting Behind 1-4 Astros' Roger Clemens facing 3-4-5
-b3,1-4,0,"['', '', '']",7(3-2) BBBCSFB,,ATL,J. Drew,R. Clemens,-4%,72%,Walk
-b3,1-4,0,"['Drew', '', '']",4(1-2) BFSS,O,ATL,C. Jones,R. Clemens,4%,76%,Strikeout Swinging
-b3,1-4,1,"['Drew', '', '']",1(0-0) X,O,ATL,J. Estrada,R. Clemens,3%,79%,Flyball: LF
-b3,1-4,2,"['Drew', '', '']",5(3-1) B1BBCB,,ATL,A. LaRoche,R. Clemens,-2%,77%,Walk; Drew to 2B
-b3,1-4,2,"['LaRoche', 'Drew', '']",5(3-1) BFB*BB,,ATL,A. Jones,R. Clemens,-4%,73%,Walk; Drew to 3B; LaRoche to 2B
-b3,1-4,2,"['Jones', 'LaRoche', 'Drew']",4(1-2) SBSC,O,ATL,C. Thomas,R. Clemens,8%,81%,Strikeout Looking
+b3,1-4,0,"______, ______, ______",7(3-2) BBBCSFB,,ATL,J. Drew,R. Clemens,-4%,72%,Walk
+b3,1-4,0,"J. Drew, ______, ______",4(1-2) BFSS,O,ATL,C. Jones,R. Clemens,4%,76%,Strikeout Swinging
+b3,1-4,1,"J. Drew, ______, ______",1(0-0) X,O,ATL,J. Estrada,R. Clemens,3%,79%,Flyball: LF
+b3,1-4,2,"J. Drew, ______, ______",5(3-1) B1BBCB,,ATL,A. LaRoche,R. Clemens,-2%,77%,Walk; J. Drew to 2B
+b3,1-4,2,"A. LaRoche, J. Drew, ______",5(3-1) BFB*BB,,ATL,A. Jones,R. Clemens,-4%,73%,Walk; J. Drew to 3B; A. LaRoche to 2B
+b3,1-4,2,"A. Jones, A. LaRoche, J. Drew",4(1-2) SBSC,O,ATL,C. Thomas,R. Clemens,8%,81%,Strikeout Looking
 ,,,,,,,,,0 runs 0 hits 0 errors 3 LOB. Astros 4 Braves 1.,0 runs 0 hits 0 errors 3 LOB. Astros 4 Braves 1.,0 runs 0 hits 0 errors 3 LOB. Astros 4 Braves 1.
 Top of the 4th Astros Batting Ahead 4-1 Braves' Jaret Wright facing 6-7-8,Top of the 4th Astros Batting Ahead 4-1 Braves' Jaret Wright facing 6-7-8,Top of the 4th Astros Batting Ahead 4-1 Braves' Jaret Wright facing 6-7-8,,Top of the 4th Astros Batting Ahead 4-1 Braves' Jaret Wright facing 6-7-8,Top of the 4th Astros Batting Ahead 4-1 Braves' Jaret Wright facing 6-7-8,Top of the 4th Astros Batting Ahead 4-1 Braves' Jaret Wright facing 6-7-8,Top of the 4th Astros Batting Ahead 4-1 Braves' Jaret Wright facing 6-7-8,Top of the 4th Astros Batting Ahead 4-1 Braves' Jaret Wright facing 6-7-8,Top of the 4th Astros Batting Ahead 4-1 Braves' Jaret Wright facing 6-7-8,Top of the 4th Astros Batting Ahead 4-1 Braves' Jaret Wright facing 6-7-8,Top of the 4th Astros Batting Ahead 4-1 Braves' Jaret Wright facing 6-7-8
-t4,4-1,0,"['', '', '']",7(3-2) FBCBBFX,,HOU,M. Ensberg,J. Wright,2%,83%,Single to C (Ground Ball)
-t4,4-1,0,"['Ensberg', '', '']",1(0-0) X,O,HOU,J. Vizcaino,J. Wright,-2%,81%,Flyball: LF
-t4,4-1,1,"['Ensberg', '', '']",6(3-2) 1B1CB>F*B>C,OO,HOU,B. Ausmus,J. Wright,-3%,78%,Double Play: Strikeout Looking Ensberg Caught Stealing 2B (C-2B)
+t4,4-1,0,"______, ______, ______",7(3-2) FBCBBFX,,HOU,M. Ensberg,J. Wright,2%,83%,Single to C (Ground Ball)
+t4,4-1,0,"M. Ensberg, ______, ______",1(0-0) X,O,HOU,J. Vizcaino,J. Wright,-2%,81%,Flyball: LF
+t4,4-1,1,"M. Ensberg, ______, ______",6(3-2) 1B1CB>F*B>C,OO,HOU,B. Ausmus,J. Wright,-3%,78%,Double Play: Strikeout Looking M. Ensberg Caught Stealing 2B (C-2B)
 ,,,,,,,,,0 runs 1 hit 0 errors 0 LOB. Astros 4 Braves 1.,0 runs 1 hit 0 errors 0 LOB. Astros 4 Braves 1.,0 runs 1 hit 0 errors 0 LOB. Astros 4 Braves 1.
 Bottom of the 4th Braves Batting Behind 1-4 Astros' Roger Clemens facing 9-1-2,Bottom of the 4th Braves Batting Behind 1-4 Astros' Roger Clemens facing 9-1-2,Bottom of the 4th Braves Batting Behind 1-4 Astros' Roger Clemens facing 9-1-2,,Bottom of the 4th Braves Batting Behind 1-4 Astros' Roger Clemens facing 9-1-2,Bottom of the 4th Braves Batting Behind 1-4 Astros' Roger Clemens facing 9-1-2,Bottom of the 4th Braves Batting Behind 1-4 Astros' Roger Clemens facing 9-1-2,Bottom of the 4th Braves Batting Behind 1-4 Astros' Roger Clemens facing 9-1-2,Bottom of the 4th Braves Batting Behind 1-4 Astros' Roger Clemens facing 9-1-2,Bottom of the 4th Braves Batting Behind 1-4 Astros' Roger Clemens facing 9-1-2,Bottom of the 4th Braves Batting Behind 1-4 Astros' Roger Clemens facing 9-1-2,Bottom of the 4th Braves Batting Behind 1-4 Astros' Roger Clemens facing 9-1-2
-b4,1-4,0,"['', '', '']",5(2-2) SSBBS,O,ATL,J. Wright,R. Clemens,3%,81%,Strikeout Swinging
-b4,1-4,1,"['', '', '']",5(3-1) BCBBB,,ATL,R. Furcal,R. Clemens,-3%,78%,Walk
-b4,1-4,1,"['Furcal', '', '']",1(0-0) X,,ATL,M. Giles,R. Clemens,-4%,74%,Single to CF (Line Drive); Furcal to 2B
-b4,1-4,1,"['Giles', 'Furcal', '']",1(0-0) X,O,ATL,J. Drew,R. Clemens,5%,79%,Popfly: P
-b4,1-4,2,"['Giles', 'Furcal', '']",1(0-0) *B,,ATL,C. Jones,R. Clemens,-2%,77%,Wild Pitch; Furcal to 3B; Giles to 2B
-b4,1-4,2,"['', 'Giles', 'Furcal']",2(1-0) *B.X,O,ATL,C. Jones,R. Clemens,6%,83%,Groundout: SS-1B
+b4,1-4,0,"______, ______, ______",5(2-2) SSBBS,O,ATL,J. Wright,R. Clemens,3%,81%,Strikeout Swinging
+b4,1-4,1,"______, ______, ______",5(3-1) BCBBB,,ATL,R. Furcal,R. Clemens,-3%,78%,Walk
+b4,1-4,1,"R. Furcal, ______, ______",1(0-0) X,,ATL,M. Giles,R. Clemens,-4%,74%,Single to CF (Line Drive); R. Furcal to 2B
+b4,1-4,1,"M. Giles, R. Furcal, ______",1(0-0) X,O,ATL,J. Drew,R. Clemens,5%,79%,Popfly: P
+b4,1-4,2,"M. Giles, R. Furcal, ______",1(0-0) *B,,ATL,C. Jones,R. Clemens,-2%,77%,Wild Pitch; R. Furcal to 3B; M. Giles to 2B
+b4,1-4,2,"______, M. Giles, R. Furcal",2(1-0) *B.X,O,ATL,C. Jones,R. Clemens,6%,83%,Groundout: SS-1B
 ,,,,,,,,,0 runs 1 hit 0 errors 2 LOB. Astros 4 Braves 1.,0 runs 1 hit 0 errors 2 LOB. Astros 4 Braves 1.,0 runs 1 hit 0 errors 2 LOB. Astros 4 Braves 1.
 Top of the 5th Astros Batting Ahead 4-1 Braves' Jaret Wright facing 9-1-2,Top of the 5th Astros Batting Ahead 4-1 Braves' Jaret Wright facing 9-1-2,Top of the 5th Astros Batting Ahead 4-1 Braves' Jaret Wright facing 9-1-2,,Top of the 5th Astros Batting Ahead 4-1 Braves' Jaret Wright facing 9-1-2,Top of the 5th Astros Batting Ahead 4-1 Braves' Jaret Wright facing 9-1-2,Top of the 5th Astros Batting Ahead 4-1 Braves' Jaret Wright facing 9-1-2,Top of the 5th Astros Batting Ahead 4-1 Braves' Jaret Wright facing 9-1-2,Top of the 5th Astros Batting Ahead 4-1 Braves' Jaret Wright facing 9-1-2,Top of the 5th Astros Batting Ahead 4-1 Braves' Jaret Wright facing 9-1-2,Top of the 5th Astros Batting Ahead 4-1 Braves' Jaret Wright facing 9-1-2,Top of the 5th Astros Batting Ahead 4-1 Braves' Jaret Wright facing 9-1-2
-t5,4-1,0,"['', '', '']",5(2-2) CSBBS,O,HOU,R. Clemens,J. Wright,-1%,82%,Strikeout Swinging
-t5,4-1,1,"['', '', '']",7(3-2) CBF*BBFX,,HOU,C. Biggio,J. Wright,1%,83%,Single to 2B (Ground Ball)
-t5,4-1,1,"['Biggio', '', '']",5(2-2) *B11CFB>B,,HOU,C. Beltran,J. Wright,1%,84%,Biggio Steals 2B
-t5,4-1,1,"['', 'Biggio', '']",7(3-2) *B11CFB>B.FX,RR,HOU,C. Beltran,J. Wright,8%,93%,Home Run (Fly Ball); Biggio Scores
+t5,4-1,0,"______, ______, ______",5(2-2) CSBBS,O,HOU,R. Clemens,J. Wright,-1%,82%,Strikeout Swinging
+t5,4-1,1,"______, ______, ______",7(3-2) CBF*BBFX,,HOU,C. Biggio,J. Wright,1%,83%,Single to 2B (Ground Ball)
+t5,4-1,1,"C. Biggio, ______, ______",5(2-2) *B11CFB>B,,HOU,C. Beltran,J. Wright,1%,84%,C. Biggio Steals 2B
+t5,4-1,1,"______, C. Biggio, ______",7(3-2) *B11CFB>B.FX,RR,HOU,C. Beltran,J. Wright,8%,93%,Home Run (Fly Ball); C. Biggio Scores
 ,,,,,,,,,Kevin Gryboski replaces Jaret Wright pitching and batting 9th,Kevin Gryboski replaces Jaret Wright pitching and batting 9th,Kevin Gryboski replaces Jaret Wright pitching and batting 9th
-t5,6-1,1,"['', '', '']",4(3-0) .BBBX,,HOU,J. Bagwell,K. Gryboski,1%,94%,Single to LF (Line Drive)
-t5,6-1,1,"['Bagwell', '', '']",5(2-2) 1BCBSC,O,HOU,L. Berkman,K. Gryboski,-1%,93%,Strikeout Looking
-t5,6-1,2,"['Bagwell', '', '']",2(1-0) B1X,R,HOU,J. Kent,K. Gryboski,3%,96%,Double to LF (Line Drive); Bagwell Scores; Kent to 3B/Adv on throw
-t5,7-1,2,"['', '', 'Kent']",5(2-2) BCBFX,O,HOU,M. Ensberg,K. Gryboski,-1%,95%,Groundout: 3B-1B
+t5,6-1,1,"______, ______, ______",4(3-0) .BBBX,,HOU,J. Bagwell,K. Gryboski,1%,94%,Single to LF (Line Drive)
+t5,6-1,1,"J. Bagwell, ______, ______",5(2-2) 1BCBSC,O,HOU,L. Berkman,K. Gryboski,-1%,93%,Strikeout Looking
+t5,6-1,2,"J. Bagwell, ______, ______",2(1-0) B1X,R,HOU,J. Kent,K. Gryboski,3%,96%,Double to LF (Line Drive); J. Bagwell Scores; J. Kent to 3B/Adv on throw
+t5,7-1,2,"______, ______, J. Kent",5(2-2) BCBFX,O,HOU,M. Ensberg,K. Gryboski,-1%,95%,Groundout: 3B-1B
 ,,,,,,,,,3 runs 4 hits 0 errors 1 LOB. Astros 7 Braves 1.,3 runs 4 hits 0 errors 1 LOB. Astros 7 Braves 1.,3 runs 4 hits 0 errors 1 LOB. Astros 7 Braves 1.
 Bottom of the 5th Braves Batting Behind 1-7 Astros' Roger Clemens facing 5-6-7,Bottom of the 5th Braves Batting Behind 1-7 Astros' Roger Clemens facing 5-6-7,Bottom of the 5th Braves Batting Behind 1-7 Astros' Roger Clemens facing 5-6-7,,Bottom of the 5th Braves Batting Behind 1-7 Astros' Roger Clemens facing 5-6-7,Bottom of the 5th Braves Batting Behind 1-7 Astros' Roger Clemens facing 5-6-7,Bottom of the 5th Braves Batting Behind 1-7 Astros' Roger Clemens facing 5-6-7,Bottom of the 5th Braves Batting Behind 1-7 Astros' Roger Clemens facing 5-6-7,Bottom of the 5th Braves Batting Behind 1-7 Astros' Roger Clemens facing 5-6-7,Bottom of the 5th Braves Batting Behind 1-7 Astros' Roger Clemens facing 5-6-7,Bottom of the 5th Braves Batting Behind 1-7 Astros' Roger Clemens facing 5-6-7,Bottom of the 5th Braves Batting Behind 1-7 Astros' Roger Clemens facing 5-6-7
-b5,1-7,0,"['', '', '']",3(1-1) BCX,O,ATL,J. Estrada,R. Clemens,1%,96%,Flyball: CF
-b5,1-7,1,"['', '', '']",3(0-2) CSC,O,ATL,A. LaRoche,R. Clemens,1%,97%,Strikeout Looking
-b5,1-7,2,"['', '', '']",1(0-0) X,R,ATL,A. Jones,R. Clemens,-2%,95%,Home Run (Fly Ball)
-b5,2-7,2,"['', '', '']",2(1-0) BX,,ATL,C. Thomas,R. Clemens,-1%,94%,Single to CF (Ground Ball)
+b5,1-7,0,"______, ______, ______",3(1-1) BCX,O,ATL,J. Estrada,R. Clemens,1%,96%,Flyball: CF
+b5,1-7,1,"______, ______, ______",3(0-2) CSC,O,ATL,A. LaRoche,R. Clemens,1%,97%,Strikeout Looking
+b5,1-7,2,"______, ______, ______",1(0-0) X,R,ATL,A. Jones,R. Clemens,-2%,95%,Home Run (Fly Ball)
+b5,2-7,2,"______, ______, ______",2(1-0) BX,,ATL,C. Thomas,R. Clemens,-1%,94%,Single to CF (Ground Ball)
 ,,,,,,,,,Dewayne Wise pinch hits for Kevin Gryboski (P) batting 9th,Dewayne Wise pinch hits for Kevin Gryboski (P) batting 9th,Dewayne Wise pinch hits for Kevin Gryboski (P) batting 9th
-b5,2-7,2,"['Thomas', '', '']",9(3-2) .*BFBCFFB>F>X,O,ATL,D. Wise,R. Clemens,1%,95%,Flyball: LF
+b5,2-7,2,"C. Thomas, ______, ______",9(3-2) .*BFBCFFB>F>X,O,ATL,D. Wise,R. Clemens,1%,95%,Flyball: LF
 ,,,,,,,,,1 run 2 hits 0 errors 1 LOB. Astros 7 Braves 2.,1 run 2 hits 0 errors 1 LOB. Astros 7 Braves 2.,1 run 2 hits 0 errors 1 LOB. Astros 7 Braves 2.
 Top of the 6th Astros Batting Ahead 7-2 Braves' Juan Cruz facing 7-8-9,Top of the 6th Astros Batting Ahead 7-2 Braves' Juan Cruz facing 7-8-9,Top of the 6th Astros Batting Ahead 7-2 Braves' Juan Cruz facing 7-8-9,,Top of the 6th Astros Batting Ahead 7-2 Braves' Juan Cruz facing 7-8-9,Top of the 6th Astros Batting Ahead 7-2 Braves' Juan Cruz facing 7-8-9,Top of the 6th Astros Batting Ahead 7-2 Braves' Juan Cruz facing 7-8-9,Top of the 6th Astros Batting Ahead 7-2 Braves' Juan Cruz facing 7-8-9,Top of the 6th Astros Batting Ahead 7-2 Braves' Juan Cruz facing 7-8-9,Top of the 6th Astros Batting Ahead 7-2 Braves' Juan Cruz facing 7-8-9,Top of the 6th Astros Batting Ahead 7-2 Braves' Juan Cruz facing 7-8-9,Top of the 6th Astros Batting Ahead 7-2 Braves' Juan Cruz facing 7-8-9
 ,,,,,,,,,Juan Cruz replaces Dewayne Wise (PH) pitching and batting 9th,Juan Cruz replaces Dewayne Wise (PH) pitching and batting 9th,Juan Cruz replaces Dewayne Wise (PH) pitching and batting 9th
-t6,7-2,0,"['', '', '']",2(0-1) .SX,O,HOU,J. Vizcaino,J. Cruz,-0%,95%,Groundout: 2B-1B
-t6,7-2,1,"['', '', '']",5(2-2) CBBSS,O,HOU,B. Ausmus,J. Cruz,-0%,94%,Strikeout Swinging
-t6,7-2,2,"['', '', '']",6(3-2) CBBBCB,,HOU,R. Clemens,J. Cruz,0%,95%,Walk
-t6,7-2,2,"['Clemens', '', '']",5(2-2) FBSBC,O,HOU,C. Biggio,J. Cruz,-0%,94%,Strikeout Looking
+t6,7-2,0,"______, ______, ______",2(0-1) .SX,O,HOU,J. Vizcaino,J. Cruz,-0%,95%,Groundout: 2B-1B
+t6,7-2,1,"______, ______, ______",5(2-2) CBBSS,O,HOU,B. Ausmus,J. Cruz,-0%,94%,Strikeout Swinging
+t6,7-2,2,"______, ______, ______",6(3-2) CBBBCB,,HOU,R. Clemens,J. Cruz,0%,95%,Walk
+t6,7-2,2,"R. Clemens, ______, ______",5(2-2) FBSBC,O,HOU,C. Biggio,J. Cruz,-0%,94%,Strikeout Looking
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Astros 7 Braves 2.,0 runs 0 hits 0 errors 1 LOB. Astros 7 Braves 2.,0 runs 0 hits 0 errors 1 LOB. Astros 7 Braves 2.
 Bottom of the 6th Braves Batting Behind 2-7 Astros' Roger Clemens facing 1-2-3,Bottom of the 6th Braves Batting Behind 2-7 Astros' Roger Clemens facing 1-2-3,Bottom of the 6th Braves Batting Behind 2-7 Astros' Roger Clemens facing 1-2-3,,Bottom of the 6th Braves Batting Behind 2-7 Astros' Roger Clemens facing 1-2-3,Bottom of the 6th Braves Batting Behind 2-7 Astros' Roger Clemens facing 1-2-3,Bottom of the 6th Braves Batting Behind 2-7 Astros' Roger Clemens facing 1-2-3,Bottom of the 6th Braves Batting Behind 2-7 Astros' Roger Clemens facing 1-2-3,Bottom of the 6th Braves Batting Behind 2-7 Astros' Roger Clemens facing 1-2-3,Bottom of the 6th Braves Batting Behind 2-7 Astros' Roger Clemens facing 1-2-3,Bottom of the 6th Braves Batting Behind 2-7 Astros' Roger Clemens facing 1-2-3,Bottom of the 6th Braves Batting Behind 2-7 Astros' Roger Clemens facing 1-2-3
-b6,2-7,0,"['', '', '']",4(2-1) BBCX,,ATL,R. Furcal,R. Clemens,-4%,90%,Triple to CF (Line Drive)
-b6,2-7,0,"['', '', 'Furcal']",2(0-1) FX,RO,ATL,M. Giles,R. Clemens,2%,92%,Groundout: SS-1B; Furcal Scores
-b6,3-7,1,"['', '', '']",2(0-1) SX,O,ATL,J. Drew,R. Clemens,1%,93%,Groundout: 3B-1B
-b6,3-7,2,"['', '', '']",3(0-2) CCS,O,ATL,C. Jones,R. Clemens,1%,94%,Strikeout Swinging
+b6,2-7,0,"______, ______, ______",4(2-1) BBCX,,ATL,R. Furcal,R. Clemens,-4%,90%,Triple to CF (Line Drive)
+b6,2-7,0,"______, ______, R. Furcal",2(0-1) FX,RO,ATL,M. Giles,R. Clemens,2%,92%,Groundout: SS-1B; R. Furcal Scores
+b6,3-7,1,"______, ______, ______",2(0-1) SX,O,ATL,J. Drew,R. Clemens,1%,93%,Groundout: 3B-1B
+b6,3-7,2,"______, ______, ______",3(0-2) CCS,O,ATL,C. Jones,R. Clemens,1%,94%,Strikeout Swinging
 ,,,,,,,,,1 run 1 hit 0 errors 0 LOB. Astros 7 Braves 3.,1 run 1 hit 0 errors 0 LOB. Astros 7 Braves 3.,1 run 1 hit 0 errors 0 LOB. Astros 7 Braves 3.
 Top of the 7th Astros Batting Ahead 7-3 Braves' Juan Cruz facing 2-3-4,Top of the 7th Astros Batting Ahead 7-3 Braves' Juan Cruz facing 2-3-4,Top of the 7th Astros Batting Ahead 7-3 Braves' Juan Cruz facing 2-3-4,,Top of the 7th Astros Batting Ahead 7-3 Braves' Juan Cruz facing 2-3-4,Top of the 7th Astros Batting Ahead 7-3 Braves' Juan Cruz facing 2-3-4,Top of the 7th Astros Batting Ahead 7-3 Braves' Juan Cruz facing 2-3-4,Top of the 7th Astros Batting Ahead 7-3 Braves' Juan Cruz facing 2-3-4,Top of the 7th Astros Batting Ahead 7-3 Braves' Juan Cruz facing 2-3-4,Top of the 7th Astros Batting Ahead 7-3 Braves' Juan Cruz facing 2-3-4,Top of the 7th Astros Batting Ahead 7-3 Braves' Juan Cruz facing 2-3-4,Top of the 7th Astros Batting Ahead 7-3 Braves' Juan Cruz facing 2-3-4
-t7,7-3,0,"['', '', '']",2(0-1) CH,,HOU,C. Beltran,J. Cruz,1%,95%,Hit By Pitch
-t7,7-3,0,"['Beltran', '', '']",3(0-2) 1FCS,O,HOU,J. Bagwell,J. Cruz,-1%,94%,Strikeout Swinging
-t7,7-3,1,"['Beltran', '', '']",2(0-1) C1X,,HOU,L. Berkman,J. Cruz,2%,96%,Single to CF (Line Drive); Beltran to 3B
-t7,7-3,1,"['Berkman', '', 'Beltran']",2(0-1) CX,O,HOU,J. Kent,J. Cruz,-2%,94%,Flyball: RF
-t7,7-3,2,"['Berkman', '', 'Beltran']",2(0-1) CX,R,HOU,M. Ensberg,J. Cruz,3%,97%,Single to P (Ground Ball); Beltran Scores; Berkman to 2B
-t7,8-3,2,"['Ensberg', 'Berkman', '']",5(2-2) BFBFS,O,HOU,J. Vizcaino,J. Cruz,-1%,96%,Strikeout Swinging
+t7,7-3,0,"______, ______, ______",2(0-1) CH,,HOU,C. Beltran,J. Cruz,1%,95%,Hit By Pitch
+t7,7-3,0,"C. Beltran, ______, ______",3(0-2) 1FCS,O,HOU,J. Bagwell,J. Cruz,-1%,94%,Strikeout Swinging
+t7,7-3,1,"C. Beltran, ______, ______",2(0-1) C1X,,HOU,L. Berkman,J. Cruz,2%,96%,Single to CF (Line Drive); C. Beltran to 3B
+t7,7-3,1,"L. Berkman, ______, C. Beltran",2(0-1) CX,O,HOU,J. Kent,J. Cruz,-2%,94%,Flyball: RF
+t7,7-3,2,"L. Berkman, ______, C. Beltran",2(0-1) CX,R,HOU,M. Ensberg,J. Cruz,3%,97%,Single to P (Ground Ball); C. Beltran Scores; L. Berkman to 2B
+t7,8-3,2,"M. Ensberg, L. Berkman, ______",5(2-2) BFBFS,O,HOU,J. Vizcaino,J. Cruz,-1%,96%,Strikeout Swinging
 ,,,,,,,,,1 run 2 hits 0 errors 2 LOB. Astros 8 Braves 3.,1 run 2 hits 0 errors 2 LOB. Astros 8 Braves 3.,1 run 2 hits 0 errors 2 LOB. Astros 8 Braves 3.
 Bottom of the 7th Braves Batting Behind 3-8 Astros' Roger Clemens facing 5-6-7,Bottom of the 7th Braves Batting Behind 3-8 Astros' Roger Clemens facing 5-6-7,Bottom of the 7th Braves Batting Behind 3-8 Astros' Roger Clemens facing 5-6-7,,Bottom of the 7th Braves Batting Behind 3-8 Astros' Roger Clemens facing 5-6-7,Bottom of the 7th Braves Batting Behind 3-8 Astros' Roger Clemens facing 5-6-7,Bottom of the 7th Braves Batting Behind 3-8 Astros' Roger Clemens facing 5-6-7,Bottom of the 7th Braves Batting Behind 3-8 Astros' Roger Clemens facing 5-6-7,Bottom of the 7th Braves Batting Behind 3-8 Astros' Roger Clemens facing 5-6-7,Bottom of the 7th Braves Batting Behind 3-8 Astros' Roger Clemens facing 5-6-7,Bottom of the 7th Braves Batting Behind 3-8 Astros' Roger Clemens facing 5-6-7,Bottom of the 7th Braves Batting Behind 3-8 Astros' Roger Clemens facing 5-6-7
 ,,,,,,,,,Lance Berkman moves from RF to CFJason Lane replaces Carlos Beltran (CF) playing RF batting 2nd,Lance Berkman moves from RF to CFJason Lane replaces Carlos Beltran (CF) playing RF batting 2nd,Lance Berkman moves from RF to CFJason Lane replaces Carlos Beltran (CF) playing RF batting 2nd
-b7,3-8,0,"['', '', '']",2(0-1) ..CX,O,ATL,J. Estrada,R. Clemens,1%,97%,Groundout: 3B-1B
-b7,3-8,1,"['', '', '']",2(1-0) BX,O,ATL,A. LaRoche,R. Clemens,1%,98%,Groundout: 2B-1B
-b7,3-8,2,"['', '', '']",6(3-2) BSS*B*BS,O,ATL,A. Jones,R. Clemens,0%,98%,Strikeout Swinging
+b7,3-8,0,"______, ______, ______",2(0-1) ..CX,O,ATL,J. Estrada,R. Clemens,1%,97%,Groundout: 3B-1B
+b7,3-8,1,"______, ______, ______",2(1-0) BX,O,ATL,A. LaRoche,R. Clemens,1%,98%,Groundout: 2B-1B
+b7,3-8,2,"______, ______, ______",6(3-2) BSS*B*BS,O,ATL,A. Jones,R. Clemens,0%,98%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Astros 8 Braves 3.,0 runs 0 hits 0 errors 0 LOB. Astros 8 Braves 3.,0 runs 0 hits 0 errors 0 LOB. Astros 8 Braves 3.
 Top of the 8th Astros Batting Ahead 8-3 Braves' Antonio Alfonseca facing 8-9-1,Top of the 8th Astros Batting Ahead 8-3 Braves' Antonio Alfonseca facing 8-9-1,Top of the 8th Astros Batting Ahead 8-3 Braves' Antonio Alfonseca facing 8-9-1,,Top of the 8th Astros Batting Ahead 8-3 Braves' Antonio Alfonseca facing 8-9-1,Top of the 8th Astros Batting Ahead 8-3 Braves' Antonio Alfonseca facing 8-9-1,Top of the 8th Astros Batting Ahead 8-3 Braves' Antonio Alfonseca facing 8-9-1,Top of the 8th Astros Batting Ahead 8-3 Braves' Antonio Alfonseca facing 8-9-1,Top of the 8th Astros Batting Ahead 8-3 Braves' Antonio Alfonseca facing 8-9-1,Top of the 8th Astros Batting Ahead 8-3 Braves' Antonio Alfonseca facing 8-9-1,Top of the 8th Astros Batting Ahead 8-3 Braves' Antonio Alfonseca facing 8-9-1,Top of the 8th Astros Batting Ahead 8-3 Braves' Antonio Alfonseca facing 8-9-1
 ,,,,,,,,,Antonio Alfonseca replaces Juan Cruz pitching and batting 9th,Antonio Alfonseca replaces Juan Cruz pitching and batting 9th,Antonio Alfonseca replaces Juan Cruz pitching and batting 9th
-t8,8-3,0,"['', '', '']",1(0-0) .X,O,HOU,B. Ausmus,A. Alfonseca,-0%,98%,Groundout: SS-1B
+t8,8-3,0,"______, ______, ______",1(0-0) .X,O,HOU,B. Ausmus,A. Alfonseca,-0%,98%,Groundout: SS-1B
 ,,,,,,,,,Orlando Palmeiro pinch hits for Roger Clemens (P) batting 9th,Orlando Palmeiro pinch hits for Roger Clemens (P) batting 9th,Orlando Palmeiro pinch hits for Roger Clemens (P) batting 9th
-t8,8-3,1,"['', '', '']",5(2-2) .BCFBX,O,HOU,O. Palmeiro,A. Alfonseca,-0%,98%,Groundout: 2B-1B
-t8,8-3,2,"['', '', '']",3(1-1) FBX,O,HOU,C. Biggio,A. Alfonseca,-0%,98%,Groundout: 2B-1B
+t8,8-3,1,"______, ______, ______",5(2-2) .BCFBX,O,HOU,O. Palmeiro,A. Alfonseca,-0%,98%,Groundout: 2B-1B
+t8,8-3,2,"______, ______, ______",3(1-1) FBX,O,HOU,C. Biggio,A. Alfonseca,-0%,98%,Groundout: 2B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Astros 8 Braves 3.,0 runs 0 hits 0 errors 0 LOB. Astros 8 Braves 3.,0 runs 0 hits 0 errors 0 LOB. Astros 8 Braves 3.
 Bottom of the 8th Braves Batting Behind 3-8 Astros' Chad Qualls facing 8-9-1,Bottom of the 8th Braves Batting Behind 3-8 Astros' Chad Qualls facing 8-9-1,Bottom of the 8th Braves Batting Behind 3-8 Astros' Chad Qualls facing 8-9-1,,Bottom of the 8th Braves Batting Behind 3-8 Astros' Chad Qualls facing 8-9-1,Bottom of the 8th Braves Batting Behind 3-8 Astros' Chad Qualls facing 8-9-1,Bottom of the 8th Braves Batting Behind 3-8 Astros' Chad Qualls facing 8-9-1,Bottom of the 8th Braves Batting Behind 3-8 Astros' Chad Qualls facing 8-9-1,Bottom of the 8th Braves Batting Behind 3-8 Astros' Chad Qualls facing 8-9-1,Bottom of the 8th Braves Batting Behind 3-8 Astros' Chad Qualls facing 8-9-1,Bottom of the 8th Braves Batting Behind 3-8 Astros' Chad Qualls facing 8-9-1,Bottom of the 8th Braves Batting Behind 3-8 Astros' Chad Qualls facing 8-9-1
 ,,,,,,,,,Chad Qualls replaces Craig Biggio (LF) pitching and batting 1stOrlando Palmeiro moves from PH to LF,Chad Qualls replaces Craig Biggio (LF) pitching and batting 1stOrlando Palmeiro moves from PH to LF,Chad Qualls replaces Craig Biggio (LF) pitching and batting 1stOrlando Palmeiro moves from PH to LF
-b8,3-8,0,"['', '', '']",3(0-2) ..CFX,O,ATL,C. Thomas,C. Qualls,1%,99%,Groundout: 2B-1B
+b8,3-8,0,"______, ______, ______",3(0-2) ..CFX,O,ATL,C. Thomas,C. Qualls,1%,99%,Groundout: 2B-1B
 ,,,,,,,,,Julio Franco pinch hits for Antonio Alfonseca (P) batting 9th,Julio Franco pinch hits for Antonio Alfonseca (P) batting 9th,Julio Franco pinch hits for Antonio Alfonseca (P) batting 9th
-b8,3-8,1,"['', '', '']",2(0-1) .CX,O,ATL,J. Franco,C. Qualls,0%,99%,Groundout: 2B-1B
-b8,3-8,2,"['', '', '']",5(3-1) BBCBB,,ATL,R. Furcal,C. Qualls,-0%,99%,Walk
-b8,3-8,2,"['Furcal', '', '']",4(2-1) BBCX,O,ATL,M. Giles,C. Qualls,1%,99%,Groundout: P-1B
+b8,3-8,1,"______, ______, ______",2(0-1) .CX,O,ATL,J. Franco,C. Qualls,0%,99%,Groundout: 2B-1B
+b8,3-8,2,"______, ______, ______",5(3-1) BBCBB,,ATL,R. Furcal,C. Qualls,-0%,99%,Walk
+b8,3-8,2,"R. Furcal, ______, ______",4(2-1) BBCX,O,ATL,M. Giles,C. Qualls,1%,99%,Groundout: P-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Astros 8 Braves 3.,0 runs 0 hits 0 errors 1 LOB. Astros 8 Braves 3.,0 runs 0 hits 0 errors 1 LOB. Astros 8 Braves 3.
 Top of the 9th Astros Batting Ahead 8-3 Braves' Chris Reitsma facing 2-3-4,Top of the 9th Astros Batting Ahead 8-3 Braves' Chris Reitsma facing 2-3-4,Top of the 9th Astros Batting Ahead 8-3 Braves' Chris Reitsma facing 2-3-4,,Top of the 9th Astros Batting Ahead 8-3 Braves' Chris Reitsma facing 2-3-4,Top of the 9th Astros Batting Ahead 8-3 Braves' Chris Reitsma facing 2-3-4,Top of the 9th Astros Batting Ahead 8-3 Braves' Chris Reitsma facing 2-3-4,Top of the 9th Astros Batting Ahead 8-3 Braves' Chris Reitsma facing 2-3-4,Top of the 9th Astros Batting Ahead 8-3 Braves' Chris Reitsma facing 2-3-4,Top of the 9th Astros Batting Ahead 8-3 Braves' Chris Reitsma facing 2-3-4,Top of the 9th Astros Batting Ahead 8-3 Braves' Chris Reitsma facing 2-3-4,Top of the 9th Astros Batting Ahead 8-3 Braves' Chris Reitsma facing 2-3-4
 ,,,,,,,,,Chris Reitsma replaces Julio Franco (PH) pitching and batting 9th,Chris Reitsma replaces Julio Franco (PH) pitching and batting 9th,Chris Reitsma replaces Julio Franco (PH) pitching and batting 9th
-t9,8-3,0,"['', '', '']",1(0-0) .X,R,HOU,J. Lane,C. Reitsma,0%,100%,Home Run (Fly Ball to LF-CF)
-t9,9-3,0,"['', '', '']",1(0-0) X,O,HOU,J. Bagwell,C. Reitsma,-0%,100%,Flyball: CF
-t9,9-3,1,"['', '', '']",4(1-2) BSSS,O,HOU,L. Berkman,C. Reitsma,-0%,100%,Strikeout Swinging
-t9,9-3,2,"['', '', '']",4(2-1) FBBX,O,HOU,J. Kent,C. Reitsma,-0%,100%,Flyball: RF
+t9,8-3,0,"______, ______, ______",1(0-0) .X,R,HOU,J. Lane,C. Reitsma,0%,100%,Home Run (Fly Ball to LF-CF)
+t9,9-3,0,"______, ______, ______",1(0-0) X,O,HOU,J. Bagwell,C. Reitsma,-0%,100%,Flyball: CF
+t9,9-3,1,"______, ______, ______",4(1-2) BSSS,O,HOU,L. Berkman,C. Reitsma,-0%,100%,Strikeout Swinging
+t9,9-3,2,"______, ______, ______",4(2-1) FBBX,O,HOU,J. Kent,C. Reitsma,-0%,100%,Flyball: RF
 ,,,,,,,,,1 run 1 hit 0 errors 0 LOB. Astros 9 Braves 3.,1 run 1 hit 0 errors 0 LOB. Astros 9 Braves 3.,1 run 1 hit 0 errors 0 LOB. Astros 9 Braves 3.
 Bottom of the 9th Braves Batting Behind 3-9 Astros' Mike Gallo facing 3-4-5,Bottom of the 9th Braves Batting Behind 3-9 Astros' Mike Gallo facing 3-4-5,Bottom of the 9th Braves Batting Behind 3-9 Astros' Mike Gallo facing 3-4-5,,Bottom of the 9th Braves Batting Behind 3-9 Astros' Mike Gallo facing 3-4-5,Bottom of the 9th Braves Batting Behind 3-9 Astros' Mike Gallo facing 3-4-5,Bottom of the 9th Braves Batting Behind 3-9 Astros' Mike Gallo facing 3-4-5,Bottom of the 9th Braves Batting Behind 3-9 Astros' Mike Gallo facing 3-4-5,Bottom of the 9th Braves Batting Behind 3-9 Astros' Mike Gallo facing 3-4-5,Bottom of the 9th Braves Batting Behind 3-9 Astros' Mike Gallo facing 3-4-5,Bottom of the 9th Braves Batting Behind 3-9 Astros' Mike Gallo facing 3-4-5,Bottom of the 9th Braves Batting Behind 3-9 Astros' Mike Gallo facing 3-4-5
 ,,,,,,,,,Mike Gallo replaces Chad Qualls pitching and batting 1stAdam Everett replaces Jose Vizcaino playing SS batting 7th,Mike Gallo replaces Chad Qualls pitching and batting 1stAdam Everett replaces Jose Vizcaino playing SS batting 7th,Mike Gallo replaces Chad Qualls pitching and batting 1stAdam Everett replaces Jose Vizcaino playing SS batting 7th
-b9,3-9,0,"['', '', '']",5(2-2) ..BCBSS,O,ATL,J. Drew,M. Gallo,0%,100%,Strikeout Swinging
-b9,3-9,1,"['', '', '']",3(2-0) BBX,O,ATL,C. Jones,M. Gallo,0%,100%,Foul Flyball: RF (RF Foul)
-b9,3-9,2,"['', '', '']",3(2-0) BBX,,ATL,J. Estrada,M. Gallo,-0%,100%,Single to LF (Ground Ball)
+b9,3-9,0,"______, ______, ______",5(2-2) ..BCBSS,O,ATL,J. Drew,M. Gallo,0%,100%,Strikeout Swinging
+b9,3-9,1,"______, ______, ______",3(2-0) BBX,O,ATL,C. Jones,M. Gallo,0%,100%,Foul Flyball: RF (RF Foul)
+b9,3-9,2,"______, ______, ______",3(2-0) BBX,,ATL,J. Estrada,M. Gallo,-0%,100%,Single to LF (Ground Ball)
 ,,,,,,,,,Eli Marrero pinch hits for Adam LaRoche (1B) batting 6th,Eli Marrero pinch hits for Adam LaRoche (1B) batting 6th,Eli Marrero pinch hits for Adam LaRoche (1B) batting 6th
-b9,3-9,2,"['Estrada', '', '']",5(2-2) .CBFBC,O,ATL,E. Marrero,M. Gallo,0%,100%,Strikeout Looking
+b9,3-9,2,"J. Estrada, ______, ______",5(2-2) .CBFBC,O,ATL,E. Marrero,M. Gallo,0%,100%,Strikeout Looking
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Astros 9 Braves 3.,0 runs 1 hit 0 errors 1 LOB. Astros 9 Braves 3.,0 runs 1 hit 0 errors 1 LOB. Astros 9 Braves 3.

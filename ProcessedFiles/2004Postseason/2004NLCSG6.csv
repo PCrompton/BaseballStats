@@ -1,169 +1,169 @@
 Inn,Score,Out,RoB,Pit(cnt)Sequence,R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
 Top of the 1st Astros Batting Tied 0-0 Cardinals' Matt Morris facing 1-2-3,Top of the 1st Astros Batting Tied 0-0 Cardinals' Matt Morris facing 1-2-3,Top of the 1st Astros Batting Tied 0-0 Cardinals' Matt Morris facing 1-2-3,,Top of the 1st Astros Batting Tied 0-0 Cardinals' Matt Morris facing 1-2-3,Top of the 1st Astros Batting Tied 0-0 Cardinals' Matt Morris facing 1-2-3,Top of the 1st Astros Batting Tied 0-0 Cardinals' Matt Morris facing 1-2-3,Top of the 1st Astros Batting Tied 0-0 Cardinals' Matt Morris facing 1-2-3,Top of the 1st Astros Batting Tied 0-0 Cardinals' Matt Morris facing 1-2-3,Top of the 1st Astros Batting Tied 0-0 Cardinals' Matt Morris facing 1-2-3,Top of the 1st Astros Batting Tied 0-0 Cardinals' Matt Morris facing 1-2-3,Top of the 1st Astros Batting Tied 0-0 Cardinals' Matt Morris facing 1-2-3
-t1,0-0,0,"['', '', '']",3(1-1) CBX,O,HOU,C. Biggio,M. Morris,2%,52%,Groundout: 3B-1B
-t1,0-0,1,"['', '', '']",6(3-2) BCBCBB,,HOU,C. Beltran,M. Morris,-2%,50%,Walk
-t1,0-0,1,"['Beltran', '', '']",2(1-0) B>B,,HOU,J. Bagwell,M. Morris,-2%,48%,Beltran Steals 2B
-t1,0-0,1,"['', 'Beltran', '']",4(2-1) B>B.CX,,HOU,J. Bagwell,M. Morris,-5%,44%,Single to LF (Line Drive); Beltran to 3B
-t1,0-0,1,"['Bagwell', '', 'Beltran']",2(1-0) BX,RO,HOU,L. Berkman,M. Morris,-1%,43%,Flyball: LF/Sacrifice Fly; Beltran Scores
-t1,1-0,2,"['Bagwell', '', '']",6(2-2) CFBBFX,O,HOU,J. Kent,M. Morris,2%,45%,Groundout: 3B-2B/Forceout at 2B
+t1,0-0,0,"______, ______, ______",3(1-1) CBX,O,HOU,C. Biggio,M. Morris,2%,52%,Groundout: 3B-1B
+t1,0-0,1,"______, ______, ______",6(3-2) BCBCBB,,HOU,C. Beltran,M. Morris,-2%,50%,Walk
+t1,0-0,1,"C. Beltran, ______, ______",2(1-0) B>B,,HOU,J. Bagwell,M. Morris,-2%,48%,C. Beltran Steals 2B
+t1,0-0,1,"______, C. Beltran, ______",4(2-1) B>B.CX,,HOU,J. Bagwell,M. Morris,-5%,44%,Single to LF (Line Drive); C. Beltran to 3B
+t1,0-0,1,"J. Bagwell, ______, C. Beltran",2(1-0) BX,RO,HOU,L. Berkman,M. Morris,-1%,43%,Flyball: LF/Sacrifice Fly; C. Beltran Scores
+t1,1-0,2,"J. Bagwell, ______, ______",6(2-2) CFBBFX,O,HOU,J. Kent,M. Morris,2%,45%,Groundout: 3B-2B/Forceout at 2B
 ,,,,,,,,,1 run 1 hit 0 errors 1 LOB. Astros 1 Cardinals 0.,1 run 1 hit 0 errors 1 LOB. Astros 1 Cardinals 0.,1 run 1 hit 0 errors 1 LOB. Astros 1 Cardinals 0.
 Bottom of the 1st Cardinals Batting Behind 0-1 Astros' Peter Munro facing 1-2-3,Bottom of the 1st Cardinals Batting Behind 0-1 Astros' Peter Munro facing 1-2-3,Bottom of the 1st Cardinals Batting Behind 0-1 Astros' Peter Munro facing 1-2-3,,Bottom of the 1st Cardinals Batting Behind 0-1 Astros' Peter Munro facing 1-2-3,Bottom of the 1st Cardinals Batting Behind 0-1 Astros' Peter Munro facing 1-2-3,Bottom of the 1st Cardinals Batting Behind 0-1 Astros' Peter Munro facing 1-2-3,Bottom of the 1st Cardinals Batting Behind 0-1 Astros' Peter Munro facing 1-2-3,Bottom of the 1st Cardinals Batting Behind 0-1 Astros' Peter Munro facing 1-2-3,Bottom of the 1st Cardinals Batting Behind 0-1 Astros' Peter Munro facing 1-2-3,Bottom of the 1st Cardinals Batting Behind 0-1 Astros' Peter Munro facing 1-2-3,Bottom of the 1st Cardinals Batting Behind 0-1 Astros' Peter Munro facing 1-2-3
-b1,0-1,0,"['', '', '']",2(0-1) CX,,STL,T. Womack,P. Munro,4%,49%,Single to RF (Line Drive)
-b1,0-1,0,"['Womack', '', '']",2(0-1) 1C>X,O,STL,L. Walker,P. Munro,-2%,47%,Groundout: 3B-1B; Womack to 2B
-b1,0-1,1,"['', 'Womack', '']",5(1-2) CB>FFX,RR,STL,A. Pujols,P. Munro,16%,63%,Home Run (Fly Ball to LF-CF); Womack Scores
-b1,2-1,1,"['', '', '']",6(2-2) BFSFBT,O,STL,S. Rolen,P. Munro,-1%,61%,Strikeout Swinging
-b1,2-1,2,"['', '', '']",2(1-0) BX,,STL,J. Edmonds,P. Munro,1%,62%,Single to RF (Line Drive)
-b1,2-1,2,"['Edmonds', '', '']",5(3-1) B11BCBX,,STL,E. Renteria,P. Munro,2%,65%,Single to RF (Line Drive); Edmonds to 3B
-b1,2-1,2,"['Renteria', '', 'Edmonds']",1(0-0) X,O,STL,R. Sanders,P. Munro,-4%,60%,Flyball: RF
+b1,0-1,0,"______, ______, ______",2(0-1) CX,,STL,T. Womack,P. Munro,4%,49%,Single to RF (Line Drive)
+b1,0-1,0,"T. Womack, ______, ______",2(0-1) 1C>X,O,STL,L. Walker,P. Munro,-2%,47%,Groundout: 3B-1B; T. Womack to 2B
+b1,0-1,1,"______, T. Womack, ______",5(1-2) CB>FFX,RR,STL,A. Pujols,P. Munro,16%,63%,Home Run (Fly Ball to LF-CF); T. Womack Scores
+b1,2-1,1,"______, ______, ______",6(2-2) BFSFBT,O,STL,S. Rolen,P. Munro,-1%,61%,Strikeout Swinging
+b1,2-1,2,"______, ______, ______",2(1-0) BX,,STL,J. Edmonds,P. Munro,1%,62%,Single to RF (Line Drive)
+b1,2-1,2,"J. Edmonds, ______, ______",5(3-1) B11BCBX,,STL,E. Renteria,P. Munro,2%,65%,Single to RF (Line Drive); J. Edmonds to 3B
+b1,2-1,2,"E. Renteria, ______, J. Edmonds",1(0-0) X,O,STL,R. Sanders,P. Munro,-4%,60%,Flyball: RF
 ,,,,,,,,,2 runs 4 hits 0 errors 2 LOB. Astros 1 Cardinals 2.,2 runs 4 hits 0 errors 2 LOB. Astros 1 Cardinals 2.,2 runs 4 hits 0 errors 2 LOB. Astros 1 Cardinals 2.
 Top of the 2nd Astros Batting Behind 1-2 Cardinals' Matt Morris facing 6-7-8,Top of the 2nd Astros Batting Behind 1-2 Cardinals' Matt Morris facing 6-7-8,Top of the 2nd Astros Batting Behind 1-2 Cardinals' Matt Morris facing 6-7-8,,Top of the 2nd Astros Batting Behind 1-2 Cardinals' Matt Morris facing 6-7-8,Top of the 2nd Astros Batting Behind 1-2 Cardinals' Matt Morris facing 6-7-8,Top of the 2nd Astros Batting Behind 1-2 Cardinals' Matt Morris facing 6-7-8,Top of the 2nd Astros Batting Behind 1-2 Cardinals' Matt Morris facing 6-7-8,Top of the 2nd Astros Batting Behind 1-2 Cardinals' Matt Morris facing 6-7-8,Top of the 2nd Astros Batting Behind 1-2 Cardinals' Matt Morris facing 6-7-8,Top of the 2nd Astros Batting Behind 1-2 Cardinals' Matt Morris facing 6-7-8,Top of the 2nd Astros Batting Behind 1-2 Cardinals' Matt Morris facing 6-7-8
-t2,1-2,0,"['', '', '']",4(3-0) BBBB,,HOU,M. Lamb,M. Morris,-4%,56%,Walk
-t2,1-2,0,"['Lamb', '', '']",1(0-0) 1X,O,HOU,J. Vizcaino,M. Morris,4%,60%,Groundout: 2B-SS/Forceout at 2B
-t2,1-2,1,"['Vizcaino', '', '']",11(3-2) FCBFFFBB>F1>F>C,OO,HOU,B. Ausmus,M. Morris,6%,66%,Double Play: Strikeout Looking Vizcaino Caught Stealing 2B (C-2B)
+t2,1-2,0,"______, ______, ______",4(3-0) BBBB,,HOU,M. Lamb,M. Morris,-4%,56%,Walk
+t2,1-2,0,"M. Lamb, ______, ______",1(0-0) 1X,O,HOU,J. Vizcaino,M. Morris,4%,60%,Groundout: 2B-SS/Forceout at 2B
+t2,1-2,1,"J. Vizcaino, ______, ______",11(3-2) FCBFFFBB>F1>F>C,OO,HOU,B. Ausmus,M. Morris,6%,66%,Double Play: Strikeout Looking J. Vizcaino Caught Stealing 2B (C-2B)
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Astros 1 Cardinals 2.,0 runs 0 hits 0 errors 0 LOB. Astros 1 Cardinals 2.,0 runs 0 hits 0 errors 0 LOB. Astros 1 Cardinals 2.
 Bottom of the 2nd Cardinals Batting Ahead 2-1 Astros' Peter Munro facing 8-9-1,Bottom of the 2nd Cardinals Batting Ahead 2-1 Astros' Peter Munro facing 8-9-1,Bottom of the 2nd Cardinals Batting Ahead 2-1 Astros' Peter Munro facing 8-9-1,,Bottom of the 2nd Cardinals Batting Ahead 2-1 Astros' Peter Munro facing 8-9-1,Bottom of the 2nd Cardinals Batting Ahead 2-1 Astros' Peter Munro facing 8-9-1,Bottom of the 2nd Cardinals Batting Ahead 2-1 Astros' Peter Munro facing 8-9-1,Bottom of the 2nd Cardinals Batting Ahead 2-1 Astros' Peter Munro facing 8-9-1,Bottom of the 2nd Cardinals Batting Ahead 2-1 Astros' Peter Munro facing 8-9-1,Bottom of the 2nd Cardinals Batting Ahead 2-1 Astros' Peter Munro facing 8-9-1,Bottom of the 2nd Cardinals Batting Ahead 2-1 Astros' Peter Munro facing 8-9-1,Bottom of the 2nd Cardinals Batting Ahead 2-1 Astros' Peter Munro facing 8-9-1
-b2,2-1,0,"['', '', '']",5(1-2) FCBFX,O,STL,M. Matheny,P. Munro,-2%,64%,Groundout: P-2B-1B
-b2,2-1,1,"['', '', '']",2(0-1) FX,O,STL,M. Morris,P. Munro,-1%,62%,Groundout: SS-1B
-b2,2-1,2,"['', '', '']",4(1-2) CBFX,,STL,T. Womack,P. Munro,1%,63%,Single to RF (Line Drive)
-b2,2-1,2,"['Womack', '', '']",2(0-1) 1C11X,O,STL,L. Walker,P. Munro,-2%,61%,Groundout: SS-1B
+b2,2-1,0,"______, ______, ______",5(1-2) FCBFX,O,STL,M. Matheny,P. Munro,-2%,64%,Groundout: P-2B-1B
+b2,2-1,1,"______, ______, ______",2(0-1) FX,O,STL,M. Morris,P. Munro,-1%,62%,Groundout: SS-1B
+b2,2-1,2,"______, ______, ______",4(1-2) CBFX,,STL,T. Womack,P. Munro,1%,63%,Single to RF (Line Drive)
+b2,2-1,2,"T. Womack, ______, ______",2(0-1) 1C11X,O,STL,L. Walker,P. Munro,-2%,61%,Groundout: SS-1B
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Astros 1 Cardinals 2.,0 runs 1 hit 0 errors 1 LOB. Astros 1 Cardinals 2.,0 runs 1 hit 0 errors 1 LOB. Astros 1 Cardinals 2.
 Top of the 3rd Astros Batting Behind 1-2 Cardinals' Matt Morris facing 9-1-2,Top of the 3rd Astros Batting Behind 1-2 Cardinals' Matt Morris facing 9-1-2,Top of the 3rd Astros Batting Behind 1-2 Cardinals' Matt Morris facing 9-1-2,,Top of the 3rd Astros Batting Behind 1-2 Cardinals' Matt Morris facing 9-1-2,Top of the 3rd Astros Batting Behind 1-2 Cardinals' Matt Morris facing 9-1-2,Top of the 3rd Astros Batting Behind 1-2 Cardinals' Matt Morris facing 9-1-2,Top of the 3rd Astros Batting Behind 1-2 Cardinals' Matt Morris facing 9-1-2,Top of the 3rd Astros Batting Behind 1-2 Cardinals' Matt Morris facing 9-1-2,Top of the 3rd Astros Batting Behind 1-2 Cardinals' Matt Morris facing 9-1-2,Top of the 3rd Astros Batting Behind 1-2 Cardinals' Matt Morris facing 9-1-2,Top of the 3rd Astros Batting Behind 1-2 Cardinals' Matt Morris facing 9-1-2
-t3,1-2,0,"['', '', '']",3(1-1) CBX,O,HOU,P. Munro,M. Morris,3%,64%,Groundout: 1B unassisted
-t3,1-2,1,"['', '', '']",4(2-1) CBBX,O,HOU,C. Biggio,M. Morris,2%,66%,Lineout: SS
-t3,1-2,2,"['', '', '']",4(1-2) CBFX,,HOU,C. Beltran,M. Morris,-1%,64%,Single to RF (Fly Ball)
-t3,1-2,2,"['Beltran', '', '']",1(0-0) 1X,R,HOU,J. Bagwell,M. Morris,-12%,52%,Double to LF (Ground Ball); Beltran Scores
-t3,2-2,2,"['', 'Bagwell', '']",5(3-1) BBCBB,,HOU,L. Berkman,M. Morris,-1%,51%,Walk
-t3,2-2,2,"['Berkman', 'Bagwell', '']",4(2-1) F*BBX,O,HOU,J. Kent,M. Morris,5%,56%,Lineout: SS
+t3,1-2,0,"______, ______, ______",3(1-1) CBX,O,HOU,P. Munro,M. Morris,3%,64%,Groundout: 1B unassisted
+t3,1-2,1,"______, ______, ______",4(2-1) CBBX,O,HOU,C. Biggio,M. Morris,2%,66%,Lineout: SS
+t3,1-2,2,"______, ______, ______",4(1-2) CBFX,,HOU,C. Beltran,M. Morris,-1%,64%,Single to RF (Fly Ball)
+t3,1-2,2,"C. Beltran, ______, ______",1(0-0) 1X,R,HOU,J. Bagwell,M. Morris,-12%,52%,Double to LF (Ground Ball); C. Beltran Scores
+t3,2-2,2,"______, J. Bagwell, ______",5(3-1) BBCBB,,HOU,L. Berkman,M. Morris,-1%,51%,Walk
+t3,2-2,2,"L. Berkman, J. Bagwell, ______",4(2-1) F*BBX,O,HOU,J. Kent,M. Morris,5%,56%,Lineout: SS
 ,,,,,,,,,1 run 2 hits 0 errors 2 LOB. Astros 2 Cardinals 2.,1 run 2 hits 0 errors 2 LOB. Astros 2 Cardinals 2.,1 run 2 hits 0 errors 2 LOB. Astros 2 Cardinals 2.
 Bottom of the 3rd Cardinals Batting Tied 2-2 Astros' Peter Munro facing 3-4-5,Bottom of the 3rd Cardinals Batting Tied 2-2 Astros' Peter Munro facing 3-4-5,Bottom of the 3rd Cardinals Batting Tied 2-2 Astros' Peter Munro facing 3-4-5,,Bottom of the 3rd Cardinals Batting Tied 2-2 Astros' Peter Munro facing 3-4-5,Bottom of the 3rd Cardinals Batting Tied 2-2 Astros' Peter Munro facing 3-4-5,Bottom of the 3rd Cardinals Batting Tied 2-2 Astros' Peter Munro facing 3-4-5,Bottom of the 3rd Cardinals Batting Tied 2-2 Astros' Peter Munro facing 3-4-5,Bottom of the 3rd Cardinals Batting Tied 2-2 Astros' Peter Munro facing 3-4-5,Bottom of the 3rd Cardinals Batting Tied 2-2 Astros' Peter Munro facing 3-4-5,Bottom of the 3rd Cardinals Batting Tied 2-2 Astros' Peter Munro facing 3-4-5,Bottom of the 3rd Cardinals Batting Tied 2-2 Astros' Peter Munro facing 3-4-5
-b3,2-2,0,"['', '', '']",1(0-0) X,,STL,A. Pujols,P. Munro,7%,62%,Double to CF (Fly Ball)
-b3,2-2,0,"['', 'Pujols', '']",7(2-2) BCCBFFX,,STL,S. Rolen,P. Munro,3%,65%,Single to SS (Ground Ball); Pujols stays at 2B
-b3,2-2,0,"['Rolen', 'Pujols', '']",1(0-0) X,O,STL,J. Edmonds,P. Munro,-0%,65%,Flyball: LF; Pujols to 3B; Rolen to 2B
-b3,2-2,1,"['', 'Rolen', 'Pujols']",1(0-0) X,RR,STL,E. Renteria,P. Munro,11%,77%,Single to CF (Ground Ball); Pujols Scores; Rolen Scores
+b3,2-2,0,"______, ______, ______",1(0-0) X,,STL,A. Pujols,P. Munro,7%,62%,Double to CF (Fly Ball)
+b3,2-2,0,"______, A. Pujols, ______",7(2-2) BCCBFFX,,STL,S. Rolen,P. Munro,3%,65%,Single to SS (Ground Ball); A. Pujols stays at 2B
+b3,2-2,0,"S. Rolen, A. Pujols, ______",1(0-0) X,O,STL,J. Edmonds,P. Munro,-0%,65%,Flyball: LF; A. Pujols to 3B; S. Rolen to 2B
+b3,2-2,1,"______, S. Rolen, A. Pujols",1(0-0) X,RR,STL,E. Renteria,P. Munro,11%,77%,Single to CF (Ground Ball); A. Pujols Scores; S. Rolen Scores
 ,,,,,,,,,Chad Harville replaces Peter Munro pitching and batting 9th,Chad Harville replaces Peter Munro pitching and batting 9th,Chad Harville replaces Peter Munro pitching and batting 9th
-b3,4-2,1,"['Renteria', '', '']",3(1-1) .1BCX,,STL,R. Sanders,C. Harville,6%,82%,Double to RF (Fly Ball); Renteria to 3B
-b3,4-2,1,"['', 'Sanders', 'Renteria']",7(3-2) BFP*BFFS,O,STL,M. Matheny,C. Harville,-5%,77%,Strikeout Swinging
-b3,4-2,2,"['', 'Sanders', 'Renteria']",3(0-2) CFC,O,STL,M. Morris,C. Harville,-4%,73%,Strikeout Looking
+b3,4-2,1,"E. Renteria, ______, ______",3(1-1) .1BCX,,STL,R. Sanders,C. Harville,6%,82%,Double to RF (Fly Ball); E. Renteria to 3B
+b3,4-2,1,"______, R. Sanders, E. Renteria",7(3-2) BFP*BFFS,O,STL,M. Matheny,C. Harville,-5%,77%,Strikeout Swinging
+b3,4-2,2,"______, R. Sanders, E. Renteria",3(0-2) CFC,O,STL,M. Morris,C. Harville,-4%,73%,Strikeout Looking
 ,,,,,,,,,2 runs 4 hits 0 errors 2 LOB. Astros 2 Cardinals 4.,2 runs 4 hits 0 errors 2 LOB. Astros 2 Cardinals 4.,2 runs 4 hits 0 errors 2 LOB. Astros 2 Cardinals 4.
 Top of the 4th Astros Batting Behind 2-4 Cardinals' Matt Morris facing 6-7-8,Top of the 4th Astros Batting Behind 2-4 Cardinals' Matt Morris facing 6-7-8,Top of the 4th Astros Batting Behind 2-4 Cardinals' Matt Morris facing 6-7-8,,Top of the 4th Astros Batting Behind 2-4 Cardinals' Matt Morris facing 6-7-8,Top of the 4th Astros Batting Behind 2-4 Cardinals' Matt Morris facing 6-7-8,Top of the 4th Astros Batting Behind 2-4 Cardinals' Matt Morris facing 6-7-8,Top of the 4th Astros Batting Behind 2-4 Cardinals' Matt Morris facing 6-7-8,Top of the 4th Astros Batting Behind 2-4 Cardinals' Matt Morris facing 6-7-8,Top of the 4th Astros Batting Behind 2-4 Cardinals' Matt Morris facing 6-7-8,Top of the 4th Astros Batting Behind 2-4 Cardinals' Matt Morris facing 6-7-8,Top of the 4th Astros Batting Behind 2-4 Cardinals' Matt Morris facing 6-7-8
 ,,,,,,,,,Hector Luna replaces Tony Womack playing 2B batting 1st,Hector Luna replaces Tony Womack playing 2B batting 1st,Hector Luna replaces Tony Womack playing 2B batting 1st
-t4,2-4,0,"['', '', '']",6(2-2) .BCBSFX,R,HOU,M. Lamb,M. Morris,-11%,62%,Home Run (Fly Ball)
-t4,3-4,0,"['', '', '']",3(0-2) FFX,O,HOU,J. Vizcaino,M. Morris,3%,65%,Popfly: 3B
-t4,3-4,1,"['', '', '']",1(0-0) X,,HOU,B. Ausmus,M. Morris,-3%,62%,Single to CF (Line Drive)
+t4,2-4,0,"______, ______, ______",6(2-2) .BCBSFX,R,HOU,M. Lamb,M. Morris,-11%,62%,Home Run (Fly Ball)
+t4,3-4,0,"______, ______, ______",3(0-2) FFX,O,HOU,J. Vizcaino,M. Morris,3%,65%,Popfly: 3B
+t4,3-4,1,"______, ______, ______",1(0-0) X,,HOU,B. Ausmus,M. Morris,-3%,62%,Single to CF (Line Drive)
 ,,,,,,,,,Adam Everett pinch hits for Chad Harville (P) batting 9th,Adam Everett pinch hits for Chad Harville (P) batting 9th,Adam Everett pinch hits for Chad Harville (P) batting 9th
-t4,3-4,1,"['Ausmus', '', '']",4(2-1) .11CB*B1X,O,HOU,A. Everett,M. Morris,4%,66%,Groundout: SS-2B/Forceout at 2B
-t4,3-4,2,"['Everett', '', '']",1(0-0) X,O,HOU,C. Biggio,M. Morris,3%,69%,Flyball: RF
+t4,3-4,1,"B. Ausmus, ______, ______",4(2-1) .11CB*B1X,O,HOU,A. Everett,M. Morris,4%,66%,Groundout: SS-2B/Forceout at 2B
+t4,3-4,2,"A. Everett, ______, ______",1(0-0) X,O,HOU,C. Biggio,M. Morris,3%,69%,Flyball: RF
 ,,,,,,,,,1 run 2 hits 0 errors 1 LOB. Astros 3 Cardinals 4.,1 run 2 hits 0 errors 1 LOB. Astros 3 Cardinals 4.,1 run 2 hits 0 errors 1 LOB. Astros 3 Cardinals 4.
 Bottom of the 4th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 1-2-3,Bottom of the 4th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 1-2-3,Bottom of the 4th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 1-2-3,,Bottom of the 4th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 1-2-3,Bottom of the 4th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 1-2-3,Bottom of the 4th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 1-2-3,Bottom of the 4th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 1-2-3,Bottom of the 4th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 1-2-3,Bottom of the 4th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 1-2-3,Bottom of the 4th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 1-2-3,Bottom of the 4th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 1-2-3
 ,,,,,,,,,Chad Qualls replaces Adam Everett (PH) pitching and batting 9th,Chad Qualls replaces Adam Everett (PH) pitching and batting 9th,Chad Qualls replaces Adam Everett (PH) pitching and batting 9th
-b4,4-3,0,"['', '', '']",1(0-0) ..X,O,STL,H. Luna,C. Qualls,-2%,66%,Groundout: SS-1B
-b4,4-3,1,"['', '', '']",4(1-2) CFBC,O,STL,L. Walker,C. Qualls,-2%,65%,Strikeout Looking
-b4,4-3,2,"['', '', '']",4(1-2) CFBX,,STL,A. Pujols,C. Qualls,1%,66%,Single to LF (Ground Ball)
-b4,4-3,2,"['Pujols', '', '']",2(1-0) BX,O,STL,S. Rolen,C. Qualls,-2%,64%,Double to SS (Ground Ball); Pujols out at Hm/SS-C
+b4,4-3,0,"______, ______, ______",1(0-0) ..X,O,STL,H. Luna,C. Qualls,-2%,66%,Groundout: SS-1B
+b4,4-3,1,"______, ______, ______",4(1-2) CFBC,O,STL,L. Walker,C. Qualls,-2%,65%,Strikeout Looking
+b4,4-3,2,"______, ______, ______",4(1-2) CFBX,,STL,A. Pujols,C. Qualls,1%,66%,Single to LF (Ground Ball)
+b4,4-3,2,"A. Pujols, ______, ______",2(1-0) BX,O,STL,S. Rolen,C. Qualls,-2%,64%,Double to SS (Ground Ball); A. Pujols out at Hm/SS-C
 ,,,,,,,,,0 runs 2 hits 0 errors 1 LOB. Astros 3 Cardinals 4.,0 runs 2 hits 0 errors 1 LOB. Astros 3 Cardinals 4.,0 runs 2 hits 0 errors 1 LOB. Astros 3 Cardinals 4.
 Top of the 5th Astros Batting Behind 3-4 Cardinals' Matt Morris facing 2-3-4,Top of the 5th Astros Batting Behind 3-4 Cardinals' Matt Morris facing 2-3-4,Top of the 5th Astros Batting Behind 3-4 Cardinals' Matt Morris facing 2-3-4,,Top of the 5th Astros Batting Behind 3-4 Cardinals' Matt Morris facing 2-3-4,Top of the 5th Astros Batting Behind 3-4 Cardinals' Matt Morris facing 2-3-4,Top of the 5th Astros Batting Behind 3-4 Cardinals' Matt Morris facing 2-3-4,Top of the 5th Astros Batting Behind 3-4 Cardinals' Matt Morris facing 2-3-4,Top of the 5th Astros Batting Behind 3-4 Cardinals' Matt Morris facing 2-3-4,Top of the 5th Astros Batting Behind 3-4 Cardinals' Matt Morris facing 2-3-4,Top of the 5th Astros Batting Behind 3-4 Cardinals' Matt Morris facing 2-3-4,Top of the 5th Astros Batting Behind 3-4 Cardinals' Matt Morris facing 2-3-4
-t5,3-4,0,"['', '', '']",3(1-1) BCX,O,HOU,C. Beltran,M. Morris,3%,67%,Groundout: 2B-1B
-t5,3-4,1,"['', '', '']",3(1-1) CBX,O,HOU,J. Bagwell,M. Morris,2%,69%,Groundout: 3B-1B
-t5,3-4,2,"['', '', '']",1(0-0) X,O,HOU,L. Berkman,M. Morris,2%,71%,Groundout: 2B-1B
+t5,3-4,0,"______, ______, ______",3(1-1) BCX,O,HOU,C. Beltran,M. Morris,3%,67%,Groundout: 2B-1B
+t5,3-4,1,"______, ______, ______",3(1-1) CBX,O,HOU,J. Bagwell,M. Morris,2%,69%,Groundout: 3B-1B
+t5,3-4,2,"______, ______, ______",1(0-0) X,O,HOU,L. Berkman,M. Morris,2%,71%,Groundout: 2B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Astros 3 Cardinals 4.,0 runs 0 hits 0 errors 0 LOB. Astros 3 Cardinals 4.,0 runs 0 hits 0 errors 0 LOB. Astros 3 Cardinals 4.
 Bottom of the 5th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 5-6-7,Bottom of the 5th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 5-6-7,Bottom of the 5th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 5-6-7,,Bottom of the 5th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 5-6-7,Bottom of the 5th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 5-6-7,Bottom of the 5th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 5-6-7,Bottom of the 5th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 5-6-7,Bottom of the 5th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 5-6-7,Bottom of the 5th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 5-6-7,Bottom of the 5th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 5-6-7,Bottom of the 5th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 5-6-7
-b5,4-3,0,"['', '', '']",5(2-2) BFCBX,O,STL,J. Edmonds,C. Qualls,-2%,69%,Groundout: 2B-1B
-b5,4-3,1,"['', '', '']",6(2-2) BFCFBT,O,STL,E. Renteria,C. Qualls,-2%,67%,Strikeout Swinging
-b5,4-3,2,"['', '', '']",3(1-1) CBX,,STL,R. Sanders,C. Qualls,2%,69%,Double to CF (Fly Ball)
-b5,4-3,2,"['', 'Sanders', '']",4(3-0) IIII,,STL,M. Matheny,C. Qualls,1%,70%,Intentional Walk
+b5,4-3,0,"______, ______, ______",5(2-2) BFCBX,O,STL,J. Edmonds,C. Qualls,-2%,69%,Groundout: 2B-1B
+b5,4-3,1,"______, ______, ______",6(2-2) BFCFBT,O,STL,E. Renteria,C. Qualls,-2%,67%,Strikeout Swinging
+b5,4-3,2,"______, ______, ______",3(1-1) CBX,,STL,R. Sanders,C. Qualls,2%,69%,Double to CF (Fly Ball)
+b5,4-3,2,"______, R. Sanders, ______",4(3-0) IIII,,STL,M. Matheny,C. Qualls,1%,70%,Intentional Walk
 ,,,,,,,,,John Mabry pinch hits for Matt Morris (P) batting 9th,John Mabry pinch hits for Matt Morris (P) batting 9th,John Mabry pinch hits for Matt Morris (P) batting 9th
-b5,4-3,2,"['Matheny', 'Sanders', '']",4(1-2) .BCFS,O,STL,J. Mabry,C. Qualls,-4%,66%,Strikeout Swinging
+b5,4-3,2,"M. Matheny, R. Sanders, ______",4(1-2) .BCFS,O,STL,J. Mabry,C. Qualls,-4%,66%,Strikeout Swinging
 ,,,,,,,,,0 runs 1 hit 0 errors 2 LOB. Astros 3 Cardinals 4.,0 runs 1 hit 0 errors 2 LOB. Astros 3 Cardinals 4.,0 runs 1 hit 0 errors 2 LOB. Astros 3 Cardinals 4.
 Top of the 6th Astros Batting Behind 3-4 Cardinals' Ray King facing 5-6-7,Top of the 6th Astros Batting Behind 3-4 Cardinals' Ray King facing 5-6-7,Top of the 6th Astros Batting Behind 3-4 Cardinals' Ray King facing 5-6-7,,Top of the 6th Astros Batting Behind 3-4 Cardinals' Ray King facing 5-6-7,Top of the 6th Astros Batting Behind 3-4 Cardinals' Ray King facing 5-6-7,Top of the 6th Astros Batting Behind 3-4 Cardinals' Ray King facing 5-6-7,Top of the 6th Astros Batting Behind 3-4 Cardinals' Ray King facing 5-6-7,Top of the 6th Astros Batting Behind 3-4 Cardinals' Ray King facing 5-6-7,Top of the 6th Astros Batting Behind 3-4 Cardinals' Ray King facing 5-6-7,Top of the 6th Astros Batting Behind 3-4 Cardinals' Ray King facing 5-6-7,Top of the 6th Astros Batting Behind 3-4 Cardinals' Ray King facing 5-6-7
 ,,,,,,,,,Ray King replaces John Mabry (PH) pitching and batting 9th,Ray King replaces John Mabry (PH) pitching and batting 9th,Ray King replaces John Mabry (PH) pitching and batting 9th
-t6,3-4,0,"['', '', '']",2(0-1) .CX,,HOU,J. Kent,R. King,-6%,60%,Single to SS (Ground Ball)
-t6,3-4,0,"['Kent', '', '']",5(1-2) SF*BFX,OO,HOU,M. Lamb,R. King,12%,72%,Ground Ball Double Play: P-SS-1B
-t6,3-4,2,"['', '', '']",2(0-1) FX,,HOU,J. Vizcaino,R. King,-2%,70%,Single to LF (Ground Ball)
+t6,3-4,0,"______, ______, ______",2(0-1) .CX,,HOU,J. Kent,R. King,-6%,60%,Single to SS (Ground Ball)
+t6,3-4,0,"J. Kent, ______, ______",5(1-2) SF*BFX,OO,HOU,M. Lamb,R. King,12%,72%,Ground Ball Double Play: P-SS-1B
+t6,3-4,2,"______, ______, ______",2(0-1) FX,,HOU,J. Vizcaino,R. King,-2%,70%,Single to LF (Ground Ball)
 ,,,,,,,,,Kiko Calero replaces Ray King pitching and batting 9th,Kiko Calero replaces Ray King pitching and batting 9th,Kiko Calero replaces Ray King pitching and batting 9th
-t6,3-4,2,"['Vizcaino', '', '']",5(2-2) .B1S1BCX,O,HOU,B. Ausmus,K. Calero,4%,74%,Groundout: P-1B
+t6,3-4,2,"J. Vizcaino, ______, ______",5(2-2) .B1S1BCX,O,HOU,B. Ausmus,K. Calero,4%,74%,Groundout: P-1B
 ,,,,,,,,,0 runs 2 hits 0 errors 1 LOB. Astros 3 Cardinals 4.,0 runs 2 hits 0 errors 1 LOB. Astros 3 Cardinals 4.,0 runs 2 hits 0 errors 1 LOB. Astros 3 Cardinals 4.
 Bottom of the 6th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 1-2-3,Bottom of the 6th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 1-2-3,Bottom of the 6th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 1-2-3,,Bottom of the 6th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 1-2-3,Bottom of the 6th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 1-2-3,Bottom of the 6th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 1-2-3,Bottom of the 6th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 1-2-3,Bottom of the 6th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 1-2-3,Bottom of the 6th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 1-2-3,Bottom of the 6th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 1-2-3,Bottom of the 6th Cardinals Batting Ahead 4-3 Astros' Chad Qualls facing 1-2-3
-b6,4-3,0,"['', '', '']",2(0-1) CX,O,STL,H. Luna,C. Qualls,-2%,72%,Flyball: RF
-b6,4-3,1,"['', '', '']",3(1-1) FBX,O,STL,L. Walker,C. Qualls,-2%,70%,Flyball: RF
-b6,4-3,2,"['', '', '']",4(2-1) BBCX,O,STL,A. Pujols,C. Qualls,-1%,69%,Groundout: 3B-1B
+b6,4-3,0,"______, ______, ______",2(0-1) CX,O,STL,H. Luna,C. Qualls,-2%,72%,Flyball: RF
+b6,4-3,1,"______, ______, ______",3(1-1) FBX,O,STL,L. Walker,C. Qualls,-2%,70%,Flyball: RF
+b6,4-3,2,"______, ______, ______",4(2-1) BBCX,O,STL,A. Pujols,C. Qualls,-1%,69%,Groundout: 3B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Astros 3 Cardinals 4.,0 runs 0 hits 0 errors 0 LOB. Astros 3 Cardinals 4.,0 runs 0 hits 0 errors 0 LOB. Astros 3 Cardinals 4.
 Top of the 7th Astros Batting Behind 3-4 Cardinals' Kiko Calero facing 9-1-2,Top of the 7th Astros Batting Behind 3-4 Cardinals' Kiko Calero facing 9-1-2,Top of the 7th Astros Batting Behind 3-4 Cardinals' Kiko Calero facing 9-1-2,,Top of the 7th Astros Batting Behind 3-4 Cardinals' Kiko Calero facing 9-1-2,Top of the 7th Astros Batting Behind 3-4 Cardinals' Kiko Calero facing 9-1-2,Top of the 7th Astros Batting Behind 3-4 Cardinals' Kiko Calero facing 9-1-2,Top of the 7th Astros Batting Behind 3-4 Cardinals' Kiko Calero facing 9-1-2,Top of the 7th Astros Batting Behind 3-4 Cardinals' Kiko Calero facing 9-1-2,Top of the 7th Astros Batting Behind 3-4 Cardinals' Kiko Calero facing 9-1-2,Top of the 7th Astros Batting Behind 3-4 Cardinals' Kiko Calero facing 9-1-2,Top of the 7th Astros Batting Behind 3-4 Cardinals' Kiko Calero facing 9-1-2
 ,,,,,,,,,Orlando Palmeiro pinch hits for Chad Qualls (P) batting 9th,Orlando Palmeiro pinch hits for Chad Qualls (P) batting 9th,Orlando Palmeiro pinch hits for Chad Qualls (P) batting 9th
-t7,3-4,0,"['', '', '']",4(1-2) .CSBX,O,HOU,O. Palmeiro,K. Calero,4%,74%,Flyball: LF
-t7,3-4,1,"['', '', '']",3(1-1) BFX,O,HOU,C. Biggio,K. Calero,3%,77%,Popfly: SS
-t7,3-4,2,"['', '', '']",3(2-0) BBX,,HOU,C. Beltran,K. Calero,-2%,74%,Single to RF (Line Drive)
-t7,3-4,2,"['Beltran', '', '']",1(0-0) X,O,HOU,J. Bagwell,K. Calero,5%,79%,Flyball: RF
+t7,3-4,0,"______, ______, ______",4(1-2) .CSBX,O,HOU,O. Palmeiro,K. Calero,4%,74%,Flyball: LF
+t7,3-4,1,"______, ______, ______",3(1-1) BFX,O,HOU,C. Biggio,K. Calero,3%,77%,Popfly: SS
+t7,3-4,2,"______, ______, ______",3(2-0) BBX,,HOU,C. Beltran,K. Calero,-2%,74%,Single to RF (Line Drive)
+t7,3-4,2,"C. Beltran, ______, ______",1(0-0) X,O,HOU,J. Bagwell,K. Calero,5%,79%,Flyball: RF
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Astros 3 Cardinals 4.,0 runs 1 hit 0 errors 1 LOB. Astros 3 Cardinals 4.,0 runs 1 hit 0 errors 1 LOB. Astros 3 Cardinals 4.
 Bottom of the 7th Cardinals Batting Ahead 4-3 Astros' Dan Wheeler facing 4-5-6,Bottom of the 7th Cardinals Batting Ahead 4-3 Astros' Dan Wheeler facing 4-5-6,Bottom of the 7th Cardinals Batting Ahead 4-3 Astros' Dan Wheeler facing 4-5-6,,Bottom of the 7th Cardinals Batting Ahead 4-3 Astros' Dan Wheeler facing 4-5-6,Bottom of the 7th Cardinals Batting Ahead 4-3 Astros' Dan Wheeler facing 4-5-6,Bottom of the 7th Cardinals Batting Ahead 4-3 Astros' Dan Wheeler facing 4-5-6,Bottom of the 7th Cardinals Batting Ahead 4-3 Astros' Dan Wheeler facing 4-5-6,Bottom of the 7th Cardinals Batting Ahead 4-3 Astros' Dan Wheeler facing 4-5-6,Bottom of the 7th Cardinals Batting Ahead 4-3 Astros' Dan Wheeler facing 4-5-6,Bottom of the 7th Cardinals Batting Ahead 4-3 Astros' Dan Wheeler facing 4-5-6,Bottom of the 7th Cardinals Batting Ahead 4-3 Astros' Dan Wheeler facing 4-5-6
 ,,,,,,,,,Dan Wheeler replaces Orlando Palmeiro (PH) pitching and batting 9th,Dan Wheeler replaces Orlando Palmeiro (PH) pitching and batting 9th,Dan Wheeler replaces Orlando Palmeiro (PH) pitching and batting 9th
-b7,4-3,0,"['', '', '']",3(2-0) .BBX,O,STL,S. Rolen,D. Wheeler,-2%,77%,Lineout: 3B
-b7,4-3,1,"['', '', '']",8(3-2) CBBSFBFS,O,STL,J. Edmonds,D. Wheeler,-1%,75%,Strikeout Swinging
-b7,4-3,2,"['', '', '']",1(0-0) X,,STL,E. Renteria,D. Wheeler,1%,76%,Single to LF (Ground Ball)
-b7,4-3,2,"['Renteria', '', '']",6(2-2) F1F11B11FBX,,STL,R. Sanders,D. Wheeler,2%,78%,Single to LF (Line Drive); Renteria to 2B
-b7,4-3,2,"['Sanders', 'Renteria', '']",3(1-1) SBX,O,STL,M. Matheny,D. Wheeler,-4%,74%,Flyball: LF
+b7,4-3,0,"______, ______, ______",3(2-0) .BBX,O,STL,S. Rolen,D. Wheeler,-2%,77%,Lineout: 3B
+b7,4-3,1,"______, ______, ______",8(3-2) CBBSFBFS,O,STL,J. Edmonds,D. Wheeler,-1%,75%,Strikeout Swinging
+b7,4-3,2,"______, ______, ______",1(0-0) X,,STL,E. Renteria,D. Wheeler,1%,76%,Single to LF (Ground Ball)
+b7,4-3,2,"E. Renteria, ______, ______",6(2-2) F1F11B11FBX,,STL,R. Sanders,D. Wheeler,2%,78%,Single to LF (Line Drive); E. Renteria to 2B
+b7,4-3,2,"R. Sanders, E. Renteria, ______",3(1-1) SBX,O,STL,M. Matheny,D. Wheeler,-4%,74%,Flyball: LF
 ,,,,,,,,,0 runs 2 hits 0 errors 2 LOB. Astros 3 Cardinals 4.,0 runs 2 hits 0 errors 2 LOB. Astros 3 Cardinals 4.,0 runs 2 hits 0 errors 2 LOB. Astros 3 Cardinals 4.
 Top of the 8th Astros Batting Behind 3-4 Cardinals' Jason Isringhausen facing 4-5-6,Top of the 8th Astros Batting Behind 3-4 Cardinals' Jason Isringhausen facing 4-5-6,Top of the 8th Astros Batting Behind 3-4 Cardinals' Jason Isringhausen facing 4-5-6,,Top of the 8th Astros Batting Behind 3-4 Cardinals' Jason Isringhausen facing 4-5-6,Top of the 8th Astros Batting Behind 3-4 Cardinals' Jason Isringhausen facing 4-5-6,Top of the 8th Astros Batting Behind 3-4 Cardinals' Jason Isringhausen facing 4-5-6,Top of the 8th Astros Batting Behind 3-4 Cardinals' Jason Isringhausen facing 4-5-6,Top of the 8th Astros Batting Behind 3-4 Cardinals' Jason Isringhausen facing 4-5-6,Top of the 8th Astros Batting Behind 3-4 Cardinals' Jason Isringhausen facing 4-5-6,Top of the 8th Astros Batting Behind 3-4 Cardinals' Jason Isringhausen facing 4-5-6,Top of the 8th Astros Batting Behind 3-4 Cardinals' Jason Isringhausen facing 4-5-6
 ,,,,,,,,,Jason Isringhausen replaces Reggie Sanders (LF) pitching and batting 7thSo Taguchi replaces Kiko Calero (P) playing LF batting 9th,Jason Isringhausen replaces Reggie Sanders (LF) pitching and batting 7thSo Taguchi replaces Kiko Calero (P) playing LF batting 9th,Jason Isringhausen replaces Reggie Sanders (LF) pitching and batting 7thSo Taguchi replaces Kiko Calero (P) playing LF batting 9th
-t8,3-4,0,"['', '', '']",3(1-1) ..FBX,O,HOU,L. Berkman,J. Isringhausen,6%,80%,Flyball: LF
-t8,3-4,1,"['', '', '']",3(1-1) CBX,,HOU,J. Kent,J. Isringhausen,-10%,70%,Double to LF (Ground Ball)
-t8,3-4,1,"['', 'Kent', '']",6(3-2) BSBBFS,O,HOU,M. Lamb,J. Isringhausen,9%,78%,Strikeout Swinging
-t8,3-4,2,"['', 'Kent', '']",3(1-1) FBX,O,HOU,J. Vizcaino,J. Isringhausen,8%,87%,Popfly: 2B
+t8,3-4,0,"______, ______, ______",3(1-1) ..FBX,O,HOU,L. Berkman,J. Isringhausen,6%,80%,Flyball: LF
+t8,3-4,1,"______, ______, ______",3(1-1) CBX,,HOU,J. Kent,J. Isringhausen,-10%,70%,Double to LF (Ground Ball)
+t8,3-4,1,"______, J. Kent, ______",6(3-2) BSBBFS,O,HOU,M. Lamb,J. Isringhausen,9%,78%,Strikeout Swinging
+t8,3-4,2,"______, J. Kent, ______",3(1-1) FBX,O,HOU,J. Vizcaino,J. Isringhausen,8%,87%,Popfly: 2B
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Astros 3 Cardinals 4.,0 runs 1 hit 0 errors 1 LOB. Astros 3 Cardinals 4.,0 runs 1 hit 0 errors 1 LOB. Astros 3 Cardinals 4.
 Bottom of the 8th Cardinals Batting Ahead 4-3 Astros' Dan Wheeler facing 9-1-2,Bottom of the 8th Cardinals Batting Ahead 4-3 Astros' Dan Wheeler facing 9-1-2,Bottom of the 8th Cardinals Batting Ahead 4-3 Astros' Dan Wheeler facing 9-1-2,,Bottom of the 8th Cardinals Batting Ahead 4-3 Astros' Dan Wheeler facing 9-1-2,Bottom of the 8th Cardinals Batting Ahead 4-3 Astros' Dan Wheeler facing 9-1-2,Bottom of the 8th Cardinals Batting Ahead 4-3 Astros' Dan Wheeler facing 9-1-2,Bottom of the 8th Cardinals Batting Ahead 4-3 Astros' Dan Wheeler facing 9-1-2,Bottom of the 8th Cardinals Batting Ahead 4-3 Astros' Dan Wheeler facing 9-1-2,Bottom of the 8th Cardinals Batting Ahead 4-3 Astros' Dan Wheeler facing 9-1-2,Bottom of the 8th Cardinals Batting Ahead 4-3 Astros' Dan Wheeler facing 9-1-2,Bottom of the 8th Cardinals Batting Ahead 4-3 Astros' Dan Wheeler facing 9-1-2
-b8,4-3,0,"['', '', '']",4(0-2) SSFX,O,STL,S. Taguchi,D. Wheeler,-1%,85%,Groundout: C-1B
-b8,4-3,1,"['', '', '']",3(0-2) SCC,O,STL,H. Luna,D. Wheeler,-1%,84%,Strikeout Looking
-b8,4-3,2,"['', '', '']",10(3-2) SBFFFBFFBX,O,STL,L. Walker,D. Wheeler,-1%,83%,Popfly: SS
+b8,4-3,0,"______, ______, ______",4(0-2) SSFX,O,STL,S. Taguchi,D. Wheeler,-1%,85%,Groundout: C-1B
+b8,4-3,1,"______, ______, ______",3(0-2) SCC,O,STL,H. Luna,D. Wheeler,-1%,84%,Strikeout Looking
+b8,4-3,2,"______, ______, ______",10(3-2) SBFFFBFFBX,O,STL,L. Walker,D. Wheeler,-1%,83%,Popfly: SS
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Astros 3 Cardinals 4.,0 runs 0 hits 0 errors 0 LOB. Astros 3 Cardinals 4.,0 runs 0 hits 0 errors 0 LOB. Astros 3 Cardinals 4.
 Top of the 9th Astros Batting Behind 3-4 Cardinals' Jason Isringhausen facing 8-9-1,Top of the 9th Astros Batting Behind 3-4 Cardinals' Jason Isringhausen facing 8-9-1,Top of the 9th Astros Batting Behind 3-4 Cardinals' Jason Isringhausen facing 8-9-1,,Top of the 9th Astros Batting Behind 3-4 Cardinals' Jason Isringhausen facing 8-9-1,Top of the 9th Astros Batting Behind 3-4 Cardinals' Jason Isringhausen facing 8-9-1,Top of the 9th Astros Batting Behind 3-4 Cardinals' Jason Isringhausen facing 8-9-1,Top of the 9th Astros Batting Behind 3-4 Cardinals' Jason Isringhausen facing 8-9-1,Top of the 9th Astros Batting Behind 3-4 Cardinals' Jason Isringhausen facing 8-9-1,Top of the 9th Astros Batting Behind 3-4 Cardinals' Jason Isringhausen facing 8-9-1,Top of the 9th Astros Batting Behind 3-4 Cardinals' Jason Isringhausen facing 8-9-1,Top of the 9th Astros Batting Behind 3-4 Cardinals' Jason Isringhausen facing 8-9-1
 ,,,,,,,,,Morgan Ensberg pinch hits for Brad Ausmus (C) batting 8th,Morgan Ensberg pinch hits for Brad Ausmus (C) batting 8th,Morgan Ensberg pinch hits for Brad Ausmus (C) batting 8th
-t9,3-4,0,"['', '', '']",5(2-2) .CBBFH,,HOU,M. Ensberg,J. Isringhausen,-12%,72%,Hit By Pitch
+t9,3-4,0,"______, ______, ______",5(2-2) .CBBFH,,HOU,M. Ensberg,J. Isringhausen,-12%,72%,Hit By Pitch
 ,,,,,,,,,Eric Bruntlett pinch hits for Dan Wheeler (P) batting 9th,Eric Bruntlett pinch hits for Dan Wheeler (P) batting 9th,Eric Bruntlett pinch hits for Dan Wheeler (P) batting 9th
-t9,3-4,0,"['Ensberg', '', '']",1(0-0) .X,O,HOU,E. Bruntlett,J. Isringhausen,5%,77%,Bunt Groundout: 1B-2B/Sacrifice; Ensberg to 2B
-t9,3-4,1,"['', 'Ensberg', '']",4(1-2) BFFX,O,HOU,C. Biggio,J. Isringhausen,11%,89%,Flyball: LF
-t9,3-4,2,"['', 'Ensberg', '']",4(3-0) IIII,,HOU,C. Beltran,J. Isringhausen,-3%,86%,Intentional Walk
-t9,3-4,2,"['Beltran', 'Ensberg', '']",1(0-0) X,R,HOU,J. Bagwell,J. Isringhausen,-33%,52%,Single to LF (Line Drive); Ensberg Scores; Beltran to 2B
-t9,4-4,2,"['Bagwell', 'Beltran', '']",2(0-1) S>B,,HOU,L. Berkman,J. Isringhausen,-3%,49%,Beltran Steals 3B; Bagwell Steals 2B
-t9,4-4,2,"['', 'Bagwell', 'Beltran']",6(2-2) S>B.BFFS,O,HOU,L. Berkman,J. Isringhausen,15%,64%,Strikeout Swinging
+t9,3-4,0,"M. Ensberg, ______, ______",1(0-0) .X,O,HOU,E. Bruntlett,J. Isringhausen,5%,77%,Bunt Groundout: 1B-2B/Sacrifice; M. Ensberg to 2B
+t9,3-4,1,"______, M. Ensberg, ______",4(1-2) BFFX,O,HOU,C. Biggio,J. Isringhausen,11%,89%,Flyball: LF
+t9,3-4,2,"______, M. Ensberg, ______",4(3-0) IIII,,HOU,C. Beltran,J. Isringhausen,-3%,86%,Intentional Walk
+t9,3-4,2,"C. Beltran, M. Ensberg, ______",1(0-0) X,R,HOU,J. Bagwell,J. Isringhausen,-33%,52%,Single to LF (Line Drive); M. Ensberg Scores; C. Beltran to 2B
+t9,4-4,2,"J. Bagwell, C. Beltran, ______",2(0-1) S>B,,HOU,L. Berkman,J. Isringhausen,-3%,49%,C. Beltran Steals 3B; J. Bagwell Steals 2B
+t9,4-4,2,"______, J. Bagwell, C. Beltran",6(2-2) S>B.BFFS,O,HOU,L. Berkman,J. Isringhausen,15%,64%,Strikeout Swinging
 ,,,,,,,,,1 run 1 hit 0 errors 2 LOB. Astros 4 Cardinals 4.,1 run 1 hit 0 errors 2 LOB. Astros 4 Cardinals 4.,1 run 1 hit 0 errors 2 LOB. Astros 4 Cardinals 4.
 Bottom of the 9th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 3-4-5,Bottom of the 9th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 3-4-5,Bottom of the 9th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 3-4-5,,Bottom of the 9th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 3-4-5,Bottom of the 9th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 3-4-5,Bottom of the 9th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 3-4-5,Bottom of the 9th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 3-4-5,Bottom of the 9th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 3-4-5,Bottom of the 9th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 3-4-5,Bottom of the 9th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 3-4-5,Bottom of the 9th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 3-4-5
 ,,,,,,,,,Brad Lidge replaces Lance Berkman (RF) pitching and batting 4thRaul Chavez replaces Eric Bruntlett (PH) playing C batting 9thJason Lane replaces Morgan Ensberg (PH) playing RF batting 8th,Brad Lidge replaces Lance Berkman (RF) pitching and batting 4thRaul Chavez replaces Eric Bruntlett (PH) playing C batting 9thJason Lane replaces Morgan Ensberg (PH) playing RF batting 8th,Brad Lidge replaces Lance Berkman (RF) pitching and batting 4thRaul Chavez replaces Eric Bruntlett (PH) playing C batting 9thJason Lane replaces Morgan Ensberg (PH) playing RF batting 8th
-b9,4-4,0,"['', '', '']",2(0-1) ...SX,O,STL,A. Pujols,B. Lidge,-6%,58%,Groundout: SS-1B
-b9,4-4,1,"['', '', '']",4(1-2) BCFS,O,STL,S. Rolen,B. Lidge,-5%,54%,Strikeout Swinging
-b9,4-4,2,"['', '', '']",4(1-2) CBSS,O,STL,J. Edmonds,B. Lidge,-4%,50%,Strikeout Swinging
+b9,4-4,0,"______, ______, ______",2(0-1) ...SX,O,STL,A. Pujols,B. Lidge,-6%,58%,Groundout: SS-1B
+b9,4-4,1,"______, ______, ______",4(1-2) BCFS,O,STL,S. Rolen,B. Lidge,-5%,54%,Strikeout Swinging
+b9,4-4,2,"______, ______, ______",4(1-2) CBSS,O,STL,J. Edmonds,B. Lidge,-4%,50%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Astros 4 Cardinals 4.,0 runs 0 hits 0 errors 0 LOB. Astros 4 Cardinals 4.,0 runs 0 hits 0 errors 0 LOB. Astros 4 Cardinals 4.
 Top of the 10th Astros Batting Tied 4-4 Cardinals' Jason Isringhausen facing 5-6-7,Top of the 10th Astros Batting Tied 4-4 Cardinals' Jason Isringhausen facing 5-6-7,Top of the 10th Astros Batting Tied 4-4 Cardinals' Jason Isringhausen facing 5-6-7,,Top of the 10th Astros Batting Tied 4-4 Cardinals' Jason Isringhausen facing 5-6-7,Top of the 10th Astros Batting Tied 4-4 Cardinals' Jason Isringhausen facing 5-6-7,Top of the 10th Astros Batting Tied 4-4 Cardinals' Jason Isringhausen facing 5-6-7,Top of the 10th Astros Batting Tied 4-4 Cardinals' Jason Isringhausen facing 5-6-7,Top of the 10th Astros Batting Tied 4-4 Cardinals' Jason Isringhausen facing 5-6-7,Top of the 10th Astros Batting Tied 4-4 Cardinals' Jason Isringhausen facing 5-6-7,Top of the 10th Astros Batting Tied 4-4 Cardinals' Jason Isringhausen facing 5-6-7,Top of the 10th Astros Batting Tied 4-4 Cardinals' Jason Isringhausen facing 5-6-7
-t10,4-4,0,"['', '', '']",1(0-0) X,O,HOU,J. Kent,J. Isringhausen,6%,56%,Popfly: 2B
-t10,4-4,1,"['', '', '']",2(1-0) BX,O,HOU,M. Lamb,J. Isringhausen,5%,61%,Flyball: CF
-t10,4-4,2,"['', '', '']",2(0-1) CX,O,HOU,J. Vizcaino,J. Isringhausen,3%,64%,Groundout: 1B-P
+t10,4-4,0,"______, ______, ______",1(0-0) X,O,HOU,J. Kent,J. Isringhausen,6%,56%,Popfly: 2B
+t10,4-4,1,"______, ______, ______",2(1-0) BX,O,HOU,M. Lamb,J. Isringhausen,5%,61%,Flyball: CF
+t10,4-4,2,"______, ______, ______",2(0-1) CX,O,HOU,J. Vizcaino,J. Isringhausen,3%,64%,Groundout: 1B-P
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Astros 4 Cardinals 4.,0 runs 0 hits 0 errors 0 LOB. Astros 4 Cardinals 4.,0 runs 0 hits 0 errors 0 LOB. Astros 4 Cardinals 4.
 Bottom of the 10th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 6-7-8,Bottom of the 10th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 6-7-8,Bottom of the 10th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 6-7-8,,Bottom of the 10th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 6-7-8,Bottom of the 10th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 6-7-8,Bottom of the 10th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 6-7-8,Bottom of the 10th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 6-7-8,Bottom of the 10th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 6-7-8,Bottom of the 10th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 6-7-8,Bottom of the 10th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 6-7-8,Bottom of the 10th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 6-7-8
-b10,4-4,0,"['', '', '']",3(1-1) CBX,O,STL,E. Renteria,B. Lidge,-6%,58%,Groundout: 3B-1B
+b10,4-4,0,"______, ______, ______",3(1-1) CBX,O,STL,E. Renteria,B. Lidge,-6%,58%,Groundout: 3B-1B
 ,,,,,,,,,Roger Cedeno pinch hits for Jason Isringhausen (P) batting 7th,Roger Cedeno pinch hits for Jason Isringhausen (P) batting 7th,Roger Cedeno pinch hits for Jason Isringhausen (P) batting 7th
-b10,4-4,1,"['', '', '']",2(0-1) .CX,O,STL,R. Cedeno,B. Lidge,-5%,54%,Groundout: C-1B
-b10,4-4,2,"['', '', '']",4(1-2) SSBS,O,STL,M. Matheny,B. Lidge,-4%,50%,Strikeout Swinging (C-1B)
+b10,4-4,1,"______, ______, ______",2(0-1) .CX,O,STL,R. Cedeno,B. Lidge,-5%,54%,Groundout: C-1B
+b10,4-4,2,"______, ______, ______",4(1-2) SSBS,O,STL,M. Matheny,B. Lidge,-4%,50%,Strikeout Swinging (C-1B)
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Astros 4 Cardinals 4.,0 runs 0 hits 0 errors 0 LOB. Astros 4 Cardinals 4.,0 runs 0 hits 0 errors 0 LOB. Astros 4 Cardinals 4.
 Top of the 11th Astros Batting Tied 4-4 Cardinals' Julian Tavarez facing 8-9-1,Top of the 11th Astros Batting Tied 4-4 Cardinals' Julian Tavarez facing 8-9-1,Top of the 11th Astros Batting Tied 4-4 Cardinals' Julian Tavarez facing 8-9-1,,Top of the 11th Astros Batting Tied 4-4 Cardinals' Julian Tavarez facing 8-9-1,Top of the 11th Astros Batting Tied 4-4 Cardinals' Julian Tavarez facing 8-9-1,Top of the 11th Astros Batting Tied 4-4 Cardinals' Julian Tavarez facing 8-9-1,Top of the 11th Astros Batting Tied 4-4 Cardinals' Julian Tavarez facing 8-9-1,Top of the 11th Astros Batting Tied 4-4 Cardinals' Julian Tavarez facing 8-9-1,Top of the 11th Astros Batting Tied 4-4 Cardinals' Julian Tavarez facing 8-9-1,Top of the 11th Astros Batting Tied 4-4 Cardinals' Julian Tavarez facing 8-9-1,Top of the 11th Astros Batting Tied 4-4 Cardinals' Julian Tavarez facing 8-9-1
 ,,,,,,,,,Julian Tavarez replaces Roger Cedeno (PH) pitching and batting 7th,Julian Tavarez replaces Roger Cedeno (PH) pitching and batting 7th,Julian Tavarez replaces Roger Cedeno (PH) pitching and batting 7th
-t11,4-4,0,"['', '', '']",3(0-2) .CCX,O,HOU,J. Lane,J. Tavarez,6%,56%,Flyball: CF
-t11,4-4,1,"['', '', '']",3(0-2) CFS,O,HOU,R. Chavez,J. Tavarez,5%,61%,Strikeout Swinging
-t11,4-4,2,"['', '', '']",4(2-1) BFBX,O,HOU,C. Biggio,J. Tavarez,3%,64%,Groundout: SS-1B
+t11,4-4,0,"______, ______, ______",3(0-2) .CCX,O,HOU,J. Lane,J. Tavarez,6%,56%,Flyball: CF
+t11,4-4,1,"______, ______, ______",3(0-2) CFS,O,HOU,R. Chavez,J. Tavarez,5%,61%,Strikeout Swinging
+t11,4-4,2,"______, ______, ______",4(2-1) BFBX,O,HOU,C. Biggio,J. Tavarez,3%,64%,Groundout: SS-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Astros 4 Cardinals 4.,0 runs 0 hits 0 errors 0 LOB. Astros 4 Cardinals 4.,0 runs 0 hits 0 errors 0 LOB. Astros 4 Cardinals 4.
 Bottom of the 11th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 9-1-2,Bottom of the 11th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 9-1-2,Bottom of the 11th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 9-1-2,,Bottom of the 11th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 9-1-2,Bottom of the 11th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 9-1-2,Bottom of the 11th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 9-1-2,Bottom of the 11th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 9-1-2,Bottom of the 11th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 9-1-2,Bottom of the 11th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 9-1-2,Bottom of the 11th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 9-1-2,Bottom of the 11th Cardinals Batting Tied 4-4 Astros' Brad Lidge facing 9-1-2
-b11,4-4,0,"['', '', '']",5(2-2) BSBSS,O,STL,S. Taguchi,B. Lidge,-6%,58%,Strikeout Swinging
+b11,4-4,0,"______, ______, ______",5(2-2) BSBSS,O,STL,S. Taguchi,B. Lidge,-6%,58%,Strikeout Swinging
 ,,,,,,,,,Marlon Anderson pinch hits for Hector Luna (2B) batting 1st,Marlon Anderson pinch hits for Hector Luna (2B) batting 1st,Marlon Anderson pinch hits for Hector Luna (2B) batting 1st
-b11,4-4,1,"['', '', '']",4(0-2) .CSFX,O,STL,M. Anderson,B. Lidge,-5%,54%,Flyball: LF
-b11,4-4,2,"['', '', '']",4(1-2) CBFS,O,STL,L. Walker,B. Lidge,-4%,50%,Strikeout Swinging
+b11,4-4,1,"______, ______, ______",4(0-2) .CSFX,O,STL,M. Anderson,B. Lidge,-5%,54%,Flyball: LF
+b11,4-4,2,"______, ______, ______",4(1-2) CBFS,O,STL,L. Walker,B. Lidge,-4%,50%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Astros 4 Cardinals 4.,0 runs 0 hits 0 errors 0 LOB. Astros 4 Cardinals 4.,0 runs 0 hits 0 errors 0 LOB. Astros 4 Cardinals 4.
 Top of the 12th Astros Batting Tied 4-4 Cardinals' Julian Tavarez facing 2-3-4,Top of the 12th Astros Batting Tied 4-4 Cardinals' Julian Tavarez facing 2-3-4,Top of the 12th Astros Batting Tied 4-4 Cardinals' Julian Tavarez facing 2-3-4,,Top of the 12th Astros Batting Tied 4-4 Cardinals' Julian Tavarez facing 2-3-4,Top of the 12th Astros Batting Tied 4-4 Cardinals' Julian Tavarez facing 2-3-4,Top of the 12th Astros Batting Tied 4-4 Cardinals' Julian Tavarez facing 2-3-4,Top of the 12th Astros Batting Tied 4-4 Cardinals' Julian Tavarez facing 2-3-4,Top of the 12th Astros Batting Tied 4-4 Cardinals' Julian Tavarez facing 2-3-4,Top of the 12th Astros Batting Tied 4-4 Cardinals' Julian Tavarez facing 2-3-4,Top of the 12th Astros Batting Tied 4-4 Cardinals' Julian Tavarez facing 2-3-4,Top of the 12th Astros Batting Tied 4-4 Cardinals' Julian Tavarez facing 2-3-4
 ,,,,,,,,,Marlon Anderson moves from PH to 2B,Marlon Anderson moves from PH to 2B,Marlon Anderson moves from PH to 2B
-t12,4-4,0,"['', '', '']",1(0-0) .X,O,HOU,C. Beltran,J. Tavarez,6%,56%,Groundout: 1B unassisted
-t12,4-4,1,"['', '', '']",1(0-0) X,O,HOU,J. Bagwell,J. Tavarez,5%,61%,Foul Popfly: C (Behind Home)
+t12,4-4,0,"______, ______, ______",1(0-0) .X,O,HOU,C. Beltran,J. Tavarez,6%,56%,Groundout: 1B unassisted
+t12,4-4,1,"______, ______, ______",1(0-0) X,O,HOU,J. Bagwell,J. Tavarez,5%,61%,Foul Popfly: C (Behind Home)
 ,,,,,,,,,Brandon Backe pinch hits for Brad Lidge (P) batting 4th,Brandon Backe pinch hits for Brad Lidge (P) batting 4th,Brandon Backe pinch hits for Brad Lidge (P) batting 4th
-t12,4-4,2,"['', '', '']",8(3-2) .CCBFFBBS,O,HOU,B. Backe,J. Tavarez,3%,64%,Strikeout Swinging
+t12,4-4,2,"______, ______, ______",8(3-2) .CCBFFBBS,O,HOU,B. Backe,J. Tavarez,3%,64%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Astros 4 Cardinals 4.,0 runs 0 hits 0 errors 0 LOB. Astros 4 Cardinals 4.,0 runs 0 hits 0 errors 0 LOB. Astros 4 Cardinals 4.
 Bottom of the 12th Cardinals Batting Tied 4-4 Astros' Dan Miceli facing 3-4-5,Bottom of the 12th Cardinals Batting Tied 4-4 Astros' Dan Miceli facing 3-4-5,Bottom of the 12th Cardinals Batting Tied 4-4 Astros' Dan Miceli facing 3-4-5,,Bottom of the 12th Cardinals Batting Tied 4-4 Astros' Dan Miceli facing 3-4-5,Bottom of the 12th Cardinals Batting Tied 4-4 Astros' Dan Miceli facing 3-4-5,Bottom of the 12th Cardinals Batting Tied 4-4 Astros' Dan Miceli facing 3-4-5,Bottom of the 12th Cardinals Batting Tied 4-4 Astros' Dan Miceli facing 3-4-5,Bottom of the 12th Cardinals Batting Tied 4-4 Astros' Dan Miceli facing 3-4-5,Bottom of the 12th Cardinals Batting Tied 4-4 Astros' Dan Miceli facing 3-4-5,Bottom of the 12th Cardinals Batting Tied 4-4 Astros' Dan Miceli facing 3-4-5,Bottom of the 12th Cardinals Batting Tied 4-4 Astros' Dan Miceli facing 3-4-5
 ,,,,,,,,,Dan Miceli replaces Brandon Backe (PH) pitching and batting 4th,Dan Miceli replaces Brandon Backe (PH) pitching and batting 4th,Dan Miceli replaces Brandon Backe (PH) pitching and batting 4th
-b12,4-4,0,"['', '', '']",4(3-0) .BBBB,,STL,A. Pujols,D. Miceli,7%,71%,Walk
-b12,4-4,0,"['Pujols', '', '']",1(0-0) X,O,STL,S. Rolen,D. Miceli,-8%,64%,Foul Popfly: C (Behind Home)
-b12,4-4,1,"['Pujols', '', '']",2(0-1) FX,RR,STL,J. Edmonds,D. Miceli,36%,100%,Home Run (Fly Ball to CF-RF); Pujols Scores
+b12,4-4,0,"______, ______, ______",4(3-0) .BBBB,,STL,A. Pujols,D. Miceli,7%,71%,Walk
+b12,4-4,0,"A. Pujols, ______, ______",1(0-0) X,O,STL,S. Rolen,D. Miceli,-8%,64%,Foul Popfly: C (Behind Home)
+b12,4-4,1,"A. Pujols, ______, ______",2(0-1) FX,RR,STL,J. Edmonds,D. Miceli,36%,100%,Home Run (Fly Ball to CF-RF); A. Pujols Scores
 ,,,,,,,,,2 runs 1 hit 0 errors 0 LOB. Astros 4 Cardinals 6.,2 runs 1 hit 0 errors 0 LOB. Astros 4 Cardinals 6.,2 runs 1 hit 0 errors 0 LOB. Astros 4 Cardinals 6.

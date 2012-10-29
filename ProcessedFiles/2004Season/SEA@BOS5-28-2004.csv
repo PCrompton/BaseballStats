@@ -1,118 +1,118 @@
 Inn,Score,Out,RoB,Pit(cnt)Sequence,R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
 Top of the 1st Mariners Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Mariners Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Mariners Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,,Top of the 1st Mariners Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Mariners Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Mariners Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Mariners Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Mariners Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Mariners Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Mariners Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Mariners Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3
-t1,0-0,0,"['', '', '']",3(1-1) FBX,O,SEA,I. Suzuki,P. Martinez,2%,52%,Groundout: 2B-1B
-t1,0-0,1,"['', '', '']",4(1-2) BSFC,O,SEA,S. Spiezio,P. Martinez,2%,54%,Strikeout Looking
-t1,0-0,2,"['', '', '']",4(1-2) BCSS,O,SEA,E. Martinez,P. Martinez,1%,55%,Strikeout Swinging
+t1,0-0,0,"______, ______, ______",3(1-1) FBX,O,SEA,I. Suzuki,P. Martinez,2%,52%,Groundout: 2B-1B
+t1,0-0,1,"______, ______, ______",4(1-2) BSFC,O,SEA,S. Spiezio,P. Martinez,2%,54%,Strikeout Looking
+t1,0-0,2,"______, ______, ______",4(1-2) BCSS,O,SEA,E. Martinez,P. Martinez,1%,55%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Mariners 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Mariners 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Mariners 0 Red Sox 0.
 Bottom of the 1st Red Sox Batting Tied 0-0 Mariners' Joel Pineiro facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Mariners' Joel Pineiro facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Mariners' Joel Pineiro facing 1-2-3,,Bottom of the 1st Red Sox Batting Tied 0-0 Mariners' Joel Pineiro facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Mariners' Joel Pineiro facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Mariners' Joel Pineiro facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Mariners' Joel Pineiro facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Mariners' Joel Pineiro facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Mariners' Joel Pineiro facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Mariners' Joel Pineiro facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Mariners' Joel Pineiro facing 1-2-3
-b1,0-0,0,"['', '', '']",4(2-1) BBCX,O,BOS,J. Damon,J. Pineiro,-2%,53%,Flyball: CF
-b1,0-0,1,"['', '', '']",4(1-2) CSBC,O,BOS,M. Bellhorn,J. Pineiro,-2%,51%,Strikeout Looking
-b1,0-0,2,"['', '', '']",4(1-2) CBSS,O,BOS,D. Ortiz,J. Pineiro,-1%,50%,Strikeout Swinging
+b1,0-0,0,"______, ______, ______",4(2-1) BBCX,O,BOS,J. Damon,J. Pineiro,-2%,53%,Flyball: CF
+b1,0-0,1,"______, ______, ______",4(1-2) CSBC,O,BOS,M. Bellhorn,J. Pineiro,-2%,51%,Strikeout Looking
+b1,0-0,2,"______, ______, ______",4(1-2) CBSS,O,BOS,D. Ortiz,J. Pineiro,-1%,50%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Mariners 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Mariners 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Mariners 0 Red Sox 0.
 Top of the 2nd Mariners Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Mariners Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Mariners Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,,Top of the 2nd Mariners Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Mariners Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Mariners Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Mariners Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Mariners Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Mariners Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Mariners Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Mariners Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6
-t2,0-0,0,"['', '', '']",3(1-1) BSX,O,SEA,R. Ibanez,P. Martinez,2%,52%,Groundout: 2B-1B
-t2,0-0,1,"['', '', '']",3(1-1) BCX,R,SEA,B. Boone,P. Martinez,-10%,43%,Home Run (Fly Ball)
-t2,1-0,1,"['', '', '']",4(1-2) BCCX,,SEA,J. Olerud,P. Martinez,-2%,41%,Single to 1B (Ground Ball)
-t2,1-0,1,"['Olerud', '', '']",5(2-2) BCFBC,O,SEA,R. Aurilia,P. Martinez,3%,43%,Strikeout Looking
-t2,1-0,2,"['Olerud', '', '']",5(3-1) BBBFX,O,SEA,P. Borders,P. Martinez,2%,46%,Groundout: 3B-2B/Forceout at 2B
+t2,0-0,0,"______, ______, ______",3(1-1) BSX,O,SEA,R. Ibanez,P. Martinez,2%,52%,Groundout: 2B-1B
+t2,0-0,1,"______, ______, ______",3(1-1) BCX,R,SEA,B. Boone,P. Martinez,-10%,43%,Home Run (Fly Ball)
+t2,1-0,1,"______, ______, ______",4(1-2) BCCX,,SEA,J. Olerud,P. Martinez,-2%,41%,Single to 1B (Ground Ball)
+t2,1-0,1,"J. Olerud, ______, ______",5(2-2) BCFBC,O,SEA,R. Aurilia,P. Martinez,3%,43%,Strikeout Looking
+t2,1-0,2,"J. Olerud, ______, ______",5(3-1) BBBFX,O,SEA,P. Borders,P. Martinez,2%,46%,Groundout: 3B-2B/Forceout at 2B
 ,,,,,,,,,1 run 2 hits 0 errors 1 LOB. Mariners 1 Red Sox 0.,1 run 2 hits 0 errors 1 LOB. Mariners 1 Red Sox 0.,1 run 2 hits 0 errors 1 LOB. Mariners 1 Red Sox 0.
 Bottom of the 2nd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 4-5-6,Bottom of the 2nd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 4-5-6,Bottom of the 2nd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 4-5-6,,Bottom of the 2nd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 4-5-6,Bottom of the 2nd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 4-5-6,Bottom of the 2nd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 4-5-6,Bottom of the 2nd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 4-5-6,Bottom of the 2nd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 4-5-6,Bottom of the 2nd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 4-5-6,Bottom of the 2nd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 4-5-6,Bottom of the 2nd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 4-5-6
-b2,0-1,0,"['', '', '']",6(3-2) CCBBBX,R,BOS,M. Ramirez,J. Pineiro,10%,55%,Home Run (Fly Ball)
-b2,1-1,0,"['', '', '']",6(2-2) FBSBFC,O,BOS,B. Daubach,J. Pineiro,-2%,53%,Strikeout Looking
-b2,1-1,1,"['', '', '']",2(1-0) BX,O,BOS,J. Varitek,J. Pineiro,-2%,51%,Groundout: 1B unassisted
-b2,1-1,2,"['', '', '']",1(0-0) X,O,BOS,K. Millar,J. Pineiro,-1%,50%,Foul Popfly: 1B (1B Foul)
+b2,0-1,0,"______, ______, ______",6(3-2) CCBBBX,R,BOS,M. Ramirez,J. Pineiro,10%,55%,Home Run (Fly Ball)
+b2,1-1,0,"______, ______, ______",6(2-2) FBSBFC,O,BOS,B. Daubach,J. Pineiro,-2%,53%,Strikeout Looking
+b2,1-1,1,"______, ______, ______",2(1-0) BX,O,BOS,J. Varitek,J. Pineiro,-2%,51%,Groundout: 1B unassisted
+b2,1-1,2,"______, ______, ______",1(0-0) X,O,BOS,K. Millar,J. Pineiro,-1%,50%,Foul Popfly: 1B (1B Foul)
 ,,,,,,,,,1 run 1 hit 0 errors 0 LOB. Mariners 1 Red Sox 1.,1 run 1 hit 0 errors 0 LOB. Mariners 1 Red Sox 1.,1 run 1 hit 0 errors 0 LOB. Mariners 1 Red Sox 1.
 Top of the 3rd Mariners Batting Tied 1-1 Red Sox' Pedro Martinez facing 9-1-2,Top of the 3rd Mariners Batting Tied 1-1 Red Sox' Pedro Martinez facing 9-1-2,Top of the 3rd Mariners Batting Tied 1-1 Red Sox' Pedro Martinez facing 9-1-2,,Top of the 3rd Mariners Batting Tied 1-1 Red Sox' Pedro Martinez facing 9-1-2,Top of the 3rd Mariners Batting Tied 1-1 Red Sox' Pedro Martinez facing 9-1-2,Top of the 3rd Mariners Batting Tied 1-1 Red Sox' Pedro Martinez facing 9-1-2,Top of the 3rd Mariners Batting Tied 1-1 Red Sox' Pedro Martinez facing 9-1-2,Top of the 3rd Mariners Batting Tied 1-1 Red Sox' Pedro Martinez facing 9-1-2,Top of the 3rd Mariners Batting Tied 1-1 Red Sox' Pedro Martinez facing 9-1-2,Top of the 3rd Mariners Batting Tied 1-1 Red Sox' Pedro Martinez facing 9-1-2,Top of the 3rd Mariners Batting Tied 1-1 Red Sox' Pedro Martinez facing 9-1-2
-t3,1-1,0,"['', '', '']",5(2-2) BCBFX,,SEA,R. Winn,P. Martinez,-6%,44%,Ground-rule Double (Fly Ball)
-t3,1-1,0,"['', 'Winn', '']",10(2-2) BCCFFBFFFX,O,SEA,I. Suzuki,P. Martinez,2%,46%,Groundout: 2B-1B; Winn to 3B
-t3,1-1,1,"['', '', 'Winn']",4(2-1) BBFX,RO,SEA,S. Spiezio,P. Martinez,-2%,44%,Flyball: CF/Sacrifice Fly; Winn Scores
-t3,2-1,2,"['', '', '']",1(0-0) X,O,SEA,E. Martinez,P. Martinez,1%,45%,Groundout: P-1B
+t3,1-1,0,"______, ______, ______",5(2-2) BCBFX,,SEA,R. Winn,P. Martinez,-6%,44%,Ground-rule Double (Fly Ball)
+t3,1-1,0,"______, R. Winn, ______",10(2-2) BCCFFBFFFX,O,SEA,I. Suzuki,P. Martinez,2%,46%,Groundout: 2B-1B; R. Winn to 3B
+t3,1-1,1,"______, ______, R. Winn",4(2-1) BBFX,RO,SEA,S. Spiezio,P. Martinez,-2%,44%,Flyball: CF/Sacrifice Fly; R. Winn Scores
+t3,2-1,2,"______, ______, ______",1(0-0) X,O,SEA,E. Martinez,P. Martinez,1%,45%,Groundout: P-1B
 ,,,,,,,,,1 run 1 hit 0 errors 0 LOB. Mariners 2 Red Sox 1.,1 run 1 hit 0 errors 0 LOB. Mariners 2 Red Sox 1.,1 run 1 hit 0 errors 0 LOB. Mariners 2 Red Sox 1.
 Bottom of the 3rd Red Sox Batting Behind 1-2 Mariners' Joel Pineiro facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 1-2 Mariners' Joel Pineiro facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 1-2 Mariners' Joel Pineiro facing 8-9-1,,Bottom of the 3rd Red Sox Batting Behind 1-2 Mariners' Joel Pineiro facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 1-2 Mariners' Joel Pineiro facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 1-2 Mariners' Joel Pineiro facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 1-2 Mariners' Joel Pineiro facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 1-2 Mariners' Joel Pineiro facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 1-2 Mariners' Joel Pineiro facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 1-2 Mariners' Joel Pineiro facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 1-2 Mariners' Joel Pineiro facing 8-9-1
-b3,1-2,0,"['', '', '']",4(1-2) CBFC,O,BOS,K. Youkilis,J. Pineiro,-3%,42%,Strikeout Looking
-b3,1-2,1,"['', '', '']",2(0-1) CX,O,BOS,P. Reese,J. Pineiro,-2%,40%,Groundout: SS-1B
-b3,1-2,2,"['', '', '']",4(3-0) BBBB,,BOS,J. Damon,J. Pineiro,2%,42%,Walk
-b3,1-2,2,"['Damon', '', '']",5(2-2) BC1F1B1S,O,BOS,M. Bellhorn,J. Pineiro,-3%,39%,Strikeout Swinging
+b3,1-2,0,"______, ______, ______",4(1-2) CBFC,O,BOS,K. Youkilis,J. Pineiro,-3%,42%,Strikeout Looking
+b3,1-2,1,"______, ______, ______",2(0-1) CX,O,BOS,P. Reese,J. Pineiro,-2%,40%,Groundout: SS-1B
+b3,1-2,2,"______, ______, ______",4(3-0) BBBB,,BOS,J. Damon,J. Pineiro,2%,42%,Walk
+b3,1-2,2,"J. Damon, ______, ______",5(2-2) BC1F1B1S,O,BOS,M. Bellhorn,J. Pineiro,-3%,39%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Mariners 2 Red Sox 1.,0 runs 0 hits 0 errors 1 LOB. Mariners 2 Red Sox 1.,0 runs 0 hits 0 errors 1 LOB. Mariners 2 Red Sox 1.
 Top of the 4th Mariners Batting Ahead 2-1 Red Sox' Pedro Martinez facing 4-5-6,Top of the 4th Mariners Batting Ahead 2-1 Red Sox' Pedro Martinez facing 4-5-6,Top of the 4th Mariners Batting Ahead 2-1 Red Sox' Pedro Martinez facing 4-5-6,,Top of the 4th Mariners Batting Ahead 2-1 Red Sox' Pedro Martinez facing 4-5-6,Top of the 4th Mariners Batting Ahead 2-1 Red Sox' Pedro Martinez facing 4-5-6,Top of the 4th Mariners Batting Ahead 2-1 Red Sox' Pedro Martinez facing 4-5-6,Top of the 4th Mariners Batting Ahead 2-1 Red Sox' Pedro Martinez facing 4-5-6,Top of the 4th Mariners Batting Ahead 2-1 Red Sox' Pedro Martinez facing 4-5-6,Top of the 4th Mariners Batting Ahead 2-1 Red Sox' Pedro Martinez facing 4-5-6,Top of the 4th Mariners Batting Ahead 2-1 Red Sox' Pedro Martinez facing 4-5-6,Top of the 4th Mariners Batting Ahead 2-1 Red Sox' Pedro Martinez facing 4-5-6
-t4,2-1,0,"['', '', '']",3(2-0) BBX,O,SEA,R. Ibanez,P. Martinez,3%,41%,Flyball: RF (Deep RF)
-t4,2-1,1,"['', '', '']",3(0-2) CFC,O,SEA,B. Boone,P. Martinez,2%,43%,Strikeout Looking
-t4,2-1,2,"['', '', '']",1(0-0) X,O,SEA,J. Olerud,P. Martinez,1%,44%,Groundout: SS-1B
+t4,2-1,0,"______, ______, ______",3(2-0) BBX,O,SEA,R. Ibanez,P. Martinez,3%,41%,Flyball: RF (Deep RF)
+t4,2-1,1,"______, ______, ______",3(0-2) CFC,O,SEA,B. Boone,P. Martinez,2%,43%,Strikeout Looking
+t4,2-1,2,"______, ______, ______",1(0-0) X,O,SEA,J. Olerud,P. Martinez,1%,44%,Groundout: SS-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Mariners 2 Red Sox 1.,0 runs 0 hits 0 errors 0 LOB. Mariners 2 Red Sox 1.,0 runs 0 hits 0 errors 0 LOB. Mariners 2 Red Sox 1.
 Bottom of the 4th Red Sox Batting Behind 1-2 Mariners' Joel Pineiro facing 3-4-5,Bottom of the 4th Red Sox Batting Behind 1-2 Mariners' Joel Pineiro facing 3-4-5,Bottom of the 4th Red Sox Batting Behind 1-2 Mariners' Joel Pineiro facing 3-4-5,,Bottom of the 4th Red Sox Batting Behind 1-2 Mariners' Joel Pineiro facing 3-4-5,Bottom of the 4th Red Sox Batting Behind 1-2 Mariners' Joel Pineiro facing 3-4-5,Bottom of the 4th Red Sox Batting Behind 1-2 Mariners' Joel Pineiro facing 3-4-5,Bottom of the 4th Red Sox Batting Behind 1-2 Mariners' Joel Pineiro facing 3-4-5,Bottom of the 4th Red Sox Batting Behind 1-2 Mariners' Joel Pineiro facing 3-4-5,Bottom of the 4th Red Sox Batting Behind 1-2 Mariners' Joel Pineiro facing 3-4-5,Bottom of the 4th Red Sox Batting Behind 1-2 Mariners' Joel Pineiro facing 3-4-5,Bottom of the 4th Red Sox Batting Behind 1-2 Mariners' Joel Pineiro facing 3-4-5
-b4,1-2,0,"['', '', '']",2(1-0) BX,O,BOS,D. Ortiz,J. Pineiro,-3%,41%,Groundout: 3B-1B
-b4,1-2,1,"['', '', '']",5(2-2) CBBSC,O,BOS,M. Ramirez,J. Pineiro,-2%,39%,Strikeout Looking
-b4,1-2,2,"['', '', '']",4(1-2) CSBS,O,BOS,B. Daubach,J. Pineiro,-2%,37%,Strikeout Swinging
+b4,1-2,0,"______, ______, ______",2(1-0) BX,O,BOS,D. Ortiz,J. Pineiro,-3%,41%,Groundout: 3B-1B
+b4,1-2,1,"______, ______, ______",5(2-2) CBBSC,O,BOS,M. Ramirez,J. Pineiro,-2%,39%,Strikeout Looking
+b4,1-2,2,"______, ______, ______",4(1-2) CSBS,O,BOS,B. Daubach,J. Pineiro,-2%,37%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Mariners 2 Red Sox 1.,0 runs 0 hits 0 errors 0 LOB. Mariners 2 Red Sox 1.,0 runs 0 hits 0 errors 0 LOB. Mariners 2 Red Sox 1.
 Top of the 5th Mariners Batting Ahead 2-1 Red Sox' Pedro Martinez facing 7-8-9,Top of the 5th Mariners Batting Ahead 2-1 Red Sox' Pedro Martinez facing 7-8-9,Top of the 5th Mariners Batting Ahead 2-1 Red Sox' Pedro Martinez facing 7-8-9,,Top of the 5th Mariners Batting Ahead 2-1 Red Sox' Pedro Martinez facing 7-8-9,Top of the 5th Mariners Batting Ahead 2-1 Red Sox' Pedro Martinez facing 7-8-9,Top of the 5th Mariners Batting Ahead 2-1 Red Sox' Pedro Martinez facing 7-8-9,Top of the 5th Mariners Batting Ahead 2-1 Red Sox' Pedro Martinez facing 7-8-9,Top of the 5th Mariners Batting Ahead 2-1 Red Sox' Pedro Martinez facing 7-8-9,Top of the 5th Mariners Batting Ahead 2-1 Red Sox' Pedro Martinez facing 7-8-9,Top of the 5th Mariners Batting Ahead 2-1 Red Sox' Pedro Martinez facing 7-8-9,Top of the 5th Mariners Batting Ahead 2-1 Red Sox' Pedro Martinez facing 7-8-9
-t5,2-1,0,"['', '', '']",2(1-0) BX,R,SEA,R. Aurilia,P. Martinez,-11%,27%,Home Run (Fly Ball)
-t5,3-1,0,"['', '', '']",6(2-2) BBFSFS,O,SEA,P. Borders,P. Martinez,2%,29%,Strikeout Swinging
-t5,3-1,1,"['', '', '']",4(1-2) CBCX,,SEA,R. Winn,P. Martinez,-3%,25%,Double to CF (Fly Ball to Deep CF)
-t5,3-1,1,"['', 'Winn', '']",1(0-0) X,R,SEA,I. Suzuki,P. Martinez,-7%,18%,Single to CF (Line Drive); Winn Scores
-t5,4-1,1,"['Suzuki', '', '']",2(1-0) BH,,SEA,S. Spiezio,P. Martinez,-2%,16%,Hit By Pitch; Suzuki to 2B
-t5,4-1,1,"['Spiezio', 'Suzuki', '']",2(0-1) C>B,,SEA,E. Martinez,P. Martinez,-3%,13%,Suzuki Steals 3B; Spiezio Steals 2B
-t5,4-1,1,"['', 'Spiezio', 'Suzuki']",4(1-2) C>B.CS,O,SEA,E. Martinez,P. Martinez,5%,18%,Strikeout Swinging
-t5,4-1,2,"['', 'Spiezio', 'Suzuki']",1(0-0) X,O,SEA,R. Ibanez,P. Martinez,4%,22%,Foul Popfly: 3B (3B Foul)
+t5,2-1,0,"______, ______, ______",2(1-0) BX,R,SEA,R. Aurilia,P. Martinez,-11%,27%,Home Run (Fly Ball)
+t5,3-1,0,"______, ______, ______",6(2-2) BBFSFS,O,SEA,P. Borders,P. Martinez,2%,29%,Strikeout Swinging
+t5,3-1,1,"______, ______, ______",4(1-2) CBCX,,SEA,R. Winn,P. Martinez,-3%,25%,Double to CF (Fly Ball to Deep CF)
+t5,3-1,1,"______, R. Winn, ______",1(0-0) X,R,SEA,I. Suzuki,P. Martinez,-7%,18%,Single to CF (Line Drive); R. Winn Scores
+t5,4-1,1,"I. Suzuki, ______, ______",2(1-0) BH,,SEA,S. Spiezio,P. Martinez,-2%,16%,Hit By Pitch; I. Suzuki to 2B
+t5,4-1,1,"S. Spiezio, I. Suzuki, ______",2(0-1) C>B,,SEA,E. Martinez,P. Martinez,-3%,13%,I. Suzuki Steals 3B; S. Spiezio Steals 2B
+t5,4-1,1,"______, S. Spiezio, I. Suzuki",4(1-2) C>B.CS,O,SEA,E. Martinez,P. Martinez,5%,18%,Strikeout Swinging
+t5,4-1,2,"______, S. Spiezio, I. Suzuki",1(0-0) X,O,SEA,R. Ibanez,P. Martinez,4%,22%,Foul Popfly: 3B (3B Foul)
 ,,,,,,,,,2 runs 3 hits 0 errors 2 LOB. Mariners 4 Red Sox 1.,2 runs 3 hits 0 errors 2 LOB. Mariners 4 Red Sox 1.,2 runs 3 hits 0 errors 2 LOB. Mariners 4 Red Sox 1.
 Bottom of the 5th Red Sox Batting Behind 1-4 Mariners' Joel Pineiro facing 6-7-8,Bottom of the 5th Red Sox Batting Behind 1-4 Mariners' Joel Pineiro facing 6-7-8,Bottom of the 5th Red Sox Batting Behind 1-4 Mariners' Joel Pineiro facing 6-7-8,,Bottom of the 5th Red Sox Batting Behind 1-4 Mariners' Joel Pineiro facing 6-7-8,Bottom of the 5th Red Sox Batting Behind 1-4 Mariners' Joel Pineiro facing 6-7-8,Bottom of the 5th Red Sox Batting Behind 1-4 Mariners' Joel Pineiro facing 6-7-8,Bottom of the 5th Red Sox Batting Behind 1-4 Mariners' Joel Pineiro facing 6-7-8,Bottom of the 5th Red Sox Batting Behind 1-4 Mariners' Joel Pineiro facing 6-7-8,Bottom of the 5th Red Sox Batting Behind 1-4 Mariners' Joel Pineiro facing 6-7-8,Bottom of the 5th Red Sox Batting Behind 1-4 Mariners' Joel Pineiro facing 6-7-8,Bottom of the 5th Red Sox Batting Behind 1-4 Mariners' Joel Pineiro facing 6-7-8
-b5,1-4,0,"['', '', '']",4(1-2) BCFX,O,BOS,J. Varitek,J. Pineiro,-3%,19%,Flyball: LF (LF Line)
-b5,1-4,1,"['', '', '']",2(1-0) BX,,BOS,K. Millar,J. Pineiro,4%,23%,Double to CF (Fly Ball)
-b5,1-4,1,"['', 'Millar', '']",1(0-0) X,R,BOS,K. Youkilis,J. Pineiro,10%,33%,Double to LF (Line Drive to LF Line); Millar Scores
-b5,2-4,1,"['', 'Youkilis', '']",4(1-2) BFFS,O,BOS,P. Reese,J. Pineiro,-5%,29%,Strikeout Swinging
-b5,2-4,2,"['', 'Youkilis', '']",7(3-2) BBCFBFB,,BOS,J. Damon,J. Pineiro,2%,30%,Walk
-b5,2-4,2,"['Damon', 'Youkilis', '']",5(3-1) CB*BBB,,BOS,M. Bellhorn,J. Pineiro,4%,35%,Walk; Youkilis to 3B; Damon to 2B
-b5,2-4,2,"['Bellhorn', 'Damon', 'Youkilis']",1(0-0) X,RRRR,BOS,D. Ortiz,J. Pineiro,42%,77%,Home Run (Fly Ball); Youkilis Scores; Damon Scores; Bellhorn Scores
-b5,6-4,2,"['', '', '']",5(2-2) CBBCX,O,BOS,M. Ramirez,J. Pineiro,-1%,76%,Flyball: LF
+b5,1-4,0,"______, ______, ______",4(1-2) BCFX,O,BOS,J. Varitek,J. Pineiro,-3%,19%,Flyball: LF (LF Line)
+b5,1-4,1,"______, ______, ______",2(1-0) BX,,BOS,K. Millar,J. Pineiro,4%,23%,Double to CF (Fly Ball)
+b5,1-4,1,"______, K. Millar, ______",1(0-0) X,R,BOS,K. Youkilis,J. Pineiro,10%,33%,Double to LF (Line Drive to LF Line); K. Millar Scores
+b5,2-4,1,"______, K. Youkilis, ______",4(1-2) BFFS,O,BOS,P. Reese,J. Pineiro,-5%,29%,Strikeout Swinging
+b5,2-4,2,"______, K. Youkilis, ______",7(3-2) BBCFBFB,,BOS,J. Damon,J. Pineiro,2%,30%,Walk
+b5,2-4,2,"J. Damon, K. Youkilis, ______",5(3-1) CB*BBB,,BOS,M. Bellhorn,J. Pineiro,4%,35%,Walk; K. Youkilis to 3B; J. Damon to 2B
+b5,2-4,2,"M. Bellhorn, J. Damon, K. Youkilis",1(0-0) X,RRRR,BOS,D. Ortiz,J. Pineiro,42%,77%,Home Run (Fly Ball); K. Youkilis Scores; J. Damon Scores; M. Bellhorn Scores
+b5,6-4,2,"______, ______, ______",5(2-2) CBBCX,O,BOS,M. Ramirez,J. Pineiro,-1%,76%,Flyball: LF
 ,,,,,,,,,5 runs 3 hits 0 errors 0 LOB. Mariners 4 Red Sox 6.,5 runs 3 hits 0 errors 0 LOB. Mariners 4 Red Sox 6.,5 runs 3 hits 0 errors 0 LOB. Mariners 4 Red Sox 6.
 Top of the 6th Mariners Batting Behind 4-6 Red Sox' Pedro Martinez facing 5-6-7,Top of the 6th Mariners Batting Behind 4-6 Red Sox' Pedro Martinez facing 5-6-7,Top of the 6th Mariners Batting Behind 4-6 Red Sox' Pedro Martinez facing 5-6-7,,Top of the 6th Mariners Batting Behind 4-6 Red Sox' Pedro Martinez facing 5-6-7,Top of the 6th Mariners Batting Behind 4-6 Red Sox' Pedro Martinez facing 5-6-7,Top of the 6th Mariners Batting Behind 4-6 Red Sox' Pedro Martinez facing 5-6-7,Top of the 6th Mariners Batting Behind 4-6 Red Sox' Pedro Martinez facing 5-6-7,Top of the 6th Mariners Batting Behind 4-6 Red Sox' Pedro Martinez facing 5-6-7,Top of the 6th Mariners Batting Behind 4-6 Red Sox' Pedro Martinez facing 5-6-7,Top of the 6th Mariners Batting Behind 4-6 Red Sox' Pedro Martinez facing 5-6-7,Top of the 6th Mariners Batting Behind 4-6 Red Sox' Pedro Martinez facing 5-6-7
-t6,4-6,0,"['', '', '']",3(0-2) SCX,,SEA,B. Boone,P. Martinez,-5%,71%,Single to CF (Ground Ball)
-t6,4-6,0,"['Boone', '', '']",6(3-2) BBBC>F11X,,SEA,J. Olerud,P. Martinez,-8%,63%,Single to RF (Fly Ball); Boone to 2B
-t6,4-6,0,"['Olerud', 'Boone', '']",5(1-2) BSMFS,O,SEA,R. Aurilia,P. Martinez,8%,71%,Strikeout Swinging
+t6,4-6,0,"______, ______, ______",3(0-2) SCX,,SEA,B. Boone,P. Martinez,-5%,71%,Single to CF (Ground Ball)
+t6,4-6,0,"B. Boone, ______, ______",6(3-2) BBBC>F11X,,SEA,J. Olerud,P. Martinez,-8%,63%,Single to RF (Fly Ball); B. Boone to 2B
+t6,4-6,0,"J. Olerud, B. Boone, ______",5(1-2) BSMFS,O,SEA,R. Aurilia,P. Martinez,8%,71%,Strikeout Swinging
 ,,,,,,,,,Dave Hansen pinch hits for Pat Borders (C) batting 8th,Dave Hansen pinch hits for Pat Borders (C) batting 8th,Dave Hansen pinch hits for Pat Borders (C) batting 8th
-t6,4-6,1,"['Olerud', 'Boone', '']",6(2-2) .CBBFFS,O,SEA,D. Hansen,P. Martinez,7%,77%,Strikeout Swinging
-t6,4-6,2,"['Olerud', 'Boone', '']",1(0-0) X,O,SEA,R. Winn,P. Martinez,6%,83%,Groundout: SS-1B
+t6,4-6,1,"J. Olerud, B. Boone, ______",6(2-2) .CBBFFS,O,SEA,D. Hansen,P. Martinez,7%,77%,Strikeout Swinging
+t6,4-6,2,"J. Olerud, B. Boone, ______",1(0-0) X,O,SEA,R. Winn,P. Martinez,6%,83%,Groundout: SS-1B
 ,,,,,,,,,0 runs 2 hits 0 errors 2 LOB. Mariners 4 Red Sox 6.,0 runs 2 hits 0 errors 2 LOB. Mariners 4 Red Sox 6.,0 runs 2 hits 0 errors 2 LOB. Mariners 4 Red Sox 6.
 Bottom of the 6th Red Sox Batting Ahead 6-4 Mariners' Joel Pineiro facing 5-6-7,Bottom of the 6th Red Sox Batting Ahead 6-4 Mariners' Joel Pineiro facing 5-6-7,Bottom of the 6th Red Sox Batting Ahead 6-4 Mariners' Joel Pineiro facing 5-6-7,,Bottom of the 6th Red Sox Batting Ahead 6-4 Mariners' Joel Pineiro facing 5-6-7,Bottom of the 6th Red Sox Batting Ahead 6-4 Mariners' Joel Pineiro facing 5-6-7,Bottom of the 6th Red Sox Batting Ahead 6-4 Mariners' Joel Pineiro facing 5-6-7,Bottom of the 6th Red Sox Batting Ahead 6-4 Mariners' Joel Pineiro facing 5-6-7,Bottom of the 6th Red Sox Batting Ahead 6-4 Mariners' Joel Pineiro facing 5-6-7,Bottom of the 6th Red Sox Batting Ahead 6-4 Mariners' Joel Pineiro facing 5-6-7,Bottom of the 6th Red Sox Batting Ahead 6-4 Mariners' Joel Pineiro facing 5-6-7,Bottom of the 6th Red Sox Batting Ahead 6-4 Mariners' Joel Pineiro facing 5-6-7
 ,,,,,,,,,Dan Wilson replaces Dave Hansen (PH) playing C batting 8th,Dan Wilson replaces Dave Hansen (PH) playing C batting 8th,Dan Wilson replaces Dave Hansen (PH) playing C batting 8th
-b6,6-4,0,"['', '', '']",4(1-2) .CCBX,,BOS,B. Daubach,J. Pineiro,2%,85%,Single to CF (Ground Ball)
-b6,6-4,0,"['Daubach', '', '']",3(2-0) BBX,OO,BOS,J. Varitek,J. Pineiro,-5%,80%,Ground Ball Double Play: 2B-SS-1B
-b6,6-4,2,"['', '', '']",7(3-2) BCBSFBS,O,BOS,K. Millar,J. Pineiro,-1%,80%,Strikeout Swinging
+b6,6-4,0,"______, ______, ______",4(1-2) .CCBX,,BOS,B. Daubach,J. Pineiro,2%,85%,Single to CF (Ground Ball)
+b6,6-4,0,"B. Daubach, ______, ______",3(2-0) BBX,OO,BOS,J. Varitek,J. Pineiro,-5%,80%,Ground Ball Double Play: 2B-SS-1B
+b6,6-4,2,"______, ______, ______",7(3-2) BCBSFBS,O,BOS,K. Millar,J. Pineiro,-1%,80%,Strikeout Swinging
 ,,,,,,,,,0 runs 1 hit 0 errors 0 LOB. Mariners 4 Red Sox 6.,0 runs 1 hit 0 errors 0 LOB. Mariners 4 Red Sox 6.,0 runs 1 hit 0 errors 0 LOB. Mariners 4 Red Sox 6.
 Top of the 7th Mariners Batting Behind 4-6 Red Sox' Pedro Martinez facing 1-2-3,Top of the 7th Mariners Batting Behind 4-6 Red Sox' Pedro Martinez facing 1-2-3,Top of the 7th Mariners Batting Behind 4-6 Red Sox' Pedro Martinez facing 1-2-3,,Top of the 7th Mariners Batting Behind 4-6 Red Sox' Pedro Martinez facing 1-2-3,Top of the 7th Mariners Batting Behind 4-6 Red Sox' Pedro Martinez facing 1-2-3,Top of the 7th Mariners Batting Behind 4-6 Red Sox' Pedro Martinez facing 1-2-3,Top of the 7th Mariners Batting Behind 4-6 Red Sox' Pedro Martinez facing 1-2-3,Top of the 7th Mariners Batting Behind 4-6 Red Sox' Pedro Martinez facing 1-2-3,Top of the 7th Mariners Batting Behind 4-6 Red Sox' Pedro Martinez facing 1-2-3,Top of the 7th Mariners Batting Behind 4-6 Red Sox' Pedro Martinez facing 1-2-3,Top of the 7th Mariners Batting Behind 4-6 Red Sox' Pedro Martinez facing 1-2-3
 ,,,,,,,,,Gabe Kapler replaces Kevin Millar playing RF batting 7th,Gabe Kapler replaces Kevin Millar playing RF batting 7th,Gabe Kapler replaces Kevin Millar playing RF batting 7th
-t7,4-6,0,"['', '', '']",6(3-2) .BCSBBX,O,SEA,I. Suzuki,P. Martinez,4%,83%,Groundout: 3B-1B
-t7,4-6,1,"['', '', '']",5(2-2) BCBSS,O,SEA,S. Spiezio,P. Martinez,3%,86%,Strikeout Swinging
-t7,4-6,2,"['', '', '']",2(0-1) CX,O,SEA,E. Martinez,P. Martinez,2%,88%,Flyball: RF
+t7,4-6,0,"______, ______, ______",6(3-2) .BCSBBX,O,SEA,I. Suzuki,P. Martinez,4%,83%,Groundout: 3B-1B
+t7,4-6,1,"______, ______, ______",5(2-2) BCBSS,O,SEA,S. Spiezio,P. Martinez,3%,86%,Strikeout Swinging
+t7,4-6,2,"______, ______, ______",2(0-1) CX,O,SEA,E. Martinez,P. Martinez,2%,88%,Flyball: RF
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Mariners 4 Red Sox 6.,0 runs 0 hits 0 errors 0 LOB. Mariners 4 Red Sox 6.,0 runs 0 hits 0 errors 0 LOB. Mariners 4 Red Sox 6.
 Bottom of the 7th Red Sox Batting Ahead 6-4 Mariners' Joel Pineiro facing 8-9-1,Bottom of the 7th Red Sox Batting Ahead 6-4 Mariners' Joel Pineiro facing 8-9-1,Bottom of the 7th Red Sox Batting Ahead 6-4 Mariners' Joel Pineiro facing 8-9-1,,Bottom of the 7th Red Sox Batting Ahead 6-4 Mariners' Joel Pineiro facing 8-9-1,Bottom of the 7th Red Sox Batting Ahead 6-4 Mariners' Joel Pineiro facing 8-9-1,Bottom of the 7th Red Sox Batting Ahead 6-4 Mariners' Joel Pineiro facing 8-9-1,Bottom of the 7th Red Sox Batting Ahead 6-4 Mariners' Joel Pineiro facing 8-9-1,Bottom of the 7th Red Sox Batting Ahead 6-4 Mariners' Joel Pineiro facing 8-9-1,Bottom of the 7th Red Sox Batting Ahead 6-4 Mariners' Joel Pineiro facing 8-9-1,Bottom of the 7th Red Sox Batting Ahead 6-4 Mariners' Joel Pineiro facing 8-9-1,Bottom of the 7th Red Sox Batting Ahead 6-4 Mariners' Joel Pineiro facing 8-9-1
-b7,6-4,0,"['', '', '']",2(1-0) BX,O,BOS,K. Youkilis,J. Pineiro,-1%,86%,Groundout: P unassisted
-b7,6-4,1,"['', '', '']",6(2-2) CBSFBX,,BOS,P. Reese,J. Pineiro,2%,88%,Double to LF (Line Drive to Deep LF Line)
+b7,6-4,0,"______, ______, ______",2(1-0) BX,O,BOS,K. Youkilis,J. Pineiro,-1%,86%,Groundout: P unassisted
+b7,6-4,1,"______, ______, ______",6(2-2) CBSFBX,,BOS,P. Reese,J. Pineiro,2%,88%,Double to LF (Line Drive to Deep LF Line)
 ,,,,,,,,,Mike Myers replaces Joel Pineiro pitching,Mike Myers replaces Joel Pineiro pitching,Mike Myers replaces Joel Pineiro pitching
-b7,6-4,1,"['', 'Reese', '']",4(3-0) .B*BBB,,BOS,J. Damon,M. Myers,1%,89%,Walk
-b7,6-4,1,"['Damon', 'Reese', '']",1(0-0) X,OO,BOS,M. Bellhorn,M. Myers,-5%,85%,Ground Ball Double Play: SS-2B-1B
+b7,6-4,1,"______, P. Reese, ______",4(3-0) .B*BBB,,BOS,J. Damon,M. Myers,1%,89%,Walk
+b7,6-4,1,"J. Damon, P. Reese, ______",1(0-0) X,OO,BOS,M. Bellhorn,M. Myers,-5%,85%,Ground Ball Double Play: SS-2B-1B
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Mariners 4 Red Sox 6.,0 runs 1 hit 0 errors 1 LOB. Mariners 4 Red Sox 6.,0 runs 1 hit 0 errors 1 LOB. Mariners 4 Red Sox 6.
 Top of the 8th Mariners Batting Behind 4-6 Red Sox' Alan Embree facing 4-5-6,Top of the 8th Mariners Batting Behind 4-6 Red Sox' Alan Embree facing 4-5-6,Top of the 8th Mariners Batting Behind 4-6 Red Sox' Alan Embree facing 4-5-6,,Top of the 8th Mariners Batting Behind 4-6 Red Sox' Alan Embree facing 4-5-6,Top of the 8th Mariners Batting Behind 4-6 Red Sox' Alan Embree facing 4-5-6,Top of the 8th Mariners Batting Behind 4-6 Red Sox' Alan Embree facing 4-5-6,Top of the 8th Mariners Batting Behind 4-6 Red Sox' Alan Embree facing 4-5-6,Top of the 8th Mariners Batting Behind 4-6 Red Sox' Alan Embree facing 4-5-6,Top of the 8th Mariners Batting Behind 4-6 Red Sox' Alan Embree facing 4-5-6,Top of the 8th Mariners Batting Behind 4-6 Red Sox' Alan Embree facing 4-5-6,Top of the 8th Mariners Batting Behind 4-6 Red Sox' Alan Embree facing 4-5-6
 ,,,,,,,,,Alan Embree replaces Pedro Martinez pitching,Alan Embree replaces Pedro Martinez pitching,Alan Embree replaces Pedro Martinez pitching
-t8,4-6,0,"['', '', '']",2(0-1) .CX,,SEA,R. Ibanez,A. Embree,-7%,78%,Single to CF (Fly Ball)
-t8,4-6,0,"['Ibanez', '', '']",1(0-0) X,OO,SEA,B. Boone,A. Embree,14%,92%,Ground Ball Double Play: SS-1B
-t8,4-6,2,"['', '', '']",4(1-2) CBFX,O,SEA,J. Olerud,A. Embree,2%,93%,Lineout: SS
+t8,4-6,0,"______, ______, ______",2(0-1) .CX,,SEA,R. Ibanez,A. Embree,-7%,78%,Single to CF (Fly Ball)
+t8,4-6,0,"R. Ibanez, ______, ______",1(0-0) X,OO,SEA,B. Boone,A. Embree,14%,92%,Ground Ball Double Play: SS-1B
+t8,4-6,2,"______, ______, ______",4(1-2) CBFX,O,SEA,J. Olerud,A. Embree,2%,93%,Lineout: SS
 ,,,,,,,,,0 runs 1 hit 0 errors 0 LOB. Mariners 4 Red Sox 6.,0 runs 1 hit 0 errors 0 LOB. Mariners 4 Red Sox 6.,0 runs 1 hit 0 errors 0 LOB. Mariners 4 Red Sox 6.
 Bottom of the 8th Red Sox Batting Ahead 6-4 Mariners' Mike Myers facing 3-4-5,Bottom of the 8th Red Sox Batting Ahead 6-4 Mariners' Mike Myers facing 3-4-5,Bottom of the 8th Red Sox Batting Ahead 6-4 Mariners' Mike Myers facing 3-4-5,,Bottom of the 8th Red Sox Batting Ahead 6-4 Mariners' Mike Myers facing 3-4-5,Bottom of the 8th Red Sox Batting Ahead 6-4 Mariners' Mike Myers facing 3-4-5,Bottom of the 8th Red Sox Batting Ahead 6-4 Mariners' Mike Myers facing 3-4-5,Bottom of the 8th Red Sox Batting Ahead 6-4 Mariners' Mike Myers facing 3-4-5,Bottom of the 8th Red Sox Batting Ahead 6-4 Mariners' Mike Myers facing 3-4-5,Bottom of the 8th Red Sox Batting Ahead 6-4 Mariners' Mike Myers facing 3-4-5,Bottom of the 8th Red Sox Batting Ahead 6-4 Mariners' Mike Myers facing 3-4-5,Bottom of the 8th Red Sox Batting Ahead 6-4 Mariners' Mike Myers facing 3-4-5
-b8,6-4,0,"['', '', '']",3(0-2) CCX,O,BOS,D. Ortiz,M. Myers,-1%,92%,Groundout: 3B-1B
+b8,6-4,0,"______, ______, ______",3(0-2) CCX,O,BOS,D. Ortiz,M. Myers,-1%,92%,Groundout: 3B-1B
 ,,,,,,,,,J.J. Putz replaces Mike Myers pitching,J.J. Putz replaces Mike Myers pitching,J.J. Putz replaces Mike Myers pitching
-b8,6-4,1,"['', '', '']",5(2-2) .BCBFX,,BOS,M. Ramirez,J. Putz,1%,93%,Single to CF (Ground Ball)
-b8,6-4,1,"['Ramirez', '', '']",12(2-2) S1FFBFFBFFFFX,,BOS,B. Daubach,J. Putz,3%,96%,Double to CF (Fly Ball to Deep CF-RF); Ramirez to 3B
+b8,6-4,1,"______, ______, ______",5(2-2) .BCBFX,,BOS,M. Ramirez,J. Putz,1%,93%,Single to CF (Ground Ball)
+b8,6-4,1,"M. Ramirez, ______, ______",12(2-2) S1FFBFFBFFFFX,,BOS,B. Daubach,J. Putz,3%,96%,Double to CF (Fly Ball to Deep CF-RF); M. Ramirez to 3B
 ,,,,,,,,,Dave McCarty pinch runs for Brian Daubach (1B) batting 5th,Dave McCarty pinch runs for Brian Daubach (1B) batting 5th,Dave McCarty pinch runs for Brian Daubach (1B) batting 5th
-b8,6-4,1,"['', 'McCarty', 'Ramirez']",4(3-0) .IIII,,BOS,J. Varitek,J. Putz,0%,96%,Intentional Walk
-b8,6-4,1,"['Varitek', 'McCarty', 'Ramirez']",3(2-0) BBX,O,BOS,G. Kapler,J. Putz,-2%,94%,Popfly: C (Front of Home)
-b8,6-4,2,"['Varitek', 'McCarty', 'Ramirez']",3(2-0) BBX,RR,BOS,K. Youkilis,J. Putz,5%,99%,Double to RF (Ground Ball thru RF Line); Ramirez Scores; McCarty Scores; Varitek to 3B
-b8,8-4,2,"['', 'Youkilis', 'Varitek']",2(1-0) BX,O,BOS,P. Reese,J. Putz,-0%,98%,Groundout: SS-1B
+b8,6-4,1,"______, McCarty, M. Ramirez",4(3-0) .IIII,,BOS,J. Varitek,J. Putz,0%,96%,Intentional Walk
+b8,6-4,1,"J. Varitek, McCarty, M. Ramirez",3(2-0) BBX,O,BOS,G. Kapler,J. Putz,-2%,94%,Popfly: C (Front of Home)
+b8,6-4,2,"J. Varitek, McCarty, M. Ramirez",3(2-0) BBX,RR,BOS,K. Youkilis,J. Putz,5%,99%,Double to RF (Ground Ball thru RF Line); M. Ramirez Scores; McCarty Scores; J. Varitek
+b8,8-4,2,"______, K. Youkilis, ______",2(1-0) BX,O,BOS,P. Reese,J. Putz,-0%,98%,Groundout: SS-1B
 ,,,,,,,,,2 runs 3 hits 0 errors 2 LOB. Mariners 4 Red Sox 8.,2 runs 3 hits 0 errors 2 LOB. Mariners 4 Red Sox 8.,2 runs 3 hits 0 errors 2 LOB. Mariners 4 Red Sox 8.
 Top of the 9th Mariners Batting Behind 4-8 Red Sox' Keith Foulke facing 7-8-9,Top of the 9th Mariners Batting Behind 4-8 Red Sox' Keith Foulke facing 7-8-9,Top of the 9th Mariners Batting Behind 4-8 Red Sox' Keith Foulke facing 7-8-9,,Top of the 9th Mariners Batting Behind 4-8 Red Sox' Keith Foulke facing 7-8-9,Top of the 9th Mariners Batting Behind 4-8 Red Sox' Keith Foulke facing 7-8-9,Top of the 9th Mariners Batting Behind 4-8 Red Sox' Keith Foulke facing 7-8-9,Top of the 9th Mariners Batting Behind 4-8 Red Sox' Keith Foulke facing 7-8-9,Top of the 9th Mariners Batting Behind 4-8 Red Sox' Keith Foulke facing 7-8-9,Top of the 9th Mariners Batting Behind 4-8 Red Sox' Keith Foulke facing 7-8-9,Top of the 9th Mariners Batting Behind 4-8 Red Sox' Keith Foulke facing 7-8-9,Top of the 9th Mariners Batting Behind 4-8 Red Sox' Keith Foulke facing 7-8-9
 ,,,,,,,,,Keith Foulke replaces Alan Embree pitchingDave McCarty moves from PR to 1B,Keith Foulke replaces Alan Embree pitchingDave McCarty moves from PR to 1B,Keith Foulke replaces Alan Embree pitchingDave McCarty moves from PR to 1B
-t9,4-8,0,"['', '', '']",8(2-2) ..BCFFBFFX,O,SEA,R. Aurilia,K. Foulke,1%,99%,Popfly: SS (Short LF Line)
-t9,4-8,1,"['', '', '']",10(3-2) BBCCBFFFFX,,SEA,D. Wilson,K. Foulke,-1%,98%,Single to CF (Line Drive)
-t9,4-8,1,"['Wilson', '', '']",5(2-2) C*BBFC,O,SEA,R. Winn,K. Foulke,1%,100%,Strikeout Looking
-t9,4-8,2,"['Wilson', '', '']",1(0-0) X,,SEA,I. Suzuki,K. Foulke,-1%,98%,Double to RF (Line Drive to Deep RF Line); Wilson to 3B
-t9,4-8,2,"['', 'Suzuki', 'Wilson']",6(2-2) CFB*BFX,O,SEA,S. Spiezio,K. Foulke,2%,100%,Foul Popfly: 3B (3B Foul)
+t9,4-8,0,"______, ______, ______",8(2-2) ..BCFFBFFX,O,SEA,R. Aurilia,K. Foulke,1%,99%,Popfly: SS (Short LF Line)
+t9,4-8,1,"______, ______, ______",10(3-2) BBCCBFFFFX,,SEA,D. Wilson,K. Foulke,-1%,98%,Single to CF (Line Drive)
+t9,4-8,1,"D. Wilson, ______, ______",5(2-2) C*BBFC,O,SEA,R. Winn,K. Foulke,1%,100%,Strikeout Looking
+t9,4-8,2,"D. Wilson, ______, ______",1(0-0) X,,SEA,I. Suzuki,K. Foulke,-1%,98%,Double to RF (Line Drive to Deep RF Line); D. Wilson to 3B
+t9,4-8,2,"______, I. Suzuki, D. Wilson",6(2-2) CFB*BFX,O,SEA,S. Spiezio,K. Foulke,2%,100%,Foul Popfly: 3B (3B Foul)
 ,,,,,,,,,0 runs 2 hits 0 errors 2 LOB. Mariners 4 Red Sox 8.,0 runs 2 hits 0 errors 2 LOB. Mariners 4 Red Sox 8.,0 runs 2 hits 0 errors 2 LOB. Mariners 4 Red Sox 8.

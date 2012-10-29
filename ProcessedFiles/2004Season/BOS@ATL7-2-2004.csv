@@ -1,164 +1,164 @@
 Inn,Score,Out,RoB,Pit(cnt)Sequence,R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
 Top of the 1st Red Sox Batting Tied 0-0 Braves' Jaret Wright facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Braves' Jaret Wright facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Braves' Jaret Wright facing 1-2-3,,Top of the 1st Red Sox Batting Tied 0-0 Braves' Jaret Wright facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Braves' Jaret Wright facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Braves' Jaret Wright facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Braves' Jaret Wright facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Braves' Jaret Wright facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Braves' Jaret Wright facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Braves' Jaret Wright facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Braves' Jaret Wright facing 1-2-3
-t1,0-0,0,"['', '', '']",4(1-2) CFBC,O,BOS,J. Damon,J. Wright,2%,52%,Strikeout Looking
-t1,0-0,1,"['', '', '']",3(1-1) CBX,O,BOS,M. Bellhorn,J. Wright,2%,54%,Groundout: 3B-1B
-t1,0-0,2,"['', '', '']",10(3-2) FBSBFFFFBX,R,BOS,D. Ortiz,J. Wright,-10%,44%,Home Run (Fly Ball)
-t1,1-0,2,"['', '', '']",7(2-2) CBCBFFC,O,BOS,M. Ramirez,J. Wright,1%,45%,Strikeout Looking
+t1,0-0,0,"______, ______, ______",4(1-2) CFBC,O,BOS,J. Damon,J. Wright,2%,52%,Strikeout Looking
+t1,0-0,1,"______, ______, ______",3(1-1) CBX,O,BOS,M. Bellhorn,J. Wright,2%,54%,Groundout: 3B-1B
+t1,0-0,2,"______, ______, ______",10(3-2) FBSBFFFFBX,R,BOS,D. Ortiz,J. Wright,-10%,44%,Home Run (Fly Ball)
+t1,1-0,2,"______, ______, ______",7(2-2) CBCBFFC,O,BOS,M. Ramirez,J. Wright,1%,45%,Strikeout Looking
 ,,,,,,,,,1 run 1 hit 0 errors 0 LOB. Red Sox 1 Braves 0.,1 run 1 hit 0 errors 0 LOB. Red Sox 1 Braves 0.,1 run 1 hit 0 errors 0 LOB. Red Sox 1 Braves 0.
 Bottom of the 1st Braves Batting Behind 0-1 Red Sox' Bronson Arroyo facing 1-2-3,Bottom of the 1st Braves Batting Behind 0-1 Red Sox' Bronson Arroyo facing 1-2-3,Bottom of the 1st Braves Batting Behind 0-1 Red Sox' Bronson Arroyo facing 1-2-3,,Bottom of the 1st Braves Batting Behind 0-1 Red Sox' Bronson Arroyo facing 1-2-3,Bottom of the 1st Braves Batting Behind 0-1 Red Sox' Bronson Arroyo facing 1-2-3,Bottom of the 1st Braves Batting Behind 0-1 Red Sox' Bronson Arroyo facing 1-2-3,Bottom of the 1st Braves Batting Behind 0-1 Red Sox' Bronson Arroyo facing 1-2-3,Bottom of the 1st Braves Batting Behind 0-1 Red Sox' Bronson Arroyo facing 1-2-3,Bottom of the 1st Braves Batting Behind 0-1 Red Sox' Bronson Arroyo facing 1-2-3,Bottom of the 1st Braves Batting Behind 0-1 Red Sox' Bronson Arroyo facing 1-2-3,Bottom of the 1st Braves Batting Behind 0-1 Red Sox' Bronson Arroyo facing 1-2-3
-b1,0-1,0,"['', '', '']",3(1-1) BCX,O,ATL,R. Furcal,B. Arroyo,-2%,43%,Popfly: SS
-b1,0-1,1,"['', '', '']",4(1-2) BSSS,O,ATL,N. Green,B. Arroyo,-2%,41%,Strikeout Swinging
-b1,0-1,2,"['', '', '']",8(3-2) BBCSFBFT,O,ATL,J. Drew,B. Arroyo,-1%,40%,Strikeout Swinging
+b1,0-1,0,"______, ______, ______",3(1-1) BCX,O,ATL,R. Furcal,B. Arroyo,-2%,43%,Popfly: SS
+b1,0-1,1,"______, ______, ______",4(1-2) BSSS,O,ATL,N. Green,B. Arroyo,-2%,41%,Strikeout Swinging
+b1,0-1,2,"______, ______, ______",8(3-2) BBCSFBFT,O,ATL,J. Drew,B. Arroyo,-1%,40%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 1 Braves 0.,0 runs 0 hits 0 errors 0 LOB. Red Sox 1 Braves 0.,0 runs 0 hits 0 errors 0 LOB. Red Sox 1 Braves 0.
 Top of the 2nd Red Sox Batting Ahead 1-0 Braves' Jaret Wright facing 5-6-7,Top of the 2nd Red Sox Batting Ahead 1-0 Braves' Jaret Wright facing 5-6-7,Top of the 2nd Red Sox Batting Ahead 1-0 Braves' Jaret Wright facing 5-6-7,,Top of the 2nd Red Sox Batting Ahead 1-0 Braves' Jaret Wright facing 5-6-7,Top of the 2nd Red Sox Batting Ahead 1-0 Braves' Jaret Wright facing 5-6-7,Top of the 2nd Red Sox Batting Ahead 1-0 Braves' Jaret Wright facing 5-6-7,Top of the 2nd Red Sox Batting Ahead 1-0 Braves' Jaret Wright facing 5-6-7,Top of the 2nd Red Sox Batting Ahead 1-0 Braves' Jaret Wright facing 5-6-7,Top of the 2nd Red Sox Batting Ahead 1-0 Braves' Jaret Wright facing 5-6-7,Top of the 2nd Red Sox Batting Ahead 1-0 Braves' Jaret Wright facing 5-6-7,Top of the 2nd Red Sox Batting Ahead 1-0 Braves' Jaret Wright facing 5-6-7
-t2,1-0,0,"['', '', '']",1(0-0) X,O,BOS,N. Garciaparra,J. Wright,2%,42%,Flyball: CF (Deep CF-RF)
-t2,1-0,1,"['', '', '']",4(2-1) CBBX,O,BOS,T. Nixon,J. Wright,2%,43%,Groundout: 2B-1B
-t2,1-0,2,"['', '', '']",2(1-0) BX,,BOS,J. Varitek,J. Wright,-1%,42%,Single to CF (Line Drive)
-t2,1-0,2,"['Varitek', '', '']",2(1-0) 1B>C,,BOS,B. Mueller,J. Wright,-1%,41%,Varitek Steals 2B
-t2,1-0,2,"['', 'Varitek', '']",4(2-1) 1B>C.BX,R,BOS,B. Mueller,J. Wright,-10%,32%,Single to RF (Line Drive); Varitek Scores; Mueller to 2B/Adv on throw
-t2,2-0,2,"['', 'Mueller', '']",1(0-0) X,O,BOS,B. Arroyo,J. Wright,3%,34%,Flyball: LF
+t2,1-0,0,"______, ______, ______",1(0-0) X,O,BOS,N. Garciaparra,J. Wright,2%,42%,Flyball: CF (Deep CF-RF)
+t2,1-0,1,"______, ______, ______",4(2-1) CBBX,O,BOS,T. Nixon,J. Wright,2%,43%,Groundout: 2B-1B
+t2,1-0,2,"______, ______, ______",2(1-0) BX,,BOS,J. Varitek,J. Wright,-1%,42%,Single to CF (Line Drive)
+t2,1-0,2,"J. Varitek, ______, ______",2(1-0) 1B>C,,BOS,B. Mueller,J. Wright,-1%,41%,J. Varitek Steals 2B
+t2,1-0,2,"______, J. Varitek, ______",4(2-1) 1B>C.BX,R,BOS,B. Mueller,J. Wright,-10%,32%,Single to RF (Line Drive); J. Varitek Scores; B. Mueller to 2B/Adv on throw
+t2,2-0,2,"______, B. Mueller, ______",1(0-0) X,O,BOS,B. Arroyo,J. Wright,3%,34%,Flyball: LF
 ,,,,,,,,,1 run 2 hits 0 errors 1 LOB. Red Sox 2 Braves 0.,1 run 2 hits 0 errors 1 LOB. Red Sox 2 Braves 0.,1 run 2 hits 0 errors 1 LOB. Red Sox 2 Braves 0.
 Bottom of the 2nd Braves Batting Behind 0-2 Red Sox' Bronson Arroyo facing 4-5-6,Bottom of the 2nd Braves Batting Behind 0-2 Red Sox' Bronson Arroyo facing 4-5-6,Bottom of the 2nd Braves Batting Behind 0-2 Red Sox' Bronson Arroyo facing 4-5-6,,Bottom of the 2nd Braves Batting Behind 0-2 Red Sox' Bronson Arroyo facing 4-5-6,Bottom of the 2nd Braves Batting Behind 0-2 Red Sox' Bronson Arroyo facing 4-5-6,Bottom of the 2nd Braves Batting Behind 0-2 Red Sox' Bronson Arroyo facing 4-5-6,Bottom of the 2nd Braves Batting Behind 0-2 Red Sox' Bronson Arroyo facing 4-5-6,Bottom of the 2nd Braves Batting Behind 0-2 Red Sox' Bronson Arroyo facing 4-5-6,Bottom of the 2nd Braves Batting Behind 0-2 Red Sox' Bronson Arroyo facing 4-5-6,Bottom of the 2nd Braves Batting Behind 0-2 Red Sox' Bronson Arroyo facing 4-5-6,Bottom of the 2nd Braves Batting Behind 0-2 Red Sox' Bronson Arroyo facing 4-5-6
-b2,0-2,0,"['', '', '']",2(1-0) BX,R,ATL,C. Jones,B. Arroyo,10%,44%,Home Run (Fly Ball)
-b2,1-2,0,"['', '', '']",4(1-2) CBCX,O,ATL,J. Estrada,B. Arroyo,-3%,42%,Lineout: 2B
-b2,1-2,1,"['', '', '']",6(2-2) CBCFBX,O,ATL,A. LaRoche,B. Arroyo,-2%,40%,Groundout: 1B-P
-b2,1-2,2,"['', '', '']",5(3-1) BSBBB,,ATL,A. Jones,B. Arroyo,1%,42%,Walk
-b2,1-2,2,"['Jones', '', '']",3(1-1) BFH,,ATL,C. Thomas,B. Arroyo,2%,44%,Hit By Pitch; Jones to 2B
-b2,1-2,2,"['Thomas', 'Jones', '']",1(0-0) X,O,ATL,J. Wright,B. Arroyo,-5%,39%,Flyball: RF
+b2,0-2,0,"______, ______, ______",2(1-0) BX,R,ATL,C. Jones,B. Arroyo,10%,44%,Home Run (Fly Ball)
+b2,1-2,0,"______, ______, ______",4(1-2) CBCX,O,ATL,J. Estrada,B. Arroyo,-3%,42%,Lineout: 2B
+b2,1-2,1,"______, ______, ______",6(2-2) CBCFBX,O,ATL,A. LaRoche,B. Arroyo,-2%,40%,Groundout: 1B-P
+b2,1-2,2,"______, ______, ______",5(3-1) BSBBB,,ATL,A. Jones,B. Arroyo,1%,42%,Walk
+b2,1-2,2,"A. Jones, ______, ______",3(1-1) BFH,,ATL,C. Thomas,B. Arroyo,2%,44%,Hit By Pitch; C. A. Jones to 2B
+b2,1-2,2,"C. Thomas, A. Jones, ______",1(0-0) X,O,ATL,J. Wright,B. Arroyo,-5%,39%,Flyball: RF
 ,,,,,,,,,1 run 1 hit 0 errors 2 LOB. Red Sox 2 Braves 1.,1 run 1 hit 0 errors 2 LOB. Red Sox 2 Braves 1.,1 run 1 hit 0 errors 2 LOB. Red Sox 2 Braves 1.
 Top of the 3rd Red Sox Batting Ahead 2-1 Braves' Jaret Wright facing 1-2-3,Top of the 3rd Red Sox Batting Ahead 2-1 Braves' Jaret Wright facing 1-2-3,Top of the 3rd Red Sox Batting Ahead 2-1 Braves' Jaret Wright facing 1-2-3,,Top of the 3rd Red Sox Batting Ahead 2-1 Braves' Jaret Wright facing 1-2-3,Top of the 3rd Red Sox Batting Ahead 2-1 Braves' Jaret Wright facing 1-2-3,Top of the 3rd Red Sox Batting Ahead 2-1 Braves' Jaret Wright facing 1-2-3,Top of the 3rd Red Sox Batting Ahead 2-1 Braves' Jaret Wright facing 1-2-3,Top of the 3rd Red Sox Batting Ahead 2-1 Braves' Jaret Wright facing 1-2-3,Top of the 3rd Red Sox Batting Ahead 2-1 Braves' Jaret Wright facing 1-2-3,Top of the 3rd Red Sox Batting Ahead 2-1 Braves' Jaret Wright facing 1-2-3,Top of the 3rd Red Sox Batting Ahead 2-1 Braves' Jaret Wright facing 1-2-3
-t3,2-1,0,"['', '', '']",7(3-2) BBCFFBX,O,BOS,J. Damon,J. Wright,2%,41%,Flyball: RF (Deep RF)
-t3,2-1,1,"['', '', '']",3(1-1) CBX,O,BOS,M. Bellhorn,J. Wright,2%,43%,Groundout: 1B unassisted
-t3,2-1,2,"['', '', '']",4(1-2) FFBX,O,BOS,D. Ortiz,J. Wright,1%,44%,Lineout: RF (Deep RF)
+t3,2-1,0,"______, ______, ______",7(3-2) BBCFFBX,O,BOS,J. Damon,J. Wright,2%,41%,Flyball: RF (Deep RF)
+t3,2-1,1,"______, ______, ______",3(1-1) CBX,O,BOS,M. Bellhorn,J. Wright,2%,43%,Groundout: 1B unassisted
+t3,2-1,2,"______, ______, ______",4(1-2) FFBX,O,BOS,D. Ortiz,J. Wright,1%,44%,Lineout: RF (Deep RF)
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 2 Braves 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 2 Braves 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 2 Braves 1.
 Bottom of the 3rd Braves Batting Behind 1-2 Red Sox' Bronson Arroyo facing 1-2-3,Bottom of the 3rd Braves Batting Behind 1-2 Red Sox' Bronson Arroyo facing 1-2-3,Bottom of the 3rd Braves Batting Behind 1-2 Red Sox' Bronson Arroyo facing 1-2-3,,Bottom of the 3rd Braves Batting Behind 1-2 Red Sox' Bronson Arroyo facing 1-2-3,Bottom of the 3rd Braves Batting Behind 1-2 Red Sox' Bronson Arroyo facing 1-2-3,Bottom of the 3rd Braves Batting Behind 1-2 Red Sox' Bronson Arroyo facing 1-2-3,Bottom of the 3rd Braves Batting Behind 1-2 Red Sox' Bronson Arroyo facing 1-2-3,Bottom of the 3rd Braves Batting Behind 1-2 Red Sox' Bronson Arroyo facing 1-2-3,Bottom of the 3rd Braves Batting Behind 1-2 Red Sox' Bronson Arroyo facing 1-2-3,Bottom of the 3rd Braves Batting Behind 1-2 Red Sox' Bronson Arroyo facing 1-2-3,Bottom of the 3rd Braves Batting Behind 1-2 Red Sox' Bronson Arroyo facing 1-2-3
-b3,1-2,0,"['', '', '']",1(0-0) X,O,ATL,R. Furcal,B. Arroyo,-3%,41%,Groundout: 1B unassisted
-b3,1-2,1,"['', '', '']",5(2-2) CBBCS,O,ATL,N. Green,B. Arroyo,-2%,39%,Strikeout Swinging
-b3,1-2,2,"['', '', '']",1(0-0) X,R,ATL,J. Drew,B. Arroyo,12%,51%,Home Run (Fly Ball)
-b3,2-2,2,"['', '', '']",4(2-1) BCBX,O,ATL,C. Jones,B. Arroyo,-1%,50%,Groundout: 1B-P
+b3,1-2,0,"______, ______, ______",1(0-0) X,O,ATL,R. Furcal,B. Arroyo,-3%,41%,Groundout: 1B unassisted
+b3,1-2,1,"______, ______, ______",5(2-2) CBBCS,O,ATL,N. Green,B. Arroyo,-2%,39%,Strikeout Swinging
+b3,1-2,2,"______, ______, ______",1(0-0) X,R,ATL,J. Drew,B. Arroyo,12%,51%,Home Run (Fly Ball)
+b3,2-2,2,"______, ______, ______",4(2-1) BCBX,O,ATL,C. Jones,B. Arroyo,-1%,50%,Groundout: 1B-P
 ,,,,,,,,,1 run 1 hit 0 errors 0 LOB. Red Sox 2 Braves 2.,1 run 1 hit 0 errors 0 LOB. Red Sox 2 Braves 2.,1 run 1 hit 0 errors 0 LOB. Red Sox 2 Braves 2.
 Top of the 4th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 4-5-6,Top of the 4th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 4-5-6,Top of the 4th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 4-5-6,,Top of the 4th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 4-5-6,Top of the 4th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 4-5-6,Top of the 4th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 4-5-6,Top of the 4th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 4-5-6,Top of the 4th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 4-5-6,Top of the 4th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 4-5-6,Top of the 4th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 4-5-6,Top of the 4th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 4-5-6
-t4,2-2,0,"['', '', '']",6(3-2) CBTBBB,,BOS,M. Ramirez,J. Wright,-4%,46%,Walk
-t4,2-2,0,"['Ramirez', '', '']",2(1-0) BX,,BOS,N. Garciaparra,J. Wright,-6%,39%,Single to LF (Ground Ball); Ramirez to 2B
-t4,2-2,0,"['Garciaparra', 'Ramirez', '']",2(0-1) FX,OO,BOS,T. Nixon,J. Wright,12%,52%,Ground Ball Double Play: 1B-SS-P; Ramirez to 3B
-t4,2-2,2,"['', '', 'Ramirez']",4(1-2) TBCC,O,BOS,J. Varitek,J. Wright,5%,56%,Strikeout Looking
+t4,2-2,0,"______, ______, ______",6(3-2) CBTBBB,,BOS,M. Ramirez,J. Wright,-4%,46%,Walk
+t4,2-2,0,"M. Ramirez, ______, ______",2(1-0) BX,,BOS,N. Garciaparra,J. Wright,-6%,39%,Single to LF (Ground Ball); M. Ramirez to 2B
+t4,2-2,0,"N. Garciaparra, M. Ramirez, ______",2(0-1) FX,OO,BOS,T. Nixon,J. Wright,12%,52%,Ground Ball Double Play: 1B-SS-P; M. Ramirez to 3B
+t4,2-2,2,"______, ______, M. Ramirez",4(1-2) TBCC,O,BOS,J. Varitek,J. Wright,5%,56%,Strikeout Looking
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Red Sox 2 Braves 2.,0 runs 1 hit 0 errors 1 LOB. Red Sox 2 Braves 2.,0 runs 1 hit 0 errors 1 LOB. Red Sox 2 Braves 2.
 Bottom of the 4th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 5-6-7,Bottom of the 4th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 5-6-7,Bottom of the 4th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 5-6-7,,Bottom of the 4th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 5-6-7,Bottom of the 4th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 5-6-7,Bottom of the 4th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 5-6-7,Bottom of the 4th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 5-6-7,Bottom of the 4th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 5-6-7,Bottom of the 4th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 5-6-7,Bottom of the 4th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 5-6-7,Bottom of the 4th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 5-6-7
-b4,2-2,0,"['', '', '']",1(0-0) X,O,ATL,J. Estrada,B. Arroyo,-3%,53%,Flyball: CF (Deep CF)
-b4,2-2,1,"['', '', '']",6(2-2) BCCFBX,O,ATL,A. LaRoche,B. Arroyo,-2%,51%,Flyball: LF
-b4,2-2,2,"['', '', '']",2(1-0) BX,O,ATL,A. Jones,B. Arroyo,-1%,50%,Lineout: RF
+b4,2-2,0,"______, ______, ______",1(0-0) X,O,ATL,J. Estrada,B. Arroyo,-3%,53%,Flyball: CF (Deep CF)
+b4,2-2,1,"______, ______, ______",6(2-2) BCCFBX,O,ATL,A. LaRoche,B. Arroyo,-2%,51%,Flyball: LF
+b4,2-2,2,"______, ______, ______",2(1-0) BX,O,ATL,A. Jones,B. Arroyo,-1%,50%,Lineout: RF
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 2 Braves 2.,0 runs 0 hits 0 errors 0 LOB. Red Sox 2 Braves 2.,0 runs 0 hits 0 errors 0 LOB. Red Sox 2 Braves 2.
 Top of the 5th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 8-9-1,Top of the 5th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 8-9-1,Top of the 5th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 8-9-1,,Top of the 5th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 8-9-1,Top of the 5th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 8-9-1,Top of the 5th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 8-9-1,Top of the 5th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 8-9-1,Top of the 5th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 8-9-1,Top of the 5th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 8-9-1,Top of the 5th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 8-9-1,Top of the 5th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 8-9-1
-t5,2-2,0,"['', '', '']",10(3-2) CCBBFFBFFX,O,BOS,B. Mueller,J. Wright,3%,53%,Foul Flyball: LF (LF Foul)
-t5,2-2,1,"['', '', '']",3(0-2) CCS,O,BOS,B. Arroyo,J. Wright,2%,55%,Strikeout Swinging
-t5,2-2,2,"['', '', '']",3(0-2) FCS,O,BOS,J. Damon,J. Wright,1%,57%,Strikeout Swinging
+t5,2-2,0,"______, ______, ______",10(3-2) CCBBFFBFFX,O,BOS,B. Mueller,J. Wright,3%,53%,Foul Flyball: LF (LF Foul)
+t5,2-2,1,"______, ______, ______",3(0-2) CCS,O,BOS,B. Arroyo,J. Wright,2%,55%,Strikeout Swinging
+t5,2-2,2,"______, ______, ______",3(0-2) FCS,O,BOS,J. Damon,J. Wright,1%,57%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 2 Braves 2.,0 runs 0 hits 0 errors 0 LOB. Red Sox 2 Braves 2.,0 runs 0 hits 0 errors 0 LOB. Red Sox 2 Braves 2.
 Bottom of the 5th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 8-9-1,Bottom of the 5th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 8-9-1,Bottom of the 5th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 8-9-1,,Bottom of the 5th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 8-9-1,Bottom of the 5th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 8-9-1,Bottom of the 5th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 8-9-1,Bottom of the 5th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 8-9-1,Bottom of the 5th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 8-9-1,Bottom of the 5th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 8-9-1,Bottom of the 5th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 8-9-1,Bottom of the 5th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 8-9-1
-b5,2-2,0,"['', '', '']",3(1-1) CBX,,ATL,C. Thomas,B. Arroyo,8%,65%,Double to CF (Fly Ball to Deep CF)
-b5,2-2,0,"['', 'Thomas', '']",1(0-0) X,O,ATL,J. Wright,B. Arroyo,-8%,57%,Fielder's Choice C; Thomas out at 3B/C-3B
-b5,2-2,1,"['Wright', '', '']",3(1-1) BCX,,ATL,R. Furcal,B. Arroyo,5%,61%,Single to CF (Line Drive); Wright to 2B
-b5,2-2,1,"['Furcal', 'Wright', '']",4(1-2) SBFS,O,ATL,N. Green,B. Arroyo,-6%,56%,Strikeout Swinging
-b5,2-2,2,"['Furcal', 'Wright', '']",5(3-1) BBBCB,,ATL,J. Drew,B. Arroyo,4%,59%,Walk; Wright to 3B; Furcal to 2B
-b5,2-2,2,"['Drew', 'Furcal', 'Wright']",2(1-0) BX,O,ATL,C. Jones,B. Arroyo,-9%,50%,Flyball: LF (Deep LF)
+b5,2-2,0,"______, ______, ______",3(1-1) CBX,,ATL,C. Thomas,B. Arroyo,8%,65%,Double to CF (Fly Ball to Deep CF)
+b5,2-2,0,"______, C. Thomas, ______",1(0-0) X,O,ATL,J. Wright,B. Arroyo,-8%,57%,Fielder's Choice C; C. Thomas out at 3B/C-3B
+b5,2-2,1,"J. Wright, ______, ______",3(1-1) BCX,,ATL,R. Furcal,B. Arroyo,5%,61%,Single to CF (Line Drive); J. Wright to 2B
+b5,2-2,1,"R. Furcal, J. Wright, ______",4(1-2) SBFS,O,ATL,N. Green,B. Arroyo,-6%,56%,Strikeout Swinging
+b5,2-2,2,"R. Furcal, J. Wright, ______",5(3-1) BBBCB,,ATL,J. Drew,B. Arroyo,4%,59%,Walk; J. Wright to 3B; R. Furcal to 2B
+b5,2-2,2,"J. Drew, R. Furcal, J. Wright",2(1-0) BX,O,ATL,C. Jones,B. Arroyo,-9%,50%,Flyball: LF (Deep LF)
 ,,,,,,,,,0 runs 2 hits 0 errors 3 LOB. Red Sox 2 Braves 2.,0 runs 2 hits 0 errors 3 LOB. Red Sox 2 Braves 2.,0 runs 2 hits 0 errors 3 LOB. Red Sox 2 Braves 2.
 Top of the 6th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 2-3-4,Top of the 6th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 2-3-4,Top of the 6th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 2-3-4,,Top of the 6th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 2-3-4,Top of the 6th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 2-3-4,Top of the 6th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 2-3-4,Top of the 6th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 2-3-4,Top of the 6th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 2-3-4,Top of the 6th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 2-3-4,Top of the 6th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 2-3-4,Top of the 6th Red Sox Batting Tied 2-2 Braves' Jaret Wright facing 2-3-4
-t6,2-2,0,"['', '', '']",5(2-2) CFBBC,O,BOS,M. Bellhorn,J. Wright,3%,53%,Strikeout Looking
-t6,2-2,1,"['', '', '']",7(2-2) FFBFFBX,O,BOS,D. Ortiz,J. Wright,2%,56%,Groundout: 1B unassisted
-t6,2-2,2,"['', '', '']",8(3-2) BCCBBFFS,O,BOS,M. Ramirez,J. Wright,2%,58%,Strikeout Swinging
+t6,2-2,0,"______, ______, ______",5(2-2) CFBBC,O,BOS,M. Bellhorn,J. Wright,3%,53%,Strikeout Looking
+t6,2-2,1,"______, ______, ______",7(2-2) FFBFFBX,O,BOS,D. Ortiz,J. Wright,2%,56%,Groundout: 1B unassisted
+t6,2-2,2,"______, ______, ______",8(3-2) BCCBBFFS,O,BOS,M. Ramirez,J. Wright,2%,58%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 2 Braves 2.,0 runs 0 hits 0 errors 0 LOB. Red Sox 2 Braves 2.,0 runs 0 hits 0 errors 0 LOB. Red Sox 2 Braves 2.
 Bottom of the 6th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 5-6-7,Bottom of the 6th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 5-6-7,Bottom of the 6th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 5-6-7,,Bottom of the 6th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 5-6-7,Bottom of the 6th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 5-6-7,Bottom of the 6th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 5-6-7,Bottom of the 6th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 5-6-7,Bottom of the 6th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 5-6-7,Bottom of the 6th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 5-6-7,Bottom of the 6th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 5-6-7,Bottom of the 6th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 5-6-7
-b6,2-2,0,"['', '', '']",3(1-1) BCX,O,ATL,J. Estrada,B. Arroyo,-3%,54%,Lineout: 3B
-b6,2-2,1,"['', '', '']",2(0-1) CX,,ATL,A. LaRoche,B. Arroyo,4%,58%,Single to RF (Line Drive)
-b6,2-2,1,"['LaRoche', '', '']",2(0-1) CX,OO,ATL,A. Jones,B. Arroyo,-8%,50%,Ground Ball Double Play: P-2B-1B
+b6,2-2,0,"______, ______, ______",3(1-1) BCX,O,ATL,J. Estrada,B. Arroyo,-3%,54%,Lineout: 3B
+b6,2-2,1,"______, ______, ______",2(0-1) CX,,ATL,A. LaRoche,B. Arroyo,4%,58%,Single to RF (Line Drive)
+b6,2-2,1,"A. LaRoche, ______, ______",2(0-1) CX,OO,ATL,A. Jones,B. Arroyo,-8%,50%,Ground Ball Double Play: P-2B-1B
 ,,,,,,,,,0 runs 1 hit 0 errors 0 LOB. Red Sox 2 Braves 2.,0 runs 1 hit 0 errors 0 LOB. Red Sox 2 Braves 2.,0 runs 1 hit 0 errors 0 LOB. Red Sox 2 Braves 2.
 Top of the 7th Red Sox Batting Tied 2-2 Braves' Antonio Alfonseca facing 5-6-7,Top of the 7th Red Sox Batting Tied 2-2 Braves' Antonio Alfonseca facing 5-6-7,Top of the 7th Red Sox Batting Tied 2-2 Braves' Antonio Alfonseca facing 5-6-7,,Top of the 7th Red Sox Batting Tied 2-2 Braves' Antonio Alfonseca facing 5-6-7,Top of the 7th Red Sox Batting Tied 2-2 Braves' Antonio Alfonseca facing 5-6-7,Top of the 7th Red Sox Batting Tied 2-2 Braves' Antonio Alfonseca facing 5-6-7,Top of the 7th Red Sox Batting Tied 2-2 Braves' Antonio Alfonseca facing 5-6-7,Top of the 7th Red Sox Batting Tied 2-2 Braves' Antonio Alfonseca facing 5-6-7,Top of the 7th Red Sox Batting Tied 2-2 Braves' Antonio Alfonseca facing 5-6-7,Top of the 7th Red Sox Batting Tied 2-2 Braves' Antonio Alfonseca facing 5-6-7,Top of the 7th Red Sox Batting Tied 2-2 Braves' Antonio Alfonseca facing 5-6-7
 ,,,,,,,,,Antonio Alfonseca replaces Jaret Wright pitching and batting 9th,Antonio Alfonseca replaces Jaret Wright pitching and batting 9th,Antonio Alfonseca replaces Jaret Wright pitching and batting 9th
-t7,2-2,0,"['', '', '']",3(1-1) .BCX,,BOS,N. Garciaparra,A. Alfonseca,-6%,44%,Single to RF (Fly Ball)
-t7,2-2,0,"['Garciaparra', '', '']",4(1-2) 1FB>F11C,O,BOS,T. Nixon,A. Alfonseca,6%,50%,Strikeout Looking
-t7,2-2,1,"['Garciaparra', '', '']",2(0-1) 1C1X,OO,BOS,J. Varitek,A. Alfonseca,9%,59%,Ground Ball Double Play: 2B-SS-1B
+t7,2-2,0,"______, ______, ______",3(1-1) .BCX,,BOS,N. Garciaparra,A. Alfonseca,-6%,44%,Single to RF (Fly Ball)
+t7,2-2,0,"N. Garciaparra, ______, ______",4(1-2) 1FB>F11C,O,BOS,T. Nixon,A. Alfonseca,6%,50%,Strikeout Looking
+t7,2-2,1,"N. Garciaparra, ______, ______",2(0-1) 1C1X,OO,BOS,J. Varitek,A. Alfonseca,9%,59%,Ground Ball Double Play: 2B-SS-1B
 ,,,,,,,,,0 runs 1 hit 0 errors 0 LOB. Red Sox 2 Braves 2.,0 runs 1 hit 0 errors 0 LOB. Red Sox 2 Braves 2.,0 runs 1 hit 0 errors 0 LOB. Red Sox 2 Braves 2.
 Bottom of the 7th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 8-9-1,Bottom of the 7th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 8-9-1,Bottom of the 7th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 8-9-1,,Bottom of the 7th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 8-9-1,Bottom of the 7th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 8-9-1,Bottom of the 7th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 8-9-1,Bottom of the 7th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 8-9-1,Bottom of the 7th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 8-9-1,Bottom of the 7th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 8-9-1,Bottom of the 7th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 8-9-1,Bottom of the 7th Braves Batting Tied 2-2 Red Sox' Bronson Arroyo facing 8-9-1
-b7,2-2,0,"['', '', '']",3(1-1) FBX,O,ATL,C. Thomas,B. Arroyo,-4%,55%,Groundout: 2B-1B
+b7,2-2,0,"______, ______, ______",3(1-1) FBX,O,ATL,C. Thomas,B. Arroyo,-4%,55%,Groundout: 2B-1B
 ,,,,,,,,,Eli Marrero pinch hits for Antonio Alfonseca (P) batting 9th,Eli Marrero pinch hits for Antonio Alfonseca (P) batting 9th,Eli Marrero pinch hits for Antonio Alfonseca (P) batting 9th
-b7,2-2,1,"['', '', '']",2(0-1) .SX,O,ATL,E. Marrero,B. Arroyo,-3%,52%,Groundout: 3B-1B
-b7,2-2,2,"['', '', '']",5(2-2) BBCCC,O,ATL,R. Furcal,B. Arroyo,-2%,50%,Strikeout Looking
+b7,2-2,1,"______, ______, ______",2(0-1) .SX,O,ATL,E. Marrero,B. Arroyo,-3%,52%,Groundout: 3B-1B
+b7,2-2,2,"______, ______, ______",5(2-2) BBCCC,O,ATL,R. Furcal,B. Arroyo,-2%,50%,Strikeout Looking
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 2 Braves 2.,0 runs 0 hits 0 errors 0 LOB. Red Sox 2 Braves 2.,0 runs 0 hits 0 errors 0 LOB. Red Sox 2 Braves 2.
 Top of the 8th Red Sox Batting Tied 2-2 Braves' Chris Reitsma facing 8-9-1,Top of the 8th Red Sox Batting Tied 2-2 Braves' Chris Reitsma facing 8-9-1,Top of the 8th Red Sox Batting Tied 2-2 Braves' Chris Reitsma facing 8-9-1,,Top of the 8th Red Sox Batting Tied 2-2 Braves' Chris Reitsma facing 8-9-1,Top of the 8th Red Sox Batting Tied 2-2 Braves' Chris Reitsma facing 8-9-1,Top of the 8th Red Sox Batting Tied 2-2 Braves' Chris Reitsma facing 8-9-1,Top of the 8th Red Sox Batting Tied 2-2 Braves' Chris Reitsma facing 8-9-1,Top of the 8th Red Sox Batting Tied 2-2 Braves' Chris Reitsma facing 8-9-1,Top of the 8th Red Sox Batting Tied 2-2 Braves' Chris Reitsma facing 8-9-1,Top of the 8th Red Sox Batting Tied 2-2 Braves' Chris Reitsma facing 8-9-1,Top of the 8th Red Sox Batting Tied 2-2 Braves' Chris Reitsma facing 8-9-1
 ,,,,,,,,,Chris Reitsma replaces Eli Marrero (PH) pitching and batting 9th,Chris Reitsma replaces Eli Marrero (PH) pitching and batting 9th,Chris Reitsma replaces Eli Marrero (PH) pitching and batting 9th
-t8,2-2,0,"['', '', '']",2(0-1) .CX,,BOS,B. Mueller,C. Reitsma,-7%,43%,Single to CF (Ground Ball)
+t8,2-2,0,"______, ______, ______",2(0-1) .CX,,BOS,B. Mueller,C. Reitsma,-7%,43%,Single to CF (Ground Ball)
 ,,,,,,,,,Kevin Youkilis pinch hits for Bronson Arroyo (P) batting 9thPokey Reese pinch runs for Bill Mueller (3B) batting 8th,Kevin Youkilis pinch hits for Bronson Arroyo (P) batting 9thPokey Reese pinch runs for Bill Mueller (3B) batting 8th,Kevin Youkilis pinch hits for Bronson Arroyo (P) batting 9thPokey Reese pinch runs for Bill Mueller (3B) batting 8th
-t8,2-2,0,"['Reese', '', '']",4(2-1) ..1B1BC>T,O,BOS,K. Youkilis,C. Reitsma,12%,55%,Reese Caught Stealing 2B (C-2B)
-t8,2-2,1,"['', '', '']",6(3-2) ..1B1BC>T.BB,,BOS,K. Youkilis,C. Reitsma,-5%,50%,Walk
-t8,2-2,1,"['Youkilis', '', '']",6(3-2) BB1BC>F>X,,BOS,J. Damon,C. Reitsma,-7%,43%,Reached on E4 (Ground Ball); Youkilis to 2B; Damon to 1B
-t8,2-2,1,"['Damon', 'Youkilis', '']",3(1-1) BSX,,BOS,M. Bellhorn,C. Reitsma,-11%,32%,Single to LF (Line Drive); Youkilis to 3B; Damon to 2B
-t8,2-2,1,"['Bellhorn', 'Damon', 'Youkilis']",3(1-1) SBX,O,BOS,D. Ortiz,C. Reitsma,14%,47%,Flyball: LF
-t8,2-2,2,"['Bellhorn', 'Damon', 'Youkilis']",3(0-2) CCC,O,BOS,M. Ramirez,C. Reitsma,14%,61%,Strikeout Looking
+t8,2-2,0,"Reese, ______, ______",4(2-1) ..1B1BC>T,O,BOS,K. Youkilis,C. Reitsma,12%,55%,Reese Caught Stealing 2B (C-2B)
+t8,2-2,1,"______, ______, ______",6(3-2) ..1B1BC>T.BB,,BOS,K. Youkilis,C. Reitsma,-5%,50%,Walk
+t8,2-2,1,"K. Youkilis, ______, ______",6(3-2) BB1BC>F>X,,BOS,J. Damon,C. Reitsma,-7%,43%,Reached on E4 (Ground Ball); K. Youkilis to 2B; J. Damon to 1B
+t8,2-2,1,"J. Damon, K. Youkilis, ______",3(1-1) BSX,,BOS,M. Bellhorn,C. Reitsma,-11%,32%,Single to LF (Line Drive); K. Youkilis to 3B; J. Damon to 2B
+t8,2-2,1,"M. Bellhorn, J. Damon, K. Youkilis",3(1-1) SBX,O,BOS,D. Ortiz,C. Reitsma,14%,47%,Flyball: LF
+t8,2-2,2,"M. Bellhorn, J. Damon, K. Youkilis",3(0-2) CCC,O,BOS,M. Ramirez,C. Reitsma,14%,61%,Strikeout Looking
 ,,,,,,,,,0 runs 2 hits 1 error 3 LOB. Red Sox 2 Braves 2.,0 runs 2 hits 1 error 3 LOB. Red Sox 2 Braves 2.,0 runs 2 hits 1 error 3 LOB. Red Sox 2 Braves 2.
 Bottom of the 8th Braves Batting Tied 2-2 Red Sox' Alan Embree facing 2-3-4,Bottom of the 8th Braves Batting Tied 2-2 Red Sox' Alan Embree facing 2-3-4,Bottom of the 8th Braves Batting Tied 2-2 Red Sox' Alan Embree facing 2-3-4,,Bottom of the 8th Braves Batting Tied 2-2 Red Sox' Alan Embree facing 2-3-4,Bottom of the 8th Braves Batting Tied 2-2 Red Sox' Alan Embree facing 2-3-4,Bottom of the 8th Braves Batting Tied 2-2 Red Sox' Alan Embree facing 2-3-4,Bottom of the 8th Braves Batting Tied 2-2 Red Sox' Alan Embree facing 2-3-4,Bottom of the 8th Braves Batting Tied 2-2 Red Sox' Alan Embree facing 2-3-4,Bottom of the 8th Braves Batting Tied 2-2 Red Sox' Alan Embree facing 2-3-4,Bottom of the 8th Braves Batting Tied 2-2 Red Sox' Alan Embree facing 2-3-4,Bottom of the 8th Braves Batting Tied 2-2 Red Sox' Alan Embree facing 2-3-4
 ,,,,,,,,,Alan Embree replaces Kevin Youkilis (PH) pitching and batting 9thPokey Reese moves from PR to 2BMark Bellhorn moves from 2B to 3B,Alan Embree replaces Kevin Youkilis (PH) pitching and batting 9thPokey Reese moves from PR to 2BMark Bellhorn moves from 2B to 3B,Alan Embree replaces Kevin Youkilis (PH) pitching and batting 9thPokey Reese moves from PR to 2BMark Bellhorn moves from 2B to 3B
-b8,2-2,0,"['', '', '']",2(1-0) ...BX,O,ATL,N. Green,A. Embree,-5%,56%,Groundout: 3B-1B
-b8,2-2,1,"['', '', '']",5(2-2) CBBFS,O,ATL,J. Drew,A. Embree,-4%,53%,Strikeout Swinging
-b8,2-2,2,"['', '', '']",3(1-1) FBX,O,ATL,C. Jones,A. Embree,-3%,50%,Flyball: RF
+b8,2-2,0,"______, ______, ______",2(1-0) ...BX,O,ATL,N. Green,A. Embree,-5%,56%,Groundout: 3B-1B
+b8,2-2,1,"______, ______, ______",5(2-2) CBBFS,O,ATL,J. Drew,A. Embree,-4%,53%,Strikeout Swinging
+b8,2-2,2,"______, ______, ______",3(1-1) FBX,O,ATL,C. Jones,A. Embree,-3%,50%,Flyball: RF
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 2 Braves 2.,0 runs 0 hits 0 errors 0 LOB. Red Sox 2 Braves 2.,0 runs 0 hits 0 errors 0 LOB. Red Sox 2 Braves 2.
 Top of the 9th Red Sox Batting Tied 2-2 Braves' John Smoltz facing 5-6-7,Top of the 9th Red Sox Batting Tied 2-2 Braves' John Smoltz facing 5-6-7,Top of the 9th Red Sox Batting Tied 2-2 Braves' John Smoltz facing 5-6-7,,Top of the 9th Red Sox Batting Tied 2-2 Braves' John Smoltz facing 5-6-7,Top of the 9th Red Sox Batting Tied 2-2 Braves' John Smoltz facing 5-6-7,Top of the 9th Red Sox Batting Tied 2-2 Braves' John Smoltz facing 5-6-7,Top of the 9th Red Sox Batting Tied 2-2 Braves' John Smoltz facing 5-6-7,Top of the 9th Red Sox Batting Tied 2-2 Braves' John Smoltz facing 5-6-7,Top of the 9th Red Sox Batting Tied 2-2 Braves' John Smoltz facing 5-6-7,Top of the 9th Red Sox Batting Tied 2-2 Braves' John Smoltz facing 5-6-7,Top of the 9th Red Sox Batting Tied 2-2 Braves' John Smoltz facing 5-6-7
 ,,,,,,,,,John Smoltz replaces Chris Reitsma pitching and batting 9th,John Smoltz replaces Chris Reitsma pitching and batting 9th,John Smoltz replaces Chris Reitsma pitching and batting 9th
-t9,2-2,0,"['', '', '']",4(2-1) .SBBX,,BOS,N. Garciaparra,J. Smoltz,-8%,42%,Single to LF (Line Drive)
-t9,2-2,0,"['Garciaparra', '', '']",1(0-0) B,,BOS,T. Nixon,J. Smoltz,-9%,33%,Wild Pitch; Garciaparra to 2B
-t9,2-2,0,"['', 'Garciaparra', '']",7(3-2) B.BBCTFS,O,BOS,T. Nixon,J. Smoltz,11%,44%,Strikeout Swinging
-t9,2-2,1,"['', 'Garciaparra', '']",1(0-0) X,O,BOS,J. Varitek,J. Smoltz,9%,54%,Foul Flyball: LF (LF Foul)
-t9,2-2,2,"['', 'Garciaparra', '']",6(3-2) BFBSBB,,BOS,P. Reese,J. Smoltz,-1%,53%,Walk
+t9,2-2,0,"______, ______, ______",4(2-1) .SBBX,,BOS,N. Garciaparra,J. Smoltz,-8%,42%,Single to LF (Line Drive)
+t9,2-2,0,"N. Garciaparra, ______, ______",1(0-0) B,,BOS,T. Nixon,J. Smoltz,-9%,33%,Wild Pitch; N. Garciaparra to 2B
+t9,2-2,0,"______, N. Garciaparra, ______",7(3-2) B.BBCTFS,O,BOS,T. Nixon,J. Smoltz,11%,44%,Strikeout Swinging
+t9,2-2,1,"______, N. Garciaparra, ______",1(0-0) X,O,BOS,J. Varitek,J. Smoltz,9%,54%,Foul Flyball: LF (LF Foul)
+t9,2-2,2,"______, N. Garciaparra, ______",6(3-2) BFBSBB,,BOS,P. Reese,J. Smoltz,-1%,53%,Walk
 ,,,,,,,,,Kevin Millar pinch hits for Alan Embree (P) batting 9th,Kevin Millar pinch hits for Alan Embree (P) batting 9th,Kevin Millar pinch hits for Alan Embree (P) batting 9th
-t9,2-2,2,"['Reese', 'Garciaparra', '']",4(1-2) .CFBS,O,BOS,K. Millar,J. Smoltz,12%,64%,Strikeout Swinging
+t9,2-2,2,"P. Reese, N. Garciaparra, ______",4(1-2) .CFBS,O,BOS,K. Millar,J. Smoltz,12%,64%,Strikeout Swinging
 ,,,,,,,,,0 runs 1 hit 0 errors 2 LOB. Red Sox 2 Braves 2.,0 runs 1 hit 0 errors 2 LOB. Red Sox 2 Braves 2.,0 runs 1 hit 0 errors 2 LOB. Red Sox 2 Braves 2.
 Bottom of the 9th Braves Batting Tied 2-2 Red Sox' Mike Timlin facing 5-6-7,Bottom of the 9th Braves Batting Tied 2-2 Red Sox' Mike Timlin facing 5-6-7,Bottom of the 9th Braves Batting Tied 2-2 Red Sox' Mike Timlin facing 5-6-7,,Bottom of the 9th Braves Batting Tied 2-2 Red Sox' Mike Timlin facing 5-6-7,Bottom of the 9th Braves Batting Tied 2-2 Red Sox' Mike Timlin facing 5-6-7,Bottom of the 9th Braves Batting Tied 2-2 Red Sox' Mike Timlin facing 5-6-7,Bottom of the 9th Braves Batting Tied 2-2 Red Sox' Mike Timlin facing 5-6-7,Bottom of the 9th Braves Batting Tied 2-2 Red Sox' Mike Timlin facing 5-6-7,Bottom of the 9th Braves Batting Tied 2-2 Red Sox' Mike Timlin facing 5-6-7,Bottom of the 9th Braves Batting Tied 2-2 Red Sox' Mike Timlin facing 5-6-7,Bottom of the 9th Braves Batting Tied 2-2 Red Sox' Mike Timlin facing 5-6-7
 ,,,,,,,,,Mike Timlin replaces Kevin Millar (PH) pitching and batting 9th,Mike Timlin replaces Kevin Millar (PH) pitching and batting 9th,Mike Timlin replaces Kevin Millar (PH) pitching and batting 9th
-b9,2-2,0,"['', '', '']",3(2-0) .BBX,,ATL,J. Estrada,M. Timlin,7%,72%,Single to CF (Line Drive)
+b9,2-2,0,"______, ______, ______",3(2-0) .BBX,,ATL,J. Estrada,M. Timlin,7%,72%,Single to CF (Line Drive)
 ,,,,,,,,,Jesse Garcia pinch runs for Johnny Estrada (C) batting 5th,Jesse Garcia pinch runs for Johnny Estrada (C) batting 5th,Jesse Garcia pinch runs for Johnny Estrada (C) batting 5th
-b9,2-2,0,"['Garcia', '', '']",1(0-0) .X,O,ATL,A. LaRoche,M. Timlin,-1%,70%,Bunt Groundout: C-1B/Sacrifice (Front of Home); Garcia to 2B
-b9,2-2,1,"['', 'Garcia', '']",4(3-0) IIII,,ATL,A. Jones,M. Timlin,1%,71%,Intentional Walk
-b9,2-2,1,"['Jones', 'Garcia', '']",4(2-1) *BBFX,O,ATL,C. Thomas,M. Timlin,-7%,64%,Groundout: 1B-P; Garcia to 3B; Jones to 2B
+b9,2-2,0,"Garcia, ______, ______",1(0-0) .X,O,ATL,A. LaRoche,M. Timlin,-1%,70%,Bunt Groundout: C-1B/Sacrifice (Front of Home); Garcia to 2B
+b9,2-2,1,"______, Garcia, ______",4(3-0) IIII,,ATL,A. Jones,M. Timlin,1%,71%,Intentional Walk
+b9,2-2,1,"A. Jones, Garcia, ______",4(2-1) *BBFX,O,ATL,C. Thomas,M. Timlin,-7%,64%,Groundout: 1B-P; Garcia to 3B; C. A. Jones to 2B
 ,,,,,,,,,Julio Franco pinch hits for John Smoltz (P) batting 9th,Julio Franco pinch hits for John Smoltz (P) batting 9th,Julio Franco pinch hits for John Smoltz (P) batting 9th
-b9,2-2,2,"['', 'Jones', 'Garcia']",3(1-1) .BCX,O,ATL,J. Franco,M. Timlin,-14%,50%,Groundout: SS-1B
+b9,2-2,2,"______, A. Jones, Garcia",3(1-1) .BCX,O,ATL,J. Franco,M. Timlin,-14%,50%,Groundout: SS-1B
 ,,,,,,,,,0 runs 1 hit 0 errors 2 LOB. Red Sox 2 Braves 2.,0 runs 1 hit 0 errors 2 LOB. Red Sox 2 Braves 2.,0 runs 1 hit 0 errors 2 LOB. Red Sox 2 Braves 2.
 Top of the 10th Red Sox Batting Tied 2-2 Braves' Sam McConnell facing 1-2-3,Top of the 10th Red Sox Batting Tied 2-2 Braves' Sam McConnell facing 1-2-3,Top of the 10th Red Sox Batting Tied 2-2 Braves' Sam McConnell facing 1-2-3,,Top of the 10th Red Sox Batting Tied 2-2 Braves' Sam McConnell facing 1-2-3,Top of the 10th Red Sox Batting Tied 2-2 Braves' Sam McConnell facing 1-2-3,Top of the 10th Red Sox Batting Tied 2-2 Braves' Sam McConnell facing 1-2-3,Top of the 10th Red Sox Batting Tied 2-2 Braves' Sam McConnell facing 1-2-3,Top of the 10th Red Sox Batting Tied 2-2 Braves' Sam McConnell facing 1-2-3,Top of the 10th Red Sox Batting Tied 2-2 Braves' Sam McConnell facing 1-2-3,Top of the 10th Red Sox Batting Tied 2-2 Braves' Sam McConnell facing 1-2-3,Top of the 10th Red Sox Batting Tied 2-2 Braves' Sam McConnell facing 1-2-3
 ,,,,,,,,,Sam McConnell replaces Julio Franco (PH) pitching and batting 9thEddie Perez replaces Jesse Garcia (PR) playing C batting 5th,Sam McConnell replaces Julio Franco (PH) pitching and batting 9thEddie Perez replaces Jesse Garcia (PR) playing C batting 5th,Sam McConnell replaces Julio Franco (PH) pitching and batting 9thEddie Perez replaces Jesse Garcia (PR) playing C batting 5th
-t10,2-2,0,"['', '', '']",5(1-2) ..BFCFX,,BOS,J. Damon,S. McConnell,-8%,42%,Single to RF (Line Drive to Deep RF)
-t10,2-2,0,"['Damon', '', '']",3(1-1) BLX,O,BOS,M. Bellhorn,S. McConnell,3%,44%,Bunt Groundout: C-2B/Sacrifice (Front of Home); Damon to 2B
-t10,2-2,1,"['', 'Damon', '']",4(3-0) IIII,,BOS,D. Ortiz,S. McConnell,-2%,42%,Intentional Walk
+t10,2-2,0,"______, ______, ______",5(1-2) ..BFCFX,,BOS,J. Damon,S. McConnell,-8%,42%,Single to RF (Line Drive to Deep RF)
+t10,2-2,0,"J. Damon, ______, ______",3(1-1) BLX,O,BOS,M. Bellhorn,S. McConnell,3%,44%,Bunt Groundout: C-2B/Sacrifice (Front of Home); J. Damon to 2B
+t10,2-2,1,"______, J. Damon, ______",4(3-0) IIII,,BOS,D. Ortiz,S. McConnell,-2%,42%,Intentional Walk
 ,,,,,,,,,Kevin Gryboski replaces Sam McConnell pitching and batting 9th,Kevin Gryboski replaces Sam McConnell pitching and batting 9th,Kevin Gryboski replaces Sam McConnell pitching and batting 9th
-t10,2-2,1,"['Ortiz', 'Damon', '']",4(1-2) .BFFX,R,BOS,M. Ramirez,K. Gryboski,-28%,14%,Single to CF (Ground Ball); Damon Scores; Ortiz to 2B
-t10,3-2,1,"['Ramirez', 'Ortiz', '']",3(1-1) FBX,OO,BOS,N. Garciaparra,K. Gryboski,7%,21%,Ground Ball Double Play: 3B-2B-1B
+t10,2-2,1,"D. Ortiz, J. Damon, ______",4(1-2) .BFFX,R,BOS,M. Ramirez,K. Gryboski,-28%,14%,Single to CF (Ground Ball); J. Damon Scores; D. Ortiz to 2B
+t10,3-2,1,"M. Ramirez, D. Ortiz, ______",3(1-1) FBX,OO,BOS,N. Garciaparra,K. Gryboski,7%,21%,Ground Ball Double Play: 3B-2B-1B
 ,,,,,,,,,1 run 2 hits 0 errors 1 LOB. Red Sox 3 Braves 2.,1 run 2 hits 0 errors 1 LOB. Red Sox 3 Braves 2.,1 run 2 hits 0 errors 1 LOB. Red Sox 3 Braves 2.
 Bottom of the 10th Braves Batting Behind 2-3 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 10th Braves Batting Behind 2-3 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 10th Braves Batting Behind 2-3 Red Sox' Keith Foulke facing 1-2-3,,Bottom of the 10th Braves Batting Behind 2-3 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 10th Braves Batting Behind 2-3 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 10th Braves Batting Behind 2-3 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 10th Braves Batting Behind 2-3 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 10th Braves Batting Behind 2-3 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 10th Braves Batting Behind 2-3 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 10th Braves Batting Behind 2-3 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 10th Braves Batting Behind 2-3 Red Sox' Keith Foulke facing 1-2-3
 ,,,,,,,,,Keith Foulke replaces David Ortiz (1B) pitching and batting 3rdDave McCarty replaces Mike Timlin (P) playing 1B batting 9th,Keith Foulke replaces David Ortiz (1B) pitching and batting 3rdDave McCarty replaces Mike Timlin (P) playing 1B batting 9th,Keith Foulke replaces David Ortiz (1B) pitching and batting 3rdDave McCarty replaces Mike Timlin (P) playing 1B batting 9th
-b10,2-3,0,"['', '', '']",3(1-1) ..BCX,,ATL,R. Furcal,K. Foulke,24%,45%,Double to LF (Fly Ball to Deep LF Line)
-b10,2-3,0,"['', 'Furcal', '']",1(0-0) B,,ATL,N. Green,K. Foulke,14%,59%,Wild Pitch; Furcal to 3B
-b10,2-3,0,"['', '', 'Furcal']",5(2-2) B.CSBX,RO,ATL,N. Green,K. Foulke,-1%,58%,Flyball: CF/Sacrifice Fly (Deep CF); Furcal Scores
-b10,3-3,1,"['', '', '']",6(2-2) CCBBFS,O,ATL,J. Drew,K. Foulke,-5%,54%,Strikeout Swinging
-b10,3-3,2,"['', '', '']",4(1-2) CBFC,O,ATL,C. Jones,K. Foulke,-4%,50%,Strikeout Looking
+b10,2-3,0,"______, ______, ______",3(1-1) ..BCX,,ATL,R. Furcal,K. Foulke,24%,45%,Double to LF (Fly Ball to Deep LF Line)
+b10,2-3,0,"______, R. Furcal, ______",1(0-0) B,,ATL,N. Green,K. Foulke,14%,59%,Wild Pitch; R. Furcal to 3B
+b10,2-3,0,"______, ______, R. Furcal",5(2-2) B.CSBX,RO,ATL,N. Green,K. Foulke,-1%,58%,Flyball: CF/Sacrifice Fly (Deep CF); R. Furcal Scores
+b10,3-3,1,"______, ______, ______",6(2-2) CCBBFS,O,ATL,J. Drew,K. Foulke,-5%,54%,Strikeout Swinging
+b10,3-3,2,"______, ______, ______",4(1-2) CBFC,O,ATL,C. Jones,K. Foulke,-4%,50%,Strikeout Looking
 ,,,,,,,,,1 run 1 hit 0 errors 0 LOB. Red Sox 3 Braves 3.,1 run 1 hit 0 errors 0 LOB. Red Sox 3 Braves 3.,1 run 1 hit 0 errors 0 LOB. Red Sox 3 Braves 3.
 Top of the 11th Red Sox Batting Tied 3-3 Braves' Juan Cruz facing 6-7-8,Top of the 11th Red Sox Batting Tied 3-3 Braves' Juan Cruz facing 6-7-8,Top of the 11th Red Sox Batting Tied 3-3 Braves' Juan Cruz facing 6-7-8,,Top of the 11th Red Sox Batting Tied 3-3 Braves' Juan Cruz facing 6-7-8,Top of the 11th Red Sox Batting Tied 3-3 Braves' Juan Cruz facing 6-7-8,Top of the 11th Red Sox Batting Tied 3-3 Braves' Juan Cruz facing 6-7-8,Top of the 11th Red Sox Batting Tied 3-3 Braves' Juan Cruz facing 6-7-8,Top of the 11th Red Sox Batting Tied 3-3 Braves' Juan Cruz facing 6-7-8,Top of the 11th Red Sox Batting Tied 3-3 Braves' Juan Cruz facing 6-7-8,Top of the 11th Red Sox Batting Tied 3-3 Braves' Juan Cruz facing 6-7-8,Top of the 11th Red Sox Batting Tied 3-3 Braves' Juan Cruz facing 6-7-8
 ,,,,,,,,,Juan Cruz replaces Chipper Jones (3B) pitching and batting 4thMark DeRosa replaces Kevin Gryboski (P) playing 3B batting 9th,Juan Cruz replaces Chipper Jones (3B) pitching and batting 4thMark DeRosa replaces Kevin Gryboski (P) playing 3B batting 9th,Juan Cruz replaces Chipper Jones (3B) pitching and batting 4thMark DeRosa replaces Kevin Gryboski (P) playing 3B batting 9th
-t11,3-3,0,"['', '', '']",2(1-0) ..BX,O,BOS,T. Nixon,J. Cruz,6%,56%,Foul Popfly: C (3B Foul)
-t11,3-3,1,"['', '', '']",5(2-2) CFBBS,O,BOS,J. Varitek,J. Cruz,5%,61%,Strikeout Swinging
-t11,3-3,2,"['', '', '']",1(0-0) X,O,BOS,P. Reese,J. Cruz,4%,64%,Groundout: SS-1B
+t11,3-3,0,"______, ______, ______",2(1-0) ..BX,O,BOS,T. Nixon,J. Cruz,6%,56%,Foul Popfly: C (3B Foul)
+t11,3-3,1,"______, ______, ______",5(2-2) CFBBS,O,BOS,J. Varitek,J. Cruz,5%,61%,Strikeout Swinging
+t11,3-3,2,"______, ______, ______",1(0-0) X,O,BOS,P. Reese,J. Cruz,4%,64%,Groundout: SS-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 3 Braves 3.,0 runs 0 hits 0 errors 0 LOB. Red Sox 3 Braves 3.,0 runs 0 hits 0 errors 0 LOB. Red Sox 3 Braves 3.
 Bottom of the 11th Braves Batting Tied 3-3 Red Sox' Anastacio Martinez facing 5-6-7,Bottom of the 11th Braves Batting Tied 3-3 Red Sox' Anastacio Martinez facing 5-6-7,Bottom of the 11th Braves Batting Tied 3-3 Red Sox' Anastacio Martinez facing 5-6-7,,Bottom of the 11th Braves Batting Tied 3-3 Red Sox' Anastacio Martinez facing 5-6-7,Bottom of the 11th Braves Batting Tied 3-3 Red Sox' Anastacio Martinez facing 5-6-7,Bottom of the 11th Braves Batting Tied 3-3 Red Sox' Anastacio Martinez facing 5-6-7,Bottom of the 11th Braves Batting Tied 3-3 Red Sox' Anastacio Martinez facing 5-6-7,Bottom of the 11th Braves Batting Tied 3-3 Red Sox' Anastacio Martinez facing 5-6-7,Bottom of the 11th Braves Batting Tied 3-3 Red Sox' Anastacio Martinez facing 5-6-7,Bottom of the 11th Braves Batting Tied 3-3 Red Sox' Anastacio Martinez facing 5-6-7,Bottom of the 11th Braves Batting Tied 3-3 Red Sox' Anastacio Martinez facing 5-6-7
 ,,,,,,,,,Anastacio Martinez replaces Trot Nixon (RF) pitching and batting 6thGabe Kapler replaces Keith Foulke (P) playing RF batting 3rd,Anastacio Martinez replaces Trot Nixon (RF) pitching and batting 6thGabe Kapler replaces Keith Foulke (P) playing RF batting 3rd,Anastacio Martinez replaces Trot Nixon (RF) pitching and batting 6thGabe Kapler replaces Keith Foulke (P) playing RF batting 3rd
-b11,3-3,0,"['', '', '']",1(0-0) ..X,O,ATL,E. Perez,A. Martinez,-6%,58%,Foul Popfly: C (3B Foul)
-b11,3-3,1,"['', '', '']",3(2-0) BBX,,ATL,A. LaRoche,A. Martinez,6%,64%,Single to RF (Line Drive)
-b11,3-3,1,"['LaRoche', '', '']",6(3-2) FBBCB1S,O,ATL,A. Jones,A. Martinez,-7%,57%,Strikeout Swinging
-b11,3-3,2,"['LaRoche', '', '']",5(2-2) BBCFX,O,ATL,C. Thomas,A. Martinez,-7%,50%,Groundout: SS unassisted/Forceout at 2B
+b11,3-3,0,"______, ______, ______",1(0-0) ..X,O,ATL,E. Perez,A. Martinez,-6%,58%,Foul Popfly: C (3B Foul)
+b11,3-3,1,"______, ______, ______",3(2-0) BBX,,ATL,A. LaRoche,A. Martinez,6%,64%,Single to RF (Line Drive)
+b11,3-3,1,"A. LaRoche, ______, ______",6(3-2) FBBCB1S,O,ATL,A. Jones,A. Martinez,-7%,57%,Strikeout Swinging
+b11,3-3,2,"A. LaRoche, ______, ______",5(2-2) BBCFX,O,ATL,C. Thomas,A. Martinez,-7%,50%,Groundout: SS unassisted/Forceout at 2B
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Red Sox 3 Braves 3.,0 runs 1 hit 0 errors 1 LOB. Red Sox 3 Braves 3.,0 runs 1 hit 0 errors 1 LOB. Red Sox 3 Braves 3.
 Top of the 12th Red Sox Batting Tied 3-3 Braves' Juan Cruz facing 9-1-2,Top of the 12th Red Sox Batting Tied 3-3 Braves' Juan Cruz facing 9-1-2,Top of the 12th Red Sox Batting Tied 3-3 Braves' Juan Cruz facing 9-1-2,,Top of the 12th Red Sox Batting Tied 3-3 Braves' Juan Cruz facing 9-1-2,Top of the 12th Red Sox Batting Tied 3-3 Braves' Juan Cruz facing 9-1-2,Top of the 12th Red Sox Batting Tied 3-3 Braves' Juan Cruz facing 9-1-2,Top of the 12th Red Sox Batting Tied 3-3 Braves' Juan Cruz facing 9-1-2,Top of the 12th Red Sox Batting Tied 3-3 Braves' Juan Cruz facing 9-1-2,Top of the 12th Red Sox Batting Tied 3-3 Braves' Juan Cruz facing 9-1-2,Top of the 12th Red Sox Batting Tied 3-3 Braves' Juan Cruz facing 9-1-2,Top of the 12th Red Sox Batting Tied 3-3 Braves' Juan Cruz facing 9-1-2
-t12,3-3,0,"['', '', '']",3(0-2) SSS,O,BOS,D. McCarty,J. Cruz,6%,56%,Strikeout Swinging
-t12,3-3,1,"['', '', '']",7(3-2) BBCBCFB,,BOS,J. Damon,J. Cruz,-6%,50%,Walk
-t12,3-3,1,"['Damon', '', '']",5(3-1) 1BBB1C>B,,BOS,M. Bellhorn,J. Cruz,-8%,42%,Walk; Damon to 2B
-t12,3-3,1,"['Bellhorn', 'Damon', '']",4(1-2) BCCT,O,BOS,G. Kapler,J. Cruz,11%,53%,Strikeout Swinging
-t12,3-3,2,"['Bellhorn', 'Damon', '']",4(1-2) FSBS,O,BOS,M. Ramirez,J. Cruz,12%,64%,Strikeout Swinging
+t12,3-3,0,"______, ______, ______",3(0-2) SSS,O,BOS,D. McCarty,J. Cruz,6%,56%,Strikeout Swinging
+t12,3-3,1,"______, ______, ______",7(3-2) BBCBCFB,,BOS,J. Damon,J. Cruz,-6%,50%,Walk
+t12,3-3,1,"J. Damon, ______, ______",5(3-1) 1BBB1C>B,,BOS,M. Bellhorn,J. Cruz,-8%,42%,Walk; J. Damon to 2B
+t12,3-3,1,"M. Bellhorn, J. Damon, ______",4(1-2) BCCT,O,BOS,G. Kapler,J. Cruz,11%,53%,Strikeout Swinging
+t12,3-3,2,"M. Bellhorn, J. Damon, ______",4(1-2) FSBS,O,BOS,M. Ramirez,J. Cruz,12%,64%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 2 LOB. Red Sox 3 Braves 3.,0 runs 0 hits 0 errors 2 LOB. Red Sox 3 Braves 3.,0 runs 0 hits 0 errors 2 LOB. Red Sox 3 Braves 3.
 Bottom of the 12th Braves Batting Tied 3-3 Red Sox' Anastacio Martinez facing 9-1-2,Bottom of the 12th Braves Batting Tied 3-3 Red Sox' Anastacio Martinez facing 9-1-2,Bottom of the 12th Braves Batting Tied 3-3 Red Sox' Anastacio Martinez facing 9-1-2,,Bottom of the 12th Braves Batting Tied 3-3 Red Sox' Anastacio Martinez facing 9-1-2,Bottom of the 12th Braves Batting Tied 3-3 Red Sox' Anastacio Martinez facing 9-1-2,Bottom of the 12th Braves Batting Tied 3-3 Red Sox' Anastacio Martinez facing 9-1-2,Bottom of the 12th Braves Batting Tied 3-3 Red Sox' Anastacio Martinez facing 9-1-2,Bottom of the 12th Braves Batting Tied 3-3 Red Sox' Anastacio Martinez facing 9-1-2,Bottom of the 12th Braves Batting Tied 3-3 Red Sox' Anastacio Martinez facing 9-1-2,Bottom of the 12th Braves Batting Tied 3-3 Red Sox' Anastacio Martinez facing 9-1-2,Bottom of the 12th Braves Batting Tied 3-3 Red Sox' Anastacio Martinez facing 9-1-2
-b12,3-3,0,"['', '', '']",2(1-0) BX,,ATL,M. DeRosa,A. Martinez,7%,72%,Single to CF (Line Drive)
-b12,3-3,0,"['DeRosa', '', '']",5(2-2) 1BCB11LX,,ATL,R. Furcal,A. Martinez,21%,93%,Double to CF (Line Drive to Deep CF); DeRosa to 3B
-b12,3-3,0,"['', 'Furcal', 'DeRosa']",3(1-1) CBX,RRR,ATL,N. Green,A. Martinez,7%,100%,Home Run (Fly Ball); DeRosa Scores; Furcal Scores
+b12,3-3,0,"______, ______, ______",2(1-0) BX,,ATL,M. DeRosa,A. Martinez,7%,72%,Single to CF (Line Drive)
+b12,3-3,0,"M. DeRosa, ______, ______",5(2-2) 1BCB11LX,,ATL,R. Furcal,A. Martinez,21%,93%,Double to CF (Line Drive to Deep CF); M. DeRosa to 3B
+b12,3-3,0,"______, R. Furcal, M. DeRosa",3(1-1) CBX,RRR,ATL,N. Green,A. Martinez,7%,100%,Home Run (Fly Ball); M. DeRosa Scores; R. Furcal Scores
 ,,,,,,,,,3 runs 3 hits 0 errors 0 LOB. Red Sox 3 Braves 6.,3 runs 3 hits 0 errors 0 LOB. Red Sox 3 Braves 6.,3 runs 3 hits 0 errors 0 LOB. Red Sox 3 Braves 6.

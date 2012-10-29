@@ -1,133 +1,133 @@
 Inn,Score,Out,RoB,Pit(cnt)Sequence,R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
 Top of the 1st Red Sox Batting Tied 0-0 Blue Jays' Miguel Batista facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Blue Jays' Miguel Batista facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Blue Jays' Miguel Batista facing 1-2-3,,Top of the 1st Red Sox Batting Tied 0-0 Blue Jays' Miguel Batista facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Blue Jays' Miguel Batista facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Blue Jays' Miguel Batista facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Blue Jays' Miguel Batista facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Blue Jays' Miguel Batista facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Blue Jays' Miguel Batista facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Blue Jays' Miguel Batista facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Blue Jays' Miguel Batista facing 1-2-3
-t1,0-0,0,"['', '', '']",4(2-1) BCBX,O,BOS,J. Damon,M. Batista,2%,52%,Flyball: CF (Deep CF)
-t1,0-0,1,"['', '', '']",3(2-0) BBX,,BOS,M. Bellhorn,M. Batista,-2%,50%,Single to CF (Line Drive)
-t1,0-0,1,"['Bellhorn', '', '']",4(3-0) BBBB,,BOS,D. Ortiz,M. Batista,-3%,47%,Walk; Bellhorn to 2B
-t1,0-0,1,"['Ortiz', 'Bellhorn', '']",6(2-2) CBFBFC,O,BOS,M. Ramirez,M. Batista,4%,51%,Strikeout Looking
-t1,0-0,2,"['Ortiz', 'Bellhorn', '']",4(1-2) TBFS,O,BOS,J. Varitek,M. Batista,4%,55%,Strikeout Swinging
+t1,0-0,0,"______, ______, ______",4(2-1) BCBX,O,BOS,J. Damon,M. Batista,2%,52%,Flyball: CF (Deep CF)
+t1,0-0,1,"______, ______, ______",3(2-0) BBX,,BOS,M. Bellhorn,M. Batista,-2%,50%,Single to CF (Line Drive)
+t1,0-0,1,"M. Bellhorn, ______, ______",4(3-0) BBBB,,BOS,D. Ortiz,M. Batista,-3%,47%,Walk; M. Bellhorn to 2B
+t1,0-0,1,"D. Ortiz, M. Bellhorn, ______",6(2-2) CBFBFC,O,BOS,M. Ramirez,M. Batista,4%,51%,Strikeout Looking
+t1,0-0,2,"D. Ortiz, M. Bellhorn, ______",4(1-2) TBFS,O,BOS,J. Varitek,M. Batista,4%,55%,Strikeout Swinging
 ,,,,,,,,,0 runs 1 hit 0 errors 2 LOB. Red Sox 0 Blue Jays 0.,0 runs 1 hit 0 errors 2 LOB. Red Sox 0 Blue Jays 0.,0 runs 1 hit 0 errors 2 LOB. Red Sox 0 Blue Jays 0.
 Bottom of the 1st Blue Jays Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Blue Jays Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Blue Jays Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,,Bottom of the 1st Blue Jays Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Blue Jays Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Blue Jays Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Blue Jays Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Blue Jays Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Blue Jays Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Blue Jays Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Blue Jays Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3
-b1,0-0,0,"['', '', '']",3(1-1) CBX,,TOR,O. Hudson,C. Schilling,6%,61%,Double to RF (Line Drive to Deep RF)
-b1,0-0,0,"['', 'Hudson', '']",5(2-2) BFTBX,R,TOR,F. Catalanotto,C. Schilling,8%,69%,Double to LF (Line Drive to LF-CF); Hudson Scores
-b1,1-0,0,"['', 'Catalanotto', '']",5(3-1) BBSBB,,TOR,V. Wells,C. Schilling,2%,71%,Walk
-b1,1-0,0,"['Wells', 'Catalanotto', '']",5(3-1) BBCBB,,TOR,C. Delgado,C. Schilling,5%,77%,Walk; Catalanotto to 3B; Wells to 2B
-b1,1-0,0,"['Delgado', 'Wells', 'Catalanotto']",2(1-0) BX,OO,TOR,J. Phelps,C. Schilling,-12%,65%,Ground Ball Double Play: P-C-1B; Wells to 3B; Delgado to 2B
-b1,1-0,2,"['', 'Delgado', 'Wells']",6(2-2) FSFBBX,O,TOR,E. Hinske,C. Schilling,-5%,60%,Flyball: CF
+b1,0-0,0,"______, ______, ______",3(1-1) CBX,,TOR,O. Hudson,C. Schilling,6%,61%,Double to RF (Line Drive to Deep RF)
+b1,0-0,0,"______, O. Hudson, ______",5(2-2) BFTBX,R,TOR,F. Catalanotto,C. Schilling,8%,69%,Double to LF (Line Drive to LF-CF); O. Hudson Scores
+b1,1-0,0,"______, F. Catalanotto, ______",5(3-1) BBSBB,,TOR,V. Wells,C. Schilling,2%,71%,Walk
+b1,1-0,0,"V. Wells, F. Catalanotto, ______",5(3-1) BBCBB,,TOR,C. Delgado,C. Schilling,5%,77%,Walk; F. Catalanotto to 3B; V. Wells to 2B
+b1,1-0,0,"C. Delgado, V. Wells, F. Catalanotto",2(1-0) BX,OO,TOR,J. Phelps,C. Schilling,-12%,65%,Ground Ball Double Play: P-C-1B; V. Wells to 3B; C. Delgado to 2B
+b1,1-0,2,"______, C. Delgado, V. Wells",6(2-2) FSFBBX,O,TOR,E. Hinske,C. Schilling,-5%,60%,Flyball: CF
 ,,,,,,,,,1 run 2 hits 0 errors 2 LOB. Red Sox 0 Blue Jays 1.,1 run 2 hits 0 errors 2 LOB. Red Sox 0 Blue Jays 1.,1 run 2 hits 0 errors 2 LOB. Red Sox 0 Blue Jays 1.
 Top of the 2nd Red Sox Batting Behind 0-1 Blue Jays' Miguel Batista facing 6-7-8,Top of the 2nd Red Sox Batting Behind 0-1 Blue Jays' Miguel Batista facing 6-7-8,Top of the 2nd Red Sox Batting Behind 0-1 Blue Jays' Miguel Batista facing 6-7-8,,Top of the 2nd Red Sox Batting Behind 0-1 Blue Jays' Miguel Batista facing 6-7-8,Top of the 2nd Red Sox Batting Behind 0-1 Blue Jays' Miguel Batista facing 6-7-8,Top of the 2nd Red Sox Batting Behind 0-1 Blue Jays' Miguel Batista facing 6-7-8,Top of the 2nd Red Sox Batting Behind 0-1 Blue Jays' Miguel Batista facing 6-7-8,Top of the 2nd Red Sox Batting Behind 0-1 Blue Jays' Miguel Batista facing 6-7-8,Top of the 2nd Red Sox Batting Behind 0-1 Blue Jays' Miguel Batista facing 6-7-8,Top of the 2nd Red Sox Batting Behind 0-1 Blue Jays' Miguel Batista facing 6-7-8,Top of the 2nd Red Sox Batting Behind 0-1 Blue Jays' Miguel Batista facing 6-7-8
-t2,0-1,0,"['', '', '']",3(1-1) CBX,O,BOS,K. Millar,M. Batista,3%,62%,Groundout: SS-1B
-t2,0-1,1,"['', '', '']",5(3-1) CBBBX,O,BOS,B. Daubach,M. Batista,2%,64%,Groundout: 1B unassisted
-t2,0-1,2,"['', '', '']",3(0-2) FFX,O,BOS,C. Crespo,M. Batista,1%,65%,Groundout: SS-1B
+t2,0-1,0,"______, ______, ______",3(1-1) CBX,O,BOS,K. Millar,M. Batista,3%,62%,Groundout: SS-1B
+t2,0-1,1,"______, ______, ______",5(3-1) CBBBX,O,BOS,B. Daubach,M. Batista,2%,64%,Groundout: 1B unassisted
+t2,0-1,2,"______, ______, ______",3(0-2) FFX,O,BOS,C. Crespo,M. Batista,1%,65%,Groundout: SS-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Blue Jays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Blue Jays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Blue Jays 1.
 Bottom of the 2nd Blue Jays Batting Ahead 1-0 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 2nd Blue Jays Batting Ahead 1-0 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 2nd Blue Jays Batting Ahead 1-0 Red Sox' Curt Schilling facing 7-8-9,,Bottom of the 2nd Blue Jays Batting Ahead 1-0 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 2nd Blue Jays Batting Ahead 1-0 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 2nd Blue Jays Batting Ahead 1-0 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 2nd Blue Jays Batting Ahead 1-0 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 2nd Blue Jays Batting Ahead 1-0 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 2nd Blue Jays Batting Ahead 1-0 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 2nd Blue Jays Batting Ahead 1-0 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 2nd Blue Jays Batting Ahead 1-0 Red Sox' Curt Schilling facing 7-8-9
-b2,1-0,0,"['', '', '']",10(3-2) FBCBFFBFFX,O,TOR,C. Gomez,C. Schilling,-2%,63%,Groundout: 2B-1B
-b2,1-0,1,"['', '', '']",4(1-2) CBCX,O,TOR,H. Clark,C. Schilling,-2%,61%,Groundout: 2B-1B
-b2,1-0,2,"['', '', '']",3(1-1) CBX,O,TOR,K. Cash,C. Schilling,-1%,60%,Groundout: 2B-1B
+b2,1-0,0,"______, ______, ______",10(3-2) FBCBFFBFFX,O,TOR,C. Gomez,C. Schilling,-2%,63%,Groundout: 2B-1B
+b2,1-0,1,"______, ______, ______",4(1-2) CBCX,O,TOR,H. Clark,C. Schilling,-2%,61%,Groundout: 2B-1B
+b2,1-0,2,"______, ______, ______",3(1-1) CBX,O,TOR,K. Cash,C. Schilling,-1%,60%,Groundout: 2B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Blue Jays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Blue Jays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Blue Jays 1.
 Top of the 3rd Red Sox Batting Behind 0-1 Blue Jays' Miguel Batista facing 9-1-2,Top of the 3rd Red Sox Batting Behind 0-1 Blue Jays' Miguel Batista facing 9-1-2,Top of the 3rd Red Sox Batting Behind 0-1 Blue Jays' Miguel Batista facing 9-1-2,,Top of the 3rd Red Sox Batting Behind 0-1 Blue Jays' Miguel Batista facing 9-1-2,Top of the 3rd Red Sox Batting Behind 0-1 Blue Jays' Miguel Batista facing 9-1-2,Top of the 3rd Red Sox Batting Behind 0-1 Blue Jays' Miguel Batista facing 9-1-2,Top of the 3rd Red Sox Batting Behind 0-1 Blue Jays' Miguel Batista facing 9-1-2,Top of the 3rd Red Sox Batting Behind 0-1 Blue Jays' Miguel Batista facing 9-1-2,Top of the 3rd Red Sox Batting Behind 0-1 Blue Jays' Miguel Batista facing 9-1-2,Top of the 3rd Red Sox Batting Behind 0-1 Blue Jays' Miguel Batista facing 9-1-2,Top of the 3rd Red Sox Batting Behind 0-1 Blue Jays' Miguel Batista facing 9-1-2
-t3,0-1,0,"['', '', '']",5(2-2) CFBBX,O,BOS,P. Reese,M. Batista,3%,63%,Groundout: 3B-1B
-t3,0-1,1,"['', '', '']",3(1-1) BCX,O,BOS,J. Damon,M. Batista,2%,65%,Groundout: 1B unassisted
-t3,0-1,2,"['', '', '']",4(1-2) CBCS,O,BOS,M. Bellhorn,M. Batista,1%,66%,Strikeout Swinging
+t3,0-1,0,"______, ______, ______",5(2-2) CFBBX,O,BOS,P. Reese,M. Batista,3%,63%,Groundout: 3B-1B
+t3,0-1,1,"______, ______, ______",3(1-1) BCX,O,BOS,J. Damon,M. Batista,2%,65%,Groundout: 1B unassisted
+t3,0-1,2,"______, ______, ______",4(1-2) CBCS,O,BOS,M. Bellhorn,M. Batista,1%,66%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Blue Jays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Blue Jays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Blue Jays 1.
 Bottom of the 3rd Blue Jays Batting Ahead 1-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 3rd Blue Jays Batting Ahead 1-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 3rd Blue Jays Batting Ahead 1-0 Red Sox' Curt Schilling facing 1-2-3,,Bottom of the 3rd Blue Jays Batting Ahead 1-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 3rd Blue Jays Batting Ahead 1-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 3rd Blue Jays Batting Ahead 1-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 3rd Blue Jays Batting Ahead 1-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 3rd Blue Jays Batting Ahead 1-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 3rd Blue Jays Batting Ahead 1-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 3rd Blue Jays Batting Ahead 1-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 3rd Blue Jays Batting Ahead 1-0 Red Sox' Curt Schilling facing 1-2-3
-b3,1-0,0,"['', '', '']",4(2-1) BBCX,,TOR,O. Hudson,C. Schilling,3%,69%,Single to RF (Line Drive)
-b3,1-0,0,"['Hudson', '', '']",5(2-2) 1B1BFSX,,TOR,F. Catalanotto,C. Schilling,9%,78%,Ground-rule Double (Fly Ball); Hudson to 3B
-b3,1-0,0,"['', 'Catalanotto', 'Hudson']",4(1-2) CBFX,R,TOR,V. Wells,C. Schilling,6%,84%,Single to 3B (Ground Ball); Hudson Scores; Catalanotto to 3B
-b3,2-0,0,"['Wells', '', 'Catalanotto']",1(0-0) X,OO,TOR,C. Delgado,C. Schilling,-10%,74%,Double Play: Groundout: 1B; Catalanotto out at Hm/1B-C; Wells to 2B
-b3,2-0,2,"['', 'Wells', '']",4(1-2) CCBX,O,TOR,J. Phelps,C. Schilling,-3%,71%,Groundout: 2B-1B
+b3,1-0,0,"______, ______, ______",4(2-1) BBCX,,TOR,O. Hudson,C. Schilling,3%,69%,Single to RF (Line Drive)
+b3,1-0,0,"O. Hudson, ______, ______",5(2-2) 1B1BFSX,,TOR,F. Catalanotto,C. Schilling,9%,78%,Ground-rule Double (Fly Ball); O. Hudson to 3B
+b3,1-0,0,"______, F. Catalanotto, O. Hudson",4(1-2) CBFX,R,TOR,V. Wells,C. Schilling,6%,84%,Single to 3B (Ground Ball); O. Hudson Scores; F. Catalanotto to 3B
+b3,2-0,0,"V. Wells, ______, F. Catalanotto",1(0-0) X,OO,TOR,C. Delgado,C. Schilling,-10%,74%,Double Play: Groundout: 1B; F. Catalanotto out at Hm/1B-C; V. Wells to 2B
+b3,2-0,2,"______, V. Wells, ______",4(1-2) CCBX,O,TOR,J. Phelps,C. Schilling,-3%,71%,Groundout: 2B-1B
 ,,,,,,,,,1 run 3 hits 0 errors 1 LOB. Red Sox 0 Blue Jays 2.,1 run 3 hits 0 errors 1 LOB. Red Sox 0 Blue Jays 2.,1 run 3 hits 0 errors 1 LOB. Red Sox 0 Blue Jays 2.
 Top of the 4th Red Sox Batting Behind 0-2 Blue Jays' Miguel Batista facing 3-4-5,Top of the 4th Red Sox Batting Behind 0-2 Blue Jays' Miguel Batista facing 3-4-5,Top of the 4th Red Sox Batting Behind 0-2 Blue Jays' Miguel Batista facing 3-4-5,,Top of the 4th Red Sox Batting Behind 0-2 Blue Jays' Miguel Batista facing 3-4-5,Top of the 4th Red Sox Batting Behind 0-2 Blue Jays' Miguel Batista facing 3-4-5,Top of the 4th Red Sox Batting Behind 0-2 Blue Jays' Miguel Batista facing 3-4-5,Top of the 4th Red Sox Batting Behind 0-2 Blue Jays' Miguel Batista facing 3-4-5,Top of the 4th Red Sox Batting Behind 0-2 Blue Jays' Miguel Batista facing 3-4-5,Top of the 4th Red Sox Batting Behind 0-2 Blue Jays' Miguel Batista facing 3-4-5,Top of the 4th Red Sox Batting Behind 0-2 Blue Jays' Miguel Batista facing 3-4-5,Top of the 4th Red Sox Batting Behind 0-2 Blue Jays' Miguel Batista facing 3-4-5
-t4,0-2,0,"['', '', '']",3(1-1) CBX,O,BOS,D. Ortiz,M. Batista,3%,74%,Popfly: SS (Short LF)
-t4,0-2,1,"['', '', '']",5(1-2) CBFFX,,BOS,M. Ramirez,M. Batista,-5%,70%,Double to LF (Line Drive to Deep LF-CF)
-t4,0-2,1,"['', 'Ramirez', '']",3(0-2) FSS,O,BOS,J. Varitek,M. Batista,4%,74%,Strikeout Swinging
-t4,0-2,2,"['', 'Ramirez', '']",1(0-0) X,O,BOS,K. Millar,M. Batista,4%,77%,Groundout: 2B-1B
+t4,0-2,0,"______, ______, ______",3(1-1) CBX,O,BOS,D. Ortiz,M. Batista,3%,74%,Popfly: SS (Short LF)
+t4,0-2,1,"______, ______, ______",5(1-2) CBFFX,,BOS,M. Ramirez,M. Batista,-5%,70%,Double to LF (Line Drive to Deep LF-CF)
+t4,0-2,1,"______, M. Ramirez, ______",3(0-2) FSS,O,BOS,J. Varitek,M. Batista,4%,74%,Strikeout Swinging
+t4,0-2,2,"______, M. Ramirez, ______",1(0-0) X,O,BOS,K. Millar,M. Batista,4%,77%,Groundout: 2B-1B
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Red Sox 0 Blue Jays 2.,0 runs 1 hit 0 errors 1 LOB. Red Sox 0 Blue Jays 2.,0 runs 1 hit 0 errors 1 LOB. Red Sox 0 Blue Jays 2.
 Bottom of the 4th Blue Jays Batting Ahead 2-0 Red Sox' Curt Schilling facing 6-7-8,Bottom of the 4th Blue Jays Batting Ahead 2-0 Red Sox' Curt Schilling facing 6-7-8,Bottom of the 4th Blue Jays Batting Ahead 2-0 Red Sox' Curt Schilling facing 6-7-8,,Bottom of the 4th Blue Jays Batting Ahead 2-0 Red Sox' Curt Schilling facing 6-7-8,Bottom of the 4th Blue Jays Batting Ahead 2-0 Red Sox' Curt Schilling facing 6-7-8,Bottom of the 4th Blue Jays Batting Ahead 2-0 Red Sox' Curt Schilling facing 6-7-8,Bottom of the 4th Blue Jays Batting Ahead 2-0 Red Sox' Curt Schilling facing 6-7-8,Bottom of the 4th Blue Jays Batting Ahead 2-0 Red Sox' Curt Schilling facing 6-7-8,Bottom of the 4th Blue Jays Batting Ahead 2-0 Red Sox' Curt Schilling facing 6-7-8,Bottom of the 4th Blue Jays Batting Ahead 2-0 Red Sox' Curt Schilling facing 6-7-8,Bottom of the 4th Blue Jays Batting Ahead 2-0 Red Sox' Curt Schilling facing 6-7-8
-b4,2-0,0,"['', '', '']",3(1-1) CBX,O,TOR,E. Hinske,C. Schilling,-2%,76%,Flyball: LF
-b4,2-0,1,"['', '', '']",4(0-2) CCFS,O,TOR,C. Gomez,C. Schilling,-1%,74%,Strikeout Swinging
-b4,2-0,2,"['', '', '']",4(1-2) CBFC,O,TOR,H. Clark,C. Schilling,-1%,73%,Strikeout Looking
+b4,2-0,0,"______, ______, ______",3(1-1) CBX,O,TOR,E. Hinske,C. Schilling,-2%,76%,Flyball: LF
+b4,2-0,1,"______, ______, ______",4(0-2) CCFS,O,TOR,C. Gomez,C. Schilling,-1%,74%,Strikeout Swinging
+b4,2-0,2,"______, ______, ______",4(1-2) CBFC,O,TOR,H. Clark,C. Schilling,-1%,73%,Strikeout Looking
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Blue Jays 2.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Blue Jays 2.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Blue Jays 2.
 Top of the 5th Red Sox Batting Behind 0-2 Blue Jays' Miguel Batista facing 7-8-9,Top of the 5th Red Sox Batting Behind 0-2 Blue Jays' Miguel Batista facing 7-8-9,Top of the 5th Red Sox Batting Behind 0-2 Blue Jays' Miguel Batista facing 7-8-9,,Top of the 5th Red Sox Batting Behind 0-2 Blue Jays' Miguel Batista facing 7-8-9,Top of the 5th Red Sox Batting Behind 0-2 Blue Jays' Miguel Batista facing 7-8-9,Top of the 5th Red Sox Batting Behind 0-2 Blue Jays' Miguel Batista facing 7-8-9,Top of the 5th Red Sox Batting Behind 0-2 Blue Jays' Miguel Batista facing 7-8-9,Top of the 5th Red Sox Batting Behind 0-2 Blue Jays' Miguel Batista facing 7-8-9,Top of the 5th Red Sox Batting Behind 0-2 Blue Jays' Miguel Batista facing 7-8-9,Top of the 5th Red Sox Batting Behind 0-2 Blue Jays' Miguel Batista facing 7-8-9,Top of the 5th Red Sox Batting Behind 0-2 Blue Jays' Miguel Batista facing 7-8-9
-t5,0-2,0,"['', '', '']",3(1-1) CBX,O,BOS,B. Daubach,M. Batista,3%,77%,Lineout: 1B
-t5,0-2,1,"['', '', '']",3(1-1) CBX,,BOS,C. Crespo,M. Batista,-3%,73%,Single to RF (Line Drive to CF-RF)
-t5,0-2,1,"['Crespo', '', '']",6(3-2) FBB+11SB1>T,O,BOS,P. Reese,M. Batista,3%,76%,Strikeout Swinging Crespo Steals 2B
-t5,0-2,2,"['', 'Crespo', '']",1(0-0) X,R,BOS,J. Damon,M. Batista,-9%,67%,Single to CF (Line Drive); Crespo Scores
-t5,1-2,2,"['Damon', '', '']",3(1-1) BCX,O,BOS,M. Bellhorn,M. Batista,3%,70%,Flyball: CF
+t5,0-2,0,"______, ______, ______",3(1-1) CBX,O,BOS,B. Daubach,M. Batista,3%,77%,Lineout: 1B
+t5,0-2,1,"______, ______, ______",3(1-1) CBX,,BOS,C. Crespo,M. Batista,-3%,73%,Single to RF (Line Drive to CF-RF)
+t5,0-2,1,"C. Crespo, ______, ______",6(3-2) FBB+11SB1>T,O,BOS,P. Reese,M. Batista,3%,76%,Strikeout Swinging C. Crespo Steals 2B
+t5,0-2,2,"______, C. Crespo, ______",1(0-0) X,R,BOS,J. Damon,M. Batista,-9%,67%,Single to CF (Line Drive); C. Crespo Scores
+t5,1-2,2,"J. Damon, ______, ______",3(1-1) BCX,O,BOS,M. Bellhorn,M. Batista,3%,70%,Flyball: CF
 ,,,,,,,,,1 run 2 hits 0 errors 1 LOB. Red Sox 1 Blue Jays 2.,1 run 2 hits 0 errors 1 LOB. Red Sox 1 Blue Jays 2.,1 run 2 hits 0 errors 1 LOB. Red Sox 1 Blue Jays 2.
 Bottom of the 5th Blue Jays Batting Ahead 2-1 Red Sox' Curt Schilling facing 9-1-2,Bottom of the 5th Blue Jays Batting Ahead 2-1 Red Sox' Curt Schilling facing 9-1-2,Bottom of the 5th Blue Jays Batting Ahead 2-1 Red Sox' Curt Schilling facing 9-1-2,,Bottom of the 5th Blue Jays Batting Ahead 2-1 Red Sox' Curt Schilling facing 9-1-2,Bottom of the 5th Blue Jays Batting Ahead 2-1 Red Sox' Curt Schilling facing 9-1-2,Bottom of the 5th Blue Jays Batting Ahead 2-1 Red Sox' Curt Schilling facing 9-1-2,Bottom of the 5th Blue Jays Batting Ahead 2-1 Red Sox' Curt Schilling facing 9-1-2,Bottom of the 5th Blue Jays Batting Ahead 2-1 Red Sox' Curt Schilling facing 9-1-2,Bottom of the 5th Blue Jays Batting Ahead 2-1 Red Sox' Curt Schilling facing 9-1-2,Bottom of the 5th Blue Jays Batting Ahead 2-1 Red Sox' Curt Schilling facing 9-1-2,Bottom of the 5th Blue Jays Batting Ahead 2-1 Red Sox' Curt Schilling facing 9-1-2
-b5,2-1,0,"['', '', '']",10(3-2) BBCSBFFFFX,,TOR,K. Cash,C. Schilling,3%,73%,Single to RF (Line Drive)
-b5,2-1,0,"['Cash', '', '']",5(1-2) BCCFX,,TOR,O. Hudson,C. Schilling,5%,78%,Single to CF (Line Drive); Cash to 2B
-b5,2-1,0,"['Hudson', 'Cash', '']",5(2-2) BCF*BX,O,TOR,F. Catalanotto,C. Schilling,-5%,73%,Groundout: P-3B/Forceout at 3B; Hudson to 2B; Catalanotto to 1B
-b5,2-1,1,"['Catalanotto', 'Hudson', '']",5(3-1) CBBBX,,TOR,V. Wells,C. Schilling,5%,79%,Single to P (Ground Ball); Hudson to 3B; Catalanotto to 2B
-b5,2-1,1,"['Wells', 'Catalanotto', 'Hudson']",3(1-1) BSX,RO,TOR,C. Delgado,C. Schilling,2%,80%,Flyball: CF/Sacrifice Fly (Deep CF); Hudson Scores; Catalanotto to 3B; Wells to 2B
-b5,3-1,2,"['', 'Wells', 'Catalanotto']",4(1-2) FBSS,O,TOR,J. Phelps,C. Schilling,-4%,76%,Strikeout Swinging
+b5,2-1,0,"______, ______, ______",10(3-2) BBCSBFFFFX,,TOR,K. Cash,C. Schilling,3%,73%,Single to RF (Line Drive)
+b5,2-1,0,"K. Cash, ______, ______",5(1-2) BCCFX,,TOR,O. Hudson,C. Schilling,5%,78%,Single to CF (Line Drive); K. Cash to 2B
+b5,2-1,0,"O. Hudson, K. Cash, ______",5(2-2) BCF*BX,O,TOR,F. Catalanotto,C. Schilling,-5%,73%,Groundout: P-3B/Forceout at 3B; O. Hudson to 2B; F. Catalanotto to 1B
+b5,2-1,1,"F. Catalanotto, O. Hudson, ______",5(3-1) CBBBX,,TOR,V. Wells,C. Schilling,5%,79%,Single to P (Ground Ball); O. Hudson to 3B; F. Catalanotto to 2B
+b5,2-1,1,"V. Wells, F. Catalanotto, O. Hudson",3(1-1) BSX,RO,TOR,C. Delgado,C. Schilling,2%,80%,Flyball: CF/Sacrifice Fly (Deep CF); O. Hudson Scores; F. Catalanotto to 3B; V. Wells to 2B
+b5,3-1,2,"______, V. Wells, F. Catalanotto",4(1-2) FBSS,O,TOR,J. Phelps,C. Schilling,-4%,76%,Strikeout Swinging
 ,,,,,,,,,1 run 3 hits 0 errors 2 LOB. Red Sox 1 Blue Jays 3.,1 run 3 hits 0 errors 2 LOB. Red Sox 1 Blue Jays 3.,1 run 3 hits 0 errors 2 LOB. Red Sox 1 Blue Jays 3.
 Top of the 6th Red Sox Batting Behind 1-3 Blue Jays' Miguel Batista facing 3-4-5,Top of the 6th Red Sox Batting Behind 1-3 Blue Jays' Miguel Batista facing 3-4-5,Top of the 6th Red Sox Batting Behind 1-3 Blue Jays' Miguel Batista facing 3-4-5,,Top of the 6th Red Sox Batting Behind 1-3 Blue Jays' Miguel Batista facing 3-4-5,Top of the 6th Red Sox Batting Behind 1-3 Blue Jays' Miguel Batista facing 3-4-5,Top of the 6th Red Sox Batting Behind 1-3 Blue Jays' Miguel Batista facing 3-4-5,Top of the 6th Red Sox Batting Behind 1-3 Blue Jays' Miguel Batista facing 3-4-5,Top of the 6th Red Sox Batting Behind 1-3 Blue Jays' Miguel Batista facing 3-4-5,Top of the 6th Red Sox Batting Behind 1-3 Blue Jays' Miguel Batista facing 3-4-5,Top of the 6th Red Sox Batting Behind 1-3 Blue Jays' Miguel Batista facing 3-4-5,Top of the 6th Red Sox Batting Behind 1-3 Blue Jays' Miguel Batista facing 3-4-5
-t6,1-3,0,"['', '', '']",7(3-2) BSFBFBX,R,BOS,D. Ortiz,M. Batista,-12%,65%,Home Run (Fly Ball)
-t6,2-3,0,"['', '', '']",4(1-2) BCSX,,BOS,M. Ramirez,M. Batista,-6%,59%,Single to LF (Line Drive)
-t6,2-3,0,"['Ramirez', '', '']",3(0-2) FSX,OO,BOS,J. Varitek,M. Batista,12%,71%,Ground Ball Double Play: SS-2B-1B
-t6,2-3,2,"['', '', '']",2(0-1) CX,O,BOS,K. Millar,M. Batista,2%,73%,Flyball: LF
+t6,1-3,0,"______, ______, ______",7(3-2) BSFBFBX,R,BOS,D. Ortiz,M. Batista,-12%,65%,Home Run (Fly Ball)
+t6,2-3,0,"______, ______, ______",4(1-2) BCSX,,BOS,M. Ramirez,M. Batista,-6%,59%,Single to LF (Line Drive)
+t6,2-3,0,"M. Ramirez, ______, ______",3(0-2) FSX,OO,BOS,J. Varitek,M. Batista,12%,71%,Ground Ball Double Play: SS-2B-1B
+t6,2-3,2,"______, ______, ______",2(0-1) CX,O,BOS,K. Millar,M. Batista,2%,73%,Flyball: LF
 ,,,,,,,,,1 run 2 hits 0 errors 0 LOB. Red Sox 2 Blue Jays 3.,1 run 2 hits 0 errors 0 LOB. Red Sox 2 Blue Jays 3.,1 run 2 hits 0 errors 0 LOB. Red Sox 2 Blue Jays 3.
 Bottom of the 6th Blue Jays Batting Ahead 3-2 Red Sox' Lenny DiNardo facing 6-7-8,Bottom of the 6th Blue Jays Batting Ahead 3-2 Red Sox' Lenny DiNardo facing 6-7-8,Bottom of the 6th Blue Jays Batting Ahead 3-2 Red Sox' Lenny DiNardo facing 6-7-8,,Bottom of the 6th Blue Jays Batting Ahead 3-2 Red Sox' Lenny DiNardo facing 6-7-8,Bottom of the 6th Blue Jays Batting Ahead 3-2 Red Sox' Lenny DiNardo facing 6-7-8,Bottom of the 6th Blue Jays Batting Ahead 3-2 Red Sox' Lenny DiNardo facing 6-7-8,Bottom of the 6th Blue Jays Batting Ahead 3-2 Red Sox' Lenny DiNardo facing 6-7-8,Bottom of the 6th Blue Jays Batting Ahead 3-2 Red Sox' Lenny DiNardo facing 6-7-8,Bottom of the 6th Blue Jays Batting Ahead 3-2 Red Sox' Lenny DiNardo facing 6-7-8,Bottom of the 6th Blue Jays Batting Ahead 3-2 Red Sox' Lenny DiNardo facing 6-7-8,Bottom of the 6th Blue Jays Batting Ahead 3-2 Red Sox' Lenny DiNardo facing 6-7-8
 ,,,,,,,,,Lenny DiNardo replaces Curt Schilling pitching,Lenny DiNardo replaces Curt Schilling pitching,Lenny DiNardo replaces Curt Schilling pitching
-b6,3-2,0,"['', '', '']",5(1-2) .BFSFX,,TOR,E. Hinske,L. DiNardo,6%,79%,Double to RF (Ground Ball thru RF Line)
-b6,3-2,0,"['', 'Hinske', '']",1(0-0) X,O,TOR,C. Gomez,L. DiNardo,-1%,78%,Groundout: 2B-1B; Hinske to 3B
+b6,3-2,0,"______, ______, ______",5(1-2) .BFSFX,,TOR,E. Hinske,L. DiNardo,6%,79%,Double to RF (Ground Ball thru RF Line)
+b6,3-2,0,"______, E. Hinske, ______",1(0-0) X,O,TOR,C. Gomez,L. DiNardo,-1%,78%,Groundout: 2B-1B; E. Hinske to 3B
 ,,,,,,,,,Reed Johnson pinch hits for Howie Clark (RF) batting 8th,Reed Johnson pinch hits for Howie Clark (RF) batting 8th,Reed Johnson pinch hits for Howie Clark (RF) batting 8th
-b6,3-2,1,"['', '', 'Hinske']",3(0-2) .CFX,R,TOR,R. Johnson,L. DiNardo,5%,83%,Single to LF (Ground Ball); Hinske Scores
-b6,4-2,1,"['Johnson', '', '']",3(0-2) CFX,,TOR,K. Cash,L. DiNardo,5%,89%,Reached on E1 (throw) (Ground Ball); Johnson to 3B; Cash to 2B
+b6,3-2,1,"______, ______, E. Hinske",3(0-2) .CFX,R,TOR,R. Johnson,L. DiNardo,5%,83%,Single to LF (Ground Ball); E. Hinske Scores
+b6,4-2,1,"R. Johnson, ______, ______",3(0-2) CFX,,TOR,K. Cash,L. DiNardo,5%,89%,Reached on E1 (throw) (Ground Ball); R. Johnson to 3B; K. Cash to 2B
 ,,,,,,,,,Alan Embree replaces Lenny DiNardo pitching,Alan Embree replaces Lenny DiNardo pitching,Alan Embree replaces Lenny DiNardo pitching
-b6,4-2,1,"['', 'Cash', 'Johnson']",5(1-2) .CSBFX,R,TOR,O. Hudson,A. Embree,4%,93%,Single to CF (Line Drive); Johnson Scores; Cash to 3B
-b6,5-2,1,"['Hudson', '', 'Cash']",4(1-2) FSBX,R,TOR,F. Catalanotto,A. Embree,2%,95%,Single to CF (Line Drive); Cash Scores/unER; Hudson to 2B
-b6,6-2,1,"['Catalanotto', 'Hudson', '']",7(3-2) SBCBB>F>B,,TOR,V. Wells,A. Embree,1%,96%,Walk; Hudson to 3B; Catalanotto to 2B
-b6,6-2,1,"['Wells', 'Catalanotto', 'Hudson']",3(0-2) SST,O,TOR,C. Delgado,A. Embree,-2%,95%,Strikeout Swinging
+b6,4-2,1,"______, K. Cash, R. Johnson",5(1-2) .CSBFX,R,TOR,O. Hudson,A. Embree,4%,93%,Single to CF (Line Drive); R. Johnson Scores; K. Cash to 3B
+b6,5-2,1,"O. Hudson, ______, K. Cash",4(1-2) FSBX,R,TOR,F. Catalanotto,A. Embree,2%,95%,Single to CF (Line Drive); K. Cash Scores/unER; O. Hudson to 2B
+b6,6-2,1,"F. Catalanotto, O. Hudson, ______",7(3-2) SBCBB>F>B,,TOR,V. Wells,A. Embree,1%,96%,Walk; O. Hudson to 3B; F. Catalanotto to 2B
+b6,6-2,1,"V. Wells, F. Catalanotto, O. Hudson",3(0-2) SST,O,TOR,C. Delgado,A. Embree,-2%,95%,Strikeout Swinging
 ,,,,,,,,,Mike Timlin replaces Alan Embree pitching,Mike Timlin replaces Alan Embree pitching,Mike Timlin replaces Alan Embree pitching
-b6,6-2,2,"['Wells', 'Catalanotto', 'Hudson']",6(2-2) .FFBBFX,RR,TOR,J. Phelps,M. Timlin,4%,98%,Reached on E8 (Fly Ball); Hudson Scores/unER/No RBI; Catalanotto Scores/unER/No RBI; Wells to 3B
-b6,8-2,2,"['Phelps', '', 'Wells']",3(0-2) FFX,O,TOR,E. Hinske,M. Timlin,-0%,98%,Popfly: SS
+b6,6-2,2,"V. Wells, F. Catalanotto, O. Hudson",6(2-2) .FFBBFX,RR,TOR,J. Phelps,M. Timlin,4%,98%,Reached on E8 (Fly Ball); O. Hudson Scores/unER/No RBI; F. Catalanotto Scores/unER/No RBI; V. Wells to 3B
+b6,8-2,2,"J. Phelps, ______, V. Wells",3(0-2) FFX,O,TOR,E. Hinske,M. Timlin,-0%,98%,Popfly: SS
 ,,,,,,,,,5 runs 4 hits 2 errors 2 LOB. Red Sox 2 Blue Jays 8.,5 runs 4 hits 2 errors 2 LOB. Red Sox 2 Blue Jays 8.,5 runs 4 hits 2 errors 2 LOB. Red Sox 2 Blue Jays 8.
 Top of the 7th Red Sox Batting Behind 2-8 Blue Jays' Miguel Batista facing 7-8-9,Top of the 7th Red Sox Batting Behind 2-8 Blue Jays' Miguel Batista facing 7-8-9,Top of the 7th Red Sox Batting Behind 2-8 Blue Jays' Miguel Batista facing 7-8-9,,Top of the 7th Red Sox Batting Behind 2-8 Blue Jays' Miguel Batista facing 7-8-9,Top of the 7th Red Sox Batting Behind 2-8 Blue Jays' Miguel Batista facing 7-8-9,Top of the 7th Red Sox Batting Behind 2-8 Blue Jays' Miguel Batista facing 7-8-9,Top of the 7th Red Sox Batting Behind 2-8 Blue Jays' Miguel Batista facing 7-8-9,Top of the 7th Red Sox Batting Behind 2-8 Blue Jays' Miguel Batista facing 7-8-9,Top of the 7th Red Sox Batting Behind 2-8 Blue Jays' Miguel Batista facing 7-8-9,Top of the 7th Red Sox Batting Behind 2-8 Blue Jays' Miguel Batista facing 7-8-9,Top of the 7th Red Sox Batting Behind 2-8 Blue Jays' Miguel Batista facing 7-8-9
 ,,,,,,,,,Reed Johnson moves from PH to RF,Reed Johnson moves from PH to RF,Reed Johnson moves from PH to RF
-t7,2-8,0,"['', '', '']",5(2-2) .BCFBS,O,BOS,B. Daubach,M. Batista,1%,99%,Strikeout Swinging
-t7,2-8,1,"['', '', '']",4(2-1) BBCX,,BOS,C. Crespo,M. Batista,-1%,98%,Single to CF (Line Drive)
-t7,2-8,1,"['Crespo', '', '']",7(3-2) BFBBSFB,,BOS,P. Reese,M. Batista,-1%,97%,Walk; Crespo to 2B
-t7,2-8,1,"['Reese', 'Crespo', '']",3(2-0) B*BX,R,BOS,J. Damon,M. Batista,-3%,93%,Single to RF (Ground Ball); Crespo Scores; Reese to 3B
+t7,2-8,0,"______, ______, ______",5(2-2) .BCFBS,O,BOS,B. Daubach,M. Batista,1%,99%,Strikeout Swinging
+t7,2-8,1,"______, ______, ______",4(2-1) BBCX,,BOS,C. Crespo,M. Batista,-1%,98%,Single to CF (Line Drive)
+t7,2-8,1,"C. Crespo, ______, ______",7(3-2) BFBBSFB,,BOS,P. Reese,M. Batista,-1%,97%,Walk; C. Crespo to 2B
+t7,2-8,1,"P. Reese, C. Crespo, ______",3(2-0) B*BX,R,BOS,J. Damon,M. Batista,-3%,93%,Single to RF (Ground Ball); C. Crespo Scores; P. Reese to 3B
 ,,,,,,,,,Jason Kershner replaces Miguel Batista pitching,Jason Kershner replaces Miguel Batista pitching,Jason Kershner replaces Miguel Batista pitching
-t7,3-8,1,"['Damon', '', 'Reese']",2(0-1) .CX,R,BOS,M. Bellhorn,J. Kershner,-5%,89%,Single to RF (Line Drive to CF-RF); Reese Scores; Damon to 3B
-t7,4-8,1,"['Bellhorn', '', 'Damon']",3(2-0) BBX,R,BOS,D. Ortiz,J. Kershner,-6%,83%,Single to RF (Line Drive); Damon Scores; Bellhorn to 2B
+t7,3-8,1,"J. Damon, ______, P. Reese",2(0-1) .CX,R,BOS,M. Bellhorn,J. Kershner,-5%,89%,Single to RF (Line Drive to CF-RF); P. Reese Scores; J. Damon to 3B
+t7,4-8,1,"M. Bellhorn, ______, J. Damon",3(2-0) BBX,R,BOS,D. Ortiz,J. Kershner,-6%,83%,Single to RF (Line Drive); J. Damon Scores; M. Bellhorn to 2B
 ,,,,,,,,,Aquilino Lopez replaces Jason Kershner pitching,Aquilino Lopez replaces Jason Kershner pitching,Aquilino Lopez replaces Jason Kershner pitching
-t7,5-8,1,"['Ortiz', 'Bellhorn', '']",1(0-0) .X,R,BOS,M. Ramirez,A. Lopez,-10%,74%,Single to CF (Line Drive); Bellhorn Scores; Ortiz to 2B
-t7,6-8,1,"['Ramirez', 'Ortiz', '']",1(0-0) X,O,BOS,J. Varitek,A. Lopez,7%,81%,Flyball: LF (LF-CF)
-t7,6-8,2,"['Ramirez', 'Ortiz', '']",3(1-1) CBX,O,BOS,K. Millar,A. Lopez,7%,88%,Foul Popfly: C (1B Foul)
+t7,5-8,1,"D. Ortiz, M. Bellhorn, ______",1(0-0) .X,R,BOS,M. Ramirez,A. Lopez,-10%,74%,Single to CF (Line Drive); M. Bellhorn Scores; D. Ortiz to 2B
+t7,6-8,1,"M. Ramirez, D. Ortiz, ______",1(0-0) X,O,BOS,J. Varitek,A. Lopez,7%,81%,Flyball: LF (LF-CF)
+t7,6-8,2,"M. Ramirez, D. Ortiz, ______",3(1-1) CBX,O,BOS,K. Millar,A. Lopez,7%,88%,Foul Popfly: C (1B Foul)
 ,,,,,,,,,4 runs 5 hits 0 errors 2 LOB. Red Sox 6 Blue Jays 8.,4 runs 5 hits 0 errors 2 LOB. Red Sox 6 Blue Jays 8.,4 runs 5 hits 0 errors 2 LOB. Red Sox 6 Blue Jays 8.
 Bottom of the 7th Blue Jays Batting Ahead 8-6 Red Sox' Mike Timlin facing 7-8-9,Bottom of the 7th Blue Jays Batting Ahead 8-6 Red Sox' Mike Timlin facing 7-8-9,Bottom of the 7th Blue Jays Batting Ahead 8-6 Red Sox' Mike Timlin facing 7-8-9,,Bottom of the 7th Blue Jays Batting Ahead 8-6 Red Sox' Mike Timlin facing 7-8-9,Bottom of the 7th Blue Jays Batting Ahead 8-6 Red Sox' Mike Timlin facing 7-8-9,Bottom of the 7th Blue Jays Batting Ahead 8-6 Red Sox' Mike Timlin facing 7-8-9,Bottom of the 7th Blue Jays Batting Ahead 8-6 Red Sox' Mike Timlin facing 7-8-9,Bottom of the 7th Blue Jays Batting Ahead 8-6 Red Sox' Mike Timlin facing 7-8-9,Bottom of the 7th Blue Jays Batting Ahead 8-6 Red Sox' Mike Timlin facing 7-8-9,Bottom of the 7th Blue Jays Batting Ahead 8-6 Red Sox' Mike Timlin facing 7-8-9,Bottom of the 7th Blue Jays Batting Ahead 8-6 Red Sox' Mike Timlin facing 7-8-9
-b7,8-6,0,"['', '', '']",1(0-0) X,,TOR,C. Gomez,M. Timlin,3%,91%,Double to LF (Line Drive to Deep LF)
-b7,8-6,0,"['', 'Gomez', '']",2(0-1) CX,O,TOR,R. Johnson,M. Timlin,-2%,89%,Groundout: 3B-1B
-b7,8-6,1,"['', 'Gomez', '']",5(3-1) CBBBX,O,TOR,K. Cash,M. Timlin,-2%,87%,Groundout: 3B-1B
+b7,8-6,0,"______, ______, ______",1(0-0) X,,TOR,C. Gomez,M. Timlin,3%,91%,Double to LF (Line Drive to Deep LF)
+b7,8-6,0,"______, C. Gomez, ______",2(0-1) CX,O,TOR,R. Johnson,M. Timlin,-2%,89%,Groundout: 3B-1B
+b7,8-6,1,"______, C. Gomez, ______",5(3-1) CBBBX,O,TOR,K. Cash,M. Timlin,-2%,87%,Groundout: 3B-1B
 ,,,,,,,,,Scott Williamson replaces Mike Timlin pitching,Scott Williamson replaces Mike Timlin pitching,Scott Williamson replaces Mike Timlin pitching
-b7,8-6,2,"['', 'Gomez', '']",4(3-0) .BBBB,,TOR,O. Hudson,S. Williamson,0%,87%,Walk
-b7,8-6,2,"['Hudson', 'Gomez', '']",8(3-2) SBBFB>F>F>X,RR,TOR,F. Catalanotto,S. Williamson,9%,96%,Double to LF (Line Drive to LF-CF); Gomez Scores; Hudson Scores
-b7,10-6,2,"['', 'Catalanotto', '']",3(1-1) BCX,O,TOR,V. Wells,S. Williamson,-1%,96%,Groundout: SS-1B
+b7,8-6,2,"______, C. Gomez, ______",4(3-0) .BBBB,,TOR,O. Hudson,S. Williamson,0%,87%,Walk
+b7,8-6,2,"O. Hudson, C. Gomez, ______",8(3-2) SBBFB>F>F>X,RR,TOR,F. Catalanotto,S. Williamson,9%,96%,Double to LF (Line Drive to LF-CF); C. Gomez Scores; O. Hudson Scores
+b7,10-6,2,"______, F. Catalanotto, ______",3(1-1) BCX,O,TOR,V. Wells,S. Williamson,-1%,96%,Groundout: SS-1B
 ,,,,,,,,,2 runs 2 hits 0 errors 1 LOB. Red Sox 6 Blue Jays 10.,2 runs 2 hits 0 errors 1 LOB. Red Sox 6 Blue Jays 10.,2 runs 2 hits 0 errors 1 LOB. Red Sox 6 Blue Jays 10.
 Top of the 8th Red Sox Batting Behind 6-10 Blue Jays' Jason Frasor facing 7-8-9,Top of the 8th Red Sox Batting Behind 6-10 Blue Jays' Jason Frasor facing 7-8-9,Top of the 8th Red Sox Batting Behind 6-10 Blue Jays' Jason Frasor facing 7-8-9,,Top of the 8th Red Sox Batting Behind 6-10 Blue Jays' Jason Frasor facing 7-8-9,Top of the 8th Red Sox Batting Behind 6-10 Blue Jays' Jason Frasor facing 7-8-9,Top of the 8th Red Sox Batting Behind 6-10 Blue Jays' Jason Frasor facing 7-8-9,Top of the 8th Red Sox Batting Behind 6-10 Blue Jays' Jason Frasor facing 7-8-9,Top of the 8th Red Sox Batting Behind 6-10 Blue Jays' Jason Frasor facing 7-8-9,Top of the 8th Red Sox Batting Behind 6-10 Blue Jays' Jason Frasor facing 7-8-9,Top of the 8th Red Sox Batting Behind 6-10 Blue Jays' Jason Frasor facing 7-8-9,Top of the 8th Red Sox Batting Behind 6-10 Blue Jays' Jason Frasor facing 7-8-9
 ,,,,,,,,,Jason Frasor replaces Aquilino Lopez pitching,Jason Frasor replaces Aquilino Lopez pitching,Jason Frasor replaces Aquilino Lopez pitching
-t8,6-10,0,"['', '', '']",6(3-2) .BSBFBB,,BOS,B. Daubach,J. Frasor,-3%,93%,Walk
-t8,6-10,0,"['Daubach', '', '']",4(1-2) CBSX,O,BOS,C. Crespo,J. Frasor,3%,96%,Groundout: 1B-SS/Forceout at 2B
+t8,6-10,0,"______, ______, ______",6(3-2) .BSBFBB,,BOS,B. Daubach,J. Frasor,-3%,93%,Walk
+t8,6-10,0,"B. Daubach, ______, ______",4(1-2) CBSX,O,BOS,C. Crespo,J. Frasor,3%,96%,Groundout: 1B-SS/Forceout at 2B
 ,,,,,,,,,Bill Mueller pinch hits for Pokey Reese (SS) batting 9th,Bill Mueller pinch hits for Pokey Reese (SS) batting 9th,Bill Mueller pinch hits for Pokey Reese (SS) batting 9th
-t8,6-10,1,"['Crespo', '', '']",5(2-2) .B1BFSX,,BOS,B. Mueller,J. Frasor,-3%,93%,Single to RF (Ground Ball); Crespo to 2B
-t8,6-10,1,"['Mueller', 'Crespo', '']",3(0-2) CFX,O,BOS,J. Damon,J. Frasor,3%,96%,Groundout: 3B-2B/Forceout at 2B; Crespo to 3B
-t8,6-10,2,"['Damon', '', 'Crespo']",5(1-2) FFBFX,O,BOS,M. Bellhorn,J. Frasor,2%,99%,Groundout: SS-1B
+t8,6-10,1,"C. Crespo, ______, ______",5(2-2) .B1BFSX,,BOS,B. Mueller,J. Frasor,-3%,93%,Single to RF (Ground Ball); C. Crespo to 2B
+t8,6-10,1,"B. Mueller, C. Crespo, ______",3(0-2) CFX,O,BOS,J. Damon,J. Frasor,3%,96%,Groundout: 3B-2B/Forceout at 2B; C. Crespo to 3B
+t8,6-10,2,"J. Damon, ______, C. Crespo",5(1-2) FFBFX,O,BOS,M. Bellhorn,J. Frasor,2%,99%,Groundout: SS-1B
 ,,,,,,,,,0 runs 1 hit 0 errors 2 LOB. Red Sox 6 Blue Jays 10.,0 runs 1 hit 0 errors 2 LOB. Red Sox 6 Blue Jays 10.,0 runs 1 hit 0 errors 2 LOB. Red Sox 6 Blue Jays 10.
 Bottom of the 8th Blue Jays Batting Ahead 10-6 Red Sox' Mark Malaska facing 4-5-6,Bottom of the 8th Blue Jays Batting Ahead 10-6 Red Sox' Mark Malaska facing 4-5-6,Bottom of the 8th Blue Jays Batting Ahead 10-6 Red Sox' Mark Malaska facing 4-5-6,,Bottom of the 8th Blue Jays Batting Ahead 10-6 Red Sox' Mark Malaska facing 4-5-6,Bottom of the 8th Blue Jays Batting Ahead 10-6 Red Sox' Mark Malaska facing 4-5-6,Bottom of the 8th Blue Jays Batting Ahead 10-6 Red Sox' Mark Malaska facing 4-5-6,Bottom of the 8th Blue Jays Batting Ahead 10-6 Red Sox' Mark Malaska facing 4-5-6,Bottom of the 8th Blue Jays Batting Ahead 10-6 Red Sox' Mark Malaska facing 4-5-6,Bottom of the 8th Blue Jays Batting Ahead 10-6 Red Sox' Mark Malaska facing 4-5-6,Bottom of the 8th Blue Jays Batting Ahead 10-6 Red Sox' Mark Malaska facing 4-5-6,Bottom of the 8th Blue Jays Batting Ahead 10-6 Red Sox' Mark Malaska facing 4-5-6
 ,,,,,,,,,Mark Malaska replaces Scott Williamson pitchingMark Bellhorn moves from 3B to 2BBill Mueller moves from PH to 3BCesar Crespo moves from 2B to SS,Mark Malaska replaces Scott Williamson pitchingMark Bellhorn moves from 3B to 2BBill Mueller moves from PH to 3BCesar Crespo moves from 2B to SS,Mark Malaska replaces Scott Williamson pitchingMark Bellhorn moves from 3B to 2BBill Mueller moves from PH to 3BCesar Crespo moves from 2B to SS
-b8,10-6,0,"['', '', '']",1(0-0) ....X,,TOR,C. Delgado,M. Malaska,0%,99%,Single to SS (Pop Fly)
-b8,10-6,0,"['Delgado', '', '']",2(0-1) CX,,TOR,J. Phelps,M. Malaska,0%,99%,Single to LF (Line Drive); Delgado to 2B
-b8,10-6,0,"['Phelps', 'Delgado', '']",6(3-2) BCBFBX,OO,TOR,E. Hinske,M. Malaska,-1%,99%,Ground Ball Double Play: 2B-SS-1B; Delgado to 3B
-b8,10-6,2,"['', '', 'Delgado']",5(3-1) BBBCB,,TOR,C. Gomez,M. Malaska,0%,99%,Walk
-b8,10-6,2,"['Gomez', '', 'Delgado']",5(3-1) BBCBX,RR,TOR,R. Johnson,M. Malaska,1%,100%,Triple to CF (Line Drive to Deep CF-RF); Delgado Scores; Gomez Scores
-b8,12-6,2,"['', '', 'Johnson']",1(0-0) X,O,TOR,K. Cash,M. Malaska,-0%,100%,Flyball: RF
+b8,10-6,0,"______, ______, ______",1(0-0) ....X,,TOR,C. Delgado,M. Malaska,0%,99%,Single to SS (Pop Fly)
+b8,10-6,0,"C. Delgado, ______, ______",2(0-1) CX,,TOR,J. Phelps,M. Malaska,0%,99%,Single to LF (Line Drive); C. Delgado to 2B
+b8,10-6,0,"J. Phelps, C. Delgado, ______",6(3-2) BCBFBX,OO,TOR,E. Hinske,M. Malaska,-1%,99%,Ground Ball Double Play: 2B-SS-1B; C. Delgado to 3B
+b8,10-6,2,"______, ______, C. Delgado",5(3-1) BBBCB,,TOR,C. Gomez,M. Malaska,0%,99%,Walk
+b8,10-6,2,"C. Gomez, ______, C. Delgado",5(3-1) BBCBX,RR,TOR,R. Johnson,M. Malaska,1%,100%,Triple to CF (Line Drive to Deep CF-RF); C. Delgado Scores; C. Gomez Scores
+b8,12-6,2,"______, ______, R. Johnson",1(0-0) X,O,TOR,K. Cash,M. Malaska,-0%,100%,Flyball: RF
 ,,,,,,,,,2 runs 3 hits 0 errors 1 LOB. Red Sox 6 Blue Jays 12.,2 runs 3 hits 0 errors 1 LOB. Red Sox 6 Blue Jays 12.,2 runs 3 hits 0 errors 1 LOB. Red Sox 6 Blue Jays 12.
 Top of the 9th Red Sox Batting Behind 6-12 Blue Jays' Jason Frasor facing 3-4-5,Top of the 9th Red Sox Batting Behind 6-12 Blue Jays' Jason Frasor facing 3-4-5,Top of the 9th Red Sox Batting Behind 6-12 Blue Jays' Jason Frasor facing 3-4-5,,Top of the 9th Red Sox Batting Behind 6-12 Blue Jays' Jason Frasor facing 3-4-5,Top of the 9th Red Sox Batting Behind 6-12 Blue Jays' Jason Frasor facing 3-4-5,Top of the 9th Red Sox Batting Behind 6-12 Blue Jays' Jason Frasor facing 3-4-5,Top of the 9th Red Sox Batting Behind 6-12 Blue Jays' Jason Frasor facing 3-4-5,Top of the 9th Red Sox Batting Behind 6-12 Blue Jays' Jason Frasor facing 3-4-5,Top of the 9th Red Sox Batting Behind 6-12 Blue Jays' Jason Frasor facing 3-4-5,Top of the 9th Red Sox Batting Behind 6-12 Blue Jays' Jason Frasor facing 3-4-5,Top of the 9th Red Sox Batting Behind 6-12 Blue Jays' Jason Frasor facing 3-4-5
-t9,6-12,0,"['', '', '']",2(0-1) CX,O,BOS,D. Ortiz,J. Frasor,0%,100%,Flyball: RF
-t9,6-12,1,"['', '', '']",1(0-0) X,O,BOS,M. Ramirez,J. Frasor,0%,100%,Flyball: RF (CF-RF)
-t9,6-12,2,"['', '', '']",4(2-1) BCBX,,BOS,J. Varitek,J. Frasor,-0%,100%,Single to RF (Line Drive to CF-RF)
-t9,6-12,2,"['Varitek', '', '']",2(1-0) BX,O,BOS,K. Millar,J. Frasor,0%,100%,Popfly: SS
+t9,6-12,0,"______, ______, ______",2(0-1) CX,O,BOS,D. Ortiz,J. Frasor,0%,100%,Flyball: RF
+t9,6-12,1,"______, ______, ______",1(0-0) X,O,BOS,M. Ramirez,J. Frasor,0%,100%,Flyball: RF (CF-RF)
+t9,6-12,2,"______, ______, ______",4(2-1) BCBX,,BOS,J. Varitek,J. Frasor,-0%,100%,Single to RF (Line Drive to CF-RF)
+t9,6-12,2,"J. Varitek, ______, ______",2(1-0) BX,O,BOS,K. Millar,J. Frasor,0%,100%,Popfly: SS
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Red Sox 6 Blue Jays 12.,0 runs 1 hit 0 errors 1 LOB. Red Sox 6 Blue Jays 12.,0 runs 1 hit 0 errors 1 LOB. Red Sox 6 Blue Jays 12.

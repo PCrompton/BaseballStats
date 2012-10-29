@@ -1,108 +1,108 @@
 Inn,Score,Out,RoB,Pit(cnt)Sequence,R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
 Top of the 1st Phillies Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Phillies Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Phillies Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,,Top of the 1st Phillies Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Phillies Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Phillies Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Phillies Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Phillies Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Phillies Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Phillies Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Phillies Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3
-t1,0-0,0,"['', '', '']",4(2-1) BFBX,O,PHI,J. Rollins,P. Martinez,2%,52%,Groundout: 2B-1B
-t1,0-0,1,"['', '', '']",1(0-0) X,O,PHI,P. Polanco,P. Martinez,2%,54%,Groundout: 3B-1B
-t1,0-0,2,"['', '', '']",5(3-1) CBBBX,O,PHI,B. Abreu,P. Martinez,1%,55%,Flyball: LF
+t1,0-0,0,"______, ______, ______",4(2-1) BFBX,O,PHI,J. Rollins,P. Martinez,2%,52%,Groundout: 2B-1B
+t1,0-0,1,"______, ______, ______",1(0-0) X,O,PHI,P. Polanco,P. Martinez,2%,54%,Groundout: 3B-1B
+t1,0-0,2,"______, ______, ______",5(3-1) CBBBX,O,PHI,B. Abreu,P. Martinez,1%,55%,Flyball: LF
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 0.
 Bottom of the 1st Red Sox Batting Tied 0-0 Phillies' Paul Abbott facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Phillies' Paul Abbott facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Phillies' Paul Abbott facing 1-2-3,,Bottom of the 1st Red Sox Batting Tied 0-0 Phillies' Paul Abbott facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Phillies' Paul Abbott facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Phillies' Paul Abbott facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Phillies' Paul Abbott facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Phillies' Paul Abbott facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Phillies' Paul Abbott facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Phillies' Paul Abbott facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Phillies' Paul Abbott facing 1-2-3
-b1,0-0,0,"['', '', '']",4(1-2) CBFX,O,BOS,J. Damon,P. Abbott,-2%,53%,Groundout: 2B-1B
-b1,0-0,1,"['', '', '']",6(3-2) CBBCBS,O,BOS,M. Bellhorn,P. Abbott,-2%,51%,Strikeout Swinging
-b1,0-0,2,"['', '', '']",6(1-2) CFBFFX,O,BOS,D. Ortiz,P. Abbott,-1%,50%,Groundout: SS-1B
+b1,0-0,0,"______, ______, ______",4(1-2) CBFX,O,BOS,J. Damon,P. Abbott,-2%,53%,Groundout: 2B-1B
+b1,0-0,1,"______, ______, ______",6(3-2) CBBCBS,O,BOS,M. Bellhorn,P. Abbott,-2%,51%,Strikeout Swinging
+b1,0-0,2,"______, ______, ______",6(1-2) CFBFFX,O,BOS,D. Ortiz,P. Abbott,-1%,50%,Groundout: SS-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 0.
 Top of the 2nd Phillies Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Phillies Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Phillies Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,,Top of the 2nd Phillies Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Phillies Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Phillies Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Phillies Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Phillies Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Phillies Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Phillies Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Phillies Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6
-t2,0-0,0,"['', '', '']",6(3-2) BBSSBX,O,PHI,J. Thome,P. Martinez,2%,52%,Flyball: LF (LF-CF)
-t2,0-0,1,"['', '', '']",4(2-1) SBBX,O,PHI,P. Burrell,P. Martinez,2%,54%,Flyball: LF (Short LF)
-t2,0-0,2,"['', '', '']",5(0-2) CCFFT,O,PHI,C. Utley,P. Martinez,1%,55%,Strikeout Swinging
+t2,0-0,0,"______, ______, ______",6(3-2) BBSSBX,O,PHI,J. Thome,P. Martinez,2%,52%,Flyball: LF (LF-CF)
+t2,0-0,1,"______, ______, ______",4(2-1) SBBX,O,PHI,P. Burrell,P. Martinez,2%,54%,Flyball: LF (Short LF)
+t2,0-0,2,"______, ______, ______",5(0-2) CCFFT,O,PHI,C. Utley,P. Martinez,1%,55%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 0.
 Bottom of the 2nd Red Sox Batting Tied 0-0 Phillies' Paul Abbott facing 4-5-6,Bottom of the 2nd Red Sox Batting Tied 0-0 Phillies' Paul Abbott facing 4-5-6,Bottom of the 2nd Red Sox Batting Tied 0-0 Phillies' Paul Abbott facing 4-5-6,,Bottom of the 2nd Red Sox Batting Tied 0-0 Phillies' Paul Abbott facing 4-5-6,Bottom of the 2nd Red Sox Batting Tied 0-0 Phillies' Paul Abbott facing 4-5-6,Bottom of the 2nd Red Sox Batting Tied 0-0 Phillies' Paul Abbott facing 4-5-6,Bottom of the 2nd Red Sox Batting Tied 0-0 Phillies' Paul Abbott facing 4-5-6,Bottom of the 2nd Red Sox Batting Tied 0-0 Phillies' Paul Abbott facing 4-5-6,Bottom of the 2nd Red Sox Batting Tied 0-0 Phillies' Paul Abbott facing 4-5-6,Bottom of the 2nd Red Sox Batting Tied 0-0 Phillies' Paul Abbott facing 4-5-6,Bottom of the 2nd Red Sox Batting Tied 0-0 Phillies' Paul Abbott facing 4-5-6
-b2,0-0,0,"['', '', '']",7(2-2) CFBBFFX,R,BOS,M. Ramirez,P. Abbott,10%,65%,Home Run (Fly Ball)
-b2,1-0,0,"['', '', '']",2(0-1) CX,O,BOS,N. Garciaparra,P. Abbott,-2%,63%,Flyball: LF
-b2,1-0,1,"['', '', '']",5(3-1) BBBCX,O,BOS,T. Nixon,P. Abbott,-2%,61%,Groundout: 1B unassisted
-b2,1-0,2,"['', '', '']",6(3-2) SFBBBB,,BOS,K. Millar,P. Abbott,1%,62%,Walk
-b2,1-0,2,"['Millar', '', '']",5(3-1) BBBCX,,BOS,J. Varitek,P. Abbott,2%,64%,Single to CF (Ground Ball); Millar to 2B
-b2,1-0,2,"['Varitek', 'Millar', '']",5(2-2) *BBCFX,O,BOS,K. Youkilis,P. Abbott,-4%,60%,Lineout: 3B
+b2,0-0,0,"______, ______, ______",7(2-2) CFBBFFX,R,BOS,M. Ramirez,P. Abbott,10%,65%,Home Run (Fly Ball)
+b2,1-0,0,"______, ______, ______",2(0-1) CX,O,BOS,N. Garciaparra,P. Abbott,-2%,63%,Flyball: LF
+b2,1-0,1,"______, ______, ______",5(3-1) BBBCX,O,BOS,T. Nixon,P. Abbott,-2%,61%,Groundout: 1B unassisted
+b2,1-0,2,"______, ______, ______",6(3-2) SFBBBB,,BOS,K. Millar,P. Abbott,1%,62%,Walk
+b2,1-0,2,"K. Millar, ______, ______",5(3-1) BBBCX,,BOS,J. Varitek,P. Abbott,2%,64%,Single to CF (Ground Ball); K. Millar to 2B
+b2,1-0,2,"J. Varitek, K. Millar, ______",5(2-2) *BBCFX,O,BOS,K. Youkilis,P. Abbott,-4%,60%,Lineout: 3B
 ,,,,,,,,,1 run 2 hits 0 errors 2 LOB. Phillies 0 Red Sox 1.,1 run 2 hits 0 errors 2 LOB. Phillies 0 Red Sox 1.,1 run 2 hits 0 errors 2 LOB. Phillies 0 Red Sox 1.
 Top of the 3rd Phillies Batting Behind 0-1 Red Sox' Pedro Martinez facing 7-8-9,Top of the 3rd Phillies Batting Behind 0-1 Red Sox' Pedro Martinez facing 7-8-9,Top of the 3rd Phillies Batting Behind 0-1 Red Sox' Pedro Martinez facing 7-8-9,,Top of the 3rd Phillies Batting Behind 0-1 Red Sox' Pedro Martinez facing 7-8-9,Top of the 3rd Phillies Batting Behind 0-1 Red Sox' Pedro Martinez facing 7-8-9,Top of the 3rd Phillies Batting Behind 0-1 Red Sox' Pedro Martinez facing 7-8-9,Top of the 3rd Phillies Batting Behind 0-1 Red Sox' Pedro Martinez facing 7-8-9,Top of the 3rd Phillies Batting Behind 0-1 Red Sox' Pedro Martinez facing 7-8-9,Top of the 3rd Phillies Batting Behind 0-1 Red Sox' Pedro Martinez facing 7-8-9,Top of the 3rd Phillies Batting Behind 0-1 Red Sox' Pedro Martinez facing 7-8-9,Top of the 3rd Phillies Batting Behind 0-1 Red Sox' Pedro Martinez facing 7-8-9
-t3,0-1,0,"['', '', '']",2(0-1) CX,O,PHI,D. Bell,P. Martinez,3%,63%,Flyball: LF
-t3,0-1,1,"['', '', '']",3(0-2) CFH,,PHI,M. Lieberthal,P. Martinez,-3%,60%,Hit By Pitch
-t3,0-1,1,"['Lieberthal', '', '']",2(1-0) BX,O,PHI,D. Glanville,P. Martinez,3%,63%,Flyball: RF (CF-RF)
-t3,0-1,2,"['Lieberthal', '', '']",4(1-2) BSSX,O,PHI,J. Rollins,P. Martinez,3%,66%,Flyball: LF (LF-CF)
+t3,0-1,0,"______, ______, ______",2(0-1) CX,O,PHI,D. Bell,P. Martinez,3%,63%,Flyball: LF
+t3,0-1,1,"______, ______, ______",3(0-2) CFH,,PHI,M. Lieberthal,P. Martinez,-3%,60%,Hit By Pitch
+t3,0-1,1,"M. Lieberthal, ______, ______",2(1-0) BX,O,PHI,D. Glanville,P. Martinez,3%,63%,Flyball: RF (CF-RF)
+t3,0-1,2,"M. Lieberthal, ______, ______",4(1-2) BSSX,O,PHI,J. Rollins,P. Martinez,3%,66%,Flyball: LF (LF-CF)
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Phillies 0 Red Sox 1.,0 runs 0 hits 0 errors 1 LOB. Phillies 0 Red Sox 1.,0 runs 0 hits 0 errors 1 LOB. Phillies 0 Red Sox 1.
 Bottom of the 3rd Red Sox Batting Ahead 1-0 Phillies' Paul Abbott facing 1-2-3,Bottom of the 3rd Red Sox Batting Ahead 1-0 Phillies' Paul Abbott facing 1-2-3,Bottom of the 3rd Red Sox Batting Ahead 1-0 Phillies' Paul Abbott facing 1-2-3,,Bottom of the 3rd Red Sox Batting Ahead 1-0 Phillies' Paul Abbott facing 1-2-3,Bottom of the 3rd Red Sox Batting Ahead 1-0 Phillies' Paul Abbott facing 1-2-3,Bottom of the 3rd Red Sox Batting Ahead 1-0 Phillies' Paul Abbott facing 1-2-3,Bottom of the 3rd Red Sox Batting Ahead 1-0 Phillies' Paul Abbott facing 1-2-3,Bottom of the 3rd Red Sox Batting Ahead 1-0 Phillies' Paul Abbott facing 1-2-3,Bottom of the 3rd Red Sox Batting Ahead 1-0 Phillies' Paul Abbott facing 1-2-3,Bottom of the 3rd Red Sox Batting Ahead 1-0 Phillies' Paul Abbott facing 1-2-3,Bottom of the 3rd Red Sox Batting Ahead 1-0 Phillies' Paul Abbott facing 1-2-3
-b3,1-0,0,"['', '', '']",1(0-0) X,,BOS,J. Damon,P. Abbott,3%,69%,Single to CF (Ground Ball)
-b3,1-0,0,"['Damon', '', '']",4(2-1) B1*BC1X,OO,BOS,M. Bellhorn,P. Abbott,-7%,62%,Ground Ball Double Play: 2B-SS-1B
-b3,1-0,2,"['', '', '']",1(0-0) X,,BOS,D. Ortiz,P. Abbott,2%,64%,Double to RF (Line Drive to Deep RF)
-b3,1-0,2,"['', 'Ortiz', '']",2(0-1) CX,R,BOS,M. Ramirez,P. Abbott,9%,74%,Double to LF (Ground Ball thru LF Line); Ortiz Scores
-b3,2-0,2,"['', 'Ramirez', '']",1(0-0) X,O,BOS,N. Garciaparra,P. Abbott,-3%,71%,Flyball: CF (Deep CF)
+b3,1-0,0,"______, ______, ______",1(0-0) X,,BOS,J. Damon,P. Abbott,3%,69%,Single to CF (Ground Ball)
+b3,1-0,0,"J. Damon, ______, ______",4(2-1) B1*BC1X,OO,BOS,M. Bellhorn,P. Abbott,-7%,62%,Ground Ball Double Play: 2B-SS-1B
+b3,1-0,2,"______, ______, ______",1(0-0) X,,BOS,D. Ortiz,P. Abbott,2%,64%,Double to RF (Line Drive to Deep RF)
+b3,1-0,2,"______, D. Ortiz, ______",2(0-1) CX,R,BOS,M. Ramirez,P. Abbott,9%,74%,Double to LF (Ground Ball thru LF Line); D. Ortiz Scores
+b3,2-0,2,"______, M. Ramirez, ______",1(0-0) X,O,BOS,N. Garciaparra,P. Abbott,-3%,71%,Flyball: CF (Deep CF)
 ,,,,,,,,,1 run 3 hits 0 errors 1 LOB. Phillies 0 Red Sox 2.,1 run 3 hits 0 errors 1 LOB. Phillies 0 Red Sox 2.,1 run 3 hits 0 errors 1 LOB. Phillies 0 Red Sox 2.
 Top of the 4th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 2-3-4,Top of the 4th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 2-3-4,Top of the 4th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 2-3-4,,Top of the 4th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 2-3-4,Top of the 4th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 2-3-4,Top of the 4th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 2-3-4,Top of the 4th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 2-3-4,Top of the 4th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 2-3-4,Top of the 4th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 2-3-4,Top of the 4th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 2-3-4,Top of the 4th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 2-3-4
-t4,0-2,0,"['', '', '']",2(0-1) CX,,PHI,P. Polanco,P. Martinez,-4%,67%,Single to RF (Line Drive)
-t4,0-2,0,"['Polanco', '', '']",5(2-2) CBCBS,O,PHI,B. Abreu,P. Martinez,4%,71%,Strikeout Swinging
-t4,0-2,1,"['Polanco', '', '']",3(1-1) CBX,O,PHI,J. Thome,P. Martinez,3%,75%,Flyball: CF
-t4,0-2,2,"['Polanco', '', '']",2(1-0) BX,O,PHI,P. Burrell,P. Martinez,3%,77%,Flyball: CF (LF-CF)
+t4,0-2,0,"______, ______, ______",2(0-1) CX,,PHI,P. Polanco,P. Martinez,-4%,67%,Single to RF (Line Drive)
+t4,0-2,0,"P. Polanco, ______, ______",5(2-2) CBCBS,O,PHI,B. Abreu,P. Martinez,4%,71%,Strikeout Swinging
+t4,0-2,1,"P. Polanco, ______, ______",3(1-1) CBX,O,PHI,J. Thome,P. Martinez,3%,75%,Flyball: CF
+t4,0-2,2,"P. Polanco, ______, ______",2(1-0) BX,O,PHI,P. Burrell,P. Martinez,3%,77%,Flyball: CF (LF-CF)
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Phillies 0 Red Sox 2.,0 runs 1 hit 0 errors 1 LOB. Phillies 0 Red Sox 2.,0 runs 1 hit 0 errors 1 LOB. Phillies 0 Red Sox 2.
 Bottom of the 4th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 6-7-8,Bottom of the 4th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 6-7-8,Bottom of the 4th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 6-7-8,,Bottom of the 4th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 6-7-8,Bottom of the 4th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 6-7-8,Bottom of the 4th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 6-7-8,Bottom of the 4th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 6-7-8,Bottom of the 4th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 6-7-8,Bottom of the 4th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 6-7-8,Bottom of the 4th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 6-7-8,Bottom of the 4th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 6-7-8
-b4,2-0,0,"['', '', '']",3(1-1) BFX,O,BOS,T. Nixon,P. Abbott,-2%,75%,Flyball: RF
-b4,2-0,1,"['', '', '']",3(1-1) CBX,O,BOS,K. Millar,P. Abbott,-1%,74%,Flyball: CF
-b4,2-0,2,"['', '', '']",1(0-0) X,O,BOS,J. Varitek,P. Abbott,-1%,73%,Flyball: CF
+b4,2-0,0,"______, ______, ______",3(1-1) BFX,O,BOS,T. Nixon,P. Abbott,-2%,75%,Flyball: RF
+b4,2-0,1,"______, ______, ______",3(1-1) CBX,O,BOS,K. Millar,P. Abbott,-1%,74%,Flyball: CF
+b4,2-0,2,"______, ______, ______",1(0-0) X,O,BOS,J. Varitek,P. Abbott,-1%,73%,Flyball: CF
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 2.,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 2.,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 2.
 Top of the 5th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 6-7-8,Top of the 5th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 6-7-8,Top of the 5th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 6-7-8,,Top of the 5th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 6-7-8,Top of the 5th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 6-7-8,Top of the 5th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 6-7-8,Top of the 5th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 6-7-8,Top of the 5th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 6-7-8,Top of the 5th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 6-7-8,Top of the 5th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 6-7-8,Top of the 5th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 6-7-8
-t5,0-2,0,"['', '', '']",3(0-2) FFX,O,PHI,C. Utley,P. Martinez,3%,76%,Flyball: LF
-t5,0-2,1,"['', '', '']",11(3-2) BBSCFFFFBFB,,PHI,D. Bell,P. Martinez,-3%,73%,Walk
-t5,0-2,1,"['Bell', '', '']",1(0-0) X,O,PHI,M. Lieberthal,P. Martinez,4%,77%,Foul Popfly: C (Behind Home)
-t5,0-2,2,"['Bell', '', '']",3(0-2) CSX,O,PHI,D. Glanville,P. Martinez,3%,80%,Flyball: RF
+t5,0-2,0,"______, ______, ______",3(0-2) FFX,O,PHI,C. Utley,P. Martinez,3%,76%,Flyball: LF
+t5,0-2,1,"______, ______, ______",11(3-2) BBSCFFFFBFB,,PHI,D. Bell,P. Martinez,-3%,73%,Walk
+t5,0-2,1,"D. Bell, ______, ______",1(0-0) X,O,PHI,M. Lieberthal,P. Martinez,4%,77%,Foul Popfly: C (Behind Home)
+t5,0-2,2,"D. Bell, ______, ______",3(0-2) CSX,O,PHI,D. Glanville,P. Martinez,3%,80%,Flyball: RF
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Phillies 0 Red Sox 2.,0 runs 0 hits 0 errors 1 LOB. Phillies 0 Red Sox 2.,0 runs 0 hits 0 errors 1 LOB. Phillies 0 Red Sox 2.
 Bottom of the 5th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 9-1-2,Bottom of the 5th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 9-1-2,Bottom of the 5th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 9-1-2,,Bottom of the 5th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 9-1-2,Bottom of the 5th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 9-1-2,Bottom of the 5th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 9-1-2,Bottom of the 5th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 9-1-2,Bottom of the 5th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 9-1-2,Bottom of the 5th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 9-1-2,Bottom of the 5th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 9-1-2,Bottom of the 5th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 9-1-2
-b5,2-0,0,"['', '', '']",3(0-2) CFS,O,BOS,K. Youkilis,P. Abbott,-2%,78%,Strikeout Swinging
-b5,2-0,1,"['', '', '']",3(1-1) BSX,O,BOS,J. Damon,P. Abbott,-1%,77%,Bunt Popfly: 3B
-b5,2-0,2,"['', '', '']",4(1-2) CSBS,O,BOS,M. Bellhorn,P. Abbott,-1%,76%,Strikeout Swinging
+b5,2-0,0,"______, ______, ______",3(0-2) CFS,O,BOS,K. Youkilis,P. Abbott,-2%,78%,Strikeout Swinging
+b5,2-0,1,"______, ______, ______",3(1-1) BSX,O,BOS,J. Damon,P. Abbott,-1%,77%,Bunt Popfly: 3B
+b5,2-0,2,"______, ______, ______",4(1-2) CSBS,O,BOS,M. Bellhorn,P. Abbott,-1%,76%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 2.,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 2.,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 2.
 Top of the 6th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 1-2-3,Top of the 6th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 1-2-3,Top of the 6th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 1-2-3,,Top of the 6th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 1-2-3,Top of the 6th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 1-2-3,Top of the 6th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 1-2-3,Top of the 6th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 1-2-3,Top of the 6th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 1-2-3,Top of the 6th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 1-2-3,Top of the 6th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 1-2-3,Top of the 6th Phillies Batting Behind 0-2 Red Sox' Pedro Martinez facing 1-2-3
-t6,0-2,0,"['', '', '']",5(2-2) CBCBX,O,PHI,J. Rollins,P. Martinez,3%,79%,Groundout: 2B-1B
-t6,0-2,1,"['', '', '']",3(1-1) BFX,O,PHI,P. Polanco,P. Martinez,2%,82%,Lineout: 1B
-t6,0-2,2,"['', '', '']",3(1-1) CBX,O,PHI,B. Abreu,P. Martinez,1%,83%,Flyball: LF
+t6,0-2,0,"______, ______, ______",5(2-2) CBCBX,O,PHI,J. Rollins,P. Martinez,3%,79%,Groundout: 2B-1B
+t6,0-2,1,"______, ______, ______",3(1-1) BFX,O,PHI,P. Polanco,P. Martinez,2%,82%,Lineout: 1B
+t6,0-2,2,"______, ______, ______",3(1-1) CBX,O,PHI,B. Abreu,P. Martinez,1%,83%,Flyball: LF
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 2.,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 2.,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 2.
 Bottom of the 6th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 3-4-5,Bottom of the 6th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 3-4-5,Bottom of the 6th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 3-4-5,,Bottom of the 6th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 3-4-5,Bottom of the 6th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 3-4-5,Bottom of the 6th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 3-4-5,Bottom of the 6th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 3-4-5,Bottom of the 6th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 3-4-5,Bottom of the 6th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 3-4-5,Bottom of the 6th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 3-4-5,Bottom of the 6th Red Sox Batting Ahead 2-0 Phillies' Paul Abbott facing 3-4-5
-b6,2-0,0,"['', '', '']",5(1-2) BCSFX,R,BOS,D. Ortiz,P. Abbott,7%,90%,Home Run (Line Drive)
-b6,3-0,0,"['', '', '']",6(3-2) BSFBBX,O,BOS,M. Ramirez,P. Abbott,-1%,89%,Flyball: RF (Deep RF)
-b6,3-0,1,"['', '', '']",2(0-1) SX,O,BOS,N. Garciaparra,P. Abbott,-1%,88%,Flyball: CF (Deep CF)
-b6,3-0,2,"['', '', '']",6(3-2) CBBBCB,,BOS,T. Nixon,P. Abbott,1%,89%,Walk
-b6,3-0,2,"['Nixon', '', '']",2(0-1) CX,,BOS,K. Millar,P. Abbott,1%,90%,Single to CF (Line Drive); Nixon to 2B
+b6,2-0,0,"______, ______, ______",5(1-2) BCSFX,R,BOS,D. Ortiz,P. Abbott,7%,90%,Home Run (Line Drive)
+b6,3-0,0,"______, ______, ______",6(3-2) BSFBBX,O,BOS,M. Ramirez,P. Abbott,-1%,89%,Flyball: RF (Deep RF)
+b6,3-0,1,"______, ______, ______",2(0-1) SX,O,BOS,N. Garciaparra,P. Abbott,-1%,88%,Flyball: CF (Deep CF)
+b6,3-0,2,"______, ______, ______",6(3-2) CBBBCB,,BOS,T. Nixon,P. Abbott,1%,89%,Walk
+b6,3-0,2,"T. Nixon, ______, ______",2(0-1) CX,,BOS,K. Millar,P. Abbott,1%,90%,Single to CF (Line Drive); T. Nixon to 2B
 ,,,,,,,,,Roberto Hernandez replaces Paul Abbott pitching,Roberto Hernandez replaces Paul Abbott pitching,Roberto Hernandez replaces Paul Abbott pitching
-b6,3-0,2,"['Millar', 'Nixon', '']",5(1-2) .BTTFX,R,BOS,J. Varitek,R. Hernandez,5%,94%,Single to RF (Line Drive); Nixon Scores; Millar to 3B
-b6,4-0,2,"['Varitek', '', 'Millar']",2(0-1) CX,RR,BOS,K. Youkilis,R. Hernandez,4%,98%,Double to LF (Line Drive); Millar Scores; Varitek Scores; Youkilis to 3B/Adv on throw
-b6,6-0,2,"['', '', 'Youkilis']",8(3-2) CBBFBFFB,,BOS,J. Damon,R. Hernandez,0%,98%,Walk
+b6,3-0,2,"K. Millar, T. Nixon, ______",5(1-2) .BTTFX,R,BOS,J. Varitek,R. Hernandez,5%,94%,Single to RF (Line Drive); T. Nixon Scores; K. Millar to 3B
+b6,4-0,2,"J. Varitek, ______, K. Millar",2(0-1) CX,RR,BOS,K. Youkilis,R. Hernandez,4%,98%,Double to LF (Line Drive); K. Millar Scores; J. Varitek Scores; K. Youkilis to 3B/Adv on throw
+b6,6-0,2,"______, ______, K. Youkilis",8(3-2) CBBFBFFB,,BOS,J. Damon,R. Hernandez,0%,98%,Walk
 ,,,,,,,,,Brian Powell replaces Roberto Hernandez pitching,Brian Powell replaces Roberto Hernandez pitching,Brian Powell replaces Roberto Hernandez pitching
-b6,6-0,2,"['Damon', '', 'Youkilis']",3(2-0) .BBX,R,BOS,M. Bellhorn,B. Powell,1%,99%,Single to 1B (Ground Ball); Youkilis Scores; Damon to 2B
-b6,7-0,2,"['Bellhorn', 'Damon', '']",3(2-0) B*B*B,,BOS,D. Ortiz,B. Powell,0%,99%,Wild Pitch; Damon to 3B; Bellhorn to 2B
-b6,7-0,2,"['', 'Bellhorn', 'Damon']",4(3-0) B*B*B.B,,BOS,D. Ortiz,B. Powell,0%,99%,Walk
-b6,7-0,2,"['Ortiz', 'Bellhorn', 'Damon']",6(2-2) BBFSFX,RRR,BOS,M. Ramirez,B. Powell,1%,100%,Double to RF (Line Drive to Deep RF); Damon Scores; Bellhorn Scores; Ortiz Scores
-b6,10-0,2,"['', 'Ramirez', '']",5(3-1) BBCBX,O,BOS,N. Garciaparra,B. Powell,-0%,100%,Groundout: 1B-P
+b6,6-0,2,"J. Damon, ______, K. Youkilis",3(2-0) .BBX,R,BOS,M. Bellhorn,B. Powell,1%,99%,Single to 1B (Ground Ball); K. Youkilis Scores; J. Damon to 2B
+b6,7-0,2,"M. Bellhorn, J. Damon, ______",3(2-0) B*B*B,,BOS,D. Ortiz,B. Powell,0%,99%,Wild Pitch; J. Damon to 3B; M. Bellhorn to 2B
+b6,7-0,2,"______, M. Bellhorn, J. Damon",4(3-0) B*B*B.B,,BOS,D. Ortiz,B. Powell,0%,99%,Walk
+b6,7-0,2,"D. Ortiz, M. Bellhorn, J. Damon",6(2-2) BBFSFX,RRR,BOS,M. Ramirez,B. Powell,1%,100%,Double to RF (Line Drive to Deep RF); J. Damon Scores; M. Bellhorn Scores; D. Ortiz Scores
+b6,10-0,2,"______, M. Ramirez, ______",5(3-1) BBCBX,O,BOS,N. Garciaparra,B. Powell,-0%,100%,Groundout: 1B-P
 ,,,,,,,,,8 runs 6 hits 0 errors 1 LOB. Phillies 0 Red Sox 10.,8 runs 6 hits 0 errors 1 LOB. Phillies 0 Red Sox 10.,8 runs 6 hits 0 errors 1 LOB. Phillies 0 Red Sox 10.
 Top of the 7th Phillies Batting Behind 0-10 Red Sox' Pedro Martinez facing 4-5-6,Top of the 7th Phillies Batting Behind 0-10 Red Sox' Pedro Martinez facing 4-5-6,Top of the 7th Phillies Batting Behind 0-10 Red Sox' Pedro Martinez facing 4-5-6,,Top of the 7th Phillies Batting Behind 0-10 Red Sox' Pedro Martinez facing 4-5-6,Top of the 7th Phillies Batting Behind 0-10 Red Sox' Pedro Martinez facing 4-5-6,Top of the 7th Phillies Batting Behind 0-10 Red Sox' Pedro Martinez facing 4-5-6,Top of the 7th Phillies Batting Behind 0-10 Red Sox' Pedro Martinez facing 4-5-6,Top of the 7th Phillies Batting Behind 0-10 Red Sox' Pedro Martinez facing 4-5-6,Top of the 7th Phillies Batting Behind 0-10 Red Sox' Pedro Martinez facing 4-5-6,Top of the 7th Phillies Batting Behind 0-10 Red Sox' Pedro Martinez facing 4-5-6,Top of the 7th Phillies Batting Behind 0-10 Red Sox' Pedro Martinez facing 4-5-6
-t7,0-10,0,"['', '', '']",2(0-1) CX,R,PHI,J. Thome,P. Martinez,-0%,100%,Home Run (Fly Ball)
-t7,1-10,0,"['', '', '']",6(3-2) BBCSBB,,PHI,P. Burrell,P. Martinez,-0%,99%,Walk
-t7,1-10,0,"['Burrell', '', '']",4(0-2) CFFX,O,PHI,C. Utley,P. Martinez,0%,100%,Groundout: 3B-1B; Burrell to 2B
-t7,1-10,1,"['', 'Burrell', '']",5(2-2) BCFBX,O,PHI,D. Bell,P. Martinez,0%,100%,Popfly: 2B (Short CF)
-t7,1-10,2,"['', 'Burrell', '']",5(2-2) CBBFX,O,PHI,M. Lieberthal,P. Martinez,0%,100%,Flyball: LF
+t7,0-10,0,"______, ______, ______",2(0-1) CX,R,PHI,J. Thome,P. Martinez,-0%,100%,Home Run (Fly Ball)
+t7,1-10,0,"______, ______, ______",6(3-2) BBCSBB,,PHI,P. Burrell,P. Martinez,-0%,99%,Walk
+t7,1-10,0,"P. Burrell, ______, ______",4(0-2) CFFX,O,PHI,C. Utley,P. Martinez,0%,100%,Groundout: 3B-1B; P. Burrell to 2B
+t7,1-10,1,"______, P. Burrell, ______",5(2-2) BCFBX,O,PHI,D. Bell,P. Martinez,0%,100%,Popfly: 2B (Short CF)
+t7,1-10,2,"______, P. Burrell, ______",5(2-2) CBBFX,O,PHI,M. Lieberthal,P. Martinez,0%,100%,Flyball: LF
 ,,,,,,,,,1 run 1 hit 0 errors 1 LOB. Phillies 1 Red Sox 10.,1 run 1 hit 0 errors 1 LOB. Phillies 1 Red Sox 10.,1 run 1 hit 0 errors 1 LOB. Phillies 1 Red Sox 10.
 Bottom of the 7th Red Sox Batting Ahead 10-1 Phillies' Brian Powell facing 6-7-8,Bottom of the 7th Red Sox Batting Ahead 10-1 Phillies' Brian Powell facing 6-7-8,Bottom of the 7th Red Sox Batting Ahead 10-1 Phillies' Brian Powell facing 6-7-8,,Bottom of the 7th Red Sox Batting Ahead 10-1 Phillies' Brian Powell facing 6-7-8,Bottom of the 7th Red Sox Batting Ahead 10-1 Phillies' Brian Powell facing 6-7-8,Bottom of the 7th Red Sox Batting Ahead 10-1 Phillies' Brian Powell facing 6-7-8,Bottom of the 7th Red Sox Batting Ahead 10-1 Phillies' Brian Powell facing 6-7-8,Bottom of the 7th Red Sox Batting Ahead 10-1 Phillies' Brian Powell facing 6-7-8,Bottom of the 7th Red Sox Batting Ahead 10-1 Phillies' Brian Powell facing 6-7-8,Bottom of the 7th Red Sox Batting Ahead 10-1 Phillies' Brian Powell facing 6-7-8,Bottom of the 7th Red Sox Batting Ahead 10-1 Phillies' Brian Powell facing 6-7-8
 ,,,,,,,,,Shawn Wooten replaces David Bell playing 3B batting 7th,Shawn Wooten replaces David Bell playing 3B batting 7th,Shawn Wooten replaces David Bell playing 3B batting 7th
-b7,10-1,0,"['', '', '']",5(3-1) .BBCBB,,BOS,T. Nixon,B. Powell,0%,100%,Walk
-b7,10-1,0,"['Nixon', '', '']",4(1-2) CFBC,O,BOS,K. Millar,B. Powell,-0%,100%,Strikeout Looking
-b7,10-1,1,"['Nixon', '', '']",1(0-0) X,,BOS,J. Varitek,B. Powell,0%,100%,Single to LF (Line Drive); Nixon to 2B
-b7,10-1,1,"['Varitek', 'Nixon', '']",5(3-1) BBBCX,RR,BOS,K. Youkilis,B. Powell,0%,100%,Double to CF (Fly Ball to Deep CF); Nixon Scores; Varitek Scores
-b7,12-1,1,"['', 'Youkilis', '']",1(0-0) X,O,BOS,J. Damon,B. Powell,0%,100%,Foul Popfly: C (Behind Home)
-b7,12-1,2,"['', 'Youkilis', '']",6(3-2) BF*BBFB,,BOS,M. Bellhorn,B. Powell,0%,100%,Walk
-b7,12-1,2,"['Bellhorn', 'Youkilis', '']",4(1-2) FSBX,O,BOS,D. Ortiz,B. Powell,0%,100%,Popfly: SS
+b7,10-1,0,"______, ______, ______",5(3-1) .BBCBB,,BOS,T. Nixon,B. Powell,0%,100%,Walk
+b7,10-1,0,"T. Nixon, ______, ______",4(1-2) CFBC,O,BOS,K. Millar,B. Powell,-0%,100%,Strikeout Looking
+b7,10-1,1,"T. Nixon, ______, ______",1(0-0) X,,BOS,J. Varitek,B. Powell,0%,100%,Single to LF (Line Drive); T. Nixon to 2B
+b7,10-1,1,"J. Varitek, T. Nixon, ______",5(3-1) BBBCX,RR,BOS,K. Youkilis,B. Powell,0%,100%,Double to CF (Fly Ball to Deep CF); T. Nixon Scores; J. Varitek Scores
+b7,12-1,1,"______, K. Youkilis, ______",1(0-0) X,O,BOS,J. Damon,B. Powell,0%,100%,Foul Popfly: C (Behind Home)
+b7,12-1,2,"______, K. Youkilis, ______",6(3-2) BF*BBFB,,BOS,M. Bellhorn,B. Powell,0%,100%,Walk
+b7,12-1,2,"M. Bellhorn, K. Youkilis, ______",4(1-2) FSBX,O,BOS,D. Ortiz,B. Powell,0%,100%,Popfly: SS
 ,,,,,,,,,2 runs 2 hits 0 errors 2 LOB. Phillies 1 Red Sox 12.,2 runs 2 hits 0 errors 2 LOB. Phillies 1 Red Sox 12.,2 runs 2 hits 0 errors 2 LOB. Phillies 1 Red Sox 12.
 Top of the 8th Phillies Batting Behind 1-12 Red Sox' Curt Leskanic facing 9-1-2,Top of the 8th Phillies Batting Behind 1-12 Red Sox' Curt Leskanic facing 9-1-2,Top of the 8th Phillies Batting Behind 1-12 Red Sox' Curt Leskanic facing 9-1-2,,Top of the 8th Phillies Batting Behind 1-12 Red Sox' Curt Leskanic facing 9-1-2,Top of the 8th Phillies Batting Behind 1-12 Red Sox' Curt Leskanic facing 9-1-2,Top of the 8th Phillies Batting Behind 1-12 Red Sox' Curt Leskanic facing 9-1-2,Top of the 8th Phillies Batting Behind 1-12 Red Sox' Curt Leskanic facing 9-1-2,Top of the 8th Phillies Batting Behind 1-12 Red Sox' Curt Leskanic facing 9-1-2,Top of the 8th Phillies Batting Behind 1-12 Red Sox' Curt Leskanic facing 9-1-2,Top of the 8th Phillies Batting Behind 1-12 Red Sox' Curt Leskanic facing 9-1-2,Top of the 8th Phillies Batting Behind 1-12 Red Sox' Curt Leskanic facing 9-1-2
 ,,,,,,,,,Curt Leskanic replaces Pedro Martinez pitchingCesar Crespo replaces Nomar Garciaparra playing SS batting 5thGabe Kapler replaces Manny Ramirez playing LF batting 4th,Curt Leskanic replaces Pedro Martinez pitchingCesar Crespo replaces Nomar Garciaparra playing SS batting 5thGabe Kapler replaces Manny Ramirez playing LF batting 4th,Curt Leskanic replaces Pedro Martinez pitchingCesar Crespo replaces Nomar Garciaparra playing SS batting 5thGabe Kapler replaces Manny Ramirez playing LF batting 4th
-t8,1-12,0,"['', '', '']",3(0-2) ...CFS,O,PHI,D. Glanville,C. Leskanic,0%,100%,Strikeout Swinging (C-1B)
-t8,1-12,1,"['', '', '']",2(1-0) BX,O,PHI,J. Rollins,C. Leskanic,0%,100%,Flyball: RF
-t8,1-12,2,"['', '', '']",2(0-1) CX,O,PHI,P. Polanco,C. Leskanic,0%,100%,Popfly: 2B
+t8,1-12,0,"______, ______, ______",3(0-2) ...CFS,O,PHI,D. Glanville,C. Leskanic,0%,100%,Strikeout Swinging (C-1B)
+t8,1-12,1,"______, ______, ______",2(1-0) BX,O,PHI,J. Rollins,C. Leskanic,0%,100%,Flyball: RF
+t8,1-12,2,"______, ______, ______",2(0-1) CX,O,PHI,P. Polanco,C. Leskanic,0%,100%,Popfly: 2B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Phillies 1 Red Sox 12.,0 runs 0 hits 0 errors 0 LOB. Phillies 1 Red Sox 12.,0 runs 0 hits 0 errors 0 LOB. Phillies 1 Red Sox 12.
 Bottom of the 8th Red Sox Batting Ahead 12-1 Phillies' Geoff Geary facing 4-5-6,Bottom of the 8th Red Sox Batting Ahead 12-1 Phillies' Geoff Geary facing 4-5-6,Bottom of the 8th Red Sox Batting Ahead 12-1 Phillies' Geoff Geary facing 4-5-6,,Bottom of the 8th Red Sox Batting Ahead 12-1 Phillies' Geoff Geary facing 4-5-6,Bottom of the 8th Red Sox Batting Ahead 12-1 Phillies' Geoff Geary facing 4-5-6,Bottom of the 8th Red Sox Batting Ahead 12-1 Phillies' Geoff Geary facing 4-5-6,Bottom of the 8th Red Sox Batting Ahead 12-1 Phillies' Geoff Geary facing 4-5-6,Bottom of the 8th Red Sox Batting Ahead 12-1 Phillies' Geoff Geary facing 4-5-6,Bottom of the 8th Red Sox Batting Ahead 12-1 Phillies' Geoff Geary facing 4-5-6,Bottom of the 8th Red Sox Batting Ahead 12-1 Phillies' Geoff Geary facing 4-5-6,Bottom of the 8th Red Sox Batting Ahead 12-1 Phillies' Geoff Geary facing 4-5-6
 ,,,,,,,,,Geoff Geary replaces Brian Powell pitching,Geoff Geary replaces Brian Powell pitching,Geoff Geary replaces Brian Powell pitching
-b8,12-1,0,"['', '', '']",2(0-1) .CX,O,BOS,G. Kapler,G. Geary,0%,100%,Groundout: SS-1B
+b8,12-1,0,"______, ______, ______",2(0-1) .CX,O,BOS,G. Kapler,G. Geary,0%,100%,Groundout: SS-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Phillies 1 Red Sox 12.,0 runs 0 hits 0 errors 0 LOB. Phillies 1 Red Sox 12.,0 runs 0 hits 0 errors 0 LOB. Phillies 1 Red Sox 12.

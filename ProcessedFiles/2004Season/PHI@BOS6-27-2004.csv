@@ -1,127 +1,127 @@
 Inn,Score,Out,RoB,Pit(cnt)Sequence,R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
 Top of the 1st Phillies Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 1st Phillies Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 1st Phillies Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,,Top of the 1st Phillies Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 1st Phillies Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 1st Phillies Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 1st Phillies Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 1st Phillies Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 1st Phillies Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 1st Phillies Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 1st Phillies Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3
-t1,0-0,0,"['', '', '']",2(0-1) FX,O,PHI,J. Rollins,C. Schilling,2%,52%,Flyball: CF
-t1,0-0,1,"['', '', '']",3(1-1) BFX,O,PHI,P. Polanco,C. Schilling,2%,54%,Popfly: 2B (Short CF)
-t1,0-0,2,"['', '', '']",2(0-1) CX,O,PHI,B. Abreu,C. Schilling,1%,55%,Groundout: SS-1B
+t1,0-0,0,"______, ______, ______",2(0-1) FX,O,PHI,J. Rollins,C. Schilling,2%,52%,Flyball: CF
+t1,0-0,1,"______, ______, ______",3(1-1) BFX,O,PHI,P. Polanco,C. Schilling,2%,54%,Popfly: 2B (Short CF)
+t1,0-0,2,"______, ______, ______",2(0-1) CX,O,PHI,B. Abreu,C. Schilling,1%,55%,Groundout: SS-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 0.
 Bottom of the 1st Red Sox Batting Tied 0-0 Phillies' Brett Myers facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Phillies' Brett Myers facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Phillies' Brett Myers facing 1-2-3,,Bottom of the 1st Red Sox Batting Tied 0-0 Phillies' Brett Myers facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Phillies' Brett Myers facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Phillies' Brett Myers facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Phillies' Brett Myers facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Phillies' Brett Myers facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Phillies' Brett Myers facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Phillies' Brett Myers facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Phillies' Brett Myers facing 1-2-3
-b1,0-0,0,"['', '', '']",7(3-2) CBSBFBB,,BOS,J. Damon,B. Myers,3%,58%,Walk
-b1,0-0,0,"['Damon', '', '']",1(0-0) X,OO,BOS,M. Bellhorn,B. Myers,-7%,51%,Ground Ball Double Play: 2B-SS-1B
-b1,0-0,2,"['', '', '']",1(0-0) X,O,BOS,D. Ortiz,B. Myers,-1%,50%,Flyball: CF (CF-RF)
+b1,0-0,0,"______, ______, ______",7(3-2) CBSBFBB,,BOS,J. Damon,B. Myers,3%,58%,Walk
+b1,0-0,0,"J. Damon, ______, ______",1(0-0) X,OO,BOS,M. Bellhorn,B. Myers,-7%,51%,Ground Ball Double Play: 2B-SS-1B
+b1,0-0,2,"______, ______, ______",1(0-0) X,O,BOS,D. Ortiz,B. Myers,-1%,50%,Flyball: CF (CF-RF)
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Phillies 0 Red Sox 0.
 Top of the 2nd Phillies Batting Tied 0-0 Red Sox' Curt Schilling facing 4-5-6,Top of the 2nd Phillies Batting Tied 0-0 Red Sox' Curt Schilling facing 4-5-6,Top of the 2nd Phillies Batting Tied 0-0 Red Sox' Curt Schilling facing 4-5-6,,Top of the 2nd Phillies Batting Tied 0-0 Red Sox' Curt Schilling facing 4-5-6,Top of the 2nd Phillies Batting Tied 0-0 Red Sox' Curt Schilling facing 4-5-6,Top of the 2nd Phillies Batting Tied 0-0 Red Sox' Curt Schilling facing 4-5-6,Top of the 2nd Phillies Batting Tied 0-0 Red Sox' Curt Schilling facing 4-5-6,Top of the 2nd Phillies Batting Tied 0-0 Red Sox' Curt Schilling facing 4-5-6,Top of the 2nd Phillies Batting Tied 0-0 Red Sox' Curt Schilling facing 4-5-6,Top of the 2nd Phillies Batting Tied 0-0 Red Sox' Curt Schilling facing 4-5-6,Top of the 2nd Phillies Batting Tied 0-0 Red Sox' Curt Schilling facing 4-5-6
-t2,0-0,0,"['', '', '']",1(0-0) X,O,PHI,J. Thome,C. Schilling,2%,52%,Flyball: CF (Deep CF)
-t2,0-0,1,"['', '', '']",1(0-0) X,R,PHI,P. Burrell,C. Schilling,-10%,43%,Home Run (Fly Ball)
-t2,1-0,1,"['', '', '']",5(2-2) FBBTX,O,PHI,C. Utley,C. Schilling,2%,44%,Groundout: 2B-1B
-t2,1-0,2,"['', '', '']",1(0-0) X,R,PHI,D. Bell,C. Schilling,-9%,35%,Home Run (Fly Ball)
-t2,2-0,2,"['', '', '']",6(3-2) BCSBBB,,PHI,J. Michaels,C. Schilling,-1%,34%,Walk
-t2,2-0,2,"['Michaels', '', '']",4(1-2) CBST,O,PHI,T. Pratt,C. Schilling,2%,36%,Strikeout Swinging
+t2,0-0,0,"______, ______, ______",1(0-0) X,O,PHI,J. Thome,C. Schilling,2%,52%,Flyball: CF (Deep CF)
+t2,0-0,1,"______, ______, ______",1(0-0) X,R,PHI,P. Burrell,C. Schilling,-10%,43%,Home Run (Fly Ball)
+t2,1-0,1,"______, ______, ______",5(2-2) FBBTX,O,PHI,C. Utley,C. Schilling,2%,44%,Groundout: 2B-1B
+t2,1-0,2,"______, ______, ______",1(0-0) X,R,PHI,D. Bell,C. Schilling,-9%,35%,Home Run (Fly Ball)
+t2,2-0,2,"______, ______, ______",6(3-2) BCSBBB,,PHI,J. Michaels,C. Schilling,-1%,34%,Walk
+t2,2-0,2,"J. Michaels, ______, ______",4(1-2) CBST,O,PHI,T. Pratt,C. Schilling,2%,36%,Strikeout Swinging
 ,,,,,,,,,2 runs 2 hits 0 errors 1 LOB. Phillies 2 Red Sox 0.,2 runs 2 hits 0 errors 1 LOB. Phillies 2 Red Sox 0.,2 runs 2 hits 0 errors 1 LOB. Phillies 2 Red Sox 0.
 Bottom of the 2nd Red Sox Batting Behind 0-2 Phillies' Brett Myers facing 4-5-6,Bottom of the 2nd Red Sox Batting Behind 0-2 Phillies' Brett Myers facing 4-5-6,Bottom of the 2nd Red Sox Batting Behind 0-2 Phillies' Brett Myers facing 4-5-6,,Bottom of the 2nd Red Sox Batting Behind 0-2 Phillies' Brett Myers facing 4-5-6,Bottom of the 2nd Red Sox Batting Behind 0-2 Phillies' Brett Myers facing 4-5-6,Bottom of the 2nd Red Sox Batting Behind 0-2 Phillies' Brett Myers facing 4-5-6,Bottom of the 2nd Red Sox Batting Behind 0-2 Phillies' Brett Myers facing 4-5-6,Bottom of the 2nd Red Sox Batting Behind 0-2 Phillies' Brett Myers facing 4-5-6,Bottom of the 2nd Red Sox Batting Behind 0-2 Phillies' Brett Myers facing 4-5-6,Bottom of the 2nd Red Sox Batting Behind 0-2 Phillies' Brett Myers facing 4-5-6,Bottom of the 2nd Red Sox Batting Behind 0-2 Phillies' Brett Myers facing 4-5-6
-b2,0-2,0,"['', '', '']",8(3-2) CBBCFFBB,,BOS,M. Ramirez,B. Myers,4%,40%,Walk
-b2,0-2,0,"['Ramirez', '', '']",5(2-2) BSBFX,O,BOS,N. Garciaparra,B. Myers,-4%,36%,Flyball: CF
-b2,0-2,1,"['Ramirez', '', '']",8(3-2) CCBFBBF>X,O,BOS,T. Nixon,B. Myers,-2%,34%,Groundout: 1B unassisted; Ramirez to 2B
-b2,0-2,2,"['', 'Ramirez', '']",1(0-0) X,O,BOS,J. Varitek,B. Myers,-3%,30%,Groundout: 2B-1B
+b2,0-2,0,"______, ______, ______",8(3-2) CBBCFFBB,,BOS,M. Ramirez,B. Myers,4%,40%,Walk
+b2,0-2,0,"M. Ramirez, ______, ______",5(2-2) BSBFX,O,BOS,N. Garciaparra,B. Myers,-4%,36%,Flyball: CF
+b2,0-2,1,"M. Ramirez, ______, ______",8(3-2) CCBFBBF>X,O,BOS,T. Nixon,B. Myers,-2%,34%,Groundout: 1B unassisted; M. Ramirez to 2B
+b2,0-2,2,"______, M. Ramirez, ______",1(0-0) X,O,BOS,J. Varitek,B. Myers,-3%,30%,Groundout: 2B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Phillies 2 Red Sox 0.,0 runs 0 hits 0 errors 1 LOB. Phillies 2 Red Sox 0.,0 runs 0 hits 0 errors 1 LOB. Phillies 2 Red Sox 0.
 Top of the 3rd Phillies Batting Ahead 2-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 3rd Phillies Batting Ahead 2-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 3rd Phillies Batting Ahead 2-0 Red Sox' Curt Schilling facing 1-2-3,,Top of the 3rd Phillies Batting Ahead 2-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 3rd Phillies Batting Ahead 2-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 3rd Phillies Batting Ahead 2-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 3rd Phillies Batting Ahead 2-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 3rd Phillies Batting Ahead 2-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 3rd Phillies Batting Ahead 2-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 3rd Phillies Batting Ahead 2-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 3rd Phillies Batting Ahead 2-0 Red Sox' Curt Schilling facing 1-2-3
-t3,2-0,0,"['', '', '']",2(0-1) CX,,PHI,J. Rollins,C. Schilling,-5%,26%,Double to RF (Ground Ball)
-t3,2-0,0,"['', 'Rollins', '']",3(1-1) LBX,R,PHI,P. Polanco,C. Schilling,-5%,20%,Single to CF (Ground Ball); Rollins Scores
-t3,3-0,0,"['Polanco', '', '']",5(2-2) BCBF*B,,PHI,B. Abreu,C. Schilling,-2%,19%,Wild Pitch; Polanco to 2B
-t3,3-0,0,"['', 'Polanco', '']",6(3-2) BCBF*B.S,O,PHI,B. Abreu,C. Schilling,3%,21%,Strikeout Swinging
-t3,3-0,1,"['', 'Polanco', '']",6(3-2) BSF*BB*B,,PHI,J. Thome,C. Schilling,-1%,20%,Walk
-t3,3-0,1,"['Thome', 'Polanco', '']",6(3-2) BBCFBX,O,PHI,P. Burrell,C. Schilling,2%,23%,Groundout: 2B-SS/Forceout at 2B; Polanco to 3B
-t3,3-0,2,"['Burrell', '', 'Polanco']",5(2-2) CFBBX,O,PHI,C. Utley,C. Schilling,3%,26%,Flyball: CF
+t3,2-0,0,"______, ______, ______",2(0-1) CX,,PHI,J. Rollins,C. Schilling,-5%,26%,Double to RF (Ground Ball)
+t3,2-0,0,"______, J. Rollins, ______",3(1-1) LBX,R,PHI,P. Polanco,C. Schilling,-5%,20%,Single to CF (Ground Ball); J. Rollins Scores
+t3,3-0,0,"P. Polanco, ______, ______",5(2-2) BCBF*B,,PHI,B. Abreu,C. Schilling,-2%,19%,Wild Pitch; P. Polanco to 2B
+t3,3-0,0,"______, P. Polanco, ______",6(3-2) BCBF*B.S,O,PHI,B. Abreu,C. Schilling,3%,21%,Strikeout Swinging
+t3,3-0,1,"______, P. Polanco, ______",6(3-2) BSF*BB*B,,PHI,J. Thome,C. Schilling,-1%,20%,Walk
+t3,3-0,1,"J. Thome, P. Polanco, ______",6(3-2) BBCFBX,O,PHI,P. Burrell,C. Schilling,2%,23%,Groundout: 2B-SS/Forceout at 2B; P. Polanco to 3B
+t3,3-0,2,"P. Burrell, ______, P. Polanco",5(2-2) CFBBX,O,PHI,C. Utley,C. Schilling,3%,26%,Flyball: CF
 ,,,,,,,,,1 run 2 hits 0 errors 2 LOB. Phillies 3 Red Sox 0.,1 run 2 hits 0 errors 2 LOB. Phillies 3 Red Sox 0.,1 run 2 hits 0 errors 2 LOB. Phillies 3 Red Sox 0.
 Bottom of the 3rd Red Sox Batting Behind 0-3 Phillies' Brett Myers facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 0-3 Phillies' Brett Myers facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 0-3 Phillies' Brett Myers facing 8-9-1,,Bottom of the 3rd Red Sox Batting Behind 0-3 Phillies' Brett Myers facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 0-3 Phillies' Brett Myers facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 0-3 Phillies' Brett Myers facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 0-3 Phillies' Brett Myers facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 0-3 Phillies' Brett Myers facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 0-3 Phillies' Brett Myers facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 0-3 Phillies' Brett Myers facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 0-3 Phillies' Brett Myers facing 8-9-1
-b3,0-3,0,"['', '', '']",4(2-1) BCBX,O,BOS,K. Millar,B. Myers,-3%,24%,Popfly: 3B
-b3,0-3,1,"['', '', '']",7(3-2) CBBCBFB,,BOS,K. Youkilis,B. Myers,3%,26%,Walk
-b3,0-3,1,"['Youkilis', '', '']",5(2-2) BBFFX,,BOS,J. Damon,B. Myers,4%,30%,Single to LF (Line Drive); Youkilis to 2B
-b3,0-3,1,"['Damon', 'Youkilis', '']",1(0-0) X,,BOS,M. Bellhorn,B. Myers,6%,37%,Single to CF (Line Drive); Youkilis to 3B; Damon to 2B
-b3,0-3,1,"['Bellhorn', 'Damon', 'Youkilis']",6(2-2) BFFBFS,O,BOS,D. Ortiz,B. Myers,-8%,29%,Strikeout Swinging
-b3,0-3,2,"['Bellhorn', 'Damon', 'Youkilis']",4(1-2) CCBX,RR,BOS,M. Ramirez,B. Myers,17%,46%,Ground-rule Double (Fly Ball); Youkilis Scores; Damon Scores; Bellhorn to 3B
-b3,2-3,2,"['', 'Ramirez', 'Bellhorn']",1(0-0) X,RR,BOS,N. Garciaparra,B. Myers,19%,64%,Ground-rule Double (Fly Ball); Bellhorn Scores; Ramirez Scores
-b3,4-3,2,"['', 'Garciaparra', '']",2(0-1) FX,O,BOS,T. Nixon,B. Myers,-3%,61%,Foul Popfly: 3B (3B Foul)
+b3,0-3,0,"______, ______, ______",4(2-1) BCBX,O,BOS,K. Millar,B. Myers,-3%,24%,Popfly: 3B
+b3,0-3,1,"______, ______, ______",7(3-2) CBBCBFB,,BOS,K. Youkilis,B. Myers,3%,26%,Walk
+b3,0-3,1,"K. Youkilis, ______, ______",5(2-2) BBFFX,,BOS,J. Damon,B. Myers,4%,30%,Single to LF (Line Drive); K. Youkilis to 2B
+b3,0-3,1,"J. Damon, K. Youkilis, ______",1(0-0) X,,BOS,M. Bellhorn,B. Myers,6%,37%,Single to CF (Line Drive); K. Youkilis to 3B; J. Damon to 2B
+b3,0-3,1,"M. Bellhorn, J. Damon, K. Youkilis",6(2-2) BFFBFS,O,BOS,D. Ortiz,B. Myers,-8%,29%,Strikeout Swinging
+b3,0-3,2,"M. Bellhorn, J. Damon, K. Youkilis",4(1-2) CCBX,RR,BOS,M. Ramirez,B. Myers,17%,46%,Ground-rule Double (Fly Ball); K. Youkilis Scores; J. Damon Scores; M. Bellhorn
+b3,2-3,2,"______, M. Ramirez, ______",1(0-0) X,RR,BOS,N. Garciaparra,B. Myers,19%,64%,Ground-rule Double (Fly Ball); M. Bellhorn Scores; M. Ramirez Scores
+b3,4-3,2,"______, N. Garciaparra, ______",2(0-1) FX,O,BOS,T. Nixon,B. Myers,-3%,61%,Foul Popfly: 3B (3B Foul)
 ,,,,,,,,,4 runs 4 hits 0 errors 1 LOB. Phillies 3 Red Sox 4.,4 runs 4 hits 0 errors 1 LOB. Phillies 3 Red Sox 4.,4 runs 4 hits 0 errors 1 LOB. Phillies 3 Red Sox 4.
 Top of the 4th Phillies Batting Behind 3-4 Red Sox' Curt Schilling facing 7-8-9,Top of the 4th Phillies Batting Behind 3-4 Red Sox' Curt Schilling facing 7-8-9,Top of the 4th Phillies Batting Behind 3-4 Red Sox' Curt Schilling facing 7-8-9,,Top of the 4th Phillies Batting Behind 3-4 Red Sox' Curt Schilling facing 7-8-9,Top of the 4th Phillies Batting Behind 3-4 Red Sox' Curt Schilling facing 7-8-9,Top of the 4th Phillies Batting Behind 3-4 Red Sox' Curt Schilling facing 7-8-9,Top of the 4th Phillies Batting Behind 3-4 Red Sox' Curt Schilling facing 7-8-9,Top of the 4th Phillies Batting Behind 3-4 Red Sox' Curt Schilling facing 7-8-9,Top of the 4th Phillies Batting Behind 3-4 Red Sox' Curt Schilling facing 7-8-9,Top of the 4th Phillies Batting Behind 3-4 Red Sox' Curt Schilling facing 7-8-9,Top of the 4th Phillies Batting Behind 3-4 Red Sox' Curt Schilling facing 7-8-9
-t4,3-4,0,"['', '', '']",1(0-0) X,O,PHI,D. Bell,C. Schilling,3%,64%,Flyball: LF
-t4,3-4,1,"['', '', '']",5(1-2) CCBFS,O,PHI,J. Michaels,C. Schilling,2%,66%,Strikeout Swinging
-t4,3-4,2,"['', '', '']",2(0-1) CX,O,PHI,T. Pratt,C. Schilling,1%,68%,Flyball: CF
+t4,3-4,0,"______, ______, ______",1(0-0) X,O,PHI,D. Bell,C. Schilling,3%,64%,Flyball: LF
+t4,3-4,1,"______, ______, ______",5(1-2) CCBFS,O,PHI,J. Michaels,C. Schilling,2%,66%,Strikeout Swinging
+t4,3-4,2,"______, ______, ______",2(0-1) CX,O,PHI,T. Pratt,C. Schilling,1%,68%,Flyball: CF
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Phillies 3 Red Sox 4.,0 runs 0 hits 0 errors 0 LOB. Phillies 3 Red Sox 4.,0 runs 0 hits 0 errors 0 LOB. Phillies 3 Red Sox 4.
 Bottom of the 4th Red Sox Batting Ahead 4-3 Phillies' Brett Myers facing 7-8-9,Bottom of the 4th Red Sox Batting Ahead 4-3 Phillies' Brett Myers facing 7-8-9,Bottom of the 4th Red Sox Batting Ahead 4-3 Phillies' Brett Myers facing 7-8-9,,Bottom of the 4th Red Sox Batting Ahead 4-3 Phillies' Brett Myers facing 7-8-9,Bottom of the 4th Red Sox Batting Ahead 4-3 Phillies' Brett Myers facing 7-8-9,Bottom of the 4th Red Sox Batting Ahead 4-3 Phillies' Brett Myers facing 7-8-9,Bottom of the 4th Red Sox Batting Ahead 4-3 Phillies' Brett Myers facing 7-8-9,Bottom of the 4th Red Sox Batting Ahead 4-3 Phillies' Brett Myers facing 7-8-9,Bottom of the 4th Red Sox Batting Ahead 4-3 Phillies' Brett Myers facing 7-8-9,Bottom of the 4th Red Sox Batting Ahead 4-3 Phillies' Brett Myers facing 7-8-9,Bottom of the 4th Red Sox Batting Ahead 4-3 Phillies' Brett Myers facing 7-8-9
-b4,4-3,0,"['', '', '']",1(0-0) X,O,BOS,J. Varitek,B. Myers,-2%,65%,Groundout: 1B-P
-b4,4-3,1,"['', '', '']",4(1-2) FCBS,O,BOS,K. Millar,B. Myers,-2%,64%,Strikeout Swinging
-b4,4-3,2,"['', '', '']",5(2-2) BBCFC,O,BOS,K. Youkilis,B. Myers,-1%,63%,Strikeout Looking
+b4,4-3,0,"______, ______, ______",1(0-0) X,O,BOS,J. Varitek,B. Myers,-2%,65%,Groundout: 1B-P
+b4,4-3,1,"______, ______, ______",4(1-2) FCBS,O,BOS,K. Millar,B. Myers,-2%,64%,Strikeout Swinging
+b4,4-3,2,"______, ______, ______",5(2-2) BBCFC,O,BOS,K. Youkilis,B. Myers,-1%,63%,Strikeout Looking
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Phillies 3 Red Sox 4.,0 runs 0 hits 0 errors 0 LOB. Phillies 3 Red Sox 4.,0 runs 0 hits 0 errors 0 LOB. Phillies 3 Red Sox 4.
 Top of the 5th Phillies Batting Behind 3-4 Red Sox' Curt Schilling facing 1-2-3,Top of the 5th Phillies Batting Behind 3-4 Red Sox' Curt Schilling facing 1-2-3,Top of the 5th Phillies Batting Behind 3-4 Red Sox' Curt Schilling facing 1-2-3,,Top of the 5th Phillies Batting Behind 3-4 Red Sox' Curt Schilling facing 1-2-3,Top of the 5th Phillies Batting Behind 3-4 Red Sox' Curt Schilling facing 1-2-3,Top of the 5th Phillies Batting Behind 3-4 Red Sox' Curt Schilling facing 1-2-3,Top of the 5th Phillies Batting Behind 3-4 Red Sox' Curt Schilling facing 1-2-3,Top of the 5th Phillies Batting Behind 3-4 Red Sox' Curt Schilling facing 1-2-3,Top of the 5th Phillies Batting Behind 3-4 Red Sox' Curt Schilling facing 1-2-3,Top of the 5th Phillies Batting Behind 3-4 Red Sox' Curt Schilling facing 1-2-3,Top of the 5th Phillies Batting Behind 3-4 Red Sox' Curt Schilling facing 1-2-3
-t5,3-4,0,"['', '', '']",4(1-2) BCFX,O,PHI,J. Rollins,C. Schilling,3%,66%,Flyball: RF
-t5,3-4,1,"['', '', '']",4(1-2) BCCX,,PHI,P. Polanco,C. Schilling,-4%,62%,Single to LF (Fly Ball to Deep LF)
-t5,3-4,1,"['Polanco', '', '']",4(0-2) SSF>B,O,PHI,B. Abreu,C. Schilling,6%,68%,Polanco Caught Stealing 2B (C-SS)
-t5,3-4,2,"['', '', '']",6(2-2) SSF>B.BX,,PHI,B. Abreu,C. Schilling,-3%,65%,Double to LF (Fly Ball to Deep LF-CF)
-t5,3-4,2,"['', 'Abreu', '']",5(2-2) BBCCS,O,PHI,J. Thome,C. Schilling,5%,70%,Strikeout Swinging
+t5,3-4,0,"______, ______, ______",4(1-2) BCFX,O,PHI,J. Rollins,C. Schilling,3%,66%,Flyball: RF
+t5,3-4,1,"______, ______, ______",4(1-2) BCCX,,PHI,P. Polanco,C. Schilling,-4%,62%,Single to LF (Fly Ball to Deep LF)
+t5,3-4,1,"P. Polanco, ______, ______",4(0-2) SSF>B,O,PHI,B. Abreu,C. Schilling,6%,68%,P. Polanco Caught Stealing 2B (C-SS)
+t5,3-4,2,"______, ______, ______",6(2-2) SSF>B.BX,,PHI,B. Abreu,C. Schilling,-3%,65%,Double to LF (Fly Ball to Deep LF-CF)
+t5,3-4,2,"______, B. Abreu, ______",5(2-2) BBCCS,O,PHI,J. Thome,C. Schilling,5%,70%,Strikeout Swinging
 ,,,,,,,,,0 runs 2 hits 0 errors 1 LOB. Phillies 3 Red Sox 4.,0 runs 2 hits 0 errors 1 LOB. Phillies 3 Red Sox 4.,0 runs 2 hits 0 errors 1 LOB. Phillies 3 Red Sox 4.
 Bottom of the 5th Red Sox Batting Ahead 4-3 Phillies' Brett Myers facing 1-2-3,Bottom of the 5th Red Sox Batting Ahead 4-3 Phillies' Brett Myers facing 1-2-3,Bottom of the 5th Red Sox Batting Ahead 4-3 Phillies' Brett Myers facing 1-2-3,,Bottom of the 5th Red Sox Batting Ahead 4-3 Phillies' Brett Myers facing 1-2-3,Bottom of the 5th Red Sox Batting Ahead 4-3 Phillies' Brett Myers facing 1-2-3,Bottom of the 5th Red Sox Batting Ahead 4-3 Phillies' Brett Myers facing 1-2-3,Bottom of the 5th Red Sox Batting Ahead 4-3 Phillies' Brett Myers facing 1-2-3,Bottom of the 5th Red Sox Batting Ahead 4-3 Phillies' Brett Myers facing 1-2-3,Bottom of the 5th Red Sox Batting Ahead 4-3 Phillies' Brett Myers facing 1-2-3,Bottom of the 5th Red Sox Batting Ahead 4-3 Phillies' Brett Myers facing 1-2-3,Bottom of the 5th Red Sox Batting Ahead 4-3 Phillies' Brett Myers facing 1-2-3
-b5,4-3,0,"['', '', '']",2(0-1) CX,O,BOS,J. Damon,B. Myers,-2%,68%,Groundout: 2B-1B
-b5,4-3,1,"['', '', '']",7(3-2) CBFBBFB,,BOS,M. Bellhorn,B. Myers,2%,70%,Walk
-b5,4-3,1,"['Bellhorn', '', '']",1(0-0) X,RR,BOS,D. Ortiz,B. Myers,16%,86%,Home Run (Line Drive); Bellhorn Scores
-b5,6-3,1,"['', '', '']",5(2-2) CCBBC,O,BOS,M. Ramirez,B. Myers,-1%,85%,Strikeout Looking
-b5,6-3,2,"['', '', '']",1(0-0) X,O,BOS,N. Garciaparra,B. Myers,-1%,84%,Groundout: SS-1B
+b5,4-3,0,"______, ______, ______",2(0-1) CX,O,BOS,J. Damon,B. Myers,-2%,68%,Groundout: 2B-1B
+b5,4-3,1,"______, ______, ______",7(3-2) CBFBBFB,,BOS,M. Bellhorn,B. Myers,2%,70%,Walk
+b5,4-3,1,"M. Bellhorn, ______, ______",1(0-0) X,RR,BOS,D. Ortiz,B. Myers,16%,86%,Home Run (Line Drive); M. Bellhorn Scores
+b5,6-3,1,"______, ______, ______",5(2-2) CCBBC,O,BOS,M. Ramirez,B. Myers,-1%,85%,Strikeout Looking
+b5,6-3,2,"______, ______, ______",1(0-0) X,O,BOS,N. Garciaparra,B. Myers,-1%,84%,Groundout: SS-1B
 ,,,,,,,,,2 runs 1 hit 0 errors 0 LOB. Phillies 3 Red Sox 6.,2 runs 1 hit 0 errors 0 LOB. Phillies 3 Red Sox 6.,2 runs 1 hit 0 errors 0 LOB. Phillies 3 Red Sox 6.
 Top of the 6th Phillies Batting Behind 3-6 Red Sox' Curt Schilling facing 5-6-7,Top of the 6th Phillies Batting Behind 3-6 Red Sox' Curt Schilling facing 5-6-7,Top of the 6th Phillies Batting Behind 3-6 Red Sox' Curt Schilling facing 5-6-7,,Top of the 6th Phillies Batting Behind 3-6 Red Sox' Curt Schilling facing 5-6-7,Top of the 6th Phillies Batting Behind 3-6 Red Sox' Curt Schilling facing 5-6-7,Top of the 6th Phillies Batting Behind 3-6 Red Sox' Curt Schilling facing 5-6-7,Top of the 6th Phillies Batting Behind 3-6 Red Sox' Curt Schilling facing 5-6-7,Top of the 6th Phillies Batting Behind 3-6 Red Sox' Curt Schilling facing 5-6-7,Top of the 6th Phillies Batting Behind 3-6 Red Sox' Curt Schilling facing 5-6-7,Top of the 6th Phillies Batting Behind 3-6 Red Sox' Curt Schilling facing 5-6-7,Top of the 6th Phillies Batting Behind 3-6 Red Sox' Curt Schilling facing 5-6-7
-t6,3-6,0,"['', '', '']",5(2-2) CBFBC,O,PHI,P. Burrell,C. Schilling,3%,87%,Strikeout Looking
-t6,3-6,1,"['', '', '']",7(2-2) BCFFFBX,,PHI,C. Utley,C. Schilling,-3%,84%,Single to LF (Line Drive)
-t6,3-6,1,"['Utley', '', '']",5(2-2) 1CCB1*BX,,PHI,D. Bell,C. Schilling,-6%,78%,Single to CF (Line Drive); Utley to 3B
-t6,3-6,1,"['Bell', '', 'Utley']",9(3-2) SCFBFFBBS,O,PHI,J. Michaels,C. Schilling,7%,85%,Strikeout Swinging
-t6,3-6,2,"['Bell', '', 'Utley']",4(1-2) SSBS,O,PHI,T. Pratt,C. Schilling,5%,90%,Strikeout Swinging
+t6,3-6,0,"______, ______, ______",5(2-2) CBFBC,O,PHI,P. Burrell,C. Schilling,3%,87%,Strikeout Looking
+t6,3-6,1,"______, ______, ______",7(2-2) BCFFFBX,,PHI,C. Utley,C. Schilling,-3%,84%,Single to LF (Line Drive)
+t6,3-6,1,"C. Utley, ______, ______",5(2-2) 1CCB1*BX,,PHI,D. Bell,C. Schilling,-6%,78%,Single to CF (Line Drive); C. Utley to 3B
+t6,3-6,1,"D. Bell, ______, C. Utley",9(3-2) SCFBFFBBS,O,PHI,J. Michaels,C. Schilling,7%,85%,Strikeout Swinging
+t6,3-6,2,"D. Bell, ______, C. Utley",4(1-2) SSBS,O,PHI,T. Pratt,C. Schilling,5%,90%,Strikeout Swinging
 ,,,,,,,,,0 runs 2 hits 0 errors 2 LOB. Phillies 3 Red Sox 6.,0 runs 2 hits 0 errors 2 LOB. Phillies 3 Red Sox 6.,0 runs 2 hits 0 errors 2 LOB. Phillies 3 Red Sox 6.
 Bottom of the 6th Red Sox Batting Ahead 6-3 Phillies' Brett Myers facing 6-7-8,Bottom of the 6th Red Sox Batting Ahead 6-3 Phillies' Brett Myers facing 6-7-8,Bottom of the 6th Red Sox Batting Ahead 6-3 Phillies' Brett Myers facing 6-7-8,,Bottom of the 6th Red Sox Batting Ahead 6-3 Phillies' Brett Myers facing 6-7-8,Bottom of the 6th Red Sox Batting Ahead 6-3 Phillies' Brett Myers facing 6-7-8,Bottom of the 6th Red Sox Batting Ahead 6-3 Phillies' Brett Myers facing 6-7-8,Bottom of the 6th Red Sox Batting Ahead 6-3 Phillies' Brett Myers facing 6-7-8,Bottom of the 6th Red Sox Batting Ahead 6-3 Phillies' Brett Myers facing 6-7-8,Bottom of the 6th Red Sox Batting Ahead 6-3 Phillies' Brett Myers facing 6-7-8,Bottom of the 6th Red Sox Batting Ahead 6-3 Phillies' Brett Myers facing 6-7-8,Bottom of the 6th Red Sox Batting Ahead 6-3 Phillies' Brett Myers facing 6-7-8
-b6,6-3,0,"['', '', '']",2(1-0) BX,O,BOS,T. Nixon,B. Myers,-1%,89%,Flyball: RF
-b6,6-3,1,"['', '', '']",2(0-1) CX,O,BOS,J. Varitek,B. Myers,-1%,88%,Flyball: LF (LF-CF)
-b6,6-3,2,"['', '', '']",3(2-0) BBX,O,BOS,K. Millar,B. Myers,-1%,88%,Flyball: RF (CF-RF)
+b6,6-3,0,"______, ______, ______",2(1-0) BX,O,BOS,T. Nixon,B. Myers,-1%,89%,Flyball: RF
+b6,6-3,1,"______, ______, ______",2(0-1) CX,O,BOS,J. Varitek,B. Myers,-1%,88%,Flyball: LF (LF-CF)
+b6,6-3,2,"______, ______, ______",3(2-0) BBX,O,BOS,K. Millar,B. Myers,-1%,88%,Flyball: RF (CF-RF)
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Phillies 3 Red Sox 6.,0 runs 0 hits 0 errors 0 LOB. Phillies 3 Red Sox 6.,0 runs 0 hits 0 errors 0 LOB. Phillies 3 Red Sox 6.
 Top of the 7th Phillies Batting Behind 3-6 Red Sox' Alan Embree facing 1-2-3,Top of the 7th Phillies Batting Behind 3-6 Red Sox' Alan Embree facing 1-2-3,Top of the 7th Phillies Batting Behind 3-6 Red Sox' Alan Embree facing 1-2-3,,Top of the 7th Phillies Batting Behind 3-6 Red Sox' Alan Embree facing 1-2-3,Top of the 7th Phillies Batting Behind 3-6 Red Sox' Alan Embree facing 1-2-3,Top of the 7th Phillies Batting Behind 3-6 Red Sox' Alan Embree facing 1-2-3,Top of the 7th Phillies Batting Behind 3-6 Red Sox' Alan Embree facing 1-2-3,Top of the 7th Phillies Batting Behind 3-6 Red Sox' Alan Embree facing 1-2-3,Top of the 7th Phillies Batting Behind 3-6 Red Sox' Alan Embree facing 1-2-3,Top of the 7th Phillies Batting Behind 3-6 Red Sox' Alan Embree facing 1-2-3,Top of the 7th Phillies Batting Behind 3-6 Red Sox' Alan Embree facing 1-2-3
 ,,,,,,,,,Alan Embree replaces Curt Schilling pitching,Alan Embree replaces Curt Schilling pitching,Alan Embree replaces Curt Schilling pitching
-t7,3-6,0,"['', '', '']",4(0-2) .CFFX,O,PHI,J. Rollins,A. Embree,3%,90%,Groundout: P-1B
-t7,3-6,1,"['', '', '']",8(3-2) BBCFBFFB,,PHI,P. Polanco,A. Embree,-3%,88%,Walk
-t7,3-6,1,"['Polanco', '', '']",4(1-2) T*BFX,,PHI,B. Abreu,A. Embree,-5%,83%,Reached on E5/attempted forceout (Ground Ball); Polanco to 2B
-t7,3-6,1,"['Abreu', 'Polanco', '']",1(0-0) X,O,PHI,J. Thome,A. Embree,5%,88%,Groundout: 2B-SS/Forceout at 2B; Polanco to 3B
+t7,3-6,0,"______, ______, ______",4(0-2) .CFFX,O,PHI,J. Rollins,A. Embree,3%,90%,Groundout: P-1B
+t7,3-6,1,"______, ______, ______",8(3-2) BBCFBFFB,,PHI,P. Polanco,A. Embree,-3%,88%,Walk
+t7,3-6,1,"P. Polanco, ______, ______",4(1-2) T*BFX,,PHI,B. Abreu,A. Embree,-5%,83%,Reached on E5/attempted forceout (Ground Ball); P. Polanco to 2B
+t7,3-6,1,"B. Abreu, P. Polanco, ______",1(0-0) X,O,PHI,J. Thome,A. Embree,5%,88%,Groundout: 2B-SS/Forceout at 2B; P. Polanco to 3B
 ,,,,,,,,,Mike Timlin replaces Alan Embree pitching,Mike Timlin replaces Alan Embree pitching,Mike Timlin replaces Alan Embree pitching
-t7,3-6,2,"['Thome', '', 'Polanco']",4(0-2) .SCFS,O,PHI,P. Burrell,M. Timlin,5%,93%,Strikeout Swinging
+t7,3-6,2,"J. Thome, ______, P. Polanco",4(0-2) .SCFS,O,PHI,P. Burrell,M. Timlin,5%,93%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 1 error 2 LOB. Phillies 3 Red Sox 6.,0 runs 0 hits 1 error 2 LOB. Phillies 3 Red Sox 6.,0 runs 0 hits 1 error 2 LOB. Phillies 3 Red Sox 6.
 Bottom of the 7th Red Sox Batting Ahead 6-3 Phillies' Brett Myers facing 9-1-2,Bottom of the 7th Red Sox Batting Ahead 6-3 Phillies' Brett Myers facing 9-1-2,Bottom of the 7th Red Sox Batting Ahead 6-3 Phillies' Brett Myers facing 9-1-2,,Bottom of the 7th Red Sox Batting Ahead 6-3 Phillies' Brett Myers facing 9-1-2,Bottom of the 7th Red Sox Batting Ahead 6-3 Phillies' Brett Myers facing 9-1-2,Bottom of the 7th Red Sox Batting Ahead 6-3 Phillies' Brett Myers facing 9-1-2,Bottom of the 7th Red Sox Batting Ahead 6-3 Phillies' Brett Myers facing 9-1-2,Bottom of the 7th Red Sox Batting Ahead 6-3 Phillies' Brett Myers facing 9-1-2,Bottom of the 7th Red Sox Batting Ahead 6-3 Phillies' Brett Myers facing 9-1-2,Bottom of the 7th Red Sox Batting Ahead 6-3 Phillies' Brett Myers facing 9-1-2,Bottom of the 7th Red Sox Batting Ahead 6-3 Phillies' Brett Myers facing 9-1-2
-b7,6-3,0,"['', '', '']",2(1-0) BX,,BOS,K. Youkilis,B. Myers,1%,94%,Single to LF (Ground Ball)
-b7,6-3,0,"['Youkilis', '', '']",2(0-1) CX,O,BOS,J. Damon,B. Myers,-1%,93%,Groundout: 1B-SS/Forceout at 2B
-b7,6-3,1,"['Damon', '', '']",2(1-0) 1B11X,O,BOS,M. Bellhorn,B. Myers,-1%,92%,Flyball: LF
-b7,6-3,2,"['Damon', '', '']",3(0-2) S1FX,R,BOS,D. Ortiz,B. Myers,4%,96%,Double to RF (Ground Ball); Damon Scores
-b7,7-3,2,"['', 'Ortiz', '']",1(0-0) X,R,BOS,M. Ramirez,B. Myers,2%,98%,Double to CF (Line Drive to Deep CF); Ortiz Scores
+b7,6-3,0,"______, ______, ______",2(1-0) BX,,BOS,K. Youkilis,B. Myers,1%,94%,Single to LF (Ground Ball)
+b7,6-3,0,"K. Youkilis, ______, ______",2(0-1) CX,O,BOS,J. Damon,B. Myers,-1%,93%,Groundout: 1B-SS/Forceout at 2B
+b7,6-3,1,"J. Damon, ______, ______",2(1-0) 1B11X,O,BOS,M. Bellhorn,B. Myers,-1%,92%,Flyball: LF
+b7,6-3,2,"J. Damon, ______, ______",3(0-2) S1FX,R,BOS,D. Ortiz,B. Myers,4%,96%,Double to RF (Ground Ball); J. Damon Scores
+b7,7-3,2,"______, D. Ortiz, ______",1(0-0) X,R,BOS,M. Ramirez,B. Myers,2%,98%,Double to CF (Line Drive to Deep CF); D. Ortiz Scores
 ,,,,,,,,,Geoff Geary replaces Brett Myers pitching,Geoff Geary replaces Brett Myers pitching,Geoff Geary replaces Brett Myers pitching
-b7,8-3,2,"['', 'Ramirez', '']",3(1-1) .BFX,O,BOS,N. Garciaparra,G. Geary,-0%,98%,Flyball: RF (Deep RF)
+b7,8-3,2,"______, M. Ramirez, ______",3(1-1) .BFX,O,BOS,N. Garciaparra,G. Geary,-0%,98%,Flyball: RF (Deep RF)
 ,,,,,,,,,2 runs 3 hits 0 errors 1 LOB. Phillies 3 Red Sox 8.,2 runs 3 hits 0 errors 1 LOB. Phillies 3 Red Sox 8.,2 runs 3 hits 0 errors 1 LOB. Phillies 3 Red Sox 8.
 Top of the 8th Phillies Batting Behind 3-8 Red Sox' Mike Timlin facing 6-7-8,Top of the 8th Phillies Batting Behind 3-8 Red Sox' Mike Timlin facing 6-7-8,Top of the 8th Phillies Batting Behind 3-8 Red Sox' Mike Timlin facing 6-7-8,,Top of the 8th Phillies Batting Behind 3-8 Red Sox' Mike Timlin facing 6-7-8,Top of the 8th Phillies Batting Behind 3-8 Red Sox' Mike Timlin facing 6-7-8,Top of the 8th Phillies Batting Behind 3-8 Red Sox' Mike Timlin facing 6-7-8,Top of the 8th Phillies Batting Behind 3-8 Red Sox' Mike Timlin facing 6-7-8,Top of the 8th Phillies Batting Behind 3-8 Red Sox' Mike Timlin facing 6-7-8,Top of the 8th Phillies Batting Behind 3-8 Red Sox' Mike Timlin facing 6-7-8,Top of the 8th Phillies Batting Behind 3-8 Red Sox' Mike Timlin facing 6-7-8,Top of the 8th Phillies Batting Behind 3-8 Red Sox' Mike Timlin facing 6-7-8
 ,,,,,,,,,Dave McCarty replaces David Ortiz playing 1B batting 3rd,Dave McCarty replaces David Ortiz playing 1B batting 3rd,Dave McCarty replaces David Ortiz playing 1B batting 3rd
-t8,3-8,0,"['', '', '']",1(0-0) .X,,PHI,C. Utley,M. Timlin,-1%,96%,Single to RF (Line Drive to CF-RF)
-t8,3-8,0,"['Utley', '', '']",6(1-2) CCFFBX,O,PHI,D. Bell,M. Timlin,1%,98%,Groundout: 3B-2B/Forceout at 2B
-t8,3-8,1,"['Bell', '', '']",4(1-2) FCBX,,PHI,J. Michaels,M. Timlin,-1%,96%,Single to 3B (Ground Ball); Bell to 2B
-t8,3-8,1,"['Michaels', 'Bell', '']",3(0-2) CCC,O,PHI,T. Pratt,M. Timlin,2%,98%,Strikeout Looking
-t8,3-8,2,"['Michaels', 'Bell', '']",2(1-0) BX,O,PHI,J. Rollins,M. Timlin,1%,99%,Flyball: CF
+t8,3-8,0,"______, ______, ______",1(0-0) .X,,PHI,C. Utley,M. Timlin,-1%,96%,Single to RF (Line Drive to CF-RF)
+t8,3-8,0,"C. Utley, ______, ______",6(1-2) CCFFBX,O,PHI,D. Bell,M. Timlin,1%,98%,Groundout: 3B-2B/Forceout at 2B
+t8,3-8,1,"D. Bell, ______, ______",4(1-2) FCBX,,PHI,J. Michaels,M. Timlin,-1%,96%,Single to 3B (Ground Ball); D. Bell to 2B
+t8,3-8,1,"J. Michaels, D. Bell, ______",3(0-2) CCC,O,PHI,T. Pratt,M. Timlin,2%,98%,Strikeout Looking
+t8,3-8,2,"J. Michaels, D. Bell, ______",2(1-0) BX,O,PHI,J. Rollins,M. Timlin,1%,99%,Flyball: CF
 ,,,,,,,,,0 runs 2 hits 0 errors 2 LOB. Phillies 3 Red Sox 8.,0 runs 2 hits 0 errors 2 LOB. Phillies 3 Red Sox 8.,0 runs 2 hits 0 errors 2 LOB. Phillies 3 Red Sox 8.
 Bottom of the 8th Red Sox Batting Ahead 8-3 Phillies' Billy Wagner facing 6-7-8,Bottom of the 8th Red Sox Batting Ahead 8-3 Phillies' Billy Wagner facing 6-7-8,Bottom of the 8th Red Sox Batting Ahead 8-3 Phillies' Billy Wagner facing 6-7-8,,Bottom of the 8th Red Sox Batting Ahead 8-3 Phillies' Billy Wagner facing 6-7-8,Bottom of the 8th Red Sox Batting Ahead 8-3 Phillies' Billy Wagner facing 6-7-8,Bottom of the 8th Red Sox Batting Ahead 8-3 Phillies' Billy Wagner facing 6-7-8,Bottom of the 8th Red Sox Batting Ahead 8-3 Phillies' Billy Wagner facing 6-7-8,Bottom of the 8th Red Sox Batting Ahead 8-3 Phillies' Billy Wagner facing 6-7-8,Bottom of the 8th Red Sox Batting Ahead 8-3 Phillies' Billy Wagner facing 6-7-8,Bottom of the 8th Red Sox Batting Ahead 8-3 Phillies' Billy Wagner facing 6-7-8,Bottom of the 8th Red Sox Batting Ahead 8-3 Phillies' Billy Wagner facing 6-7-8
 ,,,,,,,,,Billy Wagner replaces Geoff Geary pitching,Billy Wagner replaces Geoff Geary pitching,Billy Wagner replaces Geoff Geary pitching
-b8,8-3,0,"['', '', '']",5(2-2) .BFCBX,O,BOS,T. Nixon,B. Wagner,-0%,99%,Groundout: 3B-1B
-b8,8-3,1,"['', '', '']",4(1-2) STBS,O,BOS,J. Varitek,B. Wagner,-0%,99%,Strikeout Swinging
-b8,8-3,2,"['', '', '']",1(0-0) X,,BOS,K. Millar,B. Wagner,0%,99%,Double to LF (Line Drive to LF Line)
+b8,8-3,0,"______, ______, ______",5(2-2) .BFCBX,O,BOS,T. Nixon,B. Wagner,-0%,99%,Groundout: 3B-1B
+b8,8-3,1,"______, ______, ______",4(1-2) STBS,O,BOS,J. Varitek,B. Wagner,-0%,99%,Strikeout Swinging
+b8,8-3,2,"______, ______, ______",1(0-0) X,,BOS,K. Millar,B. Wagner,0%,99%,Double to LF (Line Drive to LF Line)
 ,,,,,,,,,Gabe Kapler pinch runs for Kevin Millar (LF) batting 8th,Gabe Kapler pinch runs for Kevin Millar (LF) batting 8th,Gabe Kapler pinch runs for Kevin Millar (LF) batting 8th
-b8,8-3,2,"['', 'Kapler', '']",1(0-0) .*B,,BOS,K. Youkilis,B. Wagner,0%,99%,Passed Ball; Kapler to 3B
-b8,8-3,2,"['', '', 'Kapler']",3(1-1) .*B.CX,R,BOS,K. Youkilis,B. Wagner,0%,100%,Single to 1B (Pop Fly); Kapler Scores
-b8,9-3,2,"['Youkilis', '', '']",4(2-1) FBBX,,BOS,J. Damon,B. Wagner,0%,100%,Single to RF (Ground Ball); Youkilis to 2B
-b8,9-3,2,"['Damon', 'Youkilis', '']",1(0-0) X,RRR,BOS,M. Bellhorn,B. Wagner,0%,100%,Home Run (Fly Ball); Youkilis Scores; Damon Scores
-b8,12-3,2,"['', '', '']",2(1-0) BX,O,BOS,D. McCarty,B. Wagner,0%,100%,Flyball: RF
+b8,8-3,2,"______, Kapler, ______",1(0-0) .*B,,BOS,K. Youkilis,B. Wagner,0%,99%,Passed Ball; Kapler to 3B
+b8,8-3,2,"______, ______, Kapler",3(1-1) .*B.CX,R,BOS,K. Youkilis,B. Wagner,0%,100%,Single to 1B (Pop Fly); Kapler Scores
+b8,9-3,2,"K. Youkilis, ______, ______",4(2-1) FBBX,,BOS,J. Damon,B. Wagner,0%,100%,Single to RF (Ground Ball); K. Youkilis to 2B
+b8,9-3,2,"J. Damon, K. Youkilis, ______",1(0-0) X,RRR,BOS,M. Bellhorn,B. Wagner,0%,100%,Home Run (Fly Ball); K. Youkilis Scores; J. Damon Scores
+b8,12-3,2,"______, ______, ______",2(1-0) BX,O,BOS,D. McCarty,B. Wagner,0%,100%,Flyball: RF
 ,,,,,,,,,4 runs 4 hits 0 errors 0 LOB. Phillies 3 Red Sox 12.,4 runs 4 hits 0 errors 0 LOB. Phillies 3 Red Sox 12.,4 runs 4 hits 0 errors 0 LOB. Phillies 3 Red Sox 12.
 Top of the 9th Phillies Batting Behind 3-12 Red Sox' Keith Foulke facing 2-3-4,Top of the 9th Phillies Batting Behind 3-12 Red Sox' Keith Foulke facing 2-3-4,Top of the 9th Phillies Batting Behind 3-12 Red Sox' Keith Foulke facing 2-3-4,,Top of the 9th Phillies Batting Behind 3-12 Red Sox' Keith Foulke facing 2-3-4,Top of the 9th Phillies Batting Behind 3-12 Red Sox' Keith Foulke facing 2-3-4,Top of the 9th Phillies Batting Behind 3-12 Red Sox' Keith Foulke facing 2-3-4,Top of the 9th Phillies Batting Behind 3-12 Red Sox' Keith Foulke facing 2-3-4,Top of the 9th Phillies Batting Behind 3-12 Red Sox' Keith Foulke facing 2-3-4,Top of the 9th Phillies Batting Behind 3-12 Red Sox' Keith Foulke facing 2-3-4,Top of the 9th Phillies Batting Behind 3-12 Red Sox' Keith Foulke facing 2-3-4,Top of the 9th Phillies Batting Behind 3-12 Red Sox' Keith Foulke facing 2-3-4
 ,,,,,,,,,Keith Foulke replaces Mike Timlin pitchingGabe Kapler moves from PR to LF,Keith Foulke replaces Mike Timlin pitchingGabe Kapler moves from PR to LF,Keith Foulke replaces Mike Timlin pitchingGabe Kapler moves from PR to LF
-t9,3-12,0,"['', '', '']",5(2-2) ..CBFBX,,PHI,P. Polanco,K. Foulke,-0%,100%,Single to CF (Line Drive)
-t9,3-12,0,"['Polanco', '', '']",4(2-1) BCBX,,PHI,B. Abreu,K. Foulke,-0%,100%,Single to RF (Ground Ball); Polanco to 3B
-t9,3-12,0,"['Abreu', '', 'Polanco']",1(0-0) X,O,PHI,J. Thome,K. Foulke,0%,100%,Foul Popfly: C (Behind Home)
-t9,3-12,1,"['Abreu', '', 'Polanco']",7(2-2) BBSFFFB,,PHI,P. Burrell,K. Foulke,0%,100%,Wild Pitch; Abreu to 2B
-t9,3-12,1,"['', 'Abreu', 'Polanco']",8(3-2) BBSFFFB.C,O,PHI,P. Burrell,K. Foulke,0%,100%,Strikeout Looking
-t9,3-12,2,"['', 'Abreu', 'Polanco']",4(1-2) FBSS,O,PHI,C. Utley,K. Foulke,0%,100%,Strikeout Swinging
+t9,3-12,0,"______, ______, ______",5(2-2) ..CBFBX,,PHI,P. Polanco,K. Foulke,-0%,100%,Single to CF (Line Drive)
+t9,3-12,0,"P. Polanco, ______, ______",4(2-1) BCBX,,PHI,B. Abreu,K. Foulke,-0%,100%,Single to RF (Ground Ball); P. Polanco to 3B
+t9,3-12,0,"B. Abreu, ______, P. Polanco",1(0-0) X,O,PHI,J. Thome,K. Foulke,0%,100%,Foul Popfly: C (Behind Home)
+t9,3-12,1,"B. Abreu, ______, P. Polanco",7(2-2) BBSFFFB,,PHI,P. Burrell,K. Foulke,0%,100%,Wild Pitch; B. Abreu to 2B
+t9,3-12,1,"______, B. Abreu, P. Polanco",8(3-2) BBSFFFB.C,O,PHI,P. Burrell,K. Foulke,0%,100%,Strikeout Looking
+t9,3-12,2,"______, B. Abreu, P. Polanco",4(1-2) FBSS,O,PHI,C. Utley,K. Foulke,0%,100%,Strikeout Swinging
 ,,,,,,,,,0 runs 2 hits 0 errors 2 LOB. Phillies 3 Red Sox 12.,0 runs 2 hits 0 errors 2 LOB. Phillies 3 Red Sox 12.,0 runs 2 hits 0 errors 2 LOB. Phillies 3 Red Sox 12.

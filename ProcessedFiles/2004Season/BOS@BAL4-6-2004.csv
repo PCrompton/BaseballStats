@@ -1,120 +1,120 @@
 Inn,Score,Out,RoB,Pit(cnt)Sequence,R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
 Top of the 1st Red Sox Batting Tied 0-0 Orioles' Eric DuBose facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Orioles' Eric DuBose facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Orioles' Eric DuBose facing 1-2-3,,Top of the 1st Red Sox Batting Tied 0-0 Orioles' Eric DuBose facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Orioles' Eric DuBose facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Orioles' Eric DuBose facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Orioles' Eric DuBose facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Orioles' Eric DuBose facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Orioles' Eric DuBose facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Orioles' Eric DuBose facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Orioles' Eric DuBose facing 1-2-3
-t1,0-0,0,"['', '', '']",2(0-1) CX,O,BOS,J. Damon,E. DuBose,-2%,48%,Groundout: P-1B
-t1,0-0,1,"['', '', '']",1(0-0) X,,BOS,B. Mueller,E. DuBose,2%,50%,Single to CF (Line Drive to CF-RF)
-t1,0-0,1,"['Mueller', '', '']",6(2-2) 1FBBFFX,OO,BOS,E. Burks,E. DuBose,-5%,45%,Ground Ball Double Play: SS-2B-1B
+t1,0-0,0,"______, ______, ______",2(0-1) CX,O,BOS,J. Damon,E. DuBose,-2%,48%,Groundout: P-1B
+t1,0-0,1,"______, ______, ______",1(0-0) X,,BOS,B. Mueller,E. DuBose,2%,50%,Single to CF (Line Drive to CF-RF)
+t1,0-0,1,"B. Mueller, ______, ______",6(2-2) 1FBBFFX,OO,BOS,E. Burks,E. DuBose,-5%,45%,Ground Ball Double Play: SS-2B-1B
 ,,,,,,,,,0 runs 1 hit 0 errors 0 LOB. Red Sox 0 Orioles 0.,0 runs 1 hit 0 errors 0 LOB. Red Sox 0 Orioles 0.,0 runs 1 hit 0 errors 0 LOB. Red Sox 0 Orioles 0.
 Bottom of the 1st Orioles Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Orioles Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Orioles Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,,Bottom of the 1st Orioles Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Orioles Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Orioles Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Orioles Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Orioles Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Orioles Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Orioles Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Orioles Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3
-b1,0-0,0,"['', '', '']",6(3-2) CFBBBX,O,BAL,B. Roberts,C. Schilling,2%,47%,Flyball: LF (LF Foul)
-b1,0-0,1,"['', '', '']",5(1-2) SFFBS,O,BAL,M. Mora,C. Schilling,2%,49%,Strikeout Swinging
-b1,0-0,2,"['', '', '']",3(1-1) CBX,O,BAL,M. Tejada,C. Schilling,1%,50%,Groundout: SS-1B
+b1,0-0,0,"______, ______, ______",6(3-2) CFBBBX,O,BAL,B. Roberts,C. Schilling,2%,47%,Flyball: LF (LF Foul)
+b1,0-0,1,"______, ______, ______",5(1-2) SFFBS,O,BAL,M. Mora,C. Schilling,2%,49%,Strikeout Swinging
+b1,0-0,2,"______, ______, ______",3(1-1) CBX,O,BAL,M. Tejada,C. Schilling,1%,50%,Groundout: SS-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Orioles 0.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Orioles 0.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Orioles 0.
 Top of the 2nd Red Sox Batting Tied 0-0 Orioles' Eric DuBose facing 4-5-6,Top of the 2nd Red Sox Batting Tied 0-0 Orioles' Eric DuBose facing 4-5-6,Top of the 2nd Red Sox Batting Tied 0-0 Orioles' Eric DuBose facing 4-5-6,,Top of the 2nd Red Sox Batting Tied 0-0 Orioles' Eric DuBose facing 4-5-6,Top of the 2nd Red Sox Batting Tied 0-0 Orioles' Eric DuBose facing 4-5-6,Top of the 2nd Red Sox Batting Tied 0-0 Orioles' Eric DuBose facing 4-5-6,Top of the 2nd Red Sox Batting Tied 0-0 Orioles' Eric DuBose facing 4-5-6,Top of the 2nd Red Sox Batting Tied 0-0 Orioles' Eric DuBose facing 4-5-6,Top of the 2nd Red Sox Batting Tied 0-0 Orioles' Eric DuBose facing 4-5-6,Top of the 2nd Red Sox Batting Tied 0-0 Orioles' Eric DuBose facing 4-5-6,Top of the 2nd Red Sox Batting Tied 0-0 Orioles' Eric DuBose facing 4-5-6
-t2,0-0,0,"['', '', '']",5(3-1) BBFBB,,BOS,M. Ramirez,E. DuBose,4%,54%,Walk
-t2,0-0,0,"['Ramirez', '', '']",3(0-2) FSX,,BOS,D. Ortiz,E. DuBose,6%,59%,Single to RF (Ground Ball); Ramirez to 2B
-t2,0-0,0,"['Ortiz', 'Ramirez', '']",6(2-2) FBBFFX,O,BOS,K. Millar,E. DuBose,-3%,57%,Groundout: P-SS/Forceout at 2B (Front of Home); Ramirez to 3B
-t2,0-0,1,"['Millar', '', 'Ramirez']",3(0-2) CFB,R,BOS,J. Varitek,E. DuBose,5%,61%,Wild Pitch; Ramirez Scores; Millar to 2B
-t2,1-0,1,"['', 'Millar', '']",4(1-2) CFB.X,R,BOS,J. Varitek,E. DuBose,8%,69%,Single to CF (Line Drive to CF-RF); Millar Scores
-t2,2-0,1,"['Varitek', '', '']",5(3-1) CB*BBB,,BOS,M. Bellhorn,E. DuBose,3%,72%,Walk; Varitek to 2B
-t2,2-0,1,"['Bellhorn', 'Varitek', '']",4(2-1) BC*BX,O,BOS,P. Reese,E. DuBose,-3%,69%,Groundout: 2B-SS/Forceout at 2B; Varitek to 3B
-t2,2-0,2,"['Reese', '', 'Varitek']",3(2-0) B1BX,O,BOS,J. Damon,E. DuBose,-4%,65%,Groundout: P-1B (Front of Home)
+t2,0-0,0,"______, ______, ______",5(3-1) BBFBB,,BOS,M. Ramirez,E. DuBose,4%,54%,Walk
+t2,0-0,0,"M. Ramirez, ______, ______",3(0-2) FSX,,BOS,D. Ortiz,E. DuBose,6%,59%,Single to RF (Ground Ball); M. Ramirez to 2B
+t2,0-0,0,"D. Ortiz, M. Ramirez, ______",6(2-2) FBBFFX,O,BOS,K. Millar,E. DuBose,-3%,57%,Groundout: P-SS/Forceout at 2B (Front of Home); M. Ramirez to 3B
+t2,0-0,1,"K. Millar, ______, M. Ramirez",3(0-2) CFB,R,BOS,J. Varitek,E. DuBose,5%,61%,Wild Pitch; M. Ramirez Scores; K. Millar to 2B
+t2,1-0,1,"______, K. Millar, ______",4(1-2) CFB.X,R,BOS,J. Varitek,E. DuBose,8%,69%,Single to CF (Line Drive to CF-RF); K. Millar Scores
+t2,2-0,1,"J. Varitek, ______, ______",5(3-1) CB*BBB,,BOS,M. Bellhorn,E. DuBose,3%,72%,Walk; J. Varitek to 2B
+t2,2-0,1,"M. Bellhorn, J. Varitek, ______",4(2-1) BC*BX,O,BOS,P. Reese,E. DuBose,-3%,69%,Groundout: 2B-SS/Forceout at 2B; J. Varitek to 3B
+t2,2-0,2,"P. Reese, ______, J. Varitek",3(2-0) B1BX,O,BOS,J. Damon,E. DuBose,-4%,65%,Groundout: P-1B (Front of Home)
 ,,,,,,,,,2 runs 2 hits 0 errors 2 LOB. Red Sox 2 Orioles 0.,2 runs 2 hits 0 errors 2 LOB. Red Sox 2 Orioles 0.,2 runs 2 hits 0 errors 2 LOB. Red Sox 2 Orioles 0.
 Bottom of the 2nd Orioles Batting Behind 0-2 Red Sox' Curt Schilling facing 4-5-6,Bottom of the 2nd Orioles Batting Behind 0-2 Red Sox' Curt Schilling facing 4-5-6,Bottom of the 2nd Orioles Batting Behind 0-2 Red Sox' Curt Schilling facing 4-5-6,,Bottom of the 2nd Orioles Batting Behind 0-2 Red Sox' Curt Schilling facing 4-5-6,Bottom of the 2nd Orioles Batting Behind 0-2 Red Sox' Curt Schilling facing 4-5-6,Bottom of the 2nd Orioles Batting Behind 0-2 Red Sox' Curt Schilling facing 4-5-6,Bottom of the 2nd Orioles Batting Behind 0-2 Red Sox' Curt Schilling facing 4-5-6,Bottom of the 2nd Orioles Batting Behind 0-2 Red Sox' Curt Schilling facing 4-5-6,Bottom of the 2nd Orioles Batting Behind 0-2 Red Sox' Curt Schilling facing 4-5-6,Bottom of the 2nd Orioles Batting Behind 0-2 Red Sox' Curt Schilling facing 4-5-6,Bottom of the 2nd Orioles Batting Behind 0-2 Red Sox' Curt Schilling facing 4-5-6
-b2,0-2,0,"['', '', '']",4(2-1) CBBX,O,BAL,R. Palmeiro,C. Schilling,3%,67%,Groundout: 3B-1B
-b2,0-2,1,"['', '', '']",1(0-0) X,,BAL,J. Lopez,C. Schilling,-3%,65%,Single to CF (Line Drive)
-b2,0-2,1,"['Lopez', '', '']",3(0-2) TFX,,BAL,J. Gibbons,C. Schilling,-4%,61%,Single to CF (Fly Ball); Lopez to 2B
-b2,0-2,1,"['Gibbons', 'Lopez', '']",3(0-2) CFX,OO,BAL,B. Surhoff,C. Schilling,10%,70%,Ground Ball Double Play: P-SS-1B (Front of Home)
+b2,0-2,0,"______, ______, ______",4(2-1) CBBX,O,BAL,R. Palmeiro,C. Schilling,3%,67%,Groundout: 3B-1B
+b2,0-2,1,"______, ______, ______",1(0-0) X,,BAL,J. Lopez,C. Schilling,-3%,65%,Single to CF (Line Drive)
+b2,0-2,1,"J. Lopez, ______, ______",3(0-2) TFX,,BAL,J. Gibbons,C. Schilling,-4%,61%,Single to CF (Fly Ball); J. Lopez to 2B
+b2,0-2,1,"J. Gibbons, J. Lopez, ______",3(0-2) CFX,OO,BAL,B. Surhoff,C. Schilling,10%,70%,Ground Ball Double Play: P-SS-1B (Front of Home)
 ,,,,,,,,,0 runs 2 hits 0 errors 1 LOB. Red Sox 2 Orioles 0.,0 runs 2 hits 0 errors 1 LOB. Red Sox 2 Orioles 0.,0 runs 2 hits 0 errors 1 LOB. Red Sox 2 Orioles 0.
 Top of the 3rd Red Sox Batting Ahead 2-0 Orioles' Eric DuBose facing 2-3-4,Top of the 3rd Red Sox Batting Ahead 2-0 Orioles' Eric DuBose facing 2-3-4,Top of the 3rd Red Sox Batting Ahead 2-0 Orioles' Eric DuBose facing 2-3-4,,Top of the 3rd Red Sox Batting Ahead 2-0 Orioles' Eric DuBose facing 2-3-4,Top of the 3rd Red Sox Batting Ahead 2-0 Orioles' Eric DuBose facing 2-3-4,Top of the 3rd Red Sox Batting Ahead 2-0 Orioles' Eric DuBose facing 2-3-4,Top of the 3rd Red Sox Batting Ahead 2-0 Orioles' Eric DuBose facing 2-3-4,Top of the 3rd Red Sox Batting Ahead 2-0 Orioles' Eric DuBose facing 2-3-4,Top of the 3rd Red Sox Batting Ahead 2-0 Orioles' Eric DuBose facing 2-3-4,Top of the 3rd Red Sox Batting Ahead 2-0 Orioles' Eric DuBose facing 2-3-4,Top of the 3rd Red Sox Batting Ahead 2-0 Orioles' Eric DuBose facing 2-3-4
-t3,2-0,0,"['', '', '']",2(0-1) CX,O,BOS,B. Mueller,E. DuBose,-2%,69%,Groundout: SS-1B
-t3,2-0,1,"['', '', '']",4(1-2) FBCX,O,BOS,E. Burks,E. DuBose,-1%,67%,Groundout: 2B-1B
-t3,2-0,2,"['', '', '']",1(0-0) X,O,BOS,M. Ramirez,E. DuBose,-1%,66%,Popfly: 2B (Short RF)
+t3,2-0,0,"______, ______, ______",2(0-1) CX,O,BOS,B. Mueller,E. DuBose,-2%,69%,Groundout: SS-1B
+t3,2-0,1,"______, ______, ______",4(1-2) FBCX,O,BOS,E. Burks,E. DuBose,-1%,67%,Groundout: 2B-1B
+t3,2-0,2,"______, ______, ______",1(0-0) X,O,BOS,M. Ramirez,E. DuBose,-1%,66%,Popfly: 2B (Short RF)
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 2 Orioles 0.,0 runs 0 hits 0 errors 0 LOB. Red Sox 2 Orioles 0.,0 runs 0 hits 0 errors 0 LOB. Red Sox 2 Orioles 0.
 Bottom of the 3rd Orioles Batting Behind 0-2 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 3rd Orioles Batting Behind 0-2 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 3rd Orioles Batting Behind 0-2 Red Sox' Curt Schilling facing 8-9-1,,Bottom of the 3rd Orioles Batting Behind 0-2 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 3rd Orioles Batting Behind 0-2 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 3rd Orioles Batting Behind 0-2 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 3rd Orioles Batting Behind 0-2 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 3rd Orioles Batting Behind 0-2 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 3rd Orioles Batting Behind 0-2 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 3rd Orioles Batting Behind 0-2 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 3rd Orioles Batting Behind 0-2 Red Sox' Curt Schilling facing 8-9-1
-b3,0-2,0,"['', '', '']",5(1-2) CBFFS,O,BAL,L. Bigbie,C. Schilling,3%,69%,Strikeout Swinging
-b3,0-2,1,"['', '', '']",9(3-2) CBSBBFFFX,,BAL,L. Matos,C. Schilling,-3%,66%,Single to CF (Ground Ball)
-b3,0-2,1,"['Matos', '', '']",5(2-2) CBC*BX,O,BAL,B. Roberts,C. Schilling,2%,68%,Groundout: 1B unassisted; Matos to 2B
-b3,0-2,2,"['', 'Matos', '']",5(2-2) BCBFS,O,BAL,M. Mora,C. Schilling,4%,72%,Strikeout Swinging
+b3,0-2,0,"______, ______, ______",5(1-2) CBFFS,O,BAL,L. Bigbie,C. Schilling,3%,69%,Strikeout Swinging
+b3,0-2,1,"______, ______, ______",9(3-2) CBSBBFFFX,,BAL,L. Matos,C. Schilling,-3%,66%,Single to CF (Ground Ball)
+b3,0-2,1,"L. Matos, ______, ______",5(2-2) CBC*BX,O,BAL,B. Roberts,C. Schilling,2%,68%,Groundout: 1B unassisted; L. Matos to 2B
+b3,0-2,2,"______, L. Matos, ______",5(2-2) BCBFS,O,BAL,M. Mora,C. Schilling,4%,72%,Strikeout Swinging
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Red Sox 2 Orioles 0.,0 runs 1 hit 0 errors 1 LOB. Red Sox 2 Orioles 0.,0 runs 1 hit 0 errors 1 LOB. Red Sox 2 Orioles 0.
 Top of the 4th Red Sox Batting Ahead 2-0 Orioles' Eric DuBose facing 5-6-7,Top of the 4th Red Sox Batting Ahead 2-0 Orioles' Eric DuBose facing 5-6-7,Top of the 4th Red Sox Batting Ahead 2-0 Orioles' Eric DuBose facing 5-6-7,,Top of the 4th Red Sox Batting Ahead 2-0 Orioles' Eric DuBose facing 5-6-7,Top of the 4th Red Sox Batting Ahead 2-0 Orioles' Eric DuBose facing 5-6-7,Top of the 4th Red Sox Batting Ahead 2-0 Orioles' Eric DuBose facing 5-6-7,Top of the 4th Red Sox Batting Ahead 2-0 Orioles' Eric DuBose facing 5-6-7,Top of the 4th Red Sox Batting Ahead 2-0 Orioles' Eric DuBose facing 5-6-7,Top of the 4th Red Sox Batting Ahead 2-0 Orioles' Eric DuBose facing 5-6-7,Top of the 4th Red Sox Batting Ahead 2-0 Orioles' Eric DuBose facing 5-6-7,Top of the 4th Red Sox Batting Ahead 2-0 Orioles' Eric DuBose facing 5-6-7
-t4,2-0,0,"['', '', '']",5(2-2) CBSBX,O,BOS,D. Ortiz,E. DuBose,-2%,70%,Foul Popfly: 3B (3B Foul)
-t4,2-0,1,"['', '', '']",6(3-2) BCBSBX,R,BOS,K. Millar,E. DuBose,9%,79%,Home Run (Fly Ball)
-t4,3-0,1,"['', '', '']",4(3-0) BBBB,,BOS,J. Varitek,E. DuBose,2%,81%,Walk
-t4,3-0,1,"['Varitek', '', '']",5(2-2) F*BSBS,O,BOS,M. Bellhorn,E. DuBose,-2%,79%,Strikeout Swinging
-t4,3-0,2,"['Varitek', '', '']",2(1-0) BX,O,BOS,P. Reese,E. DuBose,-2%,77%,Flyball: RF (Short CF-RF)
+t4,2-0,0,"______, ______, ______",5(2-2) CBSBX,O,BOS,D. Ortiz,E. DuBose,-2%,70%,Foul Popfly: 3B (3B Foul)
+t4,2-0,1,"______, ______, ______",6(3-2) BCBSBX,R,BOS,K. Millar,E. DuBose,9%,79%,Home Run (Fly Ball)
+t4,3-0,1,"______, ______, ______",4(3-0) BBBB,,BOS,J. Varitek,E. DuBose,2%,81%,Walk
+t4,3-0,1,"J. Varitek, ______, ______",5(2-2) F*BSBS,O,BOS,M. Bellhorn,E. DuBose,-2%,79%,Strikeout Swinging
+t4,3-0,2,"J. Varitek, ______, ______",2(1-0) BX,O,BOS,P. Reese,E. DuBose,-2%,77%,Flyball: RF (Short CF-RF)
 ,,,,,,,,,1 run 1 hit 0 errors 1 LOB. Red Sox 3 Orioles 0.,1 run 1 hit 0 errors 1 LOB. Red Sox 3 Orioles 0.,1 run 1 hit 0 errors 1 LOB. Red Sox 3 Orioles 0.
 Bottom of the 4th Orioles Batting Behind 0-3 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 4th Orioles Batting Behind 0-3 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 4th Orioles Batting Behind 0-3 Red Sox' Curt Schilling facing 3-4-5,,Bottom of the 4th Orioles Batting Behind 0-3 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 4th Orioles Batting Behind 0-3 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 4th Orioles Batting Behind 0-3 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 4th Orioles Batting Behind 0-3 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 4th Orioles Batting Behind 0-3 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 4th Orioles Batting Behind 0-3 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 4th Orioles Batting Behind 0-3 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 4th Orioles Batting Behind 0-3 Red Sox' Curt Schilling facing 3-4-5
-b4,0-3,0,"['', '', '']",3(0-2) CFX,,BAL,M. Tejada,C. Schilling,-4%,73%,Single to CF (Ground Ball)
-b4,0-3,0,"['Tejada', '', '']",6(2-2) CBBFFX,O,BAL,R. Palmeiro,C. Schilling,4%,77%,Groundout: 2B-SS/Forceout at 2B (1B Foul)
-b4,0-3,1,"['Palmeiro', '', '']",3(1-1) BFX,O,BAL,J. Lopez,C. Schilling,3%,80%,Flyball: CF
-b4,0-3,2,"['Palmeiro', '', '']",3(2-0) BB>S,,BAL,J. Gibbons,C. Schilling,-1%,79%,Palmeiro Steals 2B
-b4,0-3,2,"['', 'Palmeiro', '']",7(3-2) BB>S.FFBS,O,BAL,J. Gibbons,C. Schilling,3%,83%,Strikeout Swinging
+b4,0-3,0,"______, ______, ______",3(0-2) CFX,,BAL,M. Tejada,C. Schilling,-4%,73%,Single to CF (Ground Ball)
+b4,0-3,0,"M. Tejada, ______, ______",6(2-2) CBBFFX,O,BAL,R. Palmeiro,C. Schilling,4%,77%,Groundout: 2B-SS/Forceout at 2B (1B Foul)
+b4,0-3,1,"R. Palmeiro, ______, ______",3(1-1) BFX,O,BAL,J. Lopez,C. Schilling,3%,80%,Flyball: CF
+b4,0-3,2,"R. Palmeiro, ______, ______",3(2-0) BB>S,,BAL,J. Gibbons,C. Schilling,-1%,79%,R. Palmeiro Steals 2B
+b4,0-3,2,"______, R. Palmeiro, ______",7(3-2) BB>S.FFBS,O,BAL,J. Gibbons,C. Schilling,3%,83%,Strikeout Swinging
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Red Sox 3 Orioles 0.,0 runs 1 hit 0 errors 1 LOB. Red Sox 3 Orioles 0.,0 runs 1 hit 0 errors 1 LOB. Red Sox 3 Orioles 0.
 Top of the 5th Red Sox Batting Ahead 3-0 Orioles' Eric DuBose facing 1-2-3,Top of the 5th Red Sox Batting Ahead 3-0 Orioles' Eric DuBose facing 1-2-3,Top of the 5th Red Sox Batting Ahead 3-0 Orioles' Eric DuBose facing 1-2-3,,Top of the 5th Red Sox Batting Ahead 3-0 Orioles' Eric DuBose facing 1-2-3,Top of the 5th Red Sox Batting Ahead 3-0 Orioles' Eric DuBose facing 1-2-3,Top of the 5th Red Sox Batting Ahead 3-0 Orioles' Eric DuBose facing 1-2-3,Top of the 5th Red Sox Batting Ahead 3-0 Orioles' Eric DuBose facing 1-2-3,Top of the 5th Red Sox Batting Ahead 3-0 Orioles' Eric DuBose facing 1-2-3,Top of the 5th Red Sox Batting Ahead 3-0 Orioles' Eric DuBose facing 1-2-3,Top of the 5th Red Sox Batting Ahead 3-0 Orioles' Eric DuBose facing 1-2-3,Top of the 5th Red Sox Batting Ahead 3-0 Orioles' Eric DuBose facing 1-2-3
-t5,3-0,0,"['', '', '']",7(3-2) BBBCCFX,O,BOS,J. Damon,E. DuBose,-1%,81%,Groundout: SS-1B
-t5,3-0,1,"['', '', '']",6(2-2) BFFBFC,O,BOS,B. Mueller,E. DuBose,-1%,80%,Strikeout Looking
-t5,3-0,2,"['', '', '']",5(3-1) BBBCB,,BOS,E. Burks,E. DuBose,1%,81%,Walk
-t5,3-0,2,"['Burks', '', '']",1(0-0) X,O,BOS,M. Ramirez,E. DuBose,-1%,80%,Groundout: SS-2B/Forceout at 2B
+t5,3-0,0,"______, ______, ______",7(3-2) BBBCCFX,O,BOS,J. Damon,E. DuBose,-1%,81%,Groundout: SS-1B
+t5,3-0,1,"______, ______, ______",6(2-2) BFFBFC,O,BOS,B. Mueller,E. DuBose,-1%,80%,Strikeout Looking
+t5,3-0,2,"______, ______, ______",5(3-1) BBBCB,,BOS,E. Burks,E. DuBose,1%,81%,Walk
+t5,3-0,2,"E. Burks, ______, ______",1(0-0) X,O,BOS,M. Ramirez,E. DuBose,-1%,80%,Groundout: SS-2B/Forceout at 2B
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Red Sox 3 Orioles 0.,0 runs 0 hits 0 errors 1 LOB. Red Sox 3 Orioles 0.,0 runs 0 hits 0 errors 1 LOB. Red Sox 3 Orioles 0.
 Bottom of the 5th Orioles Batting Behind 0-3 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 5th Orioles Batting Behind 0-3 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 5th Orioles Batting Behind 0-3 Red Sox' Curt Schilling facing 7-8-9,,Bottom of the 5th Orioles Batting Behind 0-3 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 5th Orioles Batting Behind 0-3 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 5th Orioles Batting Behind 0-3 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 5th Orioles Batting Behind 0-3 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 5th Orioles Batting Behind 0-3 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 5th Orioles Batting Behind 0-3 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 5th Orioles Batting Behind 0-3 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 5th Orioles Batting Behind 0-3 Red Sox' Curt Schilling facing 7-8-9
-b5,0-3,0,"['', '', '']",3(0-2) CCS,O,BAL,B. Surhoff,C. Schilling,3%,82%,Strikeout Swinging
-b5,0-3,1,"['', '', '']",6(2-2) BBCFFX,,BAL,L. Bigbie,C. Schilling,-3%,79%,Single to RF (Ground Ball)
-b5,0-3,1,"['Bigbie', '', '']",2(0-1) FX,R,BAL,L. Matos,C. Schilling,-12%,68%,Double to CF (Line Drive to Deep LF-CF); Bigbie Scores
-b5,1-3,1,"['', 'Matos', '']",2(0-1) FX,O,BAL,B. Roberts,C. Schilling,5%,73%,Flyball: LF (Deep LF)
-b5,1-3,2,"['', 'Matos', '']",7(2-2) BF*BCFFX,O,BAL,M. Mora,C. Schilling,4%,77%,Flyball: CF
+b5,0-3,0,"______, ______, ______",3(0-2) CCS,O,BAL,B. Surhoff,C. Schilling,3%,82%,Strikeout Swinging
+b5,0-3,1,"______, ______, ______",6(2-2) BBCFFX,,BAL,L. Bigbie,C. Schilling,-3%,79%,Single to RF (Ground Ball)
+b5,0-3,1,"L. Bigbie, ______, ______",2(0-1) FX,R,BAL,L. Matos,C. Schilling,-12%,68%,Double to CF (Line Drive to Deep LF-CF); L. Bigbie Scores
+b5,1-3,1,"______, L. Matos, ______",2(0-1) FX,O,BAL,B. Roberts,C. Schilling,5%,73%,Flyball: LF (Deep LF)
+b5,1-3,2,"______, L. Matos, ______",7(2-2) BF*BCFFX,O,BAL,M. Mora,C. Schilling,4%,77%,Flyball: CF
 ,,,,,,,,,1 run 2 hits 0 errors 1 LOB. Red Sox 3 Orioles 1.,1 run 2 hits 0 errors 1 LOB. Red Sox 3 Orioles 1.,1 run 2 hits 0 errors 1 LOB. Red Sox 3 Orioles 1.
 Top of the 6th Red Sox Batting Ahead 3-1 Orioles' Eric DuBose facing 5-6-7,Top of the 6th Red Sox Batting Ahead 3-1 Orioles' Eric DuBose facing 5-6-7,Top of the 6th Red Sox Batting Ahead 3-1 Orioles' Eric DuBose facing 5-6-7,,Top of the 6th Red Sox Batting Ahead 3-1 Orioles' Eric DuBose facing 5-6-7,Top of the 6th Red Sox Batting Ahead 3-1 Orioles' Eric DuBose facing 5-6-7,Top of the 6th Red Sox Batting Ahead 3-1 Orioles' Eric DuBose facing 5-6-7,Top of the 6th Red Sox Batting Ahead 3-1 Orioles' Eric DuBose facing 5-6-7,Top of the 6th Red Sox Batting Ahead 3-1 Orioles' Eric DuBose facing 5-6-7,Top of the 6th Red Sox Batting Ahead 3-1 Orioles' Eric DuBose facing 5-6-7,Top of the 6th Red Sox Batting Ahead 3-1 Orioles' Eric DuBose facing 5-6-7,Top of the 6th Red Sox Batting Ahead 3-1 Orioles' Eric DuBose facing 5-6-7
-t6,3-1,0,"['', '', '']",4(1-2) FSBX,O,BOS,D. Ortiz,E. DuBose,-2%,75%,Flyball: CF (Deep CF-RF)
-t6,3-1,1,"['', '', '']",4(2-1) BBCX,,BOS,K. Millar,E. DuBose,2%,77%,Reached on E5 (Ground Ball)
-t6,3-1,1,"['Millar', '', '']",7(3-2) BCCBFB>B,,BOS,J. Varitek,E. DuBose,3%,80%,Walk; Millar to 2B
-t6,3-1,1,"['Varitek', 'Millar', '']",6(3-2) BCCBBB,,BOS,M. Bellhorn,E. DuBose,4%,84%,Walk; Millar to 3B; Varitek to 2B
+t6,3-1,0,"______, ______, ______",4(1-2) FSBX,O,BOS,D. Ortiz,E. DuBose,-2%,75%,Flyball: CF (Deep CF-RF)
+t6,3-1,1,"______, ______, ______",4(2-1) BBCX,,BOS,K. Millar,E. DuBose,2%,77%,Reached on E5 (Ground Ball)
+t6,3-1,1,"K. Millar, ______, ______",7(3-2) BCCBFB>B,,BOS,J. Varitek,E. DuBose,3%,80%,Walk; K. Millar to 2B
+t6,3-1,1,"J. Varitek, K. Millar, ______",6(3-2) BCCBBB,,BOS,M. Bellhorn,E. DuBose,4%,84%,Walk; K. Millar to 3B; J. Varitek to 2B
 ,,,,,,,,,John Parrish replaces Eric DuBose pitching,John Parrish replaces Eric DuBose pitching,John Parrish replaces Eric DuBose pitching
-t6,3-1,1,"['Bellhorn', 'Varitek', 'Millar']",3(1-1) .CBX,O,BOS,P. Reese,J. Parrish,-6%,78%,Groundout: 2B-C/Forceout at Hm; Varitek to 3B; Bellhorn to 2B
-t6,3-1,2,"['Reese', 'Bellhorn', 'Varitek']",4(2-1) CBBX,O,BOS,J. Damon,J. Parrish,-6%,73%,Flyball: RF
+t6,3-1,1,"M. Bellhorn, J. Varitek, K. Millar",3(1-1) .CBX,O,BOS,P. Reese,J. Parrish,-6%,78%,Groundout: 2B-C/Forceout at Hm; J. Varitek to 3B; M. Bellhorn to 2B
+t6,3-1,2,"P. Reese, M. Bellhorn, J. Varitek",4(2-1) CBBX,O,BOS,J. Damon,J. Parrish,-6%,73%,Flyball: RF
 ,,,,,,,,,0 runs 0 hits 1 error 3 LOB. Red Sox 3 Orioles 1.,0 runs 0 hits 1 error 3 LOB. Red Sox 3 Orioles 1.,0 runs 0 hits 1 error 3 LOB. Red Sox 3 Orioles 1.
 Bottom of the 6th Orioles Batting Behind 1-3 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 6th Orioles Batting Behind 1-3 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 6th Orioles Batting Behind 1-3 Red Sox' Curt Schilling facing 3-4-5,,Bottom of the 6th Orioles Batting Behind 1-3 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 6th Orioles Batting Behind 1-3 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 6th Orioles Batting Behind 1-3 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 6th Orioles Batting Behind 1-3 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 6th Orioles Batting Behind 1-3 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 6th Orioles Batting Behind 1-3 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 6th Orioles Batting Behind 1-3 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 6th Orioles Batting Behind 1-3 Red Sox' Curt Schilling facing 3-4-5
-b6,1-3,0,"['', '', '']",2(0-1) CX,O,BAL,M. Tejada,C. Schilling,4%,76%,Groundout: 3B-1B (Short 3B Line)
-b6,1-3,1,"['', '', '']",6(3-2) FBBBFB,,BAL,R. Palmeiro,C. Schilling,-4%,72%,Walk
-b6,1-3,1,"['Palmeiro', '', '']",6(2-2) CBSBFS,O,BAL,J. Lopez,C. Schilling,5%,77%,Strikeout Swinging
-b6,1-3,2,"['Palmeiro', '', '']",7(2-2) BBSCFFS,O,BAL,J. Gibbons,C. Schilling,4%,81%,Strikeout Swinging
+b6,1-3,0,"______, ______, ______",2(0-1) CX,O,BAL,M. Tejada,C. Schilling,4%,76%,Groundout: 3B-1B (Short 3B Line)
+b6,1-3,1,"______, ______, ______",6(3-2) FBBBFB,,BAL,R. Palmeiro,C. Schilling,-4%,72%,Walk
+b6,1-3,1,"R. Palmeiro, ______, ______",6(2-2) CBSBFS,O,BAL,J. Lopez,C. Schilling,5%,77%,Strikeout Swinging
+b6,1-3,2,"R. Palmeiro, ______, ______",7(2-2) BBSCFFS,O,BAL,J. Gibbons,C. Schilling,4%,81%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Red Sox 3 Orioles 1.,0 runs 0 hits 0 errors 1 LOB. Red Sox 3 Orioles 1.,0 runs 0 hits 0 errors 1 LOB. Red Sox 3 Orioles 1.
 Top of the 7th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 2-3-4,Top of the 7th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 2-3-4,Top of the 7th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 2-3-4,,Top of the 7th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 2-3-4,Top of the 7th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 2-3-4,Top of the 7th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 2-3-4,Top of the 7th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 2-3-4,Top of the 7th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 2-3-4,Top of the 7th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 2-3-4,Top of the 7th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 2-3-4,Top of the 7th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 2-3-4
-t7,3-1,0,"['', '', '']",4(2-1) BBFX,O,BOS,B. Mueller,J. Parrish,-2%,79%,Groundout: 3B-1B
-t7,3-1,1,"['', '', '']",5(2-2) CSBBS,O,BOS,E. Burks,J. Parrish,-1%,78%,Strikeout Swinging
-t7,3-1,2,"['', '', '']",7(3-2) CBCBFBB,,BOS,M. Ramirez,J. Parrish,1%,79%,Walk
-t7,3-1,2,"['Ramirez', '', '']",,,BOS,D. Ortiz,J. Parrish,1%,79%,Ramirez Picked off 1B safe on E1; Ramirez to 2B
-t7,3-1,2,"['', 'Ramirez', '']",1(0-0) 11.X,O,BOS,D. Ortiz,J. Parrish,-3%,77%,Popfly: 2B
+t7,3-1,0,"______, ______, ______",4(2-1) BBFX,O,BOS,B. Mueller,J. Parrish,-2%,79%,Groundout: 3B-1B
+t7,3-1,1,"______, ______, ______",5(2-2) CSBBS,O,BOS,E. Burks,J. Parrish,-1%,78%,Strikeout Swinging
+t7,3-1,2,"______, ______, ______",7(3-2) CBCBFBB,,BOS,M. Ramirez,J. Parrish,1%,79%,Walk
+t7,3-1,2,"M. Ramirez, ______, ______",,,BOS,D. Ortiz,J. Parrish,1%,79%,M. Ramirez Picked off 1B safe on E1; M. Ramirez to 2B
+t7,3-1,2,"______, M. Ramirez, ______",1(0-0) 11.X,O,BOS,D. Ortiz,J. Parrish,-3%,77%,Popfly: 2B
 ,,,,,,,,,0 runs 0 hits 1 error 1 LOB. Red Sox 3 Orioles 1.,0 runs 0 hits 1 error 1 LOB. Red Sox 3 Orioles 1.,0 runs 0 hits 1 error 1 LOB. Red Sox 3 Orioles 1.
 Bottom of the 7th Orioles Batting Behind 1-3 Red Sox' Alan Embree facing 7-8-9,Bottom of the 7th Orioles Batting Behind 1-3 Red Sox' Alan Embree facing 7-8-9,Bottom of the 7th Orioles Batting Behind 1-3 Red Sox' Alan Embree facing 7-8-9,,Bottom of the 7th Orioles Batting Behind 1-3 Red Sox' Alan Embree facing 7-8-9,Bottom of the 7th Orioles Batting Behind 1-3 Red Sox' Alan Embree facing 7-8-9,Bottom of the 7th Orioles Batting Behind 1-3 Red Sox' Alan Embree facing 7-8-9,Bottom of the 7th Orioles Batting Behind 1-3 Red Sox' Alan Embree facing 7-8-9,Bottom of the 7th Orioles Batting Behind 1-3 Red Sox' Alan Embree facing 7-8-9,Bottom of the 7th Orioles Batting Behind 1-3 Red Sox' Alan Embree facing 7-8-9,Bottom of the 7th Orioles Batting Behind 1-3 Red Sox' Alan Embree facing 7-8-9,Bottom of the 7th Orioles Batting Behind 1-3 Red Sox' Alan Embree facing 7-8-9
 ,,,,,,,,,Alan Embree replaces Curt Schilling pitchingDavid Segui pinch hits for B.J. Surhoff (DH) batting 7th,Alan Embree replaces Curt Schilling pitchingDavid Segui pinch hits for B.J. Surhoff (DH) batting 7th,Alan Embree replaces Curt Schilling pitchingDavid Segui pinch hits for B.J. Surhoff (DH) batting 7th
-b7,1-3,0,"['', '', '']",5(2-2) ..BBCFS,O,BAL,D. Segui,A. Embree,4%,81%,Strikeout Swinging
-b7,1-3,1,"['', '', '']",2(1-0) BX,O,BAL,L. Bigbie,A. Embree,3%,84%,Flyball: CF
-b7,1-3,2,"['', '', '']",1(0-0) X,O,BAL,L. Matos,A. Embree,2%,85%,Groundout: 3B-1B
+b7,1-3,0,"______, ______, ______",5(2-2) ..BBCFS,O,BAL,D. Segui,A. Embree,4%,81%,Strikeout Swinging
+b7,1-3,1,"______, ______, ______",2(1-0) BX,O,BAL,L. Bigbie,A. Embree,3%,84%,Flyball: CF
+b7,1-3,2,"______, ______, ______",1(0-0) X,O,BAL,L. Matos,A. Embree,2%,85%,Groundout: 3B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 3 Orioles 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 3 Orioles 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 3 Orioles 1.
 Top of the 8th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 6-7-8,Top of the 8th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 6-7-8,Top of the 8th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 6-7-8,,Top of the 8th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 6-7-8,Top of the 8th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 6-7-8,Top of the 8th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 6-7-8,Top of the 8th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 6-7-8,Top of the 8th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 6-7-8,Top of the 8th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 6-7-8,Top of the 8th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 6-7-8,Top of the 8th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 6-7-8
-t8,3-1,0,"['', '', '']",6(3-2) CBBCBX,O,BOS,K. Millar,J. Parrish,-1%,84%,Groundout: 2B-1B
-t8,3-1,1,"['', '', '']",4(2-1) BFBX,O,BOS,J. Varitek,J. Parrish,-1%,83%,Groundout: 3B-1B
-t8,3-1,2,"['', '', '']",6(3-2) FBCBBX,O,BOS,M. Bellhorn,J. Parrish,-1%,82%,Flyball: CF (Deep LF-CF)
+t8,3-1,0,"______, ______, ______",6(3-2) CBBCBX,O,BOS,K. Millar,J. Parrish,-1%,84%,Groundout: 2B-1B
+t8,3-1,1,"______, ______, ______",4(2-1) BFBX,O,BOS,J. Varitek,J. Parrish,-1%,83%,Groundout: 3B-1B
+t8,3-1,2,"______, ______, ______",6(3-2) FBCBBX,O,BOS,M. Bellhorn,J. Parrish,-1%,82%,Flyball: CF (Deep LF-CF)
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 3 Orioles 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 3 Orioles 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 3 Orioles 1.
 Bottom of the 8th Orioles Batting Behind 1-3 Red Sox' Mike Timlin facing 1-2-3,Bottom of the 8th Orioles Batting Behind 1-3 Red Sox' Mike Timlin facing 1-2-3,Bottom of the 8th Orioles Batting Behind 1-3 Red Sox' Mike Timlin facing 1-2-3,,Bottom of the 8th Orioles Batting Behind 1-3 Red Sox' Mike Timlin facing 1-2-3,Bottom of the 8th Orioles Batting Behind 1-3 Red Sox' Mike Timlin facing 1-2-3,Bottom of the 8th Orioles Batting Behind 1-3 Red Sox' Mike Timlin facing 1-2-3,Bottom of the 8th Orioles Batting Behind 1-3 Red Sox' Mike Timlin facing 1-2-3,Bottom of the 8th Orioles Batting Behind 1-3 Red Sox' Mike Timlin facing 1-2-3,Bottom of the 8th Orioles Batting Behind 1-3 Red Sox' Mike Timlin facing 1-2-3,Bottom of the 8th Orioles Batting Behind 1-3 Red Sox' Mike Timlin facing 1-2-3,Bottom of the 8th Orioles Batting Behind 1-3 Red Sox' Mike Timlin facing 1-2-3
 ,,,,,,,,,Mike Timlin replaces Alan Embree pitchingGabe Kapler replaces Manny Ramirez playing LF batting 4th,Mike Timlin replaces Alan Embree pitchingGabe Kapler replaces Manny Ramirez playing LF batting 4th,Mike Timlin replaces Alan Embree pitchingGabe Kapler replaces Manny Ramirez playing LF batting 4th
-b8,1-3,0,"['', '', '']",6(3-2) ..BBCBCX,O,BAL,B. Roberts,M. Timlin,5%,87%,Groundout: 2B-1B
-b8,1-3,1,"['', '', '']",3(2-0) BBX,O,BAL,M. Mora,M. Timlin,3%,90%,Flyball: RF (CF-RF)
+b8,1-3,0,"______, ______, ______",6(3-2) ..BBCBCX,O,BAL,B. Roberts,M. Timlin,5%,87%,Groundout: 2B-1B
+b8,1-3,1,"______, ______, ______",3(2-0) BBX,O,BAL,M. Mora,M. Timlin,3%,90%,Flyball: RF (CF-RF)
 ,,,,,,,,,Cesar Crespo replaces Kevin Millar (RF) playing LF batting 6thGabe Kapler moves from LF to RF,Cesar Crespo replaces Kevin Millar (RF) playing LF batting 6thGabe Kapler moves from LF to RF,Cesar Crespo replaces Kevin Millar (RF) playing LF batting 6thGabe Kapler moves from LF to RF
-b8,1-3,2,"['', '', '']",2(1-0) ...BX,O,BAL,M. Tejada,M. Timlin,2%,92%,Flyball: CF
+b8,1-3,2,"______, ______, ______",2(1-0) ...BX,O,BAL,M. Tejada,M. Timlin,2%,92%,Flyball: CF
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 3 Orioles 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 3 Orioles 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 3 Orioles 1.
 Top of the 9th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 9-1-2,Top of the 9th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 9-1-2,Top of the 9th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 9-1-2,,Top of the 9th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 9-1-2,Top of the 9th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 9-1-2,Top of the 9th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 9-1-2,Top of the 9th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 9-1-2,Top of the 9th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 9-1-2,Top of the 9th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 9-1-2,Top of the 9th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 9-1-2,Top of the 9th Red Sox Batting Ahead 3-1 Orioles' John Parrish facing 9-1-2
-t9,3-1,0,"['', '', '']",4(2-1) BBCX,,BOS,P. Reese,J. Parrish,1%,93%,Single to RF (Ground Ball thru RF Line)
-t9,3-1,0,"['Reese', '', '']",5(3-1) C11B111BBB,,BOS,J. Damon,J. Parrish,2%,95%,Walk; Reese to 2B
+t9,3-1,0,"______, ______, ______",4(2-1) BBCX,,BOS,P. Reese,J. Parrish,1%,93%,Single to RF (Ground Ball thru RF Line)
+t9,3-1,0,"P. Reese, ______, ______",5(3-1) C11B111BBB,,BOS,J. Damon,J. Parrish,2%,95%,Walk; P. Reese to 2B
 ,,,,,,,,,Mike DeJean replaces John Parrish pitching,Mike DeJean replaces John Parrish pitching,Mike DeJean replaces John Parrish pitching
-t9,3-1,0,"['Damon', 'Reese', '']",2(0-1) ..CX,OO,BOS,B. Mueller,M. DeJean,-3%,91%,Ground Ball Double Play: 1B-SS-P; Reese to 3B
-t9,3-1,2,"['', '', 'Reese']",5(2-2) BCBFX,R,BOS,E. Burks,M. DeJean,4%,96%,Reached on E5 (Ground Ball); Reese Scores/No RBI/unER
-t9,4-1,2,"['Burks', '', '']",1(0-0) >B,,BOS,G. Kapler,M. DeJean,0%,96%,Burks Steals 2B
-t9,4-1,2,"['', 'Burks', '']",4(2-1) >B.BFX,O,BOS,G. Kapler,M. DeJean,-1%,95%,Groundout: 3B-1B
+t9,3-1,0,"J. Damon, P. Reese, ______",2(0-1) ..CX,OO,BOS,B. Mueller,M. DeJean,-3%,91%,Ground Ball Double Play: 1B-SS-P; P. Reese to 3B
+t9,3-1,2,"______, ______, P. Reese",5(2-2) BCBFX,R,BOS,E. Burks,M. DeJean,4%,96%,Reached on E5 (Ground Ball); P. Reese Scores/No RBI/unER
+t9,4-1,2,"E. Burks, ______, ______",1(0-0) >B,,BOS,G. Kapler,M. DeJean,0%,96%,E. Burks Steals 2B
+t9,4-1,2,"______, E. Burks, ______",4(2-1) >B.BFX,O,BOS,G. Kapler,M. DeJean,-1%,95%,Groundout: 3B-1B
 ,,,,,,,,,1 run 1 hit 1 error 1 LOB. Red Sox 4 Orioles 1.,1 run 1 hit 1 error 1 LOB. Red Sox 4 Orioles 1.,1 run 1 hit 1 error 1 LOB. Red Sox 4 Orioles 1.
 Bottom of the 9th Orioles Batting Behind 1-4 Red Sox' Keith Foulke facing 4-5-6,Bottom of the 9th Orioles Batting Behind 1-4 Red Sox' Keith Foulke facing 4-5-6,Bottom of the 9th Orioles Batting Behind 1-4 Red Sox' Keith Foulke facing 4-5-6,,Bottom of the 9th Orioles Batting Behind 1-4 Red Sox' Keith Foulke facing 4-5-6,Bottom of the 9th Orioles Batting Behind 1-4 Red Sox' Keith Foulke facing 4-5-6,Bottom of the 9th Orioles Batting Behind 1-4 Red Sox' Keith Foulke facing 4-5-6,Bottom of the 9th Orioles Batting Behind 1-4 Red Sox' Keith Foulke facing 4-5-6,Bottom of the 9th Orioles Batting Behind 1-4 Red Sox' Keith Foulke facing 4-5-6,Bottom of the 9th Orioles Batting Behind 1-4 Red Sox' Keith Foulke facing 4-5-6,Bottom of the 9th Orioles Batting Behind 1-4 Red Sox' Keith Foulke facing 4-5-6,Bottom of the 9th Orioles Batting Behind 1-4 Red Sox' Keith Foulke facing 4-5-6
 ,,,,,,,,,Keith Foulke replaces Mike Timlin pitchingDave McCarty replaces David Ortiz playing 1B batting 5th,Keith Foulke replaces Mike Timlin pitchingDave McCarty replaces David Ortiz playing 1B batting 5th,Keith Foulke replaces Mike Timlin pitchingDave McCarty replaces David Ortiz playing 1B batting 5th
-b9,1-4,0,"['', '', '']",4(1-2) ..CCBX,O,BAL,R. Palmeiro,K. Foulke,3%,98%,Groundout: SS-1B
-b9,1-4,1,"['', '', '']",1(0-0) X,O,BAL,J. Lopez,K. Foulke,1%,99%,Flyball: RF (RF Line)
-b9,1-4,2,"['', '', '']",4(1-2) CCBS,O,BAL,J. Gibbons,K. Foulke,1%,100%,Strikeout Swinging
+b9,1-4,0,"______, ______, ______",4(1-2) ..CCBX,O,BAL,R. Palmeiro,K. Foulke,3%,98%,Groundout: SS-1B
+b9,1-4,1,"______, ______, ______",1(0-0) X,O,BAL,J. Lopez,K. Foulke,1%,99%,Flyball: RF (RF Line)
+b9,1-4,2,"______, ______, ______",4(1-2) CCBS,O,BAL,J. Gibbons,K. Foulke,1%,100%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Orioles 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Orioles 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Orioles 1.

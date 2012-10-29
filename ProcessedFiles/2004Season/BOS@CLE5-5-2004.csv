@@ -1,129 +1,129 @@
 Inn,Score,Out,RoB,Pit(cnt)Sequence,R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
 Top of the 1st Red Sox Batting Tied 0-0 Indians' Jeff D'Amico facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Indians' Jeff D'Amico facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Indians' Jeff D'Amico facing 1-2-3,,Top of the 1st Red Sox Batting Tied 0-0 Indians' Jeff D'Amico facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Indians' Jeff D'Amico facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Indians' Jeff D'Amico facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Indians' Jeff D'Amico facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Indians' Jeff D'Amico facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Indians' Jeff D'Amico facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Indians' Jeff D'Amico facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Indians' Jeff D'Amico facing 1-2-3
-t1,0-0,0,"['', '', '']",7(1-2) CLFFBFX,O,BOS,J. Damon,J. D'Amico,-2%,48%,Foul Popfly: C (Behind Home)
-t1,0-0,1,"['', '', '']",4(1-2) BFSS,O,BOS,M. Bellhorn,J. D'Amico,-2%,46%,Strikeout Swinging
-t1,0-0,2,"['', '', '']",3(1-1) BCX,R,BOS,D. Ortiz,J. D'Amico,10%,56%,Home Run (Fly Ball)
-t1,1-0,2,"['', '', '']",2(1-0) BX,O,BOS,M. Ramirez,J. D'Amico,-1%,55%,Lineout: CF
+t1,0-0,0,"______, ______, ______",7(1-2) CLFFBFX,O,BOS,J. Damon,J. D'Amico,-2%,48%,Foul Popfly: C (Behind Home)
+t1,0-0,1,"______, ______, ______",4(1-2) BFSS,O,BOS,M. Bellhorn,J. D'Amico,-2%,46%,Strikeout Swinging
+t1,0-0,2,"______, ______, ______",3(1-1) BCX,R,BOS,D. Ortiz,J. D'Amico,10%,56%,Home Run (Fly Ball)
+t1,1-0,2,"______, ______, ______",2(1-0) BX,O,BOS,M. Ramirez,J. D'Amico,-1%,55%,Lineout: CF
 ,,,,,,,,,1 run 1 hit 0 errors 0 LOB. Red Sox 1 Indians 0.,1 run 1 hit 0 errors 0 LOB. Red Sox 1 Indians 0.,1 run 1 hit 0 errors 0 LOB. Red Sox 1 Indians 0.
 Bottom of the 1st Indians Batting Behind 0-1 Red Sox' Byung-Hyun Kim facing 1-2-3,Bottom of the 1st Indians Batting Behind 0-1 Red Sox' Byung-Hyun Kim facing 1-2-3,Bottom of the 1st Indians Batting Behind 0-1 Red Sox' Byung-Hyun Kim facing 1-2-3,,Bottom of the 1st Indians Batting Behind 0-1 Red Sox' Byung-Hyun Kim facing 1-2-3,Bottom of the 1st Indians Batting Behind 0-1 Red Sox' Byung-Hyun Kim facing 1-2-3,Bottom of the 1st Indians Batting Behind 0-1 Red Sox' Byung-Hyun Kim facing 1-2-3,Bottom of the 1st Indians Batting Behind 0-1 Red Sox' Byung-Hyun Kim facing 1-2-3,Bottom of the 1st Indians Batting Behind 0-1 Red Sox' Byung-Hyun Kim facing 1-2-3,Bottom of the 1st Indians Batting Behind 0-1 Red Sox' Byung-Hyun Kim facing 1-2-3,Bottom of the 1st Indians Batting Behind 0-1 Red Sox' Byung-Hyun Kim facing 1-2-3,Bottom of the 1st Indians Batting Behind 0-1 Red Sox' Byung-Hyun Kim facing 1-2-3
-b1,0-1,0,"['', '', '']",6(2-2) BSCBFX,O,CLE,M. Lawton,B. Kim,2%,57%,Groundout: P-1B
-b1,0-1,1,"['', '', '']",4(1-2) CBCX,R,CLE,O. Vizquel,B. Kim,-10%,47%,Home Run (Fly Ball)
-b1,1-1,1,"['', '', '']",1(0-0) X,,CLE,J. Gerut,B. Kim,-7%,41%,Triple to CF (Fly Ball to Deep CF)
-b1,1-1,1,"['', '', 'Gerut']",1(0-0) X,RO,CLE,V. Martinez,B. Kim,-2%,39%,Flyball: LF/Sacrifice Fly; Gerut Scores
-b1,2-1,2,"['', '', '']",7(3-2) BCBSFBB,,CLE,T. Hafner,B. Kim,-1%,38%,Walk
-b1,2-1,2,"['Hafner', '', '']",4(1-2) 1BFSS,O,CLE,R. Belliard,B. Kim,2%,40%,Strikeout Swinging
+b1,0-1,0,"______, ______, ______",6(2-2) BSCBFX,O,CLE,M. Lawton,B. Kim,2%,57%,Groundout: P-1B
+b1,0-1,1,"______, ______, ______",4(1-2) CBCX,R,CLE,O. Vizquel,B. Kim,-10%,47%,Home Run (Fly Ball)
+b1,1-1,1,"______, ______, ______",1(0-0) X,,CLE,J. Gerut,B. Kim,-7%,41%,Triple to CF (Fly Ball to Deep CF)
+b1,1-1,1,"______, ______, J. Gerut",1(0-0) X,RO,CLE,V. Martinez,B. Kim,-2%,39%,Flyball: LF/Sacrifice Fly; J. Gerut Scores
+b1,2-1,2,"______, ______, ______",7(3-2) BCBSFBB,,CLE,T. Hafner,B. Kim,-1%,38%,Walk
+b1,2-1,2,"T. Hafner, ______, ______",4(1-2) 1BFSS,O,CLE,R. Belliard,B. Kim,2%,40%,Strikeout Swinging
 ,,,,,,,,,2 runs 2 hits 0 errors 1 LOB. Red Sox 1 Indians 2.,2 runs 2 hits 0 errors 1 LOB. Red Sox 1 Indians 2.,2 runs 2 hits 0 errors 1 LOB. Red Sox 1 Indians 2.
 Top of the 2nd Red Sox Batting Behind 1-2 Indians' Jeff D'Amico facing 5-6-7,Top of the 2nd Red Sox Batting Behind 1-2 Indians' Jeff D'Amico facing 5-6-7,Top of the 2nd Red Sox Batting Behind 1-2 Indians' Jeff D'Amico facing 5-6-7,,Top of the 2nd Red Sox Batting Behind 1-2 Indians' Jeff D'Amico facing 5-6-7,Top of the 2nd Red Sox Batting Behind 1-2 Indians' Jeff D'Amico facing 5-6-7,Top of the 2nd Red Sox Batting Behind 1-2 Indians' Jeff D'Amico facing 5-6-7,Top of the 2nd Red Sox Batting Behind 1-2 Indians' Jeff D'Amico facing 5-6-7,Top of the 2nd Red Sox Batting Behind 1-2 Indians' Jeff D'Amico facing 5-6-7,Top of the 2nd Red Sox Batting Behind 1-2 Indians' Jeff D'Amico facing 5-6-7,Top of the 2nd Red Sox Batting Behind 1-2 Indians' Jeff D'Amico facing 5-6-7,Top of the 2nd Red Sox Batting Behind 1-2 Indians' Jeff D'Amico facing 5-6-7
-t2,1-2,0,"['', '', '']",4(1-2) BCSX,O,BOS,J. Varitek,J. D'Amico,-2%,37%,Groundout: SS-1B
-t2,1-2,1,"['', '', '']",4(1-2) CBFX,O,BOS,K. Millar,J. D'Amico,-2%,36%,Groundout: 2B-1B
-t2,1-2,2,"['', '', '']",4(2-1) FBBX,O,BOS,B. Daubach,J. D'Amico,-1%,34%,Flyball: CF (Deep CF)
+t2,1-2,0,"______, ______, ______",4(1-2) BCSX,O,BOS,J. Varitek,J. D'Amico,-2%,37%,Groundout: SS-1B
+t2,1-2,1,"______, ______, ______",4(1-2) CBFX,O,BOS,K. Millar,J. D'Amico,-2%,36%,Groundout: 2B-1B
+t2,1-2,2,"______, ______, ______",4(2-1) FBBX,O,BOS,B. Daubach,J. D'Amico,-1%,34%,Flyball: CF (Deep CF)
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 1 Indians 2.,0 runs 0 hits 0 errors 0 LOB. Red Sox 1 Indians 2.,0 runs 0 hits 0 errors 0 LOB. Red Sox 1 Indians 2.
 Bottom of the 2nd Indians Batting Ahead 2-1 Red Sox' Byung-Hyun Kim facing 7-8-9,Bottom of the 2nd Indians Batting Ahead 2-1 Red Sox' Byung-Hyun Kim facing 7-8-9,Bottom of the 2nd Indians Batting Ahead 2-1 Red Sox' Byung-Hyun Kim facing 7-8-9,,Bottom of the 2nd Indians Batting Ahead 2-1 Red Sox' Byung-Hyun Kim facing 7-8-9,Bottom of the 2nd Indians Batting Ahead 2-1 Red Sox' Byung-Hyun Kim facing 7-8-9,Bottom of the 2nd Indians Batting Ahead 2-1 Red Sox' Byung-Hyun Kim facing 7-8-9,Bottom of the 2nd Indians Batting Ahead 2-1 Red Sox' Byung-Hyun Kim facing 7-8-9,Bottom of the 2nd Indians Batting Ahead 2-1 Red Sox' Byung-Hyun Kim facing 7-8-9,Bottom of the 2nd Indians Batting Ahead 2-1 Red Sox' Byung-Hyun Kim facing 7-8-9,Bottom of the 2nd Indians Batting Ahead 2-1 Red Sox' Byung-Hyun Kim facing 7-8-9,Bottom of the 2nd Indians Batting Ahead 2-1 Red Sox' Byung-Hyun Kim facing 7-8-9
-b2,2-1,0,"['', '', '']",4(2-1) CBBX,,CLE,B. Broussard,B. Kim,-3%,31%,Single to RF (Ground Ball thru CF-RF)
-b2,2-1,0,"['Broussard', '', '']",4(1-2) BC>FS,O,CLE,C. Blake,B. Kim,3%,34%,Strikeout Swinging
-b2,2-1,1,"['Broussard', '', '']",3(0-2) CFX,,CLE,A. Escobar,B. Kim,-6%,29%,Single to RF (Ground Ball); Broussard to 3B
-b2,2-1,1,"['Escobar', '', 'Broussard']",1(0-0) X,RO,CLE,M. Lawton,B. Kim,-1%,27%,Flyball: LF/Sacrifice Fly; Broussard Scores
-b2,3-1,2,"['Escobar', '', '']",1(0-0) >B,,CLE,O. Vizquel,B. Kim,-1%,27%,Escobar Steals 2B
-b2,3-1,2,"['', 'Escobar', '']",4(2-1) >B.BSX,O,CLE,O. Vizquel,B. Kim,2%,29%,Flyball: LF
+b2,2-1,0,"______, ______, ______",4(2-1) CBBX,,CLE,B. Broussard,B. Kim,-3%,31%,Single to RF (Ground Ball thru CF-RF)
+b2,2-1,0,"B. Broussard, ______, ______",4(1-2) BC>FS,O,CLE,C. Blake,B. Kim,3%,34%,Strikeout Swinging
+b2,2-1,1,"B. Broussard, ______, ______",3(0-2) CFX,,CLE,A. Escobar,B. Kim,-6%,29%,Single to RF (Ground Ball); B. Broussard to 3B
+b2,2-1,1,"A. Escobar, ______, B. Broussard",1(0-0) X,RO,CLE,M. Lawton,B. Kim,-1%,27%,Flyball: LF/Sacrifice Fly; B. Broussard Scores
+b2,3-1,2,"A. Escobar, ______, ______",1(0-0) >B,,CLE,O. Vizquel,B. Kim,-1%,27%,A. Escobar Steals 2B
+b2,3-1,2,"______, A. Escobar, ______",4(2-1) >B.BSX,O,CLE,O. Vizquel,B. Kim,2%,29%,Flyball: LF
 ,,,,,,,,,1 run 2 hits 0 errors 1 LOB. Red Sox 1 Indians 3.,1 run 2 hits 0 errors 1 LOB. Red Sox 1 Indians 3.,1 run 2 hits 0 errors 1 LOB. Red Sox 1 Indians 3.
 Top of the 3rd Red Sox Batting Behind 1-3 Indians' Jeff D'Amico facing 8-9-1,Top of the 3rd Red Sox Batting Behind 1-3 Indians' Jeff D'Amico facing 8-9-1,Top of the 3rd Red Sox Batting Behind 1-3 Indians' Jeff D'Amico facing 8-9-1,,Top of the 3rd Red Sox Batting Behind 1-3 Indians' Jeff D'Amico facing 8-9-1,Top of the 3rd Red Sox Batting Behind 1-3 Indians' Jeff D'Amico facing 8-9-1,Top of the 3rd Red Sox Batting Behind 1-3 Indians' Jeff D'Amico facing 8-9-1,Top of the 3rd Red Sox Batting Behind 1-3 Indians' Jeff D'Amico facing 8-9-1,Top of the 3rd Red Sox Batting Behind 1-3 Indians' Jeff D'Amico facing 8-9-1,Top of the 3rd Red Sox Batting Behind 1-3 Indians' Jeff D'Amico facing 8-9-1,Top of the 3rd Red Sox Batting Behind 1-3 Indians' Jeff D'Amico facing 8-9-1,Top of the 3rd Red Sox Batting Behind 1-3 Indians' Jeff D'Amico facing 8-9-1
-t3,1-3,0,"['', '', '']",2(0-1) CX,,BOS,B. Mueller,J. D'Amico,4%,33%,Single to LF (Line Drive to LF-CF)
-t3,1-3,0,"['Mueller', '', '']",4(1-2) 1CFBX,O,BOS,P. Reese,J. D'Amico,-4%,29%,Groundout: 2B-SS/Forceout at 2B; Reese to 1B
-t3,1-3,1,"['Reese', '', '']",3(0-2) 1CCX,O,BOS,J. Damon,J. D'Amico,-3%,26%,Flyball: LF
-t3,1-3,2,"['Reese', '', '']",4(2-1) C1BBX,,BOS,M. Bellhorn,J. D'Amico,2%,28%,Single to RF (Ground Ball); Reese to 2B
-t3,1-3,2,"['Bellhorn', 'Reese', '']",1(0-0) X,RRR,BOS,D. Ortiz,J. D'Amico,29%,57%,Home Run (Fly Ball); Reese Scores; Bellhorn Scores
-t3,4-3,2,"['', '', '']",6(3-2) BBBCFB,,BOS,M. Ramirez,J. D'Amico,1%,58%,Walk
-t3,4-3,2,"['Ramirez', '', '']",6(2-2) FSBBFX,,BOS,J. Varitek,J. D'Amico,3%,61%,Single to RF (Line Drive); Ramirez to 3B
-t3,4-3,2,"['Varitek', '', 'Ramirez']",3(0-2) CFX,R,BOS,K. Millar,J. D'Amico,9%,70%,Single to CF (Line Drive); Ramirez Scores; Varitek to 2B
-t3,5-3,2,"['Millar', 'Varitek', '']",7(3-2) BFBFB>F>X,O,BOS,B. Daubach,J. D'Amico,-3%,67%,Flyball: CF (Deep CF)
+t3,1-3,0,"______, ______, ______",2(0-1) CX,,BOS,B. Mueller,J. D'Amico,4%,33%,Single to LF (Line Drive to LF-CF)
+t3,1-3,0,"B. Mueller, ______, ______",4(1-2) 1CFBX,O,BOS,P. Reese,J. D'Amico,-4%,29%,Groundout: 2B-SS/Forceout at 2B; P. Reese to 1B
+t3,1-3,1,"P. Reese, ______, ______",3(0-2) 1CCX,O,BOS,J. Damon,J. D'Amico,-3%,26%,Flyball: LF
+t3,1-3,2,"P. Reese, ______, ______",4(2-1) C1BBX,,BOS,M. Bellhorn,J. D'Amico,2%,28%,Single to RF (Ground Ball); P. Reese to 2B
+t3,1-3,2,"M. Bellhorn, P. Reese, ______",1(0-0) X,RRR,BOS,D. Ortiz,J. D'Amico,29%,57%,Home Run (Fly Ball); P. Reese Scores; M. Bellhorn Scores
+t3,4-3,2,"______, ______, ______",6(3-2) BBBCFB,,BOS,M. Ramirez,J. D'Amico,1%,58%,Walk
+t3,4-3,2,"M. Ramirez, ______, ______",6(2-2) FSBBFX,,BOS,J. Varitek,J. D'Amico,3%,61%,Single to RF (Line Drive); M. Ramirez to 3B
+t3,4-3,2,"J. Varitek, ______, M. Ramirez",3(0-2) CFX,R,BOS,K. Millar,J. D'Amico,9%,70%,Single to CF (Line Drive); M. Ramirez Scores; J. Varitek to 2B
+t3,5-3,2,"K. Millar, J. Varitek, ______",7(3-2) BFBFB>F>X,O,BOS,B. Daubach,J. D'Amico,-3%,67%,Flyball: CF (Deep CF)
 ,,,,,,,,,4 runs 5 hits 0 errors 2 LOB. Red Sox 5 Indians 3.,4 runs 5 hits 0 errors 2 LOB. Red Sox 5 Indians 3.,4 runs 5 hits 0 errors 2 LOB. Red Sox 5 Indians 3.
 Bottom of the 3rd Indians Batting Behind 3-5 Red Sox' Byung-Hyun Kim facing 3-4-5,Bottom of the 3rd Indians Batting Behind 3-5 Red Sox' Byung-Hyun Kim facing 3-4-5,Bottom of the 3rd Indians Batting Behind 3-5 Red Sox' Byung-Hyun Kim facing 3-4-5,,Bottom of the 3rd Indians Batting Behind 3-5 Red Sox' Byung-Hyun Kim facing 3-4-5,Bottom of the 3rd Indians Batting Behind 3-5 Red Sox' Byung-Hyun Kim facing 3-4-5,Bottom of the 3rd Indians Batting Behind 3-5 Red Sox' Byung-Hyun Kim facing 3-4-5,Bottom of the 3rd Indians Batting Behind 3-5 Red Sox' Byung-Hyun Kim facing 3-4-5,Bottom of the 3rd Indians Batting Behind 3-5 Red Sox' Byung-Hyun Kim facing 3-4-5,Bottom of the 3rd Indians Batting Behind 3-5 Red Sox' Byung-Hyun Kim facing 3-4-5,Bottom of the 3rd Indians Batting Behind 3-5 Red Sox' Byung-Hyun Kim facing 3-4-5,Bottom of the 3rd Indians Batting Behind 3-5 Red Sox' Byung-Hyun Kim facing 3-4-5
-b3,3-5,0,"['', '', '']",1(0-0) H,,CLE,J. Gerut,B. Kim,-4%,63%,Hit By Pitch
-b3,3-5,0,"['Gerut', '', '']",2(1-1) FB1,,CLE,V. Martinez,B. Kim,-6%,57%,Gerut Picked off 1B safe on E1; Gerut to 3B
-b3,3-5,0,"['', '', 'Gerut']",8(2-2) FB1.CFBFFX,R,CLE,V. Martinez,B. Kim,-5%,52%,Reached on E4 (Ground Ball); Gerut Scores/unER; Martinez to 1B
-b3,4-5,0,"['Martinez', '', '']",2(1-0) B1X,O,CLE,T. Hafner,B. Kim,4%,56%,Flyball: CF (Deep CF-RF)
-b3,4-5,1,"['Martinez', '', '']",1(0-0) X,,CLE,R. Belliard,B. Kim,-10%,46%,Single to RF (Line Drive); Martinez to 3B/Adv on E9; Belliard to 2B
-b3,4-5,1,"['', 'Belliard', 'Martinez']",6(2-2) BCFFBX,O,CLE,B. Broussard,B. Kim,9%,55%,Fielder's Choice P; Martinez out at Hm/P-C; Belliard to 3B; Broussard to 2B
-b3,4-5,2,"['', 'Broussard', 'Belliard']",3(1-1) BCX,O,CLE,C. Blake,B. Kim,7%,62%,Foul Popfly: C (Behind Home)
+b3,3-5,0,"______, ______, ______",1(0-0) H,,CLE,J. Gerut,B. Kim,-4%,63%,Hit By Pitch
+b3,3-5,0,"J. Gerut, ______, ______",2(1-1) FB1,,CLE,V. Martinez,B. Kim,-6%,57%,J. Gerut Picked off 1B safe on E1; J. Gerut to 3B
+b3,3-5,0,"______, ______, J. Gerut",8(2-2) FB1.CFBFFX,R,CLE,V. Martinez,B. Kim,-5%,52%,Reached on E4 (Ground Ball); J. Gerut Scores/unER; V. Martinez to 1B
+b3,4-5,0,"V. Martinez, ______, ______",2(1-0) B1X,O,CLE,T. Hafner,B. Kim,4%,56%,Flyball: CF (Deep CF-RF)
+b3,4-5,1,"V. Martinez, ______, ______",1(0-0) X,,CLE,R. Belliard,B. Kim,-10%,46%,Single to RF (Line Drive); V. Martinez to 3B/Adv on E9; R. Belliard to 2B
+b3,4-5,1,"______, R. Belliard, V. Martinez",6(2-2) BCFFBX,O,CLE,B. Broussard,B. Kim,9%,55%,Fielder's Choice P; V. Martinez out at Hm/P-C; R. Belliard to 3B; B. Broussard to 2B
+b3,4-5,2,"______, B. Broussard, R. Belliard",3(1-1) BCX,O,CLE,C. Blake,B. Kim,7%,62%,Foul Popfly: C (Behind Home)
 ,,,,,,,,,1 run 1 hit 3 errors 2 LOB. Red Sox 5 Indians 4.,1 run 1 hit 3 errors 2 LOB. Red Sox 5 Indians 4.,1 run 1 hit 3 errors 2 LOB. Red Sox 5 Indians 4.
 Top of the 4th Red Sox Batting Ahead 5-4 Indians' Jeff D'Amico facing 8-9-1,Top of the 4th Red Sox Batting Ahead 5-4 Indians' Jeff D'Amico facing 8-9-1,Top of the 4th Red Sox Batting Ahead 5-4 Indians' Jeff D'Amico facing 8-9-1,,Top of the 4th Red Sox Batting Ahead 5-4 Indians' Jeff D'Amico facing 8-9-1,Top of the 4th Red Sox Batting Ahead 5-4 Indians' Jeff D'Amico facing 8-9-1,Top of the 4th Red Sox Batting Ahead 5-4 Indians' Jeff D'Amico facing 8-9-1,Top of the 4th Red Sox Batting Ahead 5-4 Indians' Jeff D'Amico facing 8-9-1,Top of the 4th Red Sox Batting Ahead 5-4 Indians' Jeff D'Amico facing 8-9-1,Top of the 4th Red Sox Batting Ahead 5-4 Indians' Jeff D'Amico facing 8-9-1,Top of the 4th Red Sox Batting Ahead 5-4 Indians' Jeff D'Amico facing 8-9-1,Top of the 4th Red Sox Batting Ahead 5-4 Indians' Jeff D'Amico facing 8-9-1
-t4,5-4,0,"['', '', '']",5(2-2) BBCFX,O,BOS,B. Mueller,J. D'Amico,-2%,60%,Groundout: 2B-1B
-t4,5-4,1,"['', '', '']",4(2-1) BCBX,O,BOS,P. Reese,J. D'Amico,-2%,58%,Popfly: SS
-t4,5-4,2,"['', '', '']",7(2-2) BCFFFBX,O,BOS,J. Damon,J. D'Amico,-1%,57%,Popfly: SS
+t4,5-4,0,"______, ______, ______",5(2-2) BBCFX,O,BOS,B. Mueller,J. D'Amico,-2%,60%,Groundout: 2B-1B
+t4,5-4,1,"______, ______, ______",4(2-1) BCBX,O,BOS,P. Reese,J. D'Amico,-2%,58%,Popfly: SS
+t4,5-4,2,"______, ______, ______",7(2-2) BCFFFBX,O,BOS,J. Damon,J. D'Amico,-1%,57%,Popfly: SS
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 5 Indians 4.,0 runs 0 hits 0 errors 0 LOB. Red Sox 5 Indians 4.,0 runs 0 hits 0 errors 0 LOB. Red Sox 5 Indians 4.
 Bottom of the 4th Indians Batting Behind 4-5 Red Sox' Byung-Hyun Kim facing 9-1-2,Bottom of the 4th Indians Batting Behind 4-5 Red Sox' Byung-Hyun Kim facing 9-1-2,Bottom of the 4th Indians Batting Behind 4-5 Red Sox' Byung-Hyun Kim facing 9-1-2,,Bottom of the 4th Indians Batting Behind 4-5 Red Sox' Byung-Hyun Kim facing 9-1-2,Bottom of the 4th Indians Batting Behind 4-5 Red Sox' Byung-Hyun Kim facing 9-1-2,Bottom of the 4th Indians Batting Behind 4-5 Red Sox' Byung-Hyun Kim facing 9-1-2,Bottom of the 4th Indians Batting Behind 4-5 Red Sox' Byung-Hyun Kim facing 9-1-2,Bottom of the 4th Indians Batting Behind 4-5 Red Sox' Byung-Hyun Kim facing 9-1-2,Bottom of the 4th Indians Batting Behind 4-5 Red Sox' Byung-Hyun Kim facing 9-1-2,Bottom of the 4th Indians Batting Behind 4-5 Red Sox' Byung-Hyun Kim facing 9-1-2,Bottom of the 4th Indians Batting Behind 4-5 Red Sox' Byung-Hyun Kim facing 9-1-2
-b4,4-5,0,"['', '', '']",3(1-1) BCX,O,CLE,A. Escobar,B. Kim,3%,60%,Lineout: CF
-b4,4-5,1,"['', '', '']",2(1-0) BX,,CLE,M. Lawton,B. Kim,-5%,55%,Double to RF (Line Drive to Deep RF)
+b4,4-5,0,"______, ______, ______",3(1-1) BCX,O,CLE,A. Escobar,B. Kim,3%,60%,Lineout: CF
+b4,4-5,1,"______, ______, ______",2(1-0) BX,,CLE,M. Lawton,B. Kim,-5%,55%,Double to RF (Line Drive to Deep RF)
 ,,,,,,,,,Mark Malaska replaces Byung-Hyun Kim pitching,Mark Malaska replaces Byung-Hyun Kim pitching,Mark Malaska replaces Byung-Hyun Kim pitching
-b4,4-5,1,"['', 'Lawton', '']",7(2-2) .BFCFFBX,R,CLE,O. Vizquel,M. Malaska,-11%,44%,Single to CF (Ground Ball); Lawton Scores
-b4,5-5,1,"['Vizquel', '', '']",3(2-0) BBX,O,CLE,J. Gerut,M. Malaska,3%,47%,Flyball: CF
-b4,5-5,2,"['Vizquel', '', '']",3(2-0) 1BB>B,,CLE,V. Martinez,M. Malaska,-1%,46%,Vizquel Steals 2B
-b4,5-5,2,"['', 'Vizquel', '']",4(3-0) 1BB>B.B,,CLE,V. Martinez,M. Malaska,-1%,45%,Walk
-b4,5-5,2,"['Martinez', 'Vizquel', '']",3(1-1) *BFX,O,CLE,T. Hafner,M. Malaska,5%,50%,Flyball: CF
+b4,4-5,1,"______, M. Lawton, ______",7(2-2) .BFCFFBX,R,CLE,O. Vizquel,M. Malaska,-11%,44%,Single to CF (Ground Ball); M. Lawton Scores
+b4,5-5,1,"O. Vizquel, ______, ______",3(2-0) BBX,O,CLE,J. Gerut,M. Malaska,3%,47%,Flyball: CF
+b4,5-5,2,"O. Vizquel, ______, ______",3(2-0) 1BB>B,,CLE,V. Martinez,M. Malaska,-1%,46%,O. Vizquel Steals 2B
+b4,5-5,2,"______, O. Vizquel, ______",4(3-0) 1BB>B.B,,CLE,V. Martinez,M. Malaska,-1%,45%,Walk
+b4,5-5,2,"V. Martinez, O. Vizquel, ______",3(1-1) *BFX,O,CLE,T. Hafner,M. Malaska,5%,50%,Flyball: CF
 ,,,,,,,,,1 run 2 hits 0 errors 2 LOB. Red Sox 5 Indians 5.,1 run 2 hits 0 errors 2 LOB. Red Sox 5 Indians 5.,1 run 2 hits 0 errors 2 LOB. Red Sox 5 Indians 5.
 Top of the 5th Red Sox Batting Tied 5-5 Indians' Jeff D'Amico facing 2-3-4,Top of the 5th Red Sox Batting Tied 5-5 Indians' Jeff D'Amico facing 2-3-4,Top of the 5th Red Sox Batting Tied 5-5 Indians' Jeff D'Amico facing 2-3-4,,Top of the 5th Red Sox Batting Tied 5-5 Indians' Jeff D'Amico facing 2-3-4,Top of the 5th Red Sox Batting Tied 5-5 Indians' Jeff D'Amico facing 2-3-4,Top of the 5th Red Sox Batting Tied 5-5 Indians' Jeff D'Amico facing 2-3-4,Top of the 5th Red Sox Batting Tied 5-5 Indians' Jeff D'Amico facing 2-3-4,Top of the 5th Red Sox Batting Tied 5-5 Indians' Jeff D'Amico facing 2-3-4,Top of the 5th Red Sox Batting Tied 5-5 Indians' Jeff D'Amico facing 2-3-4,Top of the 5th Red Sox Batting Tied 5-5 Indians' Jeff D'Amico facing 2-3-4,Top of the 5th Red Sox Batting Tied 5-5 Indians' Jeff D'Amico facing 2-3-4
-t5,5-5,0,"['', '', '']",5(2-2) CCBBS,O,BOS,M. Bellhorn,J. D'Amico,-3%,47%,Strikeout Swinging
-t5,5-5,1,"['', '', '']",6(3-2) CFBBBC,O,BOS,D. Ortiz,J. D'Amico,-2%,45%,Strikeout Looking
-t5,5-5,2,"['', '', '']",4(1-2) FCBX,O,BOS,M. Ramirez,J. D'Amico,-2%,43%,Groundout: 2B-1B
+t5,5-5,0,"______, ______, ______",5(2-2) CCBBS,O,BOS,M. Bellhorn,J. D'Amico,-3%,47%,Strikeout Swinging
+t5,5-5,1,"______, ______, ______",6(3-2) CFBBBC,O,BOS,D. Ortiz,J. D'Amico,-2%,45%,Strikeout Looking
+t5,5-5,2,"______, ______, ______",4(1-2) FCBX,O,BOS,M. Ramirez,J. D'Amico,-2%,43%,Groundout: 2B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 5 Indians 5.,0 runs 0 hits 0 errors 0 LOB. Red Sox 5 Indians 5.,0 runs 0 hits 0 errors 0 LOB. Red Sox 5 Indians 5.
 Bottom of the 5th Indians Batting Tied 5-5 Red Sox' Bronson Arroyo facing 6-7-8,Bottom of the 5th Indians Batting Tied 5-5 Red Sox' Bronson Arroyo facing 6-7-8,Bottom of the 5th Indians Batting Tied 5-5 Red Sox' Bronson Arroyo facing 6-7-8,,Bottom of the 5th Indians Batting Tied 5-5 Red Sox' Bronson Arroyo facing 6-7-8,Bottom of the 5th Indians Batting Tied 5-5 Red Sox' Bronson Arroyo facing 6-7-8,Bottom of the 5th Indians Batting Tied 5-5 Red Sox' Bronson Arroyo facing 6-7-8,Bottom of the 5th Indians Batting Tied 5-5 Red Sox' Bronson Arroyo facing 6-7-8,Bottom of the 5th Indians Batting Tied 5-5 Red Sox' Bronson Arroyo facing 6-7-8,Bottom of the 5th Indians Batting Tied 5-5 Red Sox' Bronson Arroyo facing 6-7-8,Bottom of the 5th Indians Batting Tied 5-5 Red Sox' Bronson Arroyo facing 6-7-8,Bottom of the 5th Indians Batting Tied 5-5 Red Sox' Bronson Arroyo facing 6-7-8
 ,,,,,,,,,Bronson Arroyo replaces Mark Malaska pitching,Bronson Arroyo replaces Mark Malaska pitching,Bronson Arroyo replaces Mark Malaska pitching
-b5,5-5,0,"['', '', '']",5(2-2) .FBBCS,O,CLE,R. Belliard,B. Arroyo,3%,46%,Strikeout Swinging
-b5,5-5,1,"['', '', '']",1(0-0) X,O,CLE,B. Broussard,B. Arroyo,2%,48%,Flyball: LF
-b5,5-5,2,"['', '', '']",6(3-2) BCBSBC,O,CLE,C. Blake,B. Arroyo,2%,50%,Strikeout Looking
+b5,5-5,0,"______, ______, ______",5(2-2) .FBBCS,O,CLE,R. Belliard,B. Arroyo,3%,46%,Strikeout Swinging
+b5,5-5,1,"______, ______, ______",1(0-0) X,O,CLE,B. Broussard,B. Arroyo,2%,48%,Flyball: LF
+b5,5-5,2,"______, ______, ______",6(3-2) BCBSBC,O,CLE,C. Blake,B. Arroyo,2%,50%,Strikeout Looking
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 5 Indians 5.,0 runs 0 hits 0 errors 0 LOB. Red Sox 5 Indians 5.,0 runs 0 hits 0 errors 0 LOB. Red Sox 5 Indians 5.
 Top of the 6th Red Sox Batting Tied 5-5 Indians' Jeff D'Amico facing 5-6-7,Top of the 6th Red Sox Batting Tied 5-5 Indians' Jeff D'Amico facing 5-6-7,Top of the 6th Red Sox Batting Tied 5-5 Indians' Jeff D'Amico facing 5-6-7,,Top of the 6th Red Sox Batting Tied 5-5 Indians' Jeff D'Amico facing 5-6-7,Top of the 6th Red Sox Batting Tied 5-5 Indians' Jeff D'Amico facing 5-6-7,Top of the 6th Red Sox Batting Tied 5-5 Indians' Jeff D'Amico facing 5-6-7,Top of the 6th Red Sox Batting Tied 5-5 Indians' Jeff D'Amico facing 5-6-7,Top of the 6th Red Sox Batting Tied 5-5 Indians' Jeff D'Amico facing 5-6-7,Top of the 6th Red Sox Batting Tied 5-5 Indians' Jeff D'Amico facing 5-6-7,Top of the 6th Red Sox Batting Tied 5-5 Indians' Jeff D'Amico facing 5-6-7,Top of the 6th Red Sox Batting Tied 5-5 Indians' Jeff D'Amico facing 5-6-7
-t6,5-5,0,"['', '', '']",6(3-2) BFBFBB,,BOS,J. Varitek,J. D'Amico,5%,55%,Walk
-t6,5-5,0,"['Varitek', '', '']",1(0-0) X,,BOS,K. Millar,J. D'Amico,8%,63%,Single to LF (Line Drive); Varitek to 2B
+t6,5-5,0,"______, ______, ______",6(3-2) BFBFBB,,BOS,J. Varitek,J. D'Amico,5%,55%,Walk
+t6,5-5,0,"J. Varitek, ______, ______",1(0-0) X,,BOS,K. Millar,J. D'Amico,8%,63%,Single to LF (Line Drive); J. Varitek to 2B
 ,,,,,,,,,David Riske replaces Jeff D'Amico pitching,David Riske replaces Jeff D'Amico pitching,David Riske replaces Jeff D'Amico pitching
-t6,5-5,0,"['Millar', 'Varitek', '']",4(1-2) .BFCC,O,BOS,B. Daubach,D. Riske,-7%,55%,Strikeout Looking
-t6,5-5,1,"['Millar', 'Varitek', '']",1(0-0) X,RRR,BOS,B. Mueller,D. Riske,29%,85%,Home Run (Fly Ball); Varitek Scores; Millar Scores
-t6,8-5,1,"['', '', '']",2(1-0) BX,O,BOS,P. Reese,D. Riske,-1%,84%,Flyball: LF
-t6,8-5,2,"['', '', '']",10(2-2) CCFFFBBFFX,O,BOS,J. Damon,D. Riske,-1%,83%,Popfly: C
+t6,5-5,0,"K. Millar, J. Varitek, ______",4(1-2) .BFCC,O,BOS,B. Daubach,D. Riske,-7%,55%,Strikeout Looking
+t6,5-5,1,"K. Millar, J. Varitek, ______",1(0-0) X,RRR,BOS,B. Mueller,D. Riske,29%,85%,Home Run (Fly Ball); J. Varitek Scores; K. Millar Scores
+t6,8-5,1,"______, ______, ______",2(1-0) BX,O,BOS,P. Reese,D. Riske,-1%,84%,Flyball: LF
+t6,8-5,2,"______, ______, ______",10(2-2) CCFFFBBFFX,O,BOS,J. Damon,D. Riske,-1%,83%,Popfly: C
 ,,,,,,,,,3 runs 2 hits 0 errors 0 LOB. Red Sox 8 Indians 5.,3 runs 2 hits 0 errors 0 LOB. Red Sox 8 Indians 5.,3 runs 2 hits 0 errors 0 LOB. Red Sox 8 Indians 5.
 Bottom of the 6th Indians Batting Behind 5-8 Red Sox' Bronson Arroyo facing 9-1-2,Bottom of the 6th Indians Batting Behind 5-8 Red Sox' Bronson Arroyo facing 9-1-2,Bottom of the 6th Indians Batting Behind 5-8 Red Sox' Bronson Arroyo facing 9-1-2,,Bottom of the 6th Indians Batting Behind 5-8 Red Sox' Bronson Arroyo facing 9-1-2,Bottom of the 6th Indians Batting Behind 5-8 Red Sox' Bronson Arroyo facing 9-1-2,Bottom of the 6th Indians Batting Behind 5-8 Red Sox' Bronson Arroyo facing 9-1-2,Bottom of the 6th Indians Batting Behind 5-8 Red Sox' Bronson Arroyo facing 9-1-2,Bottom of the 6th Indians Batting Behind 5-8 Red Sox' Bronson Arroyo facing 9-1-2,Bottom of the 6th Indians Batting Behind 5-8 Red Sox' Bronson Arroyo facing 9-1-2,Bottom of the 6th Indians Batting Behind 5-8 Red Sox' Bronson Arroyo facing 9-1-2,Bottom of the 6th Indians Batting Behind 5-8 Red Sox' Bronson Arroyo facing 9-1-2
-b6,5-8,0,"['', '', '']",6(2-2) BCSBFC,O,CLE,A. Escobar,B. Arroyo,3%,86%,Strikeout Looking
-b6,5-8,1,"['', '', '']",7(3-2) BFFFBBX,,CLE,M. Lawton,B. Arroyo,-3%,83%,Single to CF (Ground Ball)
-b6,5-8,1,"['Lawton', '', '']",3(2-0) 1BBX,OO,CLE,O. Vizquel,B. Arroyo,6%,89%,Ground Ball Double Play: 1B-SS-P
+b6,5-8,0,"______, ______, ______",6(2-2) BCSBFC,O,CLE,A. Escobar,B. Arroyo,3%,86%,Strikeout Looking
+b6,5-8,1,"______, ______, ______",7(3-2) BFFFBBX,,CLE,M. Lawton,B. Arroyo,-3%,83%,Single to CF (Ground Ball)
+b6,5-8,1,"M. Lawton, ______, ______",3(2-0) 1BBX,OO,CLE,O. Vizquel,B. Arroyo,6%,89%,Ground Ball Double Play: 1B-SS-P
 ,,,,,,,,,0 runs 1 hit 0 errors 0 LOB. Red Sox 8 Indians 5.,0 runs 1 hit 0 errors 0 LOB. Red Sox 8 Indians 5.,0 runs 1 hit 0 errors 0 LOB. Red Sox 8 Indians 5.
 Top of the 7th Red Sox Batting Ahead 8-5 Indians' David Riske facing 2-3-4,Top of the 7th Red Sox Batting Ahead 8-5 Indians' David Riske facing 2-3-4,Top of the 7th Red Sox Batting Ahead 8-5 Indians' David Riske facing 2-3-4,,Top of the 7th Red Sox Batting Ahead 8-5 Indians' David Riske facing 2-3-4,Top of the 7th Red Sox Batting Ahead 8-5 Indians' David Riske facing 2-3-4,Top of the 7th Red Sox Batting Ahead 8-5 Indians' David Riske facing 2-3-4,Top of the 7th Red Sox Batting Ahead 8-5 Indians' David Riske facing 2-3-4,Top of the 7th Red Sox Batting Ahead 8-5 Indians' David Riske facing 2-3-4,Top of the 7th Red Sox Batting Ahead 8-5 Indians' David Riske facing 2-3-4,Top of the 7th Red Sox Batting Ahead 8-5 Indians' David Riske facing 2-3-4,Top of the 7th Red Sox Batting Ahead 8-5 Indians' David Riske facing 2-3-4
-t7,8-5,0,"['', '', '']",4(1-2) BCST,O,BOS,M. Bellhorn,D. Riske,-1%,88%,Strikeout Swinging
-t7,8-5,1,"['', '', '']",2(0-1) CX,O,BOS,D. Ortiz,D. Riske,-1%,87%,Popfly: 3B
-t7,8-5,2,"['', '', '']",5(3-1) BBBCB,,BOS,M. Ramirez,D. Riske,1%,88%,Walk
-t7,8-5,2,"['Ramirez', '', '']",6(3-2) BSBFB>C,O,BOS,J. Varitek,D. Riske,-1%,87%,Strikeout Looking
+t7,8-5,0,"______, ______, ______",4(1-2) BCST,O,BOS,M. Bellhorn,D. Riske,-1%,88%,Strikeout Swinging
+t7,8-5,1,"______, ______, ______",2(0-1) CX,O,BOS,D. Ortiz,D. Riske,-1%,87%,Popfly: 3B
+t7,8-5,2,"______, ______, ______",5(3-1) BBBCB,,BOS,M. Ramirez,D. Riske,1%,88%,Walk
+t7,8-5,2,"M. Ramirez, ______, ______",6(3-2) BSBFB>C,O,BOS,J. Varitek,D. Riske,-1%,87%,Strikeout Looking
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Red Sox 8 Indians 5.,0 runs 0 hits 0 errors 1 LOB. Red Sox 8 Indians 5.,0 runs 0 hits 0 errors 1 LOB. Red Sox 8 Indians 5.
 Bottom of the 7th Indians Batting Behind 5-8 Red Sox' Alan Embree facing 3-4-5,Bottom of the 7th Indians Batting Behind 5-8 Red Sox' Alan Embree facing 3-4-5,Bottom of the 7th Indians Batting Behind 5-8 Red Sox' Alan Embree facing 3-4-5,,Bottom of the 7th Indians Batting Behind 5-8 Red Sox' Alan Embree facing 3-4-5,Bottom of the 7th Indians Batting Behind 5-8 Red Sox' Alan Embree facing 3-4-5,Bottom of the 7th Indians Batting Behind 5-8 Red Sox' Alan Embree facing 3-4-5,Bottom of the 7th Indians Batting Behind 5-8 Red Sox' Alan Embree facing 3-4-5,Bottom of the 7th Indians Batting Behind 5-8 Red Sox' Alan Embree facing 3-4-5,Bottom of the 7th Indians Batting Behind 5-8 Red Sox' Alan Embree facing 3-4-5,Bottom of the 7th Indians Batting Behind 5-8 Red Sox' Alan Embree facing 3-4-5,Bottom of the 7th Indians Batting Behind 5-8 Red Sox' Alan Embree facing 3-4-5
 ,,,,,,,,,Alan Embree replaces Bronson Arroyo pitching,Alan Embree replaces Bronson Arroyo pitching,Alan Embree replaces Bronson Arroyo pitching
-b7,5-8,0,"['', '', '']",6(2-2) .CBBFFX,O,CLE,J. Gerut,A. Embree,3%,90%,Flyball: LF (LF-CF)
-b7,5-8,1,"['', '', '']",2(1-0) BX,O,CLE,V. Martinez,A. Embree,2%,92%,Popfly: 2B (Short CF)
-b7,5-8,2,"['', '', '']",6(2-2) BFFFBX,O,CLE,T. Hafner,A. Embree,1%,93%,Groundout: SS-1B
+b7,5-8,0,"______, ______, ______",6(2-2) .CBBFFX,O,CLE,J. Gerut,A. Embree,3%,90%,Flyball: LF (LF-CF)
+b7,5-8,1,"______, ______, ______",2(1-0) BX,O,CLE,V. Martinez,A. Embree,2%,92%,Popfly: 2B (Short CF)
+b7,5-8,2,"______, ______, ______",6(2-2) BFFFBX,O,CLE,T. Hafner,A. Embree,1%,93%,Groundout: SS-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 8 Indians 5.,0 runs 0 hits 0 errors 0 LOB. Red Sox 8 Indians 5.,0 runs 0 hits 0 errors 0 LOB. Red Sox 8 Indians 5.
 Top of the 8th Red Sox Batting Ahead 8-5 Indians' Jack Cressend facing 6-7-8,Top of the 8th Red Sox Batting Ahead 8-5 Indians' Jack Cressend facing 6-7-8,Top of the 8th Red Sox Batting Ahead 8-5 Indians' Jack Cressend facing 6-7-8,,Top of the 8th Red Sox Batting Ahead 8-5 Indians' Jack Cressend facing 6-7-8,Top of the 8th Red Sox Batting Ahead 8-5 Indians' Jack Cressend facing 6-7-8,Top of the 8th Red Sox Batting Ahead 8-5 Indians' Jack Cressend facing 6-7-8,Top of the 8th Red Sox Batting Ahead 8-5 Indians' Jack Cressend facing 6-7-8,Top of the 8th Red Sox Batting Ahead 8-5 Indians' Jack Cressend facing 6-7-8,Top of the 8th Red Sox Batting Ahead 8-5 Indians' Jack Cressend facing 6-7-8,Top of the 8th Red Sox Batting Ahead 8-5 Indians' Jack Cressend facing 6-7-8,Top of the 8th Red Sox Batting Ahead 8-5 Indians' Jack Cressend facing 6-7-8
 ,,,,,,,,,Jack Cressend replaces David Riske pitching,Jack Cressend replaces David Riske pitching,Jack Cressend replaces David Riske pitching
-t8,8-5,0,"['', '', '']",7(2-2) .BBFFFFS,O,BOS,K. Millar,J. Cressend,-1%,92%,Strikeout Swinging
-t8,8-5,1,"['', '', '']",8(2-2) FBBFFFFX,O,BOS,B. Daubach,J. Cressend,-1%,91%,Groundout: 1B-P
-t8,8-5,2,"['', '', '']",5(3-1) CBBBB,,BOS,B. Mueller,J. Cressend,0%,92%,Walk
-t8,8-5,2,"['Mueller', '', '']",3(2-0) BBX,,BOS,P. Reese,J. Cressend,1%,92%,Single to LF (Line Drive to LF-CF); Mueller to 2B
-t8,8-5,2,"['Reese', 'Mueller', '']",1(0-0) X,O,BOS,J. Damon,J. Cressend,-1%,91%,Groundout: 2B-1B
+t8,8-5,0,"______, ______, ______",7(2-2) .BBFFFFS,O,BOS,K. Millar,J. Cressend,-1%,92%,Strikeout Swinging
+t8,8-5,1,"______, ______, ______",8(2-2) FBBFFFFX,O,BOS,B. Daubach,J. Cressend,-1%,91%,Groundout: 1B-P
+t8,8-5,2,"______, ______, ______",5(3-1) CBBBB,,BOS,B. Mueller,J. Cressend,0%,92%,Walk
+t8,8-5,2,"B. Mueller, ______, ______",3(2-0) BBX,,BOS,P. Reese,J. Cressend,1%,92%,Single to LF (Line Drive to LF-CF); B. Mueller to 2B
+t8,8-5,2,"P. Reese, B. Mueller, ______",1(0-0) X,O,BOS,J. Damon,J. Cressend,-1%,91%,Groundout: 2B-1B
 ,,,,,,,,,0 runs 1 hit 0 errors 2 LOB. Red Sox 8 Indians 5.,0 runs 1 hit 0 errors 2 LOB. Red Sox 8 Indians 5.,0 runs 1 hit 0 errors 2 LOB. Red Sox 8 Indians 5.
 Bottom of the 8th Indians Batting Behind 5-8 Red Sox' Scott Williamson facing 6-7-8,Bottom of the 8th Indians Batting Behind 5-8 Red Sox' Scott Williamson facing 6-7-8,Bottom of the 8th Indians Batting Behind 5-8 Red Sox' Scott Williamson facing 6-7-8,,Bottom of the 8th Indians Batting Behind 5-8 Red Sox' Scott Williamson facing 6-7-8,Bottom of the 8th Indians Batting Behind 5-8 Red Sox' Scott Williamson facing 6-7-8,Bottom of the 8th Indians Batting Behind 5-8 Red Sox' Scott Williamson facing 6-7-8,Bottom of the 8th Indians Batting Behind 5-8 Red Sox' Scott Williamson facing 6-7-8,Bottom of the 8th Indians Batting Behind 5-8 Red Sox' Scott Williamson facing 6-7-8,Bottom of the 8th Indians Batting Behind 5-8 Red Sox' Scott Williamson facing 6-7-8,Bottom of the 8th Indians Batting Behind 5-8 Red Sox' Scott Williamson facing 6-7-8,Bottom of the 8th Indians Batting Behind 5-8 Red Sox' Scott Williamson facing 6-7-8
 ,,,,,,,,,Scott Williamson replaces Alan Embree pitchingDave McCarty replaces Kevin Millar (RF) playing 1B batting 6thGabe Kapler replaces Brian Daubach (1B) playing RF batting 7th,Scott Williamson replaces Alan Embree pitchingDave McCarty replaces Kevin Millar (RF) playing 1B batting 6thGabe Kapler replaces Brian Daubach (1B) playing RF batting 7th,Scott Williamson replaces Alan Embree pitchingDave McCarty replaces Kevin Millar (RF) playing 1B batting 6thGabe Kapler replaces Brian Daubach (1B) playing RF batting 7th
-b8,5-8,0,"['', '', '']",5(2-2) ...SBBSS,O,CLE,R. Belliard,S. Williamson,3%,94%,Strikeout Swinging
-b8,5-8,1,"['', '', '']",2(0-1) FX,,CLE,B. Broussard,S. Williamson,-3%,91%,Single to RF (Ground Ball)
-b8,5-8,1,"['Broussard', '', '']",5(2-2) BCCBC,O,CLE,C. Blake,S. Williamson,4%,94%,Strikeout Looking
-b8,5-8,2,"['Broussard', '', '']",4(0-2) SSFS,O,CLE,A. Escobar,S. Williamson,2%,96%,Strikeout Swinging
+b8,5-8,0,"______, ______, ______",5(2-2) ...SBBSS,O,CLE,R. Belliard,S. Williamson,3%,94%,Strikeout Swinging
+b8,5-8,1,"______, ______, ______",2(0-1) FX,,CLE,B. Broussard,S. Williamson,-3%,91%,Single to RF (Ground Ball)
+b8,5-8,1,"B. Broussard, ______, ______",5(2-2) BCCBC,O,CLE,C. Blake,S. Williamson,4%,94%,Strikeout Looking
+b8,5-8,2,"B. Broussard, ______, ______",4(0-2) SSFS,O,CLE,A. Escobar,S. Williamson,2%,96%,Strikeout Swinging
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Red Sox 8 Indians 5.,0 runs 1 hit 0 errors 1 LOB. Red Sox 8 Indians 5.,0 runs 1 hit 0 errors 1 LOB. Red Sox 8 Indians 5.
 Top of the 9th Red Sox Batting Ahead 8-5 Indians' Jack Cressend facing 2-3-4,Top of the 9th Red Sox Batting Ahead 8-5 Indians' Jack Cressend facing 2-3-4,Top of the 9th Red Sox Batting Ahead 8-5 Indians' Jack Cressend facing 2-3-4,,Top of the 9th Red Sox Batting Ahead 8-5 Indians' Jack Cressend facing 2-3-4,Top of the 9th Red Sox Batting Ahead 8-5 Indians' Jack Cressend facing 2-3-4,Top of the 9th Red Sox Batting Ahead 8-5 Indians' Jack Cressend facing 2-3-4,Top of the 9th Red Sox Batting Ahead 8-5 Indians' Jack Cressend facing 2-3-4,Top of the 9th Red Sox Batting Ahead 8-5 Indians' Jack Cressend facing 2-3-4,Top of the 9th Red Sox Batting Ahead 8-5 Indians' Jack Cressend facing 2-3-4,Top of the 9th Red Sox Batting Ahead 8-5 Indians' Jack Cressend facing 2-3-4,Top of the 9th Red Sox Batting Ahead 8-5 Indians' Jack Cressend facing 2-3-4
-t9,8-5,0,"['', '', '']",4(1-2) CSBC,O,BOS,M. Bellhorn,J. Cressend,-0%,96%,Strikeout Looking
-t9,8-5,1,"['', '', '']",2(1-0) BX,O,BOS,D. Ortiz,J. Cressend,-0%,96%,Flyball: LF
-t9,8-5,2,"['', '', '']",5(2-2) BFCBX,,BOS,M. Ramirez,J. Cressend,0%,96%,Double to CF (Fly Ball to Deep CF-RF)
-t9,8-5,2,"['', 'Ramirez', '']",2(0-1) CX,R,BOS,J. Varitek,J. Cressend,2%,98%,Single to RF (Ground Ball); Ramirez Scores; Varitek to 2B/Adv on throw
-t9,9-5,2,"['', 'Varitek', '']",7(3-2) CSBBFBS,O,BOS,D. McCarty,J. Cressend,-0%,98%,Strikeout Swinging
+t9,8-5,0,"______, ______, ______",4(1-2) CSBC,O,BOS,M. Bellhorn,J. Cressend,-0%,96%,Strikeout Looking
+t9,8-5,1,"______, ______, ______",2(1-0) BX,O,BOS,D. Ortiz,J. Cressend,-0%,96%,Flyball: LF
+t9,8-5,2,"______, ______, ______",5(2-2) BFCBX,,BOS,M. Ramirez,J. Cressend,0%,96%,Double to CF (Fly Ball to Deep CF-RF)
+t9,8-5,2,"______, M. Ramirez, ______",2(0-1) CX,R,BOS,J. Varitek,J. Cressend,2%,98%,Single to RF (Ground Ball); M. Ramirez Scores; J. Varitek to 2B/Adv on throw
+t9,9-5,2,"______, J. Varitek, ______",7(3-2) CSBBFBS,O,BOS,D. McCarty,J. Cressend,-0%,98%,Strikeout Swinging
 ,,,,,,,,,1 run 2 hits 0 errors 1 LOB. Red Sox 9 Indians 5.,1 run 2 hits 0 errors 1 LOB. Red Sox 9 Indians 5.,1 run 2 hits 0 errors 1 LOB. Red Sox 9 Indians 5.
 Bottom of the 9th Indians Batting Behind 5-9 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 9th Indians Batting Behind 5-9 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 9th Indians Batting Behind 5-9 Red Sox' Keith Foulke facing 1-2-3,,Bottom of the 9th Indians Batting Behind 5-9 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 9th Indians Batting Behind 5-9 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 9th Indians Batting Behind 5-9 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 9th Indians Batting Behind 5-9 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 9th Indians Batting Behind 5-9 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 9th Indians Batting Behind 5-9 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 9th Indians Batting Behind 5-9 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 9th Indians Batting Behind 5-9 Red Sox' Keith Foulke facing 1-2-3
 ,,,,,,,,,Keith Foulke replaces Scott Williamson pitching,Keith Foulke replaces Scott Williamson pitching,Keith Foulke replaces Scott Williamson pitching
-b9,5-9,0,"['', '', '']",4(1-2) .CBCS,O,CLE,M. Lawton,K. Foulke,1%,99%,Strikeout Swinging
-b9,5-9,1,"['', '', '']",9(2-2) BBCSFFFFS,O,CLE,O. Vizquel,K. Foulke,1%,100%,Strikeout Swinging
-b9,5-9,2,"['', '', '']",1(0-0) X,,CLE,J. Gerut,K. Foulke,-0%,99%,Single to CF (Ground Ball)
-b9,5-9,2,"['Gerut', '', '']",1(0-0) X,O,CLE,V. Martinez,K. Foulke,1%,100%,Lineout: RF (Deep RF)
+b9,5-9,0,"______, ______, ______",4(1-2) .CBCS,O,CLE,M. Lawton,K. Foulke,1%,99%,Strikeout Swinging
+b9,5-9,1,"______, ______, ______",9(2-2) BBCSFFFFS,O,CLE,O. Vizquel,K. Foulke,1%,100%,Strikeout Swinging
+b9,5-9,2,"______, ______, ______",1(0-0) X,,CLE,J. Gerut,K. Foulke,-0%,99%,Single to CF (Ground Ball)
+b9,5-9,2,"J. Gerut, ______, ______",1(0-0) X,O,CLE,V. Martinez,K. Foulke,1%,100%,Lineout: RF (Deep RF)
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Red Sox 9 Indians 5.,0 runs 1 hit 0 errors 1 LOB. Red Sox 9 Indians 5.,0 runs 1 hit 0 errors 1 LOB. Red Sox 9 Indians 5.

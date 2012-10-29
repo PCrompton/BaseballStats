@@ -1,119 +1,119 @@
 Inn,Score,Out,RoB,Pit(cnt)Sequence,R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
 Top of the 1st Red Sox Batting Tied 0-0 Devil Rays' Rob Bell facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Devil Rays' Rob Bell facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Devil Rays' Rob Bell facing 1-2-3,,Top of the 1st Red Sox Batting Tied 0-0 Devil Rays' Rob Bell facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Devil Rays' Rob Bell facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Devil Rays' Rob Bell facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Devil Rays' Rob Bell facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Devil Rays' Rob Bell facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Devil Rays' Rob Bell facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Devil Rays' Rob Bell facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Devil Rays' Rob Bell facing 1-2-3
-t1,0-0,0,"['', '', '']",7(3-2) CBFF*BBB,,BOS,J. Damon,R. Bell,3%,53%,Walk
-t1,0-0,0,"['Damon', '', '']",2(0-1) FB,,BOS,M. Bellhorn,R. Bell,2%,56%,Wild Pitch; Damon to 2B
-t1,0-0,0,"['', 'Damon', '']",3(1-1) FB.X,O,BOS,M. Bellhorn,R. Bell,-2%,54%,Groundout: 1B-P; Damon to 3B
-t1,0-0,1,"['', '', 'Damon']",3(1-1) SBX,RO,BOS,D. Ortiz,R. Bell,2%,56%,Flyball: CF/Sacrifice Fly; Damon Scores
-t1,1-0,2,"['', '', '']",2(1-0) BX,O,BOS,M. Ramirez,R. Bell,-1%,55%,Flyball: CF (Deep CF)
+t1,0-0,0,"______, ______, ______",7(3-2) CBFF*BBB,,BOS,J. Damon,R. Bell,3%,53%,Walk
+t1,0-0,0,"J. Damon, ______, ______",2(0-1) FB,,BOS,M. Bellhorn,R. Bell,2%,56%,Wild Pitch; J. Damon to 2B
+t1,0-0,0,"______, J. Damon, ______",3(1-1) FB.X,O,BOS,M. Bellhorn,R. Bell,-2%,54%,Groundout: 1B-P; J. Damon to 3B
+t1,0-0,1,"______, ______, J. Damon",3(1-1) SBX,RO,BOS,D. Ortiz,R. Bell,2%,56%,Flyball: CF/Sacrifice Fly; J. Damon Scores
+t1,1-0,2,"______, ______, ______",2(1-0) BX,O,BOS,M. Ramirez,R. Bell,-1%,55%,Flyball: CF (Deep CF)
 ,,,,,,,,,1 run 0 hits 0 errors 0 LOB. Red Sox 1 Devil Rays 0.,1 run 0 hits 0 errors 0 LOB. Red Sox 1 Devil Rays 0.,1 run 0 hits 0 errors 0 LOB. Red Sox 1 Devil Rays 0.
 Bottom of the 1st Devil Rays Batting Behind 0-1 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Devil Rays Batting Behind 0-1 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Devil Rays Batting Behind 0-1 Red Sox' Curt Schilling facing 1-2-3,,Bottom of the 1st Devil Rays Batting Behind 0-1 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Devil Rays Batting Behind 0-1 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Devil Rays Batting Behind 0-1 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Devil Rays Batting Behind 0-1 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Devil Rays Batting Behind 0-1 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Devil Rays Batting Behind 0-1 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Devil Rays Batting Behind 0-1 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Devil Rays Batting Behind 0-1 Red Sox' Curt Schilling facing 1-2-3
-b1,0-1,0,"['', '', '']",3(0-2) FFX,O,TBD,C. Crawford,C. Schilling,2%,57%,Groundout: 1B unassisted
-b1,0-1,1,"['', '', '']",4(2-1) BBCX,,TBD,R. Baldelli,C. Schilling,-4%,53%,Double to LF (Line Drive to LF Line)
-b1,0-1,1,"['', 'Baldelli', '']",2(0-1) CX,O,TBD,A. Huff,C. Schilling,3%,56%,Groundout: 2B-1B; Baldelli to 3B
-b1,0-1,2,"['', '', 'Baldelli']",5(0-2) CFFFX,R,TBD,T. Martinez,C. Schilling,-10%,47%,Double to CF (Fly Ball to CF-RF); Baldelli Scores
-b1,1-1,2,"['', 'Martinez', '']",5(3-1) BCBBB,,TBD,R. Fick,C. Schilling,-1%,46%,Walk
-b1,1-1,2,"['Fick', 'Martinez', '']",7(3-2) BBCBTF>X,O,TBD,J. Lugo,C. Schilling,4%,50%,Groundout: SS-1B
+b1,0-1,0,"______, ______, ______",3(0-2) FFX,O,TBD,C. Crawford,C. Schilling,2%,57%,Groundout: 1B unassisted
+b1,0-1,1,"______, ______, ______",4(2-1) BBCX,,TBD,R. Baldelli,C. Schilling,-4%,53%,Double to LF (Line Drive to LF Line)
+b1,0-1,1,"______, R. Baldelli, ______",2(0-1) CX,O,TBD,A. Huff,C. Schilling,3%,56%,Groundout: 2B-1B; R. Baldelli to 3B
+b1,0-1,2,"______, ______, R. Baldelli",5(0-2) CFFFX,R,TBD,T. Martinez,C. Schilling,-10%,47%,Double to CF (Fly Ball to CF-RF); R. Baldelli Scores
+b1,1-1,2,"______, T. Martinez, ______",5(3-1) BCBBB,,TBD,R. Fick,C. Schilling,-1%,46%,Walk
+b1,1-1,2,"R. Fick, T. Martinez, ______",7(3-2) BBCBTF>X,O,TBD,J. Lugo,C. Schilling,4%,50%,Groundout: SS-1B
 ,,,,,,,,,1 run 2 hits 0 errors 2 LOB. Red Sox 1 Devil Rays 1.,1 run 2 hits 0 errors 2 LOB. Red Sox 1 Devil Rays 1.,1 run 2 hits 0 errors 2 LOB. Red Sox 1 Devil Rays 1.
 Top of the 2nd Red Sox Batting Tied 1-1 Devil Rays' Rob Bell facing 5-6-7,Top of the 2nd Red Sox Batting Tied 1-1 Devil Rays' Rob Bell facing 5-6-7,Top of the 2nd Red Sox Batting Tied 1-1 Devil Rays' Rob Bell facing 5-6-7,,Top of the 2nd Red Sox Batting Tied 1-1 Devil Rays' Rob Bell facing 5-6-7,Top of the 2nd Red Sox Batting Tied 1-1 Devil Rays' Rob Bell facing 5-6-7,Top of the 2nd Red Sox Batting Tied 1-1 Devil Rays' Rob Bell facing 5-6-7,Top of the 2nd Red Sox Batting Tied 1-1 Devil Rays' Rob Bell facing 5-6-7,Top of the 2nd Red Sox Batting Tied 1-1 Devil Rays' Rob Bell facing 5-6-7,Top of the 2nd Red Sox Batting Tied 1-1 Devil Rays' Rob Bell facing 5-6-7,Top of the 2nd Red Sox Batting Tied 1-1 Devil Rays' Rob Bell facing 5-6-7,Top of the 2nd Red Sox Batting Tied 1-1 Devil Rays' Rob Bell facing 5-6-7
-t2,1-1,0,"['', '', '']",3(1-1) CBX,O,BOS,J. Varitek,R. Bell,-2%,48%,Groundout: 1B unassisted
-t2,1-1,1,"['', '', '']",5(3-1) SBBBX,O,BOS,B. Daubach,R. Bell,-2%,46%,Groundout: SS-1B
-t2,1-1,2,"['', '', '']",4(2-1) CBBX,,BOS,K. Millar,R. Bell,1%,47%,Reached on E6 (throw) (Ground Ball)
-t2,1-1,2,"['Millar', '', '']",1(0-0) X,O,BOS,B. Mueller,R. Bell,-2%,45%,Groundout: 2B-1B
+t2,1-1,0,"______, ______, ______",3(1-1) CBX,O,BOS,J. Varitek,R. Bell,-2%,48%,Groundout: 1B unassisted
+t2,1-1,1,"______, ______, ______",5(3-1) SBBBX,O,BOS,B. Daubach,R. Bell,-2%,46%,Groundout: SS-1B
+t2,1-1,2,"______, ______, ______",4(2-1) CBBX,,BOS,K. Millar,R. Bell,1%,47%,Reached on E6 (throw) (Ground Ball)
+t2,1-1,2,"K. Millar, ______, ______",1(0-0) X,O,BOS,B. Mueller,R. Bell,-2%,45%,Groundout: 2B-1B
 ,,,,,,,,,0 runs 0 hits 1 error 1 LOB. Red Sox 1 Devil Rays 1.,0 runs 0 hits 1 error 1 LOB. Red Sox 1 Devil Rays 1.,0 runs 0 hits 1 error 1 LOB. Red Sox 1 Devil Rays 1.
 Bottom of the 2nd Devil Rays Batting Tied 1-1 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 2nd Devil Rays Batting Tied 1-1 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 2nd Devil Rays Batting Tied 1-1 Red Sox' Curt Schilling facing 7-8-9,,Bottom of the 2nd Devil Rays Batting Tied 1-1 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 2nd Devil Rays Batting Tied 1-1 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 2nd Devil Rays Batting Tied 1-1 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 2nd Devil Rays Batting Tied 1-1 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 2nd Devil Rays Batting Tied 1-1 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 2nd Devil Rays Batting Tied 1-1 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 2nd Devil Rays Batting Tied 1-1 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 2nd Devil Rays Batting Tied 1-1 Red Sox' Curt Schilling facing 7-8-9
-b2,1-1,0,"['', '', '']",3(0-2) FFX,,TBD,G. Blum,C. Schilling,-4%,41%,Single to LF (Line Drive to LF-CF)
-b2,1-1,0,"['Blum', '', '']",5(2-2) CFB*B>S,O,TBD,J. Gomes,C. Schilling,2%,43%,Strikeout Swinging Blum Steals 2B
-b2,1-1,1,"['', 'Blum', '']",7(3-2) BCBCBFX,O,TBD,T. Hall,C. Schilling,4%,47%,Popfly: SS (LF-CF)
-b2,1-1,2,"['', 'Blum', '']",1(0-0) X,O,TBD,C. Crawford,C. Schilling,3%,50%,Popfly: SS (Short CF)
+b2,1-1,0,"______, ______, ______",3(0-2) FFX,,TBD,G. Blum,C. Schilling,-4%,41%,Single to LF (Line Drive to LF-CF)
+b2,1-1,0,"G. Blum, ______, ______",5(2-2) CFB*B>S,O,TBD,J. Gomes,C. Schilling,2%,43%,Strikeout Swinging G. Blum Steals 2B
+b2,1-1,1,"______, G. Blum, ______",7(3-2) BCBCBFX,O,TBD,T. Hall,C. Schilling,4%,47%,Popfly: SS (LF-CF)
+b2,1-1,2,"______, G. Blum, ______",1(0-0) X,O,TBD,C. Crawford,C. Schilling,3%,50%,Popfly: SS (Short CF)
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Red Sox 1 Devil Rays 1.,0 runs 1 hit 0 errors 1 LOB. Red Sox 1 Devil Rays 1.,0 runs 1 hit 0 errors 1 LOB. Red Sox 1 Devil Rays 1.
 Top of the 3rd Red Sox Batting Tied 1-1 Devil Rays' Rob Bell facing 9-1-2,Top of the 3rd Red Sox Batting Tied 1-1 Devil Rays' Rob Bell facing 9-1-2,Top of the 3rd Red Sox Batting Tied 1-1 Devil Rays' Rob Bell facing 9-1-2,,Top of the 3rd Red Sox Batting Tied 1-1 Devil Rays' Rob Bell facing 9-1-2,Top of the 3rd Red Sox Batting Tied 1-1 Devil Rays' Rob Bell facing 9-1-2,Top of the 3rd Red Sox Batting Tied 1-1 Devil Rays' Rob Bell facing 9-1-2,Top of the 3rd Red Sox Batting Tied 1-1 Devil Rays' Rob Bell facing 9-1-2,Top of the 3rd Red Sox Batting Tied 1-1 Devil Rays' Rob Bell facing 9-1-2,Top of the 3rd Red Sox Batting Tied 1-1 Devil Rays' Rob Bell facing 9-1-2,Top of the 3rd Red Sox Batting Tied 1-1 Devil Rays' Rob Bell facing 9-1-2,Top of the 3rd Red Sox Batting Tied 1-1 Devil Rays' Rob Bell facing 9-1-2
-t3,1-1,0,"['', '', '']",2(1-0) BX,O,BOS,P. Reese,R. Bell,-3%,47%,Groundout: SS-1B
-t3,1-1,1,"['', '', '']",5(1-2) CBSFX,R,BOS,J. Damon,R. Bell,11%,59%,Home Run (Fly Ball)
-t3,2-1,1,"['', '', '']",7(2-2) CBFFFBX,O,BOS,M. Bellhorn,R. Bell,-2%,57%,Groundout: 1B-P
-t3,2-1,2,"['', '', '']",4(3-0) BBBX,,BOS,D. Ortiz,R. Bell,2%,59%,Double to RF (Line Drive to Deep RF Line)
-t3,2-1,2,"['', 'Ortiz', '']",2(1-0) BB,,BOS,M. Ramirez,R. Bell,0%,60%,Wild Pitch; Ortiz to 3B
-t3,2-1,2,"['', '', 'Ortiz']",4(2-1) BB.SX,RR,BOS,M. Ramirez,R. Bell,17%,76%,Home Run (Fly Ball); Ortiz Scores
-t3,4-1,2,"['', '', '']",6(2-2) BCSBFX,O,BOS,J. Varitek,R. Bell,-1%,76%,Flyball: LF
+t3,1-1,0,"______, ______, ______",2(1-0) BX,O,BOS,P. Reese,R. Bell,-3%,47%,Groundout: SS-1B
+t3,1-1,1,"______, ______, ______",5(1-2) CBSFX,R,BOS,J. Damon,R. Bell,11%,59%,Home Run (Fly Ball)
+t3,2-1,1,"______, ______, ______",7(2-2) CBFFFBX,O,BOS,M. Bellhorn,R. Bell,-2%,57%,Groundout: 1B-P
+t3,2-1,2,"______, ______, ______",4(3-0) BBBX,,BOS,D. Ortiz,R. Bell,2%,59%,Double to RF (Line Drive to Deep RF Line)
+t3,2-1,2,"______, D. Ortiz, ______",2(1-0) BB,,BOS,M. Ramirez,R. Bell,0%,60%,Wild Pitch; D. Ortiz to 3B
+t3,2-1,2,"______, ______, D. Ortiz",4(2-1) BB.SX,RR,BOS,M. Ramirez,R. Bell,17%,76%,Home Run (Fly Ball); D. Ortiz Scores
+t3,4-1,2,"______, ______, ______",6(2-2) BCSBFX,O,BOS,J. Varitek,R. Bell,-1%,76%,Flyball: LF
 ,,,,,,,,,3 runs 3 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.,3 runs 3 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.,3 runs 3 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.
 Bottom of the 3rd Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 2-3-4,Bottom of the 3rd Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 2-3-4,Bottom of the 3rd Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 2-3-4,,Bottom of the 3rd Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 2-3-4,Bottom of the 3rd Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 2-3-4,Bottom of the 3rd Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 2-3-4,Bottom of the 3rd Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 2-3-4,Bottom of the 3rd Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 2-3-4,Bottom of the 3rd Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 2-3-4,Bottom of the 3rd Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 2-3-4,Bottom of the 3rd Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 2-3-4
-b3,1-4,0,"['', '', '']",6(2-2) BCFFBX,O,TBD,R. Baldelli,C. Schilling,2%,78%,Flyball: CF (Deep CF-RF)
-b3,1-4,1,"['', '', '']",4(0-2) CFFS,O,TBD,A. Huff,C. Schilling,2%,80%,Strikeout Swinging
-b3,1-4,2,"['', '', '']",6(3-2) BFBBFT,O,TBD,T. Martinez,C. Schilling,1%,81%,Strikeout Swinging
+b3,1-4,0,"______, ______, ______",6(2-2) BCFFBX,O,TBD,R. Baldelli,C. Schilling,2%,78%,Flyball: CF (Deep CF-RF)
+b3,1-4,1,"______, ______, ______",4(0-2) CFFS,O,TBD,A. Huff,C. Schilling,2%,80%,Strikeout Swinging
+b3,1-4,2,"______, ______, ______",6(3-2) BFBBFT,O,TBD,T. Martinez,C. Schilling,1%,81%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.
 Top of the 4th Red Sox Batting Ahead 4-1 Devil Rays' Rob Bell facing 6-7-8,Top of the 4th Red Sox Batting Ahead 4-1 Devil Rays' Rob Bell facing 6-7-8,Top of the 4th Red Sox Batting Ahead 4-1 Devil Rays' Rob Bell facing 6-7-8,,Top of the 4th Red Sox Batting Ahead 4-1 Devil Rays' Rob Bell facing 6-7-8,Top of the 4th Red Sox Batting Ahead 4-1 Devil Rays' Rob Bell facing 6-7-8,Top of the 4th Red Sox Batting Ahead 4-1 Devil Rays' Rob Bell facing 6-7-8,Top of the 4th Red Sox Batting Ahead 4-1 Devil Rays' Rob Bell facing 6-7-8,Top of the 4th Red Sox Batting Ahead 4-1 Devil Rays' Rob Bell facing 6-7-8,Top of the 4th Red Sox Batting Ahead 4-1 Devil Rays' Rob Bell facing 6-7-8,Top of the 4th Red Sox Batting Ahead 4-1 Devil Rays' Rob Bell facing 6-7-8,Top of the 4th Red Sox Batting Ahead 4-1 Devil Rays' Rob Bell facing 6-7-8
-t4,4-1,0,"['', '', '']",6(3-2) BCBBCB,,BOS,B. Daubach,R. Bell,2%,83%,Walk
-t4,4-1,0,"['Daubach', '', '']",1(0-0) X,O,BOS,K. Millar,R. Bell,-2%,81%,Flyball: RF (Deep RF)
-t4,4-1,1,"['Daubach', '', '']",4(1-2) BCFS,O,BOS,B. Mueller,R. Bell,-2%,79%,Strikeout Swinging
-t4,4-1,2,"['Daubach', '', '']",1(0-0) X,O,BOS,P. Reese,R. Bell,-1%,78%,Bunt Popfly: P
+t4,4-1,0,"______, ______, ______",6(3-2) BCBBCB,,BOS,B. Daubach,R. Bell,2%,83%,Walk
+t4,4-1,0,"B. Daubach, ______, ______",1(0-0) X,O,BOS,K. Millar,R. Bell,-2%,81%,Flyball: RF (Deep RF)
+t4,4-1,1,"B. Daubach, ______, ______",4(1-2) BCFS,O,BOS,B. Mueller,R. Bell,-2%,79%,Strikeout Swinging
+t4,4-1,2,"B. Daubach, ______, ______",1(0-0) X,O,BOS,P. Reese,R. Bell,-1%,78%,Bunt Popfly: P
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Red Sox 4 Devil Rays 1.,0 runs 0 hits 0 errors 1 LOB. Red Sox 4 Devil Rays 1.,0 runs 0 hits 0 errors 1 LOB. Red Sox 4 Devil Rays 1.
 Bottom of the 4th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 4th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 4th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 5-6-7,,Bottom of the 4th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 4th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 4th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 4th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 4th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 4th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 4th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 4th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 5-6-7
-b4,1-4,0,"['', '', '']",7(1-2) CCFFBFS,O,TBD,R. Fick,C. Schilling,3%,80%,Strikeout Swinging
-b4,1-4,1,"['', '', '']",4(2-1) LBBX,O,TBD,J. Lugo,C. Schilling,2%,82%,Flyball: RF (CF-RF)
-b4,1-4,2,"['', '', '']",3(1-1) BCX,O,TBD,G. Blum,C. Schilling,1%,83%,Foul Popfly: 3B (3B Foul)
+b4,1-4,0,"______, ______, ______",7(1-2) CCFFBFS,O,TBD,R. Fick,C. Schilling,3%,80%,Strikeout Swinging
+b4,1-4,1,"______, ______, ______",4(2-1) LBBX,O,TBD,J. Lugo,C. Schilling,2%,82%,Flyball: RF (CF-RF)
+b4,1-4,2,"______, ______, ______",3(1-1) BCX,O,TBD,G. Blum,C. Schilling,1%,83%,Foul Popfly: 3B (3B Foul)
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.
 Top of the 5th Red Sox Batting Ahead 4-1 Devil Rays' Rob Bell facing 1-2-3,Top of the 5th Red Sox Batting Ahead 4-1 Devil Rays' Rob Bell facing 1-2-3,Top of the 5th Red Sox Batting Ahead 4-1 Devil Rays' Rob Bell facing 1-2-3,,Top of the 5th Red Sox Batting Ahead 4-1 Devil Rays' Rob Bell facing 1-2-3,Top of the 5th Red Sox Batting Ahead 4-1 Devil Rays' Rob Bell facing 1-2-3,Top of the 5th Red Sox Batting Ahead 4-1 Devil Rays' Rob Bell facing 1-2-3,Top of the 5th Red Sox Batting Ahead 4-1 Devil Rays' Rob Bell facing 1-2-3,Top of the 5th Red Sox Batting Ahead 4-1 Devil Rays' Rob Bell facing 1-2-3,Top of the 5th Red Sox Batting Ahead 4-1 Devil Rays' Rob Bell facing 1-2-3,Top of the 5th Red Sox Batting Ahead 4-1 Devil Rays' Rob Bell facing 1-2-3,Top of the 5th Red Sox Batting Ahead 4-1 Devil Rays' Rob Bell facing 1-2-3
-t5,4-1,0,"['', '', '']",6(3-2) BCBBCX,O,BOS,J. Damon,R. Bell,-1%,82%,Groundout: SS-1B
-t5,4-1,1,"['', '', '']",2(1-0) BX,O,BOS,M. Bellhorn,R. Bell,-1%,81%,Groundout: 1B unassisted
-t5,4-1,2,"['', '', '']",3(1-1) SBX,,BOS,D. Ortiz,R. Bell,1%,81%,Single to RF (Line Drive)
-t5,4-1,2,"['Ortiz', '', '']",5(3-1) BBBCX,,BOS,M. Ramirez,R. Bell,1%,83%,Single to CF (Line Drive); Ortiz to 2B
-t5,4-1,2,"['Ramirez', 'Ortiz', '']",10(3-2) C*BFFFBFBF>B,,BOS,J. Varitek,R. Bell,2%,84%,Walk; Ortiz to 3B; Ramirez to 2B
-t5,4-1,2,"['Varitek', 'Ramirez', 'Ortiz']",4(1-2) BCFC,O,BOS,B. Daubach,R. Bell,-4%,80%,Strikeout Looking
+t5,4-1,0,"______, ______, ______",6(3-2) BCBBCX,O,BOS,J. Damon,R. Bell,-1%,82%,Groundout: SS-1B
+t5,4-1,1,"______, ______, ______",2(1-0) BX,O,BOS,M. Bellhorn,R. Bell,-1%,81%,Groundout: 1B unassisted
+t5,4-1,2,"______, ______, ______",3(1-1) SBX,,BOS,D. Ortiz,R. Bell,1%,81%,Single to RF (Line Drive)
+t5,4-1,2,"D. Ortiz, ______, ______",5(3-1) BBBCX,,BOS,M. Ramirez,R. Bell,1%,83%,Single to CF (Line Drive); D. Ortiz to 2B
+t5,4-1,2,"M. Ramirez, D. Ortiz, ______",10(3-2) C*BFFFBFBF>B,,BOS,J. Varitek,R. Bell,2%,84%,Walk; D. Ortiz to 3B; M. Ramirez to 2B
+t5,4-1,2,"J. Varitek, M. Ramirez, D. Ortiz",4(1-2) BCFC,O,BOS,B. Daubach,R. Bell,-4%,80%,Strikeout Looking
 ,,,,,,,,,0 runs 2 hits 0 errors 3 LOB. Red Sox 4 Devil Rays 1.,0 runs 2 hits 0 errors 3 LOB. Red Sox 4 Devil Rays 1.,0 runs 2 hits 0 errors 3 LOB. Red Sox 4 Devil Rays 1.
 Bottom of the 5th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 5th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 5th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 8-9-1,,Bottom of the 5th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 5th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 5th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 5th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 5th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 5th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 5th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 5th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 8-9-1
-b5,1-4,0,"['', '', '']",1(0-0) X,O,TBD,J. Gomes,C. Schilling,3%,83%,Foul Popfly: C (Behind Home)
-b5,1-4,1,"['', '', '']",7(1-2) CSFBFFX,,TBD,T. Hall,C. Schilling,-3%,80%,Single to LF (Ground Ball)
-b5,1-4,1,"['Hall', '', '']",3(2-0) BBX,,TBD,C. Crawford,C. Schilling,-10%,70%,Double to LF (Fly Ball to Deep LF); Hall to 3B
-b5,1-4,1,"['', 'Crawford', 'Hall']",3(1-1) CBX,O,TBD,R. Baldelli,C. Schilling,9%,79%,Groundout: 3B-1B
-b5,1-4,2,"['', 'Crawford', 'Hall']",4(0-2) FCFX,O,TBD,A. Huff,C. Schilling,7%,86%,Groundout: 1B unassisted
+b5,1-4,0,"______, ______, ______",1(0-0) X,O,TBD,J. Gomes,C. Schilling,3%,83%,Foul Popfly: C (Behind Home)
+b5,1-4,1,"______, ______, ______",7(1-2) CSFBFFX,,TBD,T. Hall,C. Schilling,-3%,80%,Single to LF (Ground Ball)
+b5,1-4,1,"T. Hall, ______, ______",3(2-0) BBX,,TBD,C. Crawford,C. Schilling,-10%,70%,Double to LF (Fly Ball to Deep LF); T. Hall to 3B
+b5,1-4,1,"______, C. Crawford, T. Hall",3(1-1) CBX,O,TBD,R. Baldelli,C. Schilling,9%,79%,Groundout: 3B-1B
+b5,1-4,2,"______, C. Crawford, T. Hall",4(0-2) FCFX,O,TBD,A. Huff,C. Schilling,7%,86%,Groundout: 1B unassisted
 ,,,,,,,,,0 runs 2 hits 0 errors 2 LOB. Red Sox 4 Devil Rays 1.,0 runs 2 hits 0 errors 2 LOB. Red Sox 4 Devil Rays 1.,0 runs 2 hits 0 errors 2 LOB. Red Sox 4 Devil Rays 1.
 Top of the 6th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 7-8-9,Top of the 6th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 7-8-9,Top of the 6th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 7-8-9,,Top of the 6th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 7-8-9,Top of the 6th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 7-8-9,Top of the 6th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 7-8-9,Top of the 6th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 7-8-9,Top of the 6th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 7-8-9,Top of the 6th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 7-8-9,Top of the 6th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 7-8-9,Top of the 6th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 7-8-9
 ,,,,,,,,,Jason Standridge replaces Rob Bell pitching,Jason Standridge replaces Rob Bell pitching,Jason Standridge replaces Rob Bell pitching
-t6,4-1,0,"['', '', '']",1(0-0) .X,O,BOS,K. Millar,J. Standridge,-1%,84%,Groundout: 2B-1B
-t6,4-1,1,"['', '', '']",4(2-1) CBBX,O,BOS,B. Mueller,J. Standridge,-1%,84%,Groundout: 1B-P
-t6,4-1,2,"['', '', '']",3(0-2) CSX,,BOS,P. Reese,J. Standridge,1%,85%,Double to CF (Ground Ball thru Short CF)
-t6,4-1,2,"['', 'Reese', '']",4(1-2) CBFX,O,BOS,J. Damon,J. Standridge,-2%,83%,Groundout: P-1B
+t6,4-1,0,"______, ______, ______",1(0-0) .X,O,BOS,K. Millar,J. Standridge,-1%,84%,Groundout: 2B-1B
+t6,4-1,1,"______, ______, ______",4(2-1) CBBX,O,BOS,B. Mueller,J. Standridge,-1%,84%,Groundout: 1B-P
+t6,4-1,2,"______, ______, ______",3(0-2) CSX,,BOS,P. Reese,J. Standridge,1%,85%,Double to CF (Ground Ball thru Short CF)
+t6,4-1,2,"______, P. Reese, ______",4(1-2) CBFX,O,BOS,J. Damon,J. Standridge,-2%,83%,Groundout: P-1B
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Red Sox 4 Devil Rays 1.,0 runs 1 hit 0 errors 1 LOB. Red Sox 4 Devil Rays 1.,0 runs 1 hit 0 errors 1 LOB. Red Sox 4 Devil Rays 1.
 Bottom of the 6th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 4-5-6,Bottom of the 6th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 4-5-6,Bottom of the 6th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 4-5-6,,Bottom of the 6th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 4-5-6,Bottom of the 6th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 4-5-6,Bottom of the 6th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 4-5-6,Bottom of the 6th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 4-5-6,Bottom of the 6th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 4-5-6,Bottom of the 6th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 4-5-6,Bottom of the 6th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 4-5-6,Bottom of the 6th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 4-5-6
-b6,1-4,0,"['', '', '']",1(0-0) X,O,TBD,T. Martinez,C. Schilling,3%,86%,Groundout: 2B-1B
-b6,1-4,1,"['', '', '']",3(1-1) BCX,O,TBD,R. Fick,C. Schilling,2%,88%,Lineout: RF (Deep RF)
-b6,1-4,2,"['', '', '']",2(0-1) CX,O,TBD,J. Lugo,C. Schilling,1%,89%,Flyball: RF
+b6,1-4,0,"______, ______, ______",1(0-0) X,O,TBD,T. Martinez,C. Schilling,3%,86%,Groundout: 2B-1B
+b6,1-4,1,"______, ______, ______",3(1-1) BCX,O,TBD,R. Fick,C. Schilling,2%,88%,Lineout: RF (Deep RF)
+b6,1-4,2,"______, ______, ______",2(0-1) CX,O,TBD,J. Lugo,C. Schilling,1%,89%,Flyball: RF
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.
 Top of the 7th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 2-3-4,Top of the 7th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 2-3-4,Top of the 7th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 2-3-4,,Top of the 7th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 2-3-4,Top of the 7th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 2-3-4,Top of the 7th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 2-3-4,Top of the 7th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 2-3-4,Top of the 7th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 2-3-4,Top of the 7th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 2-3-4,Top of the 7th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 2-3-4,Top of the 7th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 2-3-4
-t7,4-1,0,"['', '', '']",3(1-1) CBX,O,BOS,M. Bellhorn,J. Standridge,-1%,88%,Flyball: CF (Deep CF-RF)
-t7,4-1,1,"['', '', '']",2(0-1) CX,O,BOS,D. Ortiz,J. Standridge,-1%,87%,Flyball: RF
-t7,4-1,2,"['', '', '']",1(0-0) X,O,BOS,M. Ramirez,J. Standridge,-1%,87%,Flyball: RF (Deep RF)
+t7,4-1,0,"______, ______, ______",3(1-1) CBX,O,BOS,M. Bellhorn,J. Standridge,-1%,88%,Flyball: CF (Deep CF-RF)
+t7,4-1,1,"______, ______, ______",2(0-1) CX,O,BOS,D. Ortiz,J. Standridge,-1%,87%,Flyball: RF
+t7,4-1,2,"______, ______, ______",1(0-0) X,O,BOS,M. Ramirez,J. Standridge,-1%,87%,Flyball: RF (Deep RF)
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.
 Bottom of the 7th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 7th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 7th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 7-8-9,,Bottom of the 7th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 7th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 7th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 7th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 7th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 7th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 7th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 7th Devil Rays Batting Behind 1-4 Red Sox' Curt Schilling facing 7-8-9
-b7,1-4,0,"['', '', '']",5(2-2) FFBBX,O,TBD,G. Blum,C. Schilling,3%,89%,Groundout: SS-1B
-b7,1-4,1,"['', '', '']",8(3-2) BBCBCFFC,O,TBD,J. Gomes,C. Schilling,2%,91%,Strikeout Looking
-b7,1-4,2,"['', '', '']",6(1-2) CSFBFX,O,TBD,T. Hall,C. Schilling,1%,92%,Flyball: LF
+b7,1-4,0,"______, ______, ______",5(2-2) FFBBX,O,TBD,G. Blum,C. Schilling,3%,89%,Groundout: SS-1B
+b7,1-4,1,"______, ______, ______",8(3-2) BBCBCFFC,O,TBD,J. Gomes,C. Schilling,2%,91%,Strikeout Looking
+b7,1-4,2,"______, ______, ______",6(1-2) CSFBFX,O,TBD,T. Hall,C. Schilling,1%,92%,Flyball: LF
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.
 Top of the 8th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 5-6-7,Top of the 8th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 5-6-7,Top of the 8th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 5-6-7,,Top of the 8th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 5-6-7,Top of the 8th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 5-6-7,Top of the 8th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 5-6-7,Top of the 8th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 5-6-7,Top of the 8th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 5-6-7,Top of the 8th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 5-6-7,Top of the 8th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 5-6-7,Top of the 8th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 5-6-7
-t8,4-1,0,"['', '', '']",5(1-2) CFFBC,O,BOS,J. Varitek,J. Standridge,-1%,92%,Strikeout Looking
-t8,4-1,1,"['', '', '']",2(1-0) BX,O,BOS,B. Daubach,J. Standridge,-1%,91%,Groundout: 1B unassisted
-t8,4-1,2,"['', '', '']",2(1-0) BX,O,BOS,K. Millar,J. Standridge,-0%,91%,Groundout: SS-1B
+t8,4-1,0,"______, ______, ______",5(1-2) CFFBC,O,BOS,J. Varitek,J. Standridge,-1%,92%,Strikeout Looking
+t8,4-1,1,"______, ______, ______",2(1-0) BX,O,BOS,B. Daubach,J. Standridge,-1%,91%,Groundout: 1B unassisted
+t8,4-1,2,"______, ______, ______",2(1-0) BX,O,BOS,K. Millar,J. Standridge,-0%,91%,Groundout: SS-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.
 Bottom of the 8th Devil Rays Batting Behind 1-4 Red Sox' Alan Embree facing 1-2-3,Bottom of the 8th Devil Rays Batting Behind 1-4 Red Sox' Alan Embree facing 1-2-3,Bottom of the 8th Devil Rays Batting Behind 1-4 Red Sox' Alan Embree facing 1-2-3,,Bottom of the 8th Devil Rays Batting Behind 1-4 Red Sox' Alan Embree facing 1-2-3,Bottom of the 8th Devil Rays Batting Behind 1-4 Red Sox' Alan Embree facing 1-2-3,Bottom of the 8th Devil Rays Batting Behind 1-4 Red Sox' Alan Embree facing 1-2-3,Bottom of the 8th Devil Rays Batting Behind 1-4 Red Sox' Alan Embree facing 1-2-3,Bottom of the 8th Devil Rays Batting Behind 1-4 Red Sox' Alan Embree facing 1-2-3,Bottom of the 8th Devil Rays Batting Behind 1-4 Red Sox' Alan Embree facing 1-2-3,Bottom of the 8th Devil Rays Batting Behind 1-4 Red Sox' Alan Embree facing 1-2-3,Bottom of the 8th Devil Rays Batting Behind 1-4 Red Sox' Alan Embree facing 1-2-3
 ,,,,,,,,,Alan Embree replaces Curt Schilling pitchingCesar Crespo replaces Kevin Millar (RF) playing LF batting 7thGabe Kapler replaces Brian Daubach (LF) playing RF batting 6th,Alan Embree replaces Curt Schilling pitchingCesar Crespo replaces Kevin Millar (RF) playing LF batting 7thGabe Kapler replaces Brian Daubach (LF) playing RF batting 6th,Alan Embree replaces Curt Schilling pitchingCesar Crespo replaces Kevin Millar (RF) playing LF batting 7thGabe Kapler replaces Brian Daubach (LF) playing RF batting 6th
-b8,1-4,0,"['', '', '']",4(1-2) ...BCCX,O,TBD,C. Crawford,A. Embree,3%,94%,Lineout: SS
-b8,1-4,1,"['', '', '']",3(0-2) FFX,,TBD,R. Baldelli,A. Embree,-3%,90%,Reached on E4 (Ground Ball)
-b8,1-4,1,"['Baldelli', '', '']",3(1-1) CBX,,TBD,A. Huff,A. Embree,-6%,85%,Single to 1B (Ground Ball); Baldelli to 2B
-b8,1-4,1,"['Huff', 'Baldelli', '']",3(1-1) BSX,O,TBD,T. Martinez,A. Embree,6%,91%,Flyball: CF (Deep CF); Baldelli to 3B
+b8,1-4,0,"______, ______, ______",4(1-2) ...BCCX,O,TBD,C. Crawford,A. Embree,3%,94%,Lineout: SS
+b8,1-4,1,"______, ______, ______",3(0-2) FFX,,TBD,R. Baldelli,A. Embree,-3%,90%,Reached on E4 (Ground Ball)
+b8,1-4,1,"R. Baldelli, ______, ______",3(1-1) CBX,,TBD,A. Huff,A. Embree,-6%,85%,Single to 1B (Ground Ball); R. Baldelli to 2B
+b8,1-4,1,"A. Huff, R. Baldelli, ______",3(1-1) BSX,O,TBD,T. Martinez,A. Embree,6%,91%,Flyball: CF (Deep CF); R. Baldelli to 3B
 ,,,,,,,,,Keith Foulke replaces Alan Embree pitchingJose Cruz pinch hits for Robert Fick (RF) batting 5th,Keith Foulke replaces Alan Embree pitchingJose Cruz pinch hits for Robert Fick (RF) batting 5th,Keith Foulke replaces Alan Embree pitchingJose Cruz pinch hits for Robert Fick (RF) batting 5th
-b8,1-4,2,"['Huff', '', 'Baldelli']",6(3-2) ..BCBBCX,O,TBD,J. Cruz,K. Foulke,6%,96%,Groundout: 1B-P
+b8,1-4,2,"A. Huff, ______, R. Baldelli",6(3-2) ..BCBBCX,O,TBD,J. Cruz,K. Foulke,6%,96%,Groundout: 1B-P
 ,,,,,,,,,0 runs 1 hit 1 error 2 LOB. Red Sox 4 Devil Rays 1.,0 runs 1 hit 1 error 2 LOB. Red Sox 4 Devil Rays 1.,0 runs 1 hit 1 error 2 LOB. Red Sox 4 Devil Rays 1.
 Top of the 9th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 8-9-1,Top of the 9th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 8-9-1,Top of the 9th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 8-9-1,,Top of the 9th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 8-9-1,Top of the 9th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 8-9-1,Top of the 9th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 8-9-1,Top of the 9th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 8-9-1,Top of the 9th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 8-9-1,Top of the 9th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 8-9-1,Top of the 9th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 8-9-1,Top of the 9th Red Sox Batting Ahead 4-1 Devil Rays' Jason Standridge facing 8-9-1
 ,,,,,,,,,Jose Cruz moves from PH to RF,Jose Cruz moves from PH to RF,Jose Cruz moves from PH to RF
-t9,4-1,0,"['', '', '']",1(0-0) .X,,BOS,B. Mueller,J. Standridge,1%,97%,Reached on E6 (Ground Ball)
-t9,4-1,0,"['Mueller', '', '']",4(1-2) CB11SX,O,BOS,P. Reese,J. Standridge,-1%,96%,Flyball: RF
-t9,4-1,1,"['Mueller', '', '']",4(3-0) BBBB,,BOS,J. Damon,J. Standridge,1%,97%,Walk; Mueller to 2B
+t9,4-1,0,"______, ______, ______",1(0-0) .X,,BOS,B. Mueller,J. Standridge,1%,97%,Reached on E6 (Ground Ball)
+t9,4-1,0,"B. Mueller, ______, ______",4(1-2) CB11SX,O,BOS,P. Reese,J. Standridge,-1%,96%,Flyball: RF
+t9,4-1,1,"B. Mueller, ______, ______",4(3-0) BBBB,,BOS,J. Damon,J. Standridge,1%,97%,Walk; B. Mueller to 2B
 ,,,,,,,,,Trever Miller replaces Jason Standridge pitching,Trever Miller replaces Jason Standridge pitching,Trever Miller replaces Jason Standridge pitching
-t9,4-1,1,"['Damon', 'Mueller', '']",4(1-2) .FFBC,O,BOS,M. Bellhorn,T. Miller,-1%,96%,Strikeout Looking
-t9,4-1,2,"['Damon', 'Mueller', '']",5(2-2) BFFBS,O,BOS,D. Ortiz,T. Miller,-1%,95%,Strikeout Swinging
+t9,4-1,1,"J. Damon, B. Mueller, ______",4(1-2) .FFBC,O,BOS,M. Bellhorn,T. Miller,-1%,96%,Strikeout Looking
+t9,4-1,2,"J. Damon, B. Mueller, ______",5(2-2) BFFBS,O,BOS,D. Ortiz,T. Miller,-1%,95%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 1 error 2 LOB. Red Sox 4 Devil Rays 1.,0 runs 0 hits 1 error 2 LOB. Red Sox 4 Devil Rays 1.,0 runs 0 hits 1 error 2 LOB. Red Sox 4 Devil Rays 1.
 Bottom of the 9th Devil Rays Batting Behind 1-4 Red Sox' Keith Foulke facing 6-7-8,Bottom of the 9th Devil Rays Batting Behind 1-4 Red Sox' Keith Foulke facing 6-7-8,Bottom of the 9th Devil Rays Batting Behind 1-4 Red Sox' Keith Foulke facing 6-7-8,,Bottom of the 9th Devil Rays Batting Behind 1-4 Red Sox' Keith Foulke facing 6-7-8,Bottom of the 9th Devil Rays Batting Behind 1-4 Red Sox' Keith Foulke facing 6-7-8,Bottom of the 9th Devil Rays Batting Behind 1-4 Red Sox' Keith Foulke facing 6-7-8,Bottom of the 9th Devil Rays Batting Behind 1-4 Red Sox' Keith Foulke facing 6-7-8,Bottom of the 9th Devil Rays Batting Behind 1-4 Red Sox' Keith Foulke facing 6-7-8,Bottom of the 9th Devil Rays Batting Behind 1-4 Red Sox' Keith Foulke facing 6-7-8,Bottom of the 9th Devil Rays Batting Behind 1-4 Red Sox' Keith Foulke facing 6-7-8,Bottom of the 9th Devil Rays Batting Behind 1-4 Red Sox' Keith Foulke facing 6-7-8
 ,,,,,,,,,Dave McCarty replaces David Ortiz playing 1B batting 3rd,Dave McCarty replaces David Ortiz playing 1B batting 3rd,Dave McCarty replaces David Ortiz playing 1B batting 3rd
-b9,1-4,0,"['', '', '']",4(2-1) .CBBX,O,TBD,J. Lugo,K. Foulke,3%,98%,Flyball: CF
-b9,1-4,1,"['', '', '']",4(1-2) FBCX,O,TBD,G. Blum,K. Foulke,1%,99%,Groundout: 2B-1B
-b9,1-4,2,"['', '', '']",7(3-2) SBSBBFX,O,TBD,J. Gomes,K. Foulke,1%,100%,Flyball: CF (Deep CF)
+b9,1-4,0,"______, ______, ______",4(2-1) .CBBX,O,TBD,J. Lugo,K. Foulke,3%,98%,Flyball: CF
+b9,1-4,1,"______, ______, ______",4(1-2) FBCX,O,TBD,G. Blum,K. Foulke,1%,99%,Groundout: 2B-1B
+b9,1-4,2,"______, ______, ______",7(3-2) SBSBBFX,O,TBD,J. Gomes,K. Foulke,1%,100%,Flyball: CF (Deep CF)
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 4 Devil Rays 1.

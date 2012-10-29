@@ -1,118 +1,118 @@
 Inn,Score,Out,RoB,Pit(cnt)Sequence,R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
 Top of the 1st Yankees Batting Tied 0-0 Red Sox' Bronson Arroyo facing 1-2-3,Top of the 1st Yankees Batting Tied 0-0 Red Sox' Bronson Arroyo facing 1-2-3,Top of the 1st Yankees Batting Tied 0-0 Red Sox' Bronson Arroyo facing 1-2-3,,Top of the 1st Yankees Batting Tied 0-0 Red Sox' Bronson Arroyo facing 1-2-3,Top of the 1st Yankees Batting Tied 0-0 Red Sox' Bronson Arroyo facing 1-2-3,Top of the 1st Yankees Batting Tied 0-0 Red Sox' Bronson Arroyo facing 1-2-3,Top of the 1st Yankees Batting Tied 0-0 Red Sox' Bronson Arroyo facing 1-2-3,Top of the 1st Yankees Batting Tied 0-0 Red Sox' Bronson Arroyo facing 1-2-3,Top of the 1st Yankees Batting Tied 0-0 Red Sox' Bronson Arroyo facing 1-2-3,Top of the 1st Yankees Batting Tied 0-0 Red Sox' Bronson Arroyo facing 1-2-3,Top of the 1st Yankees Batting Tied 0-0 Red Sox' Bronson Arroyo facing 1-2-3
-t1,0-0,0,"['', '', '']",1(0-0) X,O,NYY,D. Jeter,B. Arroyo,2%,52%,Bunt Groundout: 3B-1B (Front of Home)
-t1,0-0,1,"['', '', '']",1(0-0) X,,NYY,B. Williams,B. Arroyo,-2%,50%,Single to RF (Ground Ball)
-t1,0-0,1,"['Williams', '', '']",5(2-2) CBFBC,O,NYY,A. Rodriguez,B. Arroyo,3%,53%,Strikeout Looking
-t1,0-0,2,"['Williams', '', '']",5(3-1) BBCBX,O,NYY,J. Giambi,B. Arroyo,2%,55%,Flyball: LF
+t1,0-0,0,"______, ______, ______",1(0-0) X,O,NYY,D. Jeter,B. Arroyo,2%,52%,Bunt Groundout: 3B-1B (Front of Home)
+t1,0-0,1,"______, ______, ______",1(0-0) X,,NYY,B. Williams,B. Arroyo,-2%,50%,Single to RF (Ground Ball)
+t1,0-0,1,"B. Williams, ______, ______",5(2-2) CBFBC,O,NYY,A. Rodriguez,B. Arroyo,3%,53%,Strikeout Looking
+t1,0-0,2,"B. Williams, ______, ______",5(3-1) BBCBX,O,NYY,J. Giambi,B. Arroyo,2%,55%,Flyball: LF
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Yankees 0 Red Sox 0.,0 runs 1 hit 0 errors 1 LOB. Yankees 0 Red Sox 0.,0 runs 1 hit 0 errors 1 LOB. Yankees 0 Red Sox 0.
 Bottom of the 1st Red Sox Batting Tied 0-0 Yankees' Kevin Brown facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Yankees' Kevin Brown facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Yankees' Kevin Brown facing 1-2-3,,Bottom of the 1st Red Sox Batting Tied 0-0 Yankees' Kevin Brown facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Yankees' Kevin Brown facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Yankees' Kevin Brown facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Yankees' Kevin Brown facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Yankees' Kevin Brown facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Yankees' Kevin Brown facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Yankees' Kevin Brown facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Yankees' Kevin Brown facing 1-2-3
-b1,0-0,0,"['', '', '']",7(2-2) BCFFFBX,O,BOS,J. Damon,K. Brown,-2%,53%,Groundout: 1B unassisted
-b1,0-0,1,"['', '', '']",5(2-2) SBBFC,O,BOS,B. Mueller,K. Brown,-2%,51%,Strikeout Looking
-b1,0-0,2,"['', '', '']",3(1-1) BFX,,BOS,D. Ortiz,K. Brown,2%,53%,Double to RF (Line Drive to Deep RF)
-b1,0-0,2,"['', 'Ortiz', '']",2(0-1) CX,O,BOS,M. Ramirez,K. Brown,-3%,50%,Groundout: SS-1B
+b1,0-0,0,"______, ______, ______",7(2-2) BCFFFBX,O,BOS,J. Damon,K. Brown,-2%,53%,Groundout: 1B unassisted
+b1,0-0,1,"______, ______, ______",5(2-2) SBBFC,O,BOS,B. Mueller,K. Brown,-2%,51%,Strikeout Looking
+b1,0-0,2,"______, ______, ______",3(1-1) BFX,,BOS,D. Ortiz,K. Brown,2%,53%,Double to RF (Line Drive to Deep RF)
+b1,0-0,2,"______, D. Ortiz, ______",2(0-1) CX,O,BOS,M. Ramirez,K. Brown,-3%,50%,Groundout: SS-1B
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Yankees 0 Red Sox 0.,0 runs 1 hit 0 errors 1 LOB. Yankees 0 Red Sox 0.,0 runs 1 hit 0 errors 1 LOB. Yankees 0 Red Sox 0.
 Top of the 2nd Yankees Batting Tied 0-0 Red Sox' Bronson Arroyo facing 5-6-7,Top of the 2nd Yankees Batting Tied 0-0 Red Sox' Bronson Arroyo facing 5-6-7,Top of the 2nd Yankees Batting Tied 0-0 Red Sox' Bronson Arroyo facing 5-6-7,,Top of the 2nd Yankees Batting Tied 0-0 Red Sox' Bronson Arroyo facing 5-6-7,Top of the 2nd Yankees Batting Tied 0-0 Red Sox' Bronson Arroyo facing 5-6-7,Top of the 2nd Yankees Batting Tied 0-0 Red Sox' Bronson Arroyo facing 5-6-7,Top of the 2nd Yankees Batting Tied 0-0 Red Sox' Bronson Arroyo facing 5-6-7,Top of the 2nd Yankees Batting Tied 0-0 Red Sox' Bronson Arroyo facing 5-6-7,Top of the 2nd Yankees Batting Tied 0-0 Red Sox' Bronson Arroyo facing 5-6-7,Top of the 2nd Yankees Batting Tied 0-0 Red Sox' Bronson Arroyo facing 5-6-7,Top of the 2nd Yankees Batting Tied 0-0 Red Sox' Bronson Arroyo facing 5-6-7
-t2,0-0,0,"['', '', '']",6(3-2) CBBSBX,,NYY,G. Sheffield,B. Arroyo,-4%,46%,Single to CF (Ground Ball)
-t2,0-0,0,"['Sheffield', '', '']",8(3-2) CBCFBF1B>B,,NYY,H. Matsui,B. Arroyo,-5%,41%,Walk; Sheffield to 2B
-t2,0-0,0,"['Matsui', 'Sheffield', '']",4(1-2) FBCX,RR,NYY,T. Lee,B. Arroyo,-16%,25%,Double to LF (Line Drive to LF-CF); Sheffield Scores; Matsui Scores; Lee to 3B/Adv on E6 (throw)
-t2,2-0,0,"['', '', 'Lee']",3(1-1) BCX,R,NYY,J. Flaherty,B. Arroyo,-3%,22%,Single to RF (Line Drive); Lee Scores
-t2,3-0,0,"['Flaherty', '', '']",1(0-0) X,O,NYY,E. Wilson,B. Arroyo,1%,23%,Bunt Groundout: P-1B/Sacrifice (Front of Home); Flaherty to 2B
-t2,3-0,1,"['', 'Flaherty', '']",3(0-2) CCH,,NYY,D. Jeter,B. Arroyo,-1%,22%,Hit By Pitch
-t2,3-0,1,"['Jeter', 'Flaherty', '']",2(1-0) BX,OO,NYY,B. Williams,B. Arroyo,6%,28%,Ground Ball Double Play: 2B-SS-1B
+t2,0-0,0,"______, ______, ______",6(3-2) CBBSBX,,NYY,G. Sheffield,B. Arroyo,-4%,46%,Single to CF (Ground Ball)
+t2,0-0,0,"G. Sheffield, ______, ______",8(3-2) CBCFBF1B>B,,NYY,H. Matsui,B. Arroyo,-5%,41%,Walk; G. Sheffield to 2B
+t2,0-0,0,"H. Matsui, G. Sheffield, ______",4(1-2) FBCX,RR,NYY,T. Lee,B. Arroyo,-16%,25%,Double to LF (Line Drive to LF-CF); G. Sheffield Scores; H. Matsui Scores; T. Lee to 3B/Adv on E6 
+t2,2-0,0,"______, ______, T. Lee",3(1-1) BCX,R,NYY,J. Flaherty,B. Arroyo,-3%,22%,Single to RF (Line Drive); T. Lee Scores
+t2,3-0,0,"J. Flaherty, ______, ______",1(0-0) X,O,NYY,E. Wilson,B. Arroyo,1%,23%,Bunt Groundout: P-1B/Sacrifice (Front of Home); J. Flaherty to 2B
+t2,3-0,1,"______, J. Flaherty, ______",3(0-2) CCH,,NYY,D. Jeter,B. Arroyo,-1%,22%,Hit By Pitch
+t2,3-0,1,"D. Jeter, J. Flaherty, ______",2(1-0) BX,OO,NYY,B. Williams,B. Arroyo,6%,28%,Ground Ball Double Play: 2B-SS-1B
 ,,,,,,,,,3 runs 3 hits 1 error 1 LOB. Yankees 3 Red Sox 0.,3 runs 3 hits 1 error 1 LOB. Yankees 3 Red Sox 0.,3 runs 3 hits 1 error 1 LOB. Yankees 3 Red Sox 0.
 Bottom of the 2nd Red Sox Batting Behind 0-3 Yankees' Kevin Brown facing 5-6-7,Bottom of the 2nd Red Sox Batting Behind 0-3 Yankees' Kevin Brown facing 5-6-7,Bottom of the 2nd Red Sox Batting Behind 0-3 Yankees' Kevin Brown facing 5-6-7,,Bottom of the 2nd Red Sox Batting Behind 0-3 Yankees' Kevin Brown facing 5-6-7,Bottom of the 2nd Red Sox Batting Behind 0-3 Yankees' Kevin Brown facing 5-6-7,Bottom of the 2nd Red Sox Batting Behind 0-3 Yankees' Kevin Brown facing 5-6-7,Bottom of the 2nd Red Sox Batting Behind 0-3 Yankees' Kevin Brown facing 5-6-7,Bottom of the 2nd Red Sox Batting Behind 0-3 Yankees' Kevin Brown facing 5-6-7,Bottom of the 2nd Red Sox Batting Behind 0-3 Yankees' Kevin Brown facing 5-6-7,Bottom of the 2nd Red Sox Batting Behind 0-3 Yankees' Kevin Brown facing 5-6-7,Bottom of the 2nd Red Sox Batting Behind 0-3 Yankees' Kevin Brown facing 5-6-7
-b2,0-3,0,"['', '', '']",2(0-1) SX,,BOS,J. Varitek,K. Brown,4%,31%,Single to CF (Fly Ball)
-b2,0-3,0,"['Varitek', '', '']",5(2-2) FBFBS,O,BOS,D. McCarty,K. Brown,-4%,28%,Strikeout Swinging
-b2,0-3,1,"['Varitek', '', '']",4(2-1) 1BFBX,O,BOS,C. Crespo,K. Brown,-2%,26%,Groundout: P-1B; Varitek to 2B
-b2,0-3,2,"['', 'Varitek', '']",2(0-1) FX,R,BOS,G. Kapler,K. Brown,7%,33%,Single to LF (Line Drive to LF Line); Varitek Scores
-b2,1-3,2,"['Kapler', '', '']",4(1-2) 1BFCX,,BOS,P. Reese,K. Brown,2%,35%,Single to RF (Fly Ball); Kapler to 2B
-b2,1-3,2,"['Reese', 'Kapler', '']",3(1-1) BCX,O,BOS,J. Damon,K. Brown,-5%,30%,Flyball: CF
+b2,0-3,0,"______, ______, ______",2(0-1) SX,,BOS,J. Varitek,K. Brown,4%,31%,Single to CF (Fly Ball)
+b2,0-3,0,"J. Varitek, ______, ______",5(2-2) FBFBS,O,BOS,D. McCarty,K. Brown,-4%,28%,Strikeout Swinging
+b2,0-3,1,"J. Varitek, ______, ______",4(2-1) 1BFBX,O,BOS,C. Crespo,K. Brown,-2%,26%,Groundout: P-1B; J. Varitek to 2B
+b2,0-3,2,"______, J. Varitek, ______",2(0-1) FX,R,BOS,G. Kapler,K. Brown,7%,33%,Single to LF (Line Drive to LF Line); J. Varitek Scores
+b2,1-3,2,"G. Kapler, ______, ______",4(1-2) 1BFCX,,BOS,P. Reese,K. Brown,2%,35%,Single to RF (Fly Ball); G. Kapler to 2B
+b2,1-3,2,"P. Reese, G. Kapler, ______",3(1-1) BCX,O,BOS,J. Damon,K. Brown,-5%,30%,Flyball: CF
 ,,,,,,,,,1 run 3 hits 0 errors 2 LOB. Yankees 3 Red Sox 1.,1 run 3 hits 0 errors 2 LOB. Yankees 3 Red Sox 1.,1 run 3 hits 0 errors 2 LOB. Yankees 3 Red Sox 1.
 Top of the 3rd Yankees Batting Ahead 3-1 Red Sox' Bronson Arroyo facing 3-4-5,Top of the 3rd Yankees Batting Ahead 3-1 Red Sox' Bronson Arroyo facing 3-4-5,Top of the 3rd Yankees Batting Ahead 3-1 Red Sox' Bronson Arroyo facing 3-4-5,,Top of the 3rd Yankees Batting Ahead 3-1 Red Sox' Bronson Arroyo facing 3-4-5,Top of the 3rd Yankees Batting Ahead 3-1 Red Sox' Bronson Arroyo facing 3-4-5,Top of the 3rd Yankees Batting Ahead 3-1 Red Sox' Bronson Arroyo facing 3-4-5,Top of the 3rd Yankees Batting Ahead 3-1 Red Sox' Bronson Arroyo facing 3-4-5,Top of the 3rd Yankees Batting Ahead 3-1 Red Sox' Bronson Arroyo facing 3-4-5,Top of the 3rd Yankees Batting Ahead 3-1 Red Sox' Bronson Arroyo facing 3-4-5,Top of the 3rd Yankees Batting Ahead 3-1 Red Sox' Bronson Arroyo facing 3-4-5,Top of the 3rd Yankees Batting Ahead 3-1 Red Sox' Bronson Arroyo facing 3-4-5
-t3,3-1,0,"['', '', '']",4(0-2) SFFX,O,NYY,A. Rodriguez,B. Arroyo,2%,32%,Groundout: 3B-1B
-t3,3-1,1,"['', '', '']",5(2-2) BFFBX,R,NYY,J. Giambi,B. Arroyo,-8%,24%,Home Run (Fly Ball)
-t3,4-1,1,"['', '', '']",3(0-2) SFS,O,NYY,G. Sheffield,B. Arroyo,1%,25%,Strikeout Swinging
-t3,4-1,2,"['', '', '']",4(2-1) CBBX,,NYY,H. Matsui,B. Arroyo,-2%,24%,Ground-rule Double (Fly Ball)
-t3,4-1,2,"['', 'Matsui', '']",2(0-1) FX,O,NYY,T. Lee,B. Arroyo,2%,26%,Groundout: 1B-P
+t3,3-1,0,"______, ______, ______",4(0-2) SFFX,O,NYY,A. Rodriguez,B. Arroyo,2%,32%,Groundout: 3B-1B
+t3,3-1,1,"______, ______, ______",5(2-2) BFFBX,R,NYY,J. Giambi,B. Arroyo,-8%,24%,Home Run (Fly Ball)
+t3,4-1,1,"______, ______, ______",3(0-2) SFS,O,NYY,G. Sheffield,B. Arroyo,1%,25%,Strikeout Swinging
+t3,4-1,2,"______, ______, ______",4(2-1) CBBX,,NYY,H. Matsui,B. Arroyo,-2%,24%,Ground-rule Double (Fly Ball)
+t3,4-1,2,"______, H. Matsui, ______",2(0-1) FX,O,NYY,T. Lee,B. Arroyo,2%,26%,Groundout: 1B-P
 ,,,,,,,,,1 run 2 hits 0 errors 1 LOB. Yankees 4 Red Sox 1.,1 run 2 hits 0 errors 1 LOB. Yankees 4 Red Sox 1.,1 run 2 hits 0 errors 1 LOB. Yankees 4 Red Sox 1.
 Bottom of the 3rd Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 2-3-4,Bottom of the 3rd Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 2-3-4,Bottom of the 3rd Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 2-3-4,,Bottom of the 3rd Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 2-3-4,Bottom of the 3rd Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 2-3-4,Bottom of the 3rd Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 2-3-4,Bottom of the 3rd Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 2-3-4,Bottom of the 3rd Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 2-3-4,Bottom of the 3rd Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 2-3-4,Bottom of the 3rd Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 2-3-4,Bottom of the 3rd Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 2-3-4
-b3,1-4,0,"['', '', '']",3(1-1) CBX,,BOS,B. Mueller,K. Brown,4%,30%,Single to 2B (Ground Ball)
-b3,1-4,0,"['Mueller', '', '']",5(2-2) BCBSC,O,BOS,D. Ortiz,K. Brown,-4%,26%,Strikeout Looking
-b3,1-4,1,"['Mueller', '', '']",5(1-2) CFBFX,O,BOS,M. Ramirez,K. Brown,-3%,23%,Flyball: RF
-b3,1-4,2,"['Mueller', '', '']",1(0-0) X,O,BOS,J. Varitek,K. Brown,-2%,21%,Flyball: CF
+b3,1-4,0,"______, ______, ______",3(1-1) CBX,,BOS,B. Mueller,K. Brown,4%,30%,Single to 2B (Ground Ball)
+b3,1-4,0,"B. Mueller, ______, ______",5(2-2) BCBSC,O,BOS,D. Ortiz,K. Brown,-4%,26%,Strikeout Looking
+b3,1-4,1,"B. Mueller, ______, ______",5(1-2) CFBFX,O,BOS,M. Ramirez,K. Brown,-3%,23%,Flyball: RF
+b3,1-4,2,"B. Mueller, ______, ______",1(0-0) X,O,BOS,J. Varitek,K. Brown,-2%,21%,Flyball: CF
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Yankees 4 Red Sox 1.,0 runs 1 hit 0 errors 1 LOB. Yankees 4 Red Sox 1.,0 runs 1 hit 0 errors 1 LOB. Yankees 4 Red Sox 1.
 Top of the 4th Yankees Batting Ahead 4-1 Red Sox' Bronson Arroyo facing 8-9-1,Top of the 4th Yankees Batting Ahead 4-1 Red Sox' Bronson Arroyo facing 8-9-1,Top of the 4th Yankees Batting Ahead 4-1 Red Sox' Bronson Arroyo facing 8-9-1,,Top of the 4th Yankees Batting Ahead 4-1 Red Sox' Bronson Arroyo facing 8-9-1,Top of the 4th Yankees Batting Ahead 4-1 Red Sox' Bronson Arroyo facing 8-9-1,Top of the 4th Yankees Batting Ahead 4-1 Red Sox' Bronson Arroyo facing 8-9-1,Top of the 4th Yankees Batting Ahead 4-1 Red Sox' Bronson Arroyo facing 8-9-1,Top of the 4th Yankees Batting Ahead 4-1 Red Sox' Bronson Arroyo facing 8-9-1,Top of the 4th Yankees Batting Ahead 4-1 Red Sox' Bronson Arroyo facing 8-9-1,Top of the 4th Yankees Batting Ahead 4-1 Red Sox' Bronson Arroyo facing 8-9-1,Top of the 4th Yankees Batting Ahead 4-1 Red Sox' Bronson Arroyo facing 8-9-1
-t4,4-1,0,"['', '', '']",3(0-2) SCS,O,NYY,J. Flaherty,B. Arroyo,2%,22%,Strikeout Swinging
-t4,4-1,1,"['', '', '']",1(0-0) X,,NYY,E. Wilson,B. Arroyo,-2%,21%,Single to CF (Line Drive)
-t4,4-1,1,"['Wilson', '', '']",5(1-2) FSFBX,,NYY,D. Jeter,B. Arroyo,-2%,18%,Reached on E5 (Ground Ball); Wilson to 2B
-t4,4-1,1,"['Jeter', 'Wilson', '']",2(1-0) BX,O,NYY,B. Williams,B. Arroyo,3%,21%,Popfly: 2B (Short RF)
-t4,4-1,2,"['Jeter', 'Wilson', '']",5(2-2) CBFBX,O,NYY,A. Rodriguez,B. Arroyo,3%,24%,Groundout: SS-2B/Forceout at 2B
+t4,4-1,0,"______, ______, ______",3(0-2) SCS,O,NYY,J. Flaherty,B. Arroyo,2%,22%,Strikeout Swinging
+t4,4-1,1,"______, ______, ______",1(0-0) X,,NYY,E. Wilson,B. Arroyo,-2%,21%,Single to CF (Line Drive)
+t4,4-1,1,"E. Wilson, ______, ______",5(1-2) FSFBX,,NYY,D. Jeter,B. Arroyo,-2%,18%,Reached on E5 (Ground Ball); E. Wilson to 2B
+t4,4-1,1,"D. Jeter, E. Wilson, ______",2(1-0) BX,O,NYY,B. Williams,B. Arroyo,3%,21%,Popfly: 2B (Short RF)
+t4,4-1,2,"D. Jeter, E. Wilson, ______",5(2-2) CBFBX,O,NYY,A. Rodriguez,B. Arroyo,3%,24%,Groundout: SS-2B/Forceout at 2B
 ,,,,,,,,,0 runs 1 hit 1 error 2 LOB. Yankees 4 Red Sox 1.,0 runs 1 hit 1 error 2 LOB. Yankees 4 Red Sox 1.,0 runs 1 hit 1 error 2 LOB. Yankees 4 Red Sox 1.
 Bottom of the 4th Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 6-7-8,Bottom of the 4th Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 6-7-8,Bottom of the 4th Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 6-7-8,,Bottom of the 4th Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 6-7-8,Bottom of the 4th Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 6-7-8,Bottom of the 4th Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 6-7-8,Bottom of the 4th Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 6-7-8,Bottom of the 4th Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 6-7-8,Bottom of the 4th Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 6-7-8,Bottom of the 4th Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 6-7-8,Bottom of the 4th Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 6-7-8
-b4,1-4,0,"['', '', '']",3(1-1) BSX,O,BOS,D. McCarty,K. Brown,-3%,21%,Groundout: 3B-1B
-b4,1-4,1,"['', '', '']",3(1-1) BCX,O,BOS,C. Crespo,K. Brown,-2%,19%,Groundout: 2B-1B
-b4,1-4,2,"['', '', '']",4(2-1) BCBX,O,BOS,G. Kapler,K. Brown,-1%,18%,Groundout: 3B-1B
+b4,1-4,0,"______, ______, ______",3(1-1) BSX,O,BOS,D. McCarty,K. Brown,-3%,21%,Groundout: 3B-1B
+b4,1-4,1,"______, ______, ______",3(1-1) BCX,O,BOS,C. Crespo,K. Brown,-2%,19%,Groundout: 2B-1B
+b4,1-4,2,"______, ______, ______",4(2-1) BCBX,O,BOS,G. Kapler,K. Brown,-1%,18%,Groundout: 3B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Yankees 4 Red Sox 1.,0 runs 0 hits 0 errors 0 LOB. Yankees 4 Red Sox 1.,0 runs 0 hits 0 errors 0 LOB. Yankees 4 Red Sox 1.
 Top of the 5th Yankees Batting Ahead 4-1 Red Sox' Bronson Arroyo facing 4-5-6,Top of the 5th Yankees Batting Ahead 4-1 Red Sox' Bronson Arroyo facing 4-5-6,Top of the 5th Yankees Batting Ahead 4-1 Red Sox' Bronson Arroyo facing 4-5-6,,Top of the 5th Yankees Batting Ahead 4-1 Red Sox' Bronson Arroyo facing 4-5-6,Top of the 5th Yankees Batting Ahead 4-1 Red Sox' Bronson Arroyo facing 4-5-6,Top of the 5th Yankees Batting Ahead 4-1 Red Sox' Bronson Arroyo facing 4-5-6,Top of the 5th Yankees Batting Ahead 4-1 Red Sox' Bronson Arroyo facing 4-5-6,Top of the 5th Yankees Batting Ahead 4-1 Red Sox' Bronson Arroyo facing 4-5-6,Top of the 5th Yankees Batting Ahead 4-1 Red Sox' Bronson Arroyo facing 4-5-6,Top of the 5th Yankees Batting Ahead 4-1 Red Sox' Bronson Arroyo facing 4-5-6,Top of the 5th Yankees Batting Ahead 4-1 Red Sox' Bronson Arroyo facing 4-5-6
-t5,4-1,0,"['', '', '']",3(0-2) FFH,,NYY,J. Giambi,B. Arroyo,-2%,16%,Hit By Pitch
-t5,4-1,0,"['Giambi', '', '']",3(0-2) FCX,O,NYY,G. Sheffield,B. Arroyo,2%,18%,Popfly: 2B
-t5,4-1,1,"['Giambi', '', '']",1(0-0) X,,NYY,H. Matsui,B. Arroyo,-2%,16%,Single to RF (Line Drive); Giambi to 2B
-t5,4-1,1,"['Matsui', 'Giambi', '']",2(0-1) CX,OO,NYY,T. Lee,B. Arroyo,5%,22%,Ground Ball Double Play: SS-2B-1B
+t5,4-1,0,"______, ______, ______",3(0-2) FFH,,NYY,J. Giambi,B. Arroyo,-2%,16%,Hit By Pitch
+t5,4-1,0,"J. Giambi, ______, ______",3(0-2) FCX,O,NYY,G. Sheffield,B. Arroyo,2%,18%,Popfly: 2B
+t5,4-1,1,"J. Giambi, ______, ______",1(0-0) X,,NYY,H. Matsui,B. Arroyo,-2%,16%,Single to RF (Line Drive); J. Giambi to 2B
+t5,4-1,1,"H. Matsui, J. Giambi, ______",2(0-1) CX,OO,NYY,T. Lee,B. Arroyo,5%,22%,Ground Ball Double Play: SS-2B-1B
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Yankees 4 Red Sox 1.,0 runs 1 hit 0 errors 1 LOB. Yankees 4 Red Sox 1.,0 runs 1 hit 0 errors 1 LOB. Yankees 4 Red Sox 1.
 Bottom of the 5th Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 9-1-2,Bottom of the 5th Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 9-1-2,Bottom of the 5th Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 9-1-2,,Bottom of the 5th Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 9-1-2,Bottom of the 5th Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 9-1-2,Bottom of the 5th Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 9-1-2,Bottom of the 5th Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 9-1-2,Bottom of the 5th Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 9-1-2,Bottom of the 5th Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 9-1-2,Bottom of the 5th Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 9-1-2,Bottom of the 5th Red Sox Batting Behind 1-4 Yankees' Kevin Brown facing 9-1-2
-b5,1-4,0,"['', '', '']",2(0-1) LX,O,BOS,P. Reese,K. Brown,-3%,19%,Flyball: CF
-b5,1-4,1,"['', '', '']",2(0-1) CX,O,BOS,J. Damon,K. Brown,-2%,17%,Groundout: SS-1B
-b5,1-4,2,"['', '', '']",6(3-2) BCFBBX,,BOS,B. Mueller,K. Brown,2%,19%,Double to CF (Fly Ball to Deep CF)
-b5,1-4,2,"['', 'Mueller', '']",3(2-0) BBX,R,BOS,D. Ortiz,K. Brown,8%,27%,Single to CF (Line Drive); Mueller Scores
-b5,2-4,2,"['Ortiz', '', '']",8(3-2) BCBCFFB>X,O,BOS,M. Ramirez,K. Brown,-3%,24%,Flyball: CF (Deep CF)
+b5,1-4,0,"______, ______, ______",2(0-1) LX,O,BOS,P. Reese,K. Brown,-3%,19%,Flyball: CF
+b5,1-4,1,"______, ______, ______",2(0-1) CX,O,BOS,J. Damon,K. Brown,-2%,17%,Groundout: SS-1B
+b5,1-4,2,"______, ______, ______",6(3-2) BCFBBX,,BOS,B. Mueller,K. Brown,2%,19%,Double to CF (Fly Ball to Deep CF)
+b5,1-4,2,"______, B. Mueller, ______",3(2-0) BBX,R,BOS,D. Ortiz,K. Brown,8%,27%,Single to CF (Line Drive); B. Mueller Scores
+b5,2-4,2,"D. Ortiz, ______, ______",8(3-2) BCBCFFB>X,O,BOS,M. Ramirez,K. Brown,-3%,24%,Flyball: CF (Deep CF)
 ,,,,,,,,,1 run 2 hits 0 errors 1 LOB. Yankees 4 Red Sox 2.,1 run 2 hits 0 errors 1 LOB. Yankees 4 Red Sox 2.,1 run 2 hits 0 errors 1 LOB. Yankees 4 Red Sox 2.
 Top of the 6th Yankees Batting Ahead 4-2 Red Sox' Bronson Arroyo facing 8-9-1,Top of the 6th Yankees Batting Ahead 4-2 Red Sox' Bronson Arroyo facing 8-9-1,Top of the 6th Yankees Batting Ahead 4-2 Red Sox' Bronson Arroyo facing 8-9-1,,Top of the 6th Yankees Batting Ahead 4-2 Red Sox' Bronson Arroyo facing 8-9-1,Top of the 6th Yankees Batting Ahead 4-2 Red Sox' Bronson Arroyo facing 8-9-1,Top of the 6th Yankees Batting Ahead 4-2 Red Sox' Bronson Arroyo facing 8-9-1,Top of the 6th Yankees Batting Ahead 4-2 Red Sox' Bronson Arroyo facing 8-9-1,Top of the 6th Yankees Batting Ahead 4-2 Red Sox' Bronson Arroyo facing 8-9-1,Top of the 6th Yankees Batting Ahead 4-2 Red Sox' Bronson Arroyo facing 8-9-1,Top of the 6th Yankees Batting Ahead 4-2 Red Sox' Bronson Arroyo facing 8-9-1,Top of the 6th Yankees Batting Ahead 4-2 Red Sox' Bronson Arroyo facing 8-9-1
-t6,4-2,0,"['', '', '']",3(0-2) CSS,O,NYY,J. Flaherty,B. Arroyo,2%,26%,Strikeout Swinging
-t6,4-2,1,"['', '', '']",4(1-2) CCBX,O,NYY,E. Wilson,B. Arroyo,2%,28%,Groundout: 1B unassisted
-t6,4-2,2,"['', '', '']",6(3-2) FBFBBX,,NYY,D. Jeter,B. Arroyo,-2%,26%,Reached on E5 (throw) (Ground Ball); Jeter to 2B
-t6,4-2,2,"['', 'Jeter', '']",1(0-0) X,O,NYY,B. Williams,B. Arroyo,3%,29%,Groundout: SS-1B
+t6,4-2,0,"______, ______, ______",3(0-2) CSS,O,NYY,J. Flaherty,B. Arroyo,2%,26%,Strikeout Swinging
+t6,4-2,1,"______, ______, ______",4(1-2) CCBX,O,NYY,E. Wilson,B. Arroyo,2%,28%,Groundout: 1B unassisted
+t6,4-2,2,"______, ______, ______",6(3-2) FBFBBX,,NYY,D. Jeter,B. Arroyo,-2%,26%,Reached on E5 (throw) (Ground Ball); D. Jeter to 2B
+t6,4-2,2,"______, D. Jeter, ______",1(0-0) X,O,NYY,B. Williams,B. Arroyo,3%,29%,Groundout: SS-1B
 ,,,,,,,,,0 runs 0 hits 1 error 1 LOB. Yankees 4 Red Sox 2.,0 runs 0 hits 1 error 1 LOB. Yankees 4 Red Sox 2.,0 runs 0 hits 1 error 1 LOB. Yankees 4 Red Sox 2.
 Bottom of the 6th Red Sox Batting Behind 2-4 Yankees' Kevin Brown facing 5-6-7,Bottom of the 6th Red Sox Batting Behind 2-4 Yankees' Kevin Brown facing 5-6-7,Bottom of the 6th Red Sox Batting Behind 2-4 Yankees' Kevin Brown facing 5-6-7,,Bottom of the 6th Red Sox Batting Behind 2-4 Yankees' Kevin Brown facing 5-6-7,Bottom of the 6th Red Sox Batting Behind 2-4 Yankees' Kevin Brown facing 5-6-7,Bottom of the 6th Red Sox Batting Behind 2-4 Yankees' Kevin Brown facing 5-6-7,Bottom of the 6th Red Sox Batting Behind 2-4 Yankees' Kevin Brown facing 5-6-7,Bottom of the 6th Red Sox Batting Behind 2-4 Yankees' Kevin Brown facing 5-6-7,Bottom of the 6th Red Sox Batting Behind 2-4 Yankees' Kevin Brown facing 5-6-7,Bottom of the 6th Red Sox Batting Behind 2-4 Yankees' Kevin Brown facing 5-6-7,Bottom of the 6th Red Sox Batting Behind 2-4 Yankees' Kevin Brown facing 5-6-7
-b6,2-4,0,"['', '', '']",3(1-1) BCX,R,BOS,J. Varitek,K. Brown,13%,42%,Home Run (Fly Ball)
-b6,3-4,0,"['', '', '']",3(2-0) BBX,O,BOS,D. McCarty,K. Brown,-4%,38%,Groundout: 2B-1B
-b6,3-4,1,"['', '', '']",6(1-2) BCCFFS,O,BOS,C. Crespo,K. Brown,-3%,35%,Strikeout Swinging
-b6,3-4,2,"['', '', '']",8(2-2) BCFFBFFX,O,BOS,G. Kapler,K. Brown,-2%,33%,Groundout: SS-1B
+b6,2-4,0,"______, ______, ______",3(1-1) BCX,R,BOS,J. Varitek,K. Brown,13%,42%,Home Run (Fly Ball)
+b6,3-4,0,"______, ______, ______",3(2-0) BBX,O,BOS,D. McCarty,K. Brown,-4%,38%,Groundout: 2B-1B
+b6,3-4,1,"______, ______, ______",6(1-2) BCCFFS,O,BOS,C. Crespo,K. Brown,-3%,35%,Strikeout Swinging
+b6,3-4,2,"______, ______, ______",8(2-2) BCFFBFFX,O,BOS,G. Kapler,K. Brown,-2%,33%,Groundout: SS-1B
 ,,,,,,,,,1 run 1 hit 0 errors 0 LOB. Yankees 4 Red Sox 3.,1 run 1 hit 0 errors 0 LOB. Yankees 4 Red Sox 3.,1 run 1 hit 0 errors 0 LOB. Yankees 4 Red Sox 3.
 Top of the 7th Yankees Batting Ahead 4-3 Red Sox' Bronson Arroyo facing 3-4-5,Top of the 7th Yankees Batting Ahead 4-3 Red Sox' Bronson Arroyo facing 3-4-5,Top of the 7th Yankees Batting Ahead 4-3 Red Sox' Bronson Arroyo facing 3-4-5,,Top of the 7th Yankees Batting Ahead 4-3 Red Sox' Bronson Arroyo facing 3-4-5,Top of the 7th Yankees Batting Ahead 4-3 Red Sox' Bronson Arroyo facing 3-4-5,Top of the 7th Yankees Batting Ahead 4-3 Red Sox' Bronson Arroyo facing 3-4-5,Top of the 7th Yankees Batting Ahead 4-3 Red Sox' Bronson Arroyo facing 3-4-5,Top of the 7th Yankees Batting Ahead 4-3 Red Sox' Bronson Arroyo facing 3-4-5,Top of the 7th Yankees Batting Ahead 4-3 Red Sox' Bronson Arroyo facing 3-4-5,Top of the 7th Yankees Batting Ahead 4-3 Red Sox' Bronson Arroyo facing 3-4-5,Top of the 7th Yankees Batting Ahead 4-3 Red Sox' Bronson Arroyo facing 3-4-5
-t7,4-3,0,"['', '', '']",3(0-2) SSS,O,NYY,A. Rodriguez,B. Arroyo,3%,35%,Strikeout Swinging
+t7,4-3,0,"______, ______, ______",3(0-2) SSS,O,NYY,A. Rodriguez,B. Arroyo,3%,35%,Strikeout Swinging
 ,,,,,,,,,Alan Embree replaces Bronson Arroyo pitching,Alan Embree replaces Bronson Arroyo pitching,Alan Embree replaces Bronson Arroyo pitching
-t7,4-3,1,"['', '', '']",4(1-2) .CCBX,O,NYY,J. Giambi,A. Embree,2%,38%,Groundout: SS-1B
-t7,4-3,2,"['', '', '']",4(2-1) CBBX,O,NYY,G. Sheffield,A. Embree,2%,39%,Flyball: CF
+t7,4-3,1,"______, ______, ______",4(1-2) .CCBX,O,NYY,J. Giambi,A. Embree,2%,38%,Groundout: SS-1B
+t7,4-3,2,"______, ______, ______",4(2-1) CBBX,O,NYY,G. Sheffield,A. Embree,2%,39%,Flyball: CF
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Yankees 4 Red Sox 3.,0 runs 0 hits 0 errors 0 LOB. Yankees 4 Red Sox 3.,0 runs 0 hits 0 errors 0 LOB. Yankees 4 Red Sox 3.
 Bottom of the 7th Red Sox Batting Behind 3-4 Yankees' Kevin Brown facing 9-1-2,Bottom of the 7th Red Sox Batting Behind 3-4 Yankees' Kevin Brown facing 9-1-2,Bottom of the 7th Red Sox Batting Behind 3-4 Yankees' Kevin Brown facing 9-1-2,,Bottom of the 7th Red Sox Batting Behind 3-4 Yankees' Kevin Brown facing 9-1-2,Bottom of the 7th Red Sox Batting Behind 3-4 Yankees' Kevin Brown facing 9-1-2,Bottom of the 7th Red Sox Batting Behind 3-4 Yankees' Kevin Brown facing 9-1-2,Bottom of the 7th Red Sox Batting Behind 3-4 Yankees' Kevin Brown facing 9-1-2,Bottom of the 7th Red Sox Batting Behind 3-4 Yankees' Kevin Brown facing 9-1-2,Bottom of the 7th Red Sox Batting Behind 3-4 Yankees' Kevin Brown facing 9-1-2,Bottom of the 7th Red Sox Batting Behind 3-4 Yankees' Kevin Brown facing 9-1-2,Bottom of the 7th Red Sox Batting Behind 3-4 Yankees' Kevin Brown facing 9-1-2
-b7,3-4,0,"['', '', '']",3(1-1) CBX,,BOS,P. Reese,K. Brown,7%,46%,Single to LF (Ground Ball)
+b7,3-4,0,"______, ______, ______",3(1-1) CBX,,BOS,P. Reese,K. Brown,7%,46%,Single to LF (Ground Ball)
 ,,,,,,,,,Gabe White replaces Kevin Brown pitching,Gabe White replaces Kevin Brown pitching,Gabe White replaces Kevin Brown pitching
-b7,3-4,0,"['Reese', '', '']",1(0-0) .11X,,BOS,J. Damon,G. White,17%,63%,Single to RF (Ground Ball); Reese to 3B
-b7,3-4,0,"['Damon', '', 'Reese']",5(2-2) CB1BFS,O,BOS,B. Mueller,G. White,-11%,52%,Strikeout Swinging
-b7,3-4,1,"['Damon', '', 'Reese']",3(0-2) FS1X,R,BOS,D. Ortiz,G. White,18%,70%,Single to 3B (Ground Ball); Reese Scores; Damon to 3B/Adv on E5 (throw)
+b7,3-4,0,"P. Reese, ______, ______",1(0-0) .11X,,BOS,J. Damon,G. White,17%,63%,Single to RF (Ground Ball); P. Reese to 3B
+b7,3-4,0,"J. Damon, ______, P. Reese",5(2-2) CB1BFS,O,BOS,B. Mueller,G. White,-11%,52%,Strikeout Swinging
+b7,3-4,1,"J. Damon, ______, P. Reese",3(0-2) FS1X,R,BOS,D. Ortiz,G. White,18%,70%,Single to 3B (Ground Ball); P. Reese Scores; J. Damon to 3B/Adv on E5 (throw)
 ,,,,,,,,,Tom Gordon replaces Gabe White pitching,Tom Gordon replaces Gabe White pitching,Tom Gordon replaces Gabe White pitching
-b7,4-4,1,"['Ortiz', '', 'Damon']",1(0-0) .X,OO,BOS,M. Ramirez,T. Gordon,-20%,50%,Ground Ball Double Play: SS-2B-1B
+b7,4-4,1,"D. Ortiz, ______, J. Damon",1(0-0) .X,OO,BOS,M. Ramirez,T. Gordon,-20%,50%,Ground Ball Double Play: SS-2B-1B
 ,,,,,,,,,1 run 3 hits 1 error 1 LOB. Yankees 4 Red Sox 4.,1 run 3 hits 1 error 1 LOB. Yankees 4 Red Sox 4.,1 run 3 hits 1 error 1 LOB. Yankees 4 Red Sox 4.
 Top of the 8th Yankees Batting Tied 4-4 Red Sox' Alan Embree facing 6-7-8,Top of the 8th Yankees Batting Tied 4-4 Red Sox' Alan Embree facing 6-7-8,Top of the 8th Yankees Batting Tied 4-4 Red Sox' Alan Embree facing 6-7-8,,Top of the 8th Yankees Batting Tied 4-4 Red Sox' Alan Embree facing 6-7-8,Top of the 8th Yankees Batting Tied 4-4 Red Sox' Alan Embree facing 6-7-8,Top of the 8th Yankees Batting Tied 4-4 Red Sox' Alan Embree facing 6-7-8,Top of the 8th Yankees Batting Tied 4-4 Red Sox' Alan Embree facing 6-7-8,Top of the 8th Yankees Batting Tied 4-4 Red Sox' Alan Embree facing 6-7-8,Top of the 8th Yankees Batting Tied 4-4 Red Sox' Alan Embree facing 6-7-8,Top of the 8th Yankees Batting Tied 4-4 Red Sox' Alan Embree facing 6-7-8,Top of the 8th Yankees Batting Tied 4-4 Red Sox' Alan Embree facing 6-7-8
-t8,4-4,0,"['', '', '']",3(0-2) CSX,,NYY,H. Matsui,A. Embree,-7%,43%,Single to CF (Ground Ball)
-t8,4-4,0,"['Matsui', '', '']",3(0-2) LCC,O,NYY,T. Lee,A. Embree,7%,50%,Strikeout Looking
+t8,4-4,0,"______, ______, ______",3(0-2) CSX,,NYY,H. Matsui,A. Embree,-7%,43%,Single to CF (Ground Ball)
+t8,4-4,0,"H. Matsui, ______, ______",3(0-2) LCC,O,NYY,T. Lee,A. Embree,7%,50%,Strikeout Looking
 ,,,,,,,,,Mike Timlin replaces Alan Embree pitchingJorge Posada pinch hits for John Flaherty (C) batting 8th,Mike Timlin replaces Alan Embree pitchingJorge Posada pinch hits for John Flaherty (C) batting 8th,Mike Timlin replaces Alan Embree pitchingJorge Posada pinch hits for John Flaherty (C) batting 8th
-t8,4-4,1,"['Matsui', '', '']",5(2-2) ..CBFBS,O,NYY,J. Posada,M. Timlin,6%,56%,Strikeout Swinging
+t8,4-4,1,"H. Matsui, ______, ______",5(2-2) ..CBFBS,O,NYY,J. Posada,M. Timlin,6%,56%,Strikeout Swinging
 ,,,,,,,,,Ruben Sierra pinch hits for Enrique Wilson (2B) batting 9th,Ruben Sierra pinch hits for Enrique Wilson (2B) batting 9th,Ruben Sierra pinch hits for Enrique Wilson (2B) batting 9th
-t8,4-4,2,"['Matsui', '', '']",4(1-2) .BCF1X,O,NYY,R. Sierra,M. Timlin,5%,62%,Groundout: 1B unassisted
+t8,4-4,2,"H. Matsui, ______, ______",4(1-2) .BCF1X,O,NYY,R. Sierra,M. Timlin,5%,62%,Groundout: 1B unassisted
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Yankees 4 Red Sox 4.,0 runs 1 hit 0 errors 1 LOB. Yankees 4 Red Sox 4.,0 runs 1 hit 0 errors 1 LOB. Yankees 4 Red Sox 4.
 Bottom of the 8th Red Sox Batting Tied 4-4 Yankees' Tom Gordon facing 5-6-7,Bottom of the 8th Red Sox Batting Tied 4-4 Yankees' Tom Gordon facing 5-6-7,Bottom of the 8th Red Sox Batting Tied 4-4 Yankees' Tom Gordon facing 5-6-7,,Bottom of the 8th Red Sox Batting Tied 4-4 Yankees' Tom Gordon facing 5-6-7,Bottom of the 8th Red Sox Batting Tied 4-4 Yankees' Tom Gordon facing 5-6-7,Bottom of the 8th Red Sox Batting Tied 4-4 Yankees' Tom Gordon facing 5-6-7,Bottom of the 8th Red Sox Batting Tied 4-4 Yankees' Tom Gordon facing 5-6-7,Bottom of the 8th Red Sox Batting Tied 4-4 Yankees' Tom Gordon facing 5-6-7,Bottom of the 8th Red Sox Batting Tied 4-4 Yankees' Tom Gordon facing 5-6-7,Bottom of the 8th Red Sox Batting Tied 4-4 Yankees' Tom Gordon facing 5-6-7,Bottom of the 8th Red Sox Batting Tied 4-4 Yankees' Tom Gordon facing 5-6-7
 ,,,,,,,,,Jorge Posada moves from PH to CMiguel Cairo replaces Ruben Sierra (PH) playing 2B batting 9th,Jorge Posada moves from PH to CMiguel Cairo replaces Ruben Sierra (PH) playing 2B batting 9th,Jorge Posada moves from PH to CMiguel Cairo replaces Ruben Sierra (PH) playing 2B batting 9th
-b8,4-4,0,"['', '', '']",6(3-2) ..BBCBSS,O,BOS,J. Varitek,T. Gordon,-5%,57%,Strikeout Swinging
-b8,4-4,1,"['', '', '']",3(0-2) SFX,,BOS,D. McCarty,T. Gordon,9%,66%,Double to LF (Fly Ball)
-b8,4-4,1,"['', 'McCarty', '']",4(0-2) SFFX,O,BOS,C. Crespo,T. Gordon,-6%,60%,Groundout: 2B-1B; McCarty to 3B
-b8,4-4,2,"['', '', 'McCarty']",2(0-1) CX,R,BOS,G. Kapler,T. Gordon,24%,84%,Single to CF (Line Drive); McCarty Scores
-b8,5-4,2,"['Kapler', '', '']",4(1-2) 1CBS11S,O,BOS,P. Reese,T. Gordon,-2%,82%,Strikeout Swinging
+b8,4-4,0,"______, ______, ______",6(3-2) ..BBCBSS,O,BOS,J. Varitek,T. Gordon,-5%,57%,Strikeout Swinging
+b8,4-4,1,"______, ______, ______",3(0-2) SFX,,BOS,D. McCarty,T. Gordon,9%,66%,Double to LF (Fly Ball)
+b8,4-4,1,"______, D. McCarty, ______",4(0-2) SFFX,O,BOS,C. Crespo,T. Gordon,-6%,60%,Groundout: 2B-1B; D. McCarty to 3B
+b8,4-4,2,"______, ______, D. McCarty",2(0-1) CX,R,BOS,G. Kapler,T. Gordon,24%,84%,Single to CF (Line Drive); D. McCarty Scores
+b8,5-4,2,"G. Kapler, ______, ______",4(1-2) 1CBS11S,O,BOS,P. Reese,T. Gordon,-2%,82%,Strikeout Swinging
 ,,,,,,,,,1 run 2 hits 0 errors 1 LOB. Yankees 4 Red Sox 5.,1 run 2 hits 0 errors 1 LOB. Yankees 4 Red Sox 5.,1 run 2 hits 0 errors 1 LOB. Yankees 4 Red Sox 5.
 Top of the 9th Yankees Batting Behind 4-5 Red Sox' Keith Foulke facing 1-2-3,Top of the 9th Yankees Batting Behind 4-5 Red Sox' Keith Foulke facing 1-2-3,Top of the 9th Yankees Batting Behind 4-5 Red Sox' Keith Foulke facing 1-2-3,,Top of the 9th Yankees Batting Behind 4-5 Red Sox' Keith Foulke facing 1-2-3,Top of the 9th Yankees Batting Behind 4-5 Red Sox' Keith Foulke facing 1-2-3,Top of the 9th Yankees Batting Behind 4-5 Red Sox' Keith Foulke facing 1-2-3,Top of the 9th Yankees Batting Behind 4-5 Red Sox' Keith Foulke facing 1-2-3,Top of the 9th Yankees Batting Behind 4-5 Red Sox' Keith Foulke facing 1-2-3,Top of the 9th Yankees Batting Behind 4-5 Red Sox' Keith Foulke facing 1-2-3,Top of the 9th Yankees Batting Behind 4-5 Red Sox' Keith Foulke facing 1-2-3,Top of the 9th Yankees Batting Behind 4-5 Red Sox' Keith Foulke facing 1-2-3
 ,,,,,,,,,Keith Foulke replaces Mike Timlin pitching,Keith Foulke replaces Mike Timlin pitching,Keith Foulke replaces Mike Timlin pitching
-t9,4-5,0,"['', '', '']",6(3-2) .CBBBFC,O,NYY,D. Jeter,K. Foulke,8%,90%,Strikeout Looking
-t9,4-5,1,"['', '', '']",2(1-0) BX,O,NYY,B. Williams,K. Foulke,6%,96%,Flyball: LF (LF-CF)
-t9,4-5,2,"['', '', '']",2(0-1) CX,,NYY,A. Rodriguez,K. Foulke,-5%,91%,Single to LF (Line Drive)
-t9,4-5,2,"['Rodriguez', '', '']",4(1-2) CBCC,O,NYY,J. Giambi,K. Foulke,9%,100%,Strikeout Looking
+t9,4-5,0,"______, ______, ______",6(3-2) .CBBBFC,O,NYY,D. Jeter,K. Foulke,8%,90%,Strikeout Looking
+t9,4-5,1,"______, ______, ______",2(1-0) BX,O,NYY,B. Williams,K. Foulke,6%,96%,Flyball: LF (LF-CF)
+t9,4-5,2,"______, ______, ______",2(0-1) CX,,NYY,A. Rodriguez,K. Foulke,-5%,91%,Single to LF (Line Drive)
+t9,4-5,2,"A. Rodriguez, ______, ______",4(1-2) CBCC,O,NYY,J. Giambi,K. Foulke,9%,100%,Strikeout Looking
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Yankees 4 Red Sox 5.,0 runs 1 hit 0 errors 1 LOB. Yankees 4 Red Sox 5.,0 runs 1 hit 0 errors 1 LOB. Yankees 4 Red Sox 5.

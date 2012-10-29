@@ -1,152 +1,152 @@
 Inn,Score,Out,RoB,Pit(cnt)Sequence,R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
 Top of the 1st Red Sox Batting Tied 0-0 Mariners' Joel Pineiro facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Mariners' Joel Pineiro facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Mariners' Joel Pineiro facing 1-2-3,,Top of the 1st Red Sox Batting Tied 0-0 Mariners' Joel Pineiro facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Mariners' Joel Pineiro facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Mariners' Joel Pineiro facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Mariners' Joel Pineiro facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Mariners' Joel Pineiro facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Mariners' Joel Pineiro facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Mariners' Joel Pineiro facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Mariners' Joel Pineiro facing 1-2-3
-t1,0-0,0,"['', '', '']",4(2-1) CBBX,O,BOS,J. Damon,J. Pineiro,-2%,48%,Lineout: RF (CF-RF)
-t1,0-0,1,"['', '', '']",4(1-2) BCCC,O,BOS,M. Bellhorn,J. Pineiro,-2%,46%,Strikeout Looking
-t1,0-0,2,"['', '', '']",4(3-0) BBBB,,BOS,D. Ortiz,J. Pineiro,1%,47%,Walk
-t1,0-0,2,"['Ortiz', '', '']",4(1-2) CBSX,O,BOS,M. Ramirez,J. Pineiro,-2%,45%,Flyball: LF (Deep LF)
+t1,0-0,0,"______, ______, ______",4(2-1) CBBX,O,BOS,J. Damon,J. Pineiro,-2%,48%,Lineout: RF (CF-RF)
+t1,0-0,1,"______, ______, ______",4(1-2) BCCC,O,BOS,M. Bellhorn,J. Pineiro,-2%,46%,Strikeout Looking
+t1,0-0,2,"______, ______, ______",4(3-0) BBBB,,BOS,D. Ortiz,J. Pineiro,1%,47%,Walk
+t1,0-0,2,"D. Ortiz, ______, ______",4(1-2) CBSX,O,BOS,M. Ramirez,J. Pineiro,-2%,45%,Flyball: LF (Deep LF)
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Red Sox 0 Mariners 0.,0 runs 0 hits 0 errors 1 LOB. Red Sox 0 Mariners 0.,0 runs 0 hits 0 errors 1 LOB. Red Sox 0 Mariners 0.
 Bottom of the 1st Mariners Batting Tied 0-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 1st Mariners Batting Tied 0-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 1st Mariners Batting Tied 0-0 Red Sox' Derek Lowe facing 1-2-3,,Bottom of the 1st Mariners Batting Tied 0-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 1st Mariners Batting Tied 0-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 1st Mariners Batting Tied 0-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 1st Mariners Batting Tied 0-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 1st Mariners Batting Tied 0-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 1st Mariners Batting Tied 0-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 1st Mariners Batting Tied 0-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 1st Mariners Batting Tied 0-0 Red Sox' Derek Lowe facing 1-2-3
-b1,0-0,0,"['', '', '']",8(3-2) BCCBBFFX,,SEA,I. Suzuki,D. Lowe,-3%,42%,Single to CF (Ground Ball)
-b1,0-0,0,"['Suzuki', '', '']",3(2-0) BB>C,,SEA,R. Winn,D. Lowe,-2%,39%,Suzuki Steals 2B
-b1,0-0,0,"['', 'Suzuki', '']",4(2-1) BB>C.X,O,SEA,R. Winn,D. Lowe,1%,41%,Groundout: 2B-1B; Suzuki to 3B
-b1,0-0,1,"['', '', 'Suzuki']",8(3-2) BBCSFFBS,O,SEA,B. Boone,D. Lowe,6%,46%,Strikeout Swinging
-b1,0-0,2,"['', '', 'Suzuki']",5(2-2) CBCBX,R,SEA,E. Martinez,D. Lowe,-8%,38%,Single to RF (Line Drive to CF-RF); Suzuki Scores
-b1,1-0,2,"['Martinez', '', '']",8(3-2) FBBCB>F>FB,,SEA,B. Jacobsen,D. Lowe,-2%,36%,Walk; Martinez to 2B
-b1,1-0,2,"['Jacobsen', 'Martinez', '']",2(1-0) BX,O,SEA,S. Spiezio,D. Lowe,4%,40%,Groundout: 1B-P
+b1,0-0,0,"______, ______, ______",8(3-2) BCCBBFFX,,SEA,I. Suzuki,D. Lowe,-3%,42%,Single to CF (Ground Ball)
+b1,0-0,0,"I. Suzuki, ______, ______",3(2-0) BB>C,,SEA,R. Winn,D. Lowe,-2%,39%,I. Suzuki Steals 2B
+b1,0-0,0,"______, I. Suzuki, ______",4(2-1) BB>C.X,O,SEA,R. Winn,D. Lowe,1%,41%,Groundout: 2B-1B; I. Suzuki to 3B
+b1,0-0,1,"______, ______, I. Suzuki",8(3-2) BBCSFFBS,O,SEA,B. Boone,D. Lowe,6%,46%,Strikeout Swinging
+b1,0-0,2,"______, ______, I. Suzuki",5(2-2) CBCBX,R,SEA,E. Martinez,D. Lowe,-8%,38%,Single to RF (Line Drive to CF-RF); I. Suzuki Scores
+b1,1-0,2,"E. Martinez, ______, ______",8(3-2) FBBCB>F>FB,,SEA,B. Jacobsen,D. Lowe,-2%,36%,Walk; E. Martinez to 2B
+b1,1-0,2,"B. Jacobsen, E. Martinez, ______",2(1-0) BX,O,SEA,S. Spiezio,D. Lowe,4%,40%,Groundout: 1B-P
 ,,,,,,,,,1 run 2 hits 0 errors 2 LOB. Red Sox 0 Mariners 1.,1 run 2 hits 0 errors 2 LOB. Red Sox 0 Mariners 1.,1 run 2 hits 0 errors 2 LOB. Red Sox 0 Mariners 1.
 Top of the 2nd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 5-6-7,Top of the 2nd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 5-6-7,Top of the 2nd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 5-6-7,,Top of the 2nd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 5-6-7,Top of the 2nd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 5-6-7,Top of the 2nd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 5-6-7,Top of the 2nd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 5-6-7,Top of the 2nd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 5-6-7,Top of the 2nd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 5-6-7,Top of the 2nd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 5-6-7,Top of the 2nd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 5-6-7
-t2,0-1,0,"['', '', '']",1(0-0) X,,BOS,N. Garciaparra,J. Pineiro,4%,44%,Single to LF (Ground Ball)
-t2,0-1,0,"['Garciaparra', '', '']",5(3-1) BCBB1B,,BOS,T. Nixon,J. Pineiro,6%,50%,Walk; Garciaparra to 2B
-t2,0-1,0,"['Nixon', 'Garciaparra', '']",3(0-2) CSC,O,BOS,D. Mirabelli,J. Pineiro,-6%,44%,Strikeout Looking
-t2,0-1,1,"['Nixon', 'Garciaparra', '']",3(2-0) BBX,O,BOS,B. Mueller,J. Pineiro,-5%,39%,Popfly: 2B
-t2,0-1,2,"['Nixon', 'Garciaparra', '']",3(0-2) FSC,O,BOS,D. McCarty,J. Pineiro,-5%,35%,Strikeout Looking
+t2,0-1,0,"______, ______, ______",1(0-0) X,,BOS,N. Garciaparra,J. Pineiro,4%,44%,Single to LF (Ground Ball)
+t2,0-1,0,"N. Garciaparra, ______, ______",5(3-1) BCBB1B,,BOS,T. Nixon,J. Pineiro,6%,50%,Walk; N. Garciaparra to 2B
+t2,0-1,0,"T. Nixon, N. Garciaparra, ______",3(0-2) CSC,O,BOS,D. Mirabelli,J. Pineiro,-6%,44%,Strikeout Looking
+t2,0-1,1,"T. Nixon, N. Garciaparra, ______",3(2-0) BBX,O,BOS,B. Mueller,J. Pineiro,-5%,39%,Popfly: 2B
+t2,0-1,2,"T. Nixon, N. Garciaparra, ______",3(0-2) FSC,O,BOS,D. McCarty,J. Pineiro,-5%,35%,Strikeout Looking
 ,,,,,,,,,0 runs 1 hit 0 errors 2 LOB. Red Sox 0 Mariners 1.,0 runs 1 hit 0 errors 2 LOB. Red Sox 0 Mariners 1.,0 runs 1 hit 0 errors 2 LOB. Red Sox 0 Mariners 1.
 Bottom of the 2nd Mariners Batting Ahead 1-0 Red Sox' Derek Lowe facing 7-8-9,Bottom of the 2nd Mariners Batting Ahead 1-0 Red Sox' Derek Lowe facing 7-8-9,Bottom of the 2nd Mariners Batting Ahead 1-0 Red Sox' Derek Lowe facing 7-8-9,,Bottom of the 2nd Mariners Batting Ahead 1-0 Red Sox' Derek Lowe facing 7-8-9,Bottom of the 2nd Mariners Batting Ahead 1-0 Red Sox' Derek Lowe facing 7-8-9,Bottom of the 2nd Mariners Batting Ahead 1-0 Red Sox' Derek Lowe facing 7-8-9,Bottom of the 2nd Mariners Batting Ahead 1-0 Red Sox' Derek Lowe facing 7-8-9,Bottom of the 2nd Mariners Batting Ahead 1-0 Red Sox' Derek Lowe facing 7-8-9,Bottom of the 2nd Mariners Batting Ahead 1-0 Red Sox' Derek Lowe facing 7-8-9,Bottom of the 2nd Mariners Batting Ahead 1-0 Red Sox' Derek Lowe facing 7-8-9,Bottom of the 2nd Mariners Batting Ahead 1-0 Red Sox' Derek Lowe facing 7-8-9
-b2,1-0,0,"['', '', '']",3(1-1) CBX,O,SEA,M. Olivo,D. Lowe,2%,37%,Groundout: SS-1B
-b2,1-0,1,"['', '', '']",2(0-1) CX,O,SEA,H. Bocachica,D. Lowe,1%,38%,Groundout: P-1B
-b2,1-0,2,"['', '', '']",2(0-1) CX,O,SEA,W. Bloomquist,D. Lowe,1%,39%,Groundout: SS-1B
+b2,1-0,0,"______, ______, ______",3(1-1) CBX,O,SEA,M. Olivo,D. Lowe,2%,37%,Groundout: SS-1B
+b2,1-0,1,"______, ______, ______",2(0-1) CX,O,SEA,H. Bocachica,D. Lowe,1%,38%,Groundout: P-1B
+b2,1-0,2,"______, ______, ______",2(0-1) CX,O,SEA,W. Bloomquist,D. Lowe,1%,39%,Groundout: SS-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Mariners 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Mariners 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Mariners 1.
 Top of the 3rd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 1-2-3,Top of the 3rd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 1-2-3,Top of the 3rd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 1-2-3,,Top of the 3rd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 1-2-3,Top of the 3rd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 1-2-3,Top of the 3rd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 1-2-3,Top of the 3rd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 1-2-3,Top of the 3rd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 1-2-3,Top of the 3rd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 1-2-3,Top of the 3rd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 1-2-3,Top of the 3rd Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 1-2-3
-t3,0-1,0,"['', '', '']",4(1-2) CSBS,O,BOS,J. Damon,J. Pineiro,-3%,37%,Strikeout Swinging
-t3,0-1,1,"['', '', '']",2(1-0) BX,O,BOS,M. Bellhorn,J. Pineiro,-2%,35%,Popfly: SS
-t3,0-1,2,"['', '', '']",5(1-2) CBFFX,O,BOS,D. Ortiz,J. Pineiro,-1%,33%,Groundout: 2B-1B
+t3,0-1,0,"______, ______, ______",4(1-2) CSBS,O,BOS,J. Damon,J. Pineiro,-3%,37%,Strikeout Swinging
+t3,0-1,1,"______, ______, ______",2(1-0) BX,O,BOS,M. Bellhorn,J. Pineiro,-2%,35%,Popfly: SS
+t3,0-1,2,"______, ______, ______",5(1-2) CBFFX,O,BOS,D. Ortiz,J. Pineiro,-1%,33%,Groundout: 2B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Mariners 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Mariners 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Mariners 1.
 Bottom of the 3rd Mariners Batting Ahead 1-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 3rd Mariners Batting Ahead 1-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 3rd Mariners Batting Ahead 1-0 Red Sox' Derek Lowe facing 1-2-3,,Bottom of the 3rd Mariners Batting Ahead 1-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 3rd Mariners Batting Ahead 1-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 3rd Mariners Batting Ahead 1-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 3rd Mariners Batting Ahead 1-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 3rd Mariners Batting Ahead 1-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 3rd Mariners Batting Ahead 1-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 3rd Mariners Batting Ahead 1-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 3rd Mariners Batting Ahead 1-0 Red Sox' Derek Lowe facing 1-2-3
-b3,1-0,0,"['', '', '']",4(2-1) FBBX,,SEA,I. Suzuki,D. Lowe,-3%,30%,Single to SS (Pop Fly to Short LF)
-b3,1-0,0,"['Suzuki', '', '']",3(2-0) 1BB>X,,SEA,R. Winn,D. Lowe,-5%,25%,Single to 3B (Ground Ball); Suzuki to 2B
-b3,1-0,0,"['Winn', 'Suzuki', '']",1(0-0) X,O,SEA,B. Boone,D. Lowe,0%,26%,Bunt Groundout: P-1B/Sacrifice; Suzuki to 3B; Winn to 2B
-b3,1-0,1,"['', 'Winn', 'Suzuki']",8(3-2) CSBBFFBS,O,SEA,E. Martinez,D. Lowe,7%,33%,Strikeout Swinging
-b3,1-0,2,"['', 'Winn', 'Suzuki']",2(0-1) FX,O,SEA,B. Jacobsen,D. Lowe,5%,38%,Flyball: CF
+b3,1-0,0,"______, ______, ______",4(2-1) FBBX,,SEA,I. Suzuki,D. Lowe,-3%,30%,Single to SS (Pop Fly to Short LF)
+b3,1-0,0,"I. Suzuki, ______, ______",3(2-0) 1BB>X,,SEA,R. Winn,D. Lowe,-5%,25%,Single to 3B (Ground Ball); I. Suzuki to 2B
+b3,1-0,0,"R. Winn, I. Suzuki, ______",1(0-0) X,O,SEA,B. Boone,D. Lowe,0%,26%,Bunt Groundout: P-1B/Sacrifice; I. Suzuki to 3B; R. Winn to 2B
+b3,1-0,1,"______, R. Winn, I. Suzuki",8(3-2) CSBBFFBS,O,SEA,E. Martinez,D. Lowe,7%,33%,Strikeout Swinging
+b3,1-0,2,"______, R. Winn, I. Suzuki",2(0-1) FX,O,SEA,B. Jacobsen,D. Lowe,5%,38%,Flyball: CF
 ,,,,,,,,,0 runs 2 hits 0 errors 2 LOB. Red Sox 0 Mariners 1.,0 runs 2 hits 0 errors 2 LOB. Red Sox 0 Mariners 1.,0 runs 2 hits 0 errors 2 LOB. Red Sox 0 Mariners 1.
 Top of the 4th Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 4-5-6,Top of the 4th Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 4-5-6,Top of the 4th Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 4-5-6,,Top of the 4th Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 4-5-6,Top of the 4th Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 4-5-6,Top of the 4th Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 4-5-6,Top of the 4th Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 4-5-6,Top of the 4th Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 4-5-6,Top of the 4th Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 4-5-6,Top of the 4th Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 4-5-6,Top of the 4th Red Sox Batting Behind 0-1 Mariners' Joel Pineiro facing 4-5-6
-t4,0-1,0,"['', '', '']",6(3-2) FBBBFB,,BOS,M. Ramirez,J. Pineiro,5%,43%,Walk
-t4,0-1,0,"['Ramirez', '', '']",3(0-2) FFX,,BOS,N. Garciaparra,J. Pineiro,13%,55%,Double to LF (Line Drive); Ramirez to 3B
-t4,0-1,0,"['', 'Garciaparra', 'Ramirez']",3(2-0) B*BX,RR,BOS,T. Nixon,J. Pineiro,10%,65%,Single to LF (Ground Ball thru LF Line); Ramirez Scores; Garciaparra Scores
-t4,2-1,0,"['Nixon', '', '']",3(1-1) *BSB,,BOS,D. Mirabelli,J. Pineiro,3%,68%,Passed Ball; Nixon to 2B
-t4,2-1,0,"['', 'Nixon', '']",6(3-2) *BSB.BFX,,BOS,D. Mirabelli,J. Pineiro,6%,74%,Single to CF (Line Drive); Nixon to 3B
-t4,2-1,0,"['Mirabelli', '', 'Nixon']",5(2-2) CBF*BS,O,BOS,B. Mueller,J. Pineiro,-6%,68%,Strikeout Swinging
-t4,2-1,1,"['Mirabelli', '', 'Nixon']",3(0-2) SFX,R,BOS,D. McCarty,J. Pineiro,7%,75%,Single to LF (Ground Ball thru LF Line); Nixon Scores; Mirabelli to 2B
-t4,3-1,1,"['McCarty', 'Mirabelli', '']",4(3-0) BB*BB,,BOS,J. Damon,J. Pineiro,4%,80%,Walk; Mirabelli to 3B; McCarty to 2B
-t4,3-1,1,"['Damon', 'McCarty', 'Mirabelli']",4(1-2) FCBX,RO,BOS,M. Bellhorn,J. Pineiro,1%,81%,Groundout: 2B-1B; Mirabelli Scores; McCarty to 3B; Damon to 2B
-t4,4-1,2,"['', 'Damon', 'McCarty']",4(2-1) BBCX,RRR,BOS,D. Ortiz,J. Pineiro,13%,94%,Home Run (Fly Ball to CF-RF); McCarty Scores; Damon Scores
-t4,7-1,2,"['', '', '']",1(0-0) X,R,BOS,M. Ramirez,J. Pineiro,2%,96%,Home Run (Fly Ball)
+t4,0-1,0,"______, ______, ______",6(3-2) FBBBFB,,BOS,M. Ramirez,J. Pineiro,5%,43%,Walk
+t4,0-1,0,"M. Ramirez, ______, ______",3(0-2) FFX,,BOS,N. Garciaparra,J. Pineiro,13%,55%,Double to LF (Line Drive); M. Ramirez to 3B
+t4,0-1,0,"______, N. Garciaparra, M. Ramirez",3(2-0) B*BX,RR,BOS,T. Nixon,J. Pineiro,10%,65%,Single to LF (Ground Ball thru LF Line); M. Ramirez Scores; N. Garciaparra Scores
+t4,2-1,0,"T. Nixon, ______, ______",3(1-1) *BSB,,BOS,D. Mirabelli,J. Pineiro,3%,68%,Passed Ball; T. Nixon to 2B
+t4,2-1,0,"______, T. Nixon, ______",6(3-2) *BSB.BFX,,BOS,D. Mirabelli,J. Pineiro,6%,74%,Single to CF (Line Drive); T. Nixon to 3B
+t4,2-1,0,"D. Mirabelli, ______, T. Nixon",5(2-2) CBF*BS,O,BOS,B. Mueller,J. Pineiro,-6%,68%,Strikeout Swinging
+t4,2-1,1,"D. Mirabelli, ______, T. Nixon",3(0-2) SFX,R,BOS,D. McCarty,J. Pineiro,7%,75%,Single to LF (Ground Ball thru LF Line); T. Nixon Scores; D. Mirabelli to 2B
+t4,3-1,1,"D. McCarty, D. Mirabelli, ______",4(3-0) BB*BB,,BOS,J. Damon,J. Pineiro,4%,80%,Walk; D. Mirabelli to 3B; D. McCarty to 2B
+t4,3-1,1,"J. Damon, D. McCarty, D. Mirabelli",4(1-2) FCBX,RO,BOS,M. Bellhorn,J. Pineiro,1%,81%,Groundout: 2B-1B; D. Mirabelli Scores; D. McCarty to 3B; J. Damon to 2B
+t4,4-1,2,"______, J. Damon, D. McCarty",4(2-1) BBCX,RRR,BOS,D. Ortiz,J. Pineiro,13%,94%,Home Run (Fly Ball to CF-RF); D. McCarty Scores; J. Damon Scores
+t4,7-1,2,"______, ______, ______",1(0-0) X,R,BOS,M. Ramirez,J. Pineiro,2%,96%,Home Run (Fly Ball)
 ,,,,,,,,,George Sherrill replaces Joel Pineiro pitching,George Sherrill replaces Joel Pineiro pitching,George Sherrill replaces Joel Pineiro pitching
-t4,8-1,2,"['', '', '']",1(0-0) .X,O,BOS,N. Garciaparra,G. Sherrill,-0%,96%,Groundout: SS-1B
+t4,8-1,2,"______, ______, ______",1(0-0) .X,O,BOS,N. Garciaparra,G. Sherrill,-0%,96%,Groundout: SS-1B
 ,,,,,,,,,8 runs 6 hits 0 errors 0 LOB. Red Sox 8 Mariners 1.,8 runs 6 hits 0 errors 0 LOB. Red Sox 8 Mariners 1.,8 runs 6 hits 0 errors 0 LOB. Red Sox 8 Mariners 1.
 Bottom of the 4th Mariners Batting Behind 1-8 Red Sox' Derek Lowe facing 6-7-8,Bottom of the 4th Mariners Batting Behind 1-8 Red Sox' Derek Lowe facing 6-7-8,Bottom of the 4th Mariners Batting Behind 1-8 Red Sox' Derek Lowe facing 6-7-8,,Bottom of the 4th Mariners Batting Behind 1-8 Red Sox' Derek Lowe facing 6-7-8,Bottom of the 4th Mariners Batting Behind 1-8 Red Sox' Derek Lowe facing 6-7-8,Bottom of the 4th Mariners Batting Behind 1-8 Red Sox' Derek Lowe facing 6-7-8,Bottom of the 4th Mariners Batting Behind 1-8 Red Sox' Derek Lowe facing 6-7-8,Bottom of the 4th Mariners Batting Behind 1-8 Red Sox' Derek Lowe facing 6-7-8,Bottom of the 4th Mariners Batting Behind 1-8 Red Sox' Derek Lowe facing 6-7-8,Bottom of the 4th Mariners Batting Behind 1-8 Red Sox' Derek Lowe facing 6-7-8,Bottom of the 4th Mariners Batting Behind 1-8 Red Sox' Derek Lowe facing 6-7-8
-b4,1-8,0,"['', '', '']",2(1-0) BX,O,SEA,S. Spiezio,D. Lowe,1%,97%,Groundout: 2B-1B
-b4,1-8,1,"['', '', '']",5(3-1) BFBBX,,SEA,M. Olivo,D. Lowe,-1%,96%,Double to LF (Line Drive)
-b4,1-8,1,"['', 'Olivo', '']",1(0-0) X,O,SEA,H. Bocachica,D. Lowe,1%,97%,Groundout: 1B unassisted; Olivo to 3B
-b4,1-8,2,"['', '', 'Olivo']",1(0-0) X,R,SEA,W. Bloomquist,D. Lowe,-2%,95%,Single to CF (Ground Ball); Olivo Scores
-b4,2-8,2,"['Bloomquist', '', '']",1(0-0) >C,,SEA,I. Suzuki,D. Lowe,-0%,95%,Bloomquist Steals 2B
-b4,2-8,2,"['', 'Bloomquist', '']",2(0-1) >C.B,,SEA,I. Suzuki,D. Lowe,-0%,94%,Wild Pitch; Bloomquist to 3B
-b4,2-8,2,"['', '', 'Bloomquist']",7(3-2) >C.B.CBBFB,,SEA,I. Suzuki,D. Lowe,-1%,94%,Walk
-b4,2-8,2,"['Suzuki', '', 'Bloomquist']",2(1-0) B>B,,SEA,R. Winn,D. Lowe,-1%,93%,Suzuki Steals 2B
-b4,2-8,2,"['', 'Suzuki', 'Bloomquist']",5(3-1) B>B.CBX,O,SEA,R. Winn,D. Lowe,3%,96%,Groundout: 1B unassisted
+b4,1-8,0,"______, ______, ______",2(1-0) BX,O,SEA,S. Spiezio,D. Lowe,1%,97%,Groundout: 2B-1B
+b4,1-8,1,"______, ______, ______",5(3-1) BFBBX,,SEA,M. Olivo,D. Lowe,-1%,96%,Double to LF (Line Drive)
+b4,1-8,1,"______, M. Olivo, ______",1(0-0) X,O,SEA,H. Bocachica,D. Lowe,1%,97%,Groundout: 1B unassisted; M. Olivo to 3B
+b4,1-8,2,"______, ______, M. Olivo",1(0-0) X,R,SEA,W. Bloomquist,D. Lowe,-2%,95%,Single to CF (Ground Ball); M. Olivo Scores
+b4,2-8,2,"W. Bloomquist, ______, ______",1(0-0) >C,,SEA,I. Suzuki,D. Lowe,-0%,95%,W. Bloomquist Steals 2B
+b4,2-8,2,"______, W. Bloomquist, ______",2(0-1) >C.B,,SEA,I. Suzuki,D. Lowe,-0%,94%,Wild Pitch; W. Bloomquist to 3B
+b4,2-8,2,"______, ______, W. Bloomquist",7(3-2) >C.B.CBBFB,,SEA,I. Suzuki,D. Lowe,-1%,94%,Walk
+b4,2-8,2,"I. Suzuki, ______, W. Bloomquist",2(1-0) B>B,,SEA,R. Winn,D. Lowe,-1%,93%,I. Suzuki Steals 2B
+b4,2-8,2,"______, I. Suzuki, W. Bloomquist",5(3-1) B>B.CBX,O,SEA,R. Winn,D. Lowe,3%,96%,Groundout: 1B unassisted
 ,,,,,,,,,1 run 2 hits 0 errors 2 LOB. Red Sox 8 Mariners 2.,1 run 2 hits 0 errors 2 LOB. Red Sox 8 Mariners 2.,1 run 2 hits 0 errors 2 LOB. Red Sox 8 Mariners 2.
 Top of the 5th Red Sox Batting Ahead 8-2 Mariners' George Sherrill facing 6-7-8,Top of the 5th Red Sox Batting Ahead 8-2 Mariners' George Sherrill facing 6-7-8,Top of the 5th Red Sox Batting Ahead 8-2 Mariners' George Sherrill facing 6-7-8,,Top of the 5th Red Sox Batting Ahead 8-2 Mariners' George Sherrill facing 6-7-8,Top of the 5th Red Sox Batting Ahead 8-2 Mariners' George Sherrill facing 6-7-8,Top of the 5th Red Sox Batting Ahead 8-2 Mariners' George Sherrill facing 6-7-8,Top of the 5th Red Sox Batting Ahead 8-2 Mariners' George Sherrill facing 6-7-8,Top of the 5th Red Sox Batting Ahead 8-2 Mariners' George Sherrill facing 6-7-8,Top of the 5th Red Sox Batting Ahead 8-2 Mariners' George Sherrill facing 6-7-8,Top of the 5th Red Sox Batting Ahead 8-2 Mariners' George Sherrill facing 6-7-8,Top of the 5th Red Sox Batting Ahead 8-2 Mariners' George Sherrill facing 6-7-8
-t5,8-2,0,"['', '', '']",4(2-1) CBBX,O,BOS,T. Nixon,G. Sherrill,-0%,95%,Groundout: P-1B
-t5,8-2,1,"['', '', '']",5(3-1) BBCBX,,BOS,D. Mirabelli,G. Sherrill,1%,96%,Double to LF (Fly Ball to LF-CF)
-t5,8-2,1,"['', 'Mirabelli', '']",2(1-0) BX,O,BOS,B. Mueller,G. Sherrill,-1%,96%,Groundout: SS-1B
-t5,8-2,2,"['', 'Mirabelli', '']",2(1-0) BX,,BOS,D. McCarty,G. Sherrill,0%,96%,Reached on E6 (throw) (Ground Ball); Mirabelli to 3B
-t5,8-2,2,"['McCarty', '', 'Mirabelli']",2(1-0) BX,O,BOS,J. Damon,G. Sherrill,-1%,95%,Foul Popfly: C (Behind Home)
+t5,8-2,0,"______, ______, ______",4(2-1) CBBX,O,BOS,T. Nixon,G. Sherrill,-0%,95%,Groundout: P-1B
+t5,8-2,1,"______, ______, ______",5(3-1) BBCBX,,BOS,D. Mirabelli,G. Sherrill,1%,96%,Double to LF (Fly Ball to LF-CF)
+t5,8-2,1,"______, D. Mirabelli, ______",2(1-0) BX,O,BOS,B. Mueller,G. Sherrill,-1%,96%,Groundout: SS-1B
+t5,8-2,2,"______, D. Mirabelli, ______",2(1-0) BX,,BOS,D. McCarty,G. Sherrill,0%,96%,Reached on E6 (throw) (Ground Ball); D. Mirabelli to 3B
+t5,8-2,2,"D. McCarty, ______, D. Mirabelli",2(1-0) BX,O,BOS,J. Damon,G. Sherrill,-1%,95%,Foul Popfly: C (Behind Home)
 ,,,,,,,,,0 runs 1 hit 1 error 2 LOB. Red Sox 8 Mariners 2.,0 runs 1 hit 1 error 2 LOB. Red Sox 8 Mariners 2.,0 runs 1 hit 1 error 2 LOB. Red Sox 8 Mariners 2.
 Bottom of the 5th Mariners Batting Behind 2-8 Red Sox' Derek Lowe facing 3-4-5,Bottom of the 5th Mariners Batting Behind 2-8 Red Sox' Derek Lowe facing 3-4-5,Bottom of the 5th Mariners Batting Behind 2-8 Red Sox' Derek Lowe facing 3-4-5,,Bottom of the 5th Mariners Batting Behind 2-8 Red Sox' Derek Lowe facing 3-4-5,Bottom of the 5th Mariners Batting Behind 2-8 Red Sox' Derek Lowe facing 3-4-5,Bottom of the 5th Mariners Batting Behind 2-8 Red Sox' Derek Lowe facing 3-4-5,Bottom of the 5th Mariners Batting Behind 2-8 Red Sox' Derek Lowe facing 3-4-5,Bottom of the 5th Mariners Batting Behind 2-8 Red Sox' Derek Lowe facing 3-4-5,Bottom of the 5th Mariners Batting Behind 2-8 Red Sox' Derek Lowe facing 3-4-5,Bottom of the 5th Mariners Batting Behind 2-8 Red Sox' Derek Lowe facing 3-4-5,Bottom of the 5th Mariners Batting Behind 2-8 Red Sox' Derek Lowe facing 3-4-5
-b5,2-8,0,"['', '', '']",1(0-0) X,,SEA,B. Boone,D. Lowe,-2%,93%,Double to CF (Fly Ball to Deep CF)
-b5,2-8,0,"['', 'Boone', '']",1(0-0) X,O,SEA,E. Martinez,D. Lowe,2%,95%,Groundout: 3B-1B
-b5,2-8,1,"['', 'Boone', '']",2(0-1) FX,O,SEA,B. Jacobsen,D. Lowe,1%,96%,Foul Popfly: 1B (1B Foul)
-b5,2-8,2,"['', 'Boone', '']",6(3-2) BBFSBX,O,SEA,S. Spiezio,D. Lowe,1%,97%,Popfly: 3B
+b5,2-8,0,"______, ______, ______",1(0-0) X,,SEA,B. Boone,D. Lowe,-2%,93%,Double to CF (Fly Ball to Deep CF)
+b5,2-8,0,"______, B. Boone, ______",1(0-0) X,O,SEA,E. Martinez,D. Lowe,2%,95%,Groundout: 3B-1B
+b5,2-8,1,"______, B. Boone, ______",2(0-1) FX,O,SEA,B. Jacobsen,D. Lowe,1%,96%,Foul Popfly: 1B (1B Foul)
+b5,2-8,2,"______, B. Boone, ______",6(3-2) BBFSBX,O,SEA,S. Spiezio,D. Lowe,1%,97%,Popfly: 3B
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Red Sox 8 Mariners 2.,0 runs 1 hit 0 errors 1 LOB. Red Sox 8 Mariners 2.,0 runs 1 hit 0 errors 1 LOB. Red Sox 8 Mariners 2.
 Top of the 6th Red Sox Batting Ahead 8-2 Mariners' George Sherrill facing 2-3-4,Top of the 6th Red Sox Batting Ahead 8-2 Mariners' George Sherrill facing 2-3-4,Top of the 6th Red Sox Batting Ahead 8-2 Mariners' George Sherrill facing 2-3-4,,Top of the 6th Red Sox Batting Ahead 8-2 Mariners' George Sherrill facing 2-3-4,Top of the 6th Red Sox Batting Ahead 8-2 Mariners' George Sherrill facing 2-3-4,Top of the 6th Red Sox Batting Ahead 8-2 Mariners' George Sherrill facing 2-3-4,Top of the 6th Red Sox Batting Ahead 8-2 Mariners' George Sherrill facing 2-3-4,Top of the 6th Red Sox Batting Ahead 8-2 Mariners' George Sherrill facing 2-3-4,Top of the 6th Red Sox Batting Ahead 8-2 Mariners' George Sherrill facing 2-3-4,Top of the 6th Red Sox Batting Ahead 8-2 Mariners' George Sherrill facing 2-3-4,Top of the 6th Red Sox Batting Ahead 8-2 Mariners' George Sherrill facing 2-3-4
-t6,8-2,0,"['', '', '']",6(3-2) BBCBCS,O,BOS,M. Bellhorn,G. Sherrill,-0%,97%,Strikeout Swinging
-t6,8-2,1,"['', '', '']",4(2-1) BBSX,O,BOS,D. Ortiz,G. Sherrill,-0%,97%,Flyball: RF
-t6,8-2,2,"['', '', '']",5(3-1) BBBCB,,BOS,M. Ramirez,G. Sherrill,0%,97%,Walk
-t6,8-2,2,"['Ramirez', '', '']",8(3-2) BFFBFB>F>C,O,BOS,N. Garciaparra,G. Sherrill,-0%,96%,Strikeout Looking
+t6,8-2,0,"______, ______, ______",6(3-2) BBCBCS,O,BOS,M. Bellhorn,G. Sherrill,-0%,97%,Strikeout Swinging
+t6,8-2,1,"______, ______, ______",4(2-1) BBSX,O,BOS,D. Ortiz,G. Sherrill,-0%,97%,Flyball: RF
+t6,8-2,2,"______, ______, ______",5(3-1) BBBCB,,BOS,M. Ramirez,G. Sherrill,0%,97%,Walk
+t6,8-2,2,"M. Ramirez, ______, ______",8(3-2) BFFBFB>F>C,O,BOS,N. Garciaparra,G. Sherrill,-0%,96%,Strikeout Looking
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Red Sox 8 Mariners 2.,0 runs 0 hits 0 errors 1 LOB. Red Sox 8 Mariners 2.,0 runs 0 hits 0 errors 1 LOB. Red Sox 8 Mariners 2.
 Bottom of the 6th Mariners Batting Behind 2-8 Red Sox' Derek Lowe facing 7-8-9,Bottom of the 6th Mariners Batting Behind 2-8 Red Sox' Derek Lowe facing 7-8-9,Bottom of the 6th Mariners Batting Behind 2-8 Red Sox' Derek Lowe facing 7-8-9,,Bottom of the 6th Mariners Batting Behind 2-8 Red Sox' Derek Lowe facing 7-8-9,Bottom of the 6th Mariners Batting Behind 2-8 Red Sox' Derek Lowe facing 7-8-9,Bottom of the 6th Mariners Batting Behind 2-8 Red Sox' Derek Lowe facing 7-8-9,Bottom of the 6th Mariners Batting Behind 2-8 Red Sox' Derek Lowe facing 7-8-9,Bottom of the 6th Mariners Batting Behind 2-8 Red Sox' Derek Lowe facing 7-8-9,Bottom of the 6th Mariners Batting Behind 2-8 Red Sox' Derek Lowe facing 7-8-9,Bottom of the 6th Mariners Batting Behind 2-8 Red Sox' Derek Lowe facing 7-8-9,Bottom of the 6th Mariners Batting Behind 2-8 Red Sox' Derek Lowe facing 7-8-9
-b6,2-8,0,"['', '', '']",4(2-1) FBBX,,SEA,M. Olivo,D. Lowe,-2%,95%,Single to LF (Ground Ball)
-b6,2-8,0,"['Olivo', '', '']",1(0-0) >B,,SEA,H. Bocachica,D. Lowe,-1%,94%,Olivo Steals 2B
-b6,2-8,0,"['', 'Olivo', '']",5(3-1) >B.FBBX,,SEA,H. Bocachica,D. Lowe,-3%,91%,Single to LF (Ground Ball); Olivo to 3B
+b6,2-8,0,"______, ______, ______",4(2-1) FBBX,,SEA,M. Olivo,D. Lowe,-2%,95%,Single to LF (Ground Ball)
+b6,2-8,0,"M. Olivo, ______, ______",1(0-0) >B,,SEA,H. Bocachica,D. Lowe,-1%,94%,M. Olivo Steals 2B
+b6,2-8,0,"______, M. Olivo, ______",5(3-1) >B.FBBX,,SEA,H. Bocachica,D. Lowe,-3%,91%,Single to LF (Ground Ball); M. Olivo to 3B
 ,,,,,,,,,Curt Leskanic replaces Derek Lowe pitching,Curt Leskanic replaces Derek Lowe pitching,Curt Leskanic replaces Derek Lowe pitching
-b6,2-8,0,"['Bocachica', '', 'Olivo']",4(1-2) .FFBX,RO,SEA,W. Bloomquist,C. Leskanic,3%,94%,Groundout: SS-2B/Forceout at 2B; Olivo Scores
-b6,3-8,1,"['Bloomquist', '', '']",4(1-2) B1C>FX,,SEA,I. Suzuki,C. Leskanic,-4%,90%,Single to RF (Ground Ball); Bloomquist to 3B
-b6,3-8,1,"['Suzuki', '', 'Bloomquist']",7(2-2) F1TBBFF>X,RO,SEA,R. Winn,C. Leskanic,2%,92%,Flyball: CF/Sacrifice Fly; Bloomquist Scores
-b6,4-8,2,"['Suzuki', '', '']",4(2-1) CBB1B,,SEA,B. Boone,C. Leskanic,-0%,91%,Suzuki Steals 2B
-b6,4-8,2,"['', 'Suzuki', '']",6(3-2) CBB1B.SX,,SEA,B. Boone,C. Leskanic,-2%,90%,Single to 3B (Ground Ball); Suzuki to 3B
-b6,4-8,2,"['Boone', '', 'Suzuki']",5(3-1) BBCBX,O,SEA,E. Martinez,C. Leskanic,4%,94%,Groundout: SS-1B
+b6,2-8,0,"H. Bocachica, ______, M. Olivo",4(1-2) .FFBX,RO,SEA,W. Bloomquist,C. Leskanic,3%,94%,Groundout: SS-2B/Forceout at 2B; M. Olivo Scores
+b6,3-8,1,"W. Bloomquist, ______, ______",4(1-2) B1C>FX,,SEA,I. Suzuki,C. Leskanic,-4%,90%,Single to RF (Ground Ball); W. Bloomquist to 3B
+b6,3-8,1,"I. Suzuki, ______, W. Bloomquist",7(2-2) F1TBBFF>X,RO,SEA,R. Winn,C. Leskanic,2%,92%,Flyball: CF/Sacrifice Fly; W. Bloomquist Scores
+b6,4-8,2,"I. Suzuki, ______, ______",4(2-1) CBB1B,,SEA,B. Boone,C. Leskanic,-0%,91%,I. Suzuki Steals 2B
+b6,4-8,2,"______, I. Suzuki, ______",6(3-2) CBB1B.SX,,SEA,B. Boone,C. Leskanic,-2%,90%,Single to 3B (Ground Ball); I. Suzuki to 3B
+b6,4-8,2,"B. Boone, ______, I. Suzuki",5(3-1) BBCBX,O,SEA,E. Martinez,C. Leskanic,4%,94%,Groundout: SS-1B
 ,,,,,,,,,2 runs 4 hits 0 errors 2 LOB. Red Sox 8 Mariners 4.,2 runs 4 hits 0 errors 2 LOB. Red Sox 8 Mariners 4.,2 runs 4 hits 0 errors 2 LOB. Red Sox 8 Mariners 4.
 Top of the 7th Red Sox Batting Ahead 8-4 Mariners' Shigetoshi Hasegawa facing 6-7-8,Top of the 7th Red Sox Batting Ahead 8-4 Mariners' Shigetoshi Hasegawa facing 6-7-8,Top of the 7th Red Sox Batting Ahead 8-4 Mariners' Shigetoshi Hasegawa facing 6-7-8,,Top of the 7th Red Sox Batting Ahead 8-4 Mariners' Shigetoshi Hasegawa facing 6-7-8,Top of the 7th Red Sox Batting Ahead 8-4 Mariners' Shigetoshi Hasegawa facing 6-7-8,Top of the 7th Red Sox Batting Ahead 8-4 Mariners' Shigetoshi Hasegawa facing 6-7-8,Top of the 7th Red Sox Batting Ahead 8-4 Mariners' Shigetoshi Hasegawa facing 6-7-8,Top of the 7th Red Sox Batting Ahead 8-4 Mariners' Shigetoshi Hasegawa facing 6-7-8,Top of the 7th Red Sox Batting Ahead 8-4 Mariners' Shigetoshi Hasegawa facing 6-7-8,Top of the 7th Red Sox Batting Ahead 8-4 Mariners' Shigetoshi Hasegawa facing 6-7-8,Top of the 7th Red Sox Batting Ahead 8-4 Mariners' Shigetoshi Hasegawa facing 6-7-8
 ,,,,,,,,,Shigetoshi Hasegawa replaces George Sherrill pitching,Shigetoshi Hasegawa replaces George Sherrill pitching,Shigetoshi Hasegawa replaces George Sherrill pitching
-t7,8-4,0,"['', '', '']",5(3-1) .BBBCX,O,BOS,T. Nixon,S. Hasegawa,-1%,93%,Groundout: 1B unassisted
-t7,8-4,1,"['', '', '']",8(2-2) CCFBFBFX,O,BOS,D. Mirabelli,S. Hasegawa,-0%,93%,Groundout: P-1B
-t7,8-4,2,"['', '', '']",5(3-1) BFBBB,,BOS,B. Mueller,S. Hasegawa,0%,93%,Walk
-t7,8-4,2,"['Mueller', '', '']",3(0-2) CFS,O,BOS,D. McCarty,S. Hasegawa,-1%,92%,Strikeout Swinging
+t7,8-4,0,"______, ______, ______",5(3-1) .BBBCX,O,BOS,T. Nixon,S. Hasegawa,-1%,93%,Groundout: 1B unassisted
+t7,8-4,1,"______, ______, ______",8(2-2) CCFBFBFX,O,BOS,D. Mirabelli,S. Hasegawa,-0%,93%,Groundout: P-1B
+t7,8-4,2,"______, ______, ______",5(3-1) BFBBB,,BOS,B. Mueller,S. Hasegawa,0%,93%,Walk
+t7,8-4,2,"B. Mueller, ______, ______",3(0-2) CFS,O,BOS,D. McCarty,S. Hasegawa,-1%,92%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Red Sox 8 Mariners 4.,0 runs 0 hits 0 errors 1 LOB. Red Sox 8 Mariners 4.,0 runs 0 hits 0 errors 1 LOB. Red Sox 8 Mariners 4.
 Bottom of the 7th Mariners Batting Behind 4-8 Red Sox' Mike Timlin facing 5-6-7,Bottom of the 7th Mariners Batting Behind 4-8 Red Sox' Mike Timlin facing 5-6-7,Bottom of the 7th Mariners Batting Behind 4-8 Red Sox' Mike Timlin facing 5-6-7,,Bottom of the 7th Mariners Batting Behind 4-8 Red Sox' Mike Timlin facing 5-6-7,Bottom of the 7th Mariners Batting Behind 4-8 Red Sox' Mike Timlin facing 5-6-7,Bottom of the 7th Mariners Batting Behind 4-8 Red Sox' Mike Timlin facing 5-6-7,Bottom of the 7th Mariners Batting Behind 4-8 Red Sox' Mike Timlin facing 5-6-7,Bottom of the 7th Mariners Batting Behind 4-8 Red Sox' Mike Timlin facing 5-6-7,Bottom of the 7th Mariners Batting Behind 4-8 Red Sox' Mike Timlin facing 5-6-7,Bottom of the 7th Mariners Batting Behind 4-8 Red Sox' Mike Timlin facing 5-6-7,Bottom of the 7th Mariners Batting Behind 4-8 Red Sox' Mike Timlin facing 5-6-7
 ,,,,,,,,,Mike Timlin replaces Curt Leskanic pitching,Mike Timlin replaces Curt Leskanic pitching,Mike Timlin replaces Curt Leskanic pitching
-b7,4-8,0,"['', '', '']",2(0-1) .FX,O,SEA,B. Jacobsen,M. Timlin,2%,94%,Popfly: 2B (Short CF)
-b7,4-8,1,"['', '', '']",2(0-1) FX,O,SEA,S. Spiezio,M. Timlin,1%,95%,Popfly: 2B (CF-RF)
-b7,4-8,2,"['', '', '']",7(2-2) BBFCFFX,,SEA,M. Olivo,M. Timlin,-1%,94%,Double to CF (Fly Ball to Deep CF)
+b7,4-8,0,"______, ______, ______",2(0-1) .FX,O,SEA,B. Jacobsen,M. Timlin,2%,94%,Popfly: 2B (Short CF)
+b7,4-8,1,"______, ______, ______",2(0-1) FX,O,SEA,S. Spiezio,M. Timlin,1%,95%,Popfly: 2B (CF-RF)
+b7,4-8,2,"______, ______, ______",7(2-2) BBFCFFX,,SEA,M. Olivo,M. Timlin,-1%,94%,Double to CF (Fly Ball to Deep CF)
 ,,,,,,,,,Raul Ibanez pinch hits for Hiram Bocachica (CF) batting 8th,Raul Ibanez pinch hits for Hiram Bocachica (CF) batting 8th,Raul Ibanez pinch hits for Hiram Bocachica (CF) batting 8th
-b7,4-8,2,"['', 'Olivo', '']",5(2-2) .CBBFX,R,SEA,R. Ibanez,M. Timlin,-4%,90%,Single to LF (Line Drive); Olivo Scores
+b7,4-8,2,"______, M. Olivo, ______",5(2-2) .CBBFX,R,SEA,R. Ibanez,M. Timlin,-4%,90%,Single to LF (Line Drive); M. Olivo Scores
 ,,,,,,,,,Dave Hansen pinch hits for Willie Bloomquist (SS) batting 9th,Dave Hansen pinch hits for Willie Bloomquist (SS) batting 9th,Dave Hansen pinch hits for Willie Bloomquist (SS) batting 9th
-b7,5-8,2,"['Ibanez', '', '']",4(1-2) .CBSX,,SEA,D. Hansen,M. Timlin,-3%,87%,Single to RF (Ground Ball); Ibanez to 2B
+b7,5-8,2,"R. Ibanez, ______, ______",4(1-2) .CBSX,,SEA,D. Hansen,M. Timlin,-3%,87%,Single to RF (Ground Ball); R. Ibanez to 2B
 ,,,,,,,,,Jolbert Cabrera pinch runs for Dave Hansen (PH) batting 9th,Jolbert Cabrera pinch runs for Dave Hansen (PH) batting 9th,Jolbert Cabrera pinch runs for Dave Hansen (PH) batting 9th
-b7,5-8,2,"['Cabrera', 'Ibanez', '']",4(1-2) .CFBX,O,SEA,I. Suzuki,M. Timlin,5%,92%,Groundout: 1B unassisted
+b7,5-8,2,"Cabrera, R. Ibanez, ______",4(1-2) .CFBX,O,SEA,I. Suzuki,M. Timlin,5%,92%,Groundout: 1B unassisted
 ,,,,,,,,,1 run 3 hits 0 errors 2 LOB. Red Sox 8 Mariners 5.,1 run 3 hits 0 errors 2 LOB. Red Sox 8 Mariners 5.,1 run 3 hits 0 errors 2 LOB. Red Sox 8 Mariners 5.
 Top of the 8th Red Sox Batting Ahead 8-5 Mariners' Shigetoshi Hasegawa facing 1-2-3,Top of the 8th Red Sox Batting Ahead 8-5 Mariners' Shigetoshi Hasegawa facing 1-2-3,Top of the 8th Red Sox Batting Ahead 8-5 Mariners' Shigetoshi Hasegawa facing 1-2-3,,Top of the 8th Red Sox Batting Ahead 8-5 Mariners' Shigetoshi Hasegawa facing 1-2-3,Top of the 8th Red Sox Batting Ahead 8-5 Mariners' Shigetoshi Hasegawa facing 1-2-3,Top of the 8th Red Sox Batting Ahead 8-5 Mariners' Shigetoshi Hasegawa facing 1-2-3,Top of the 8th Red Sox Batting Ahead 8-5 Mariners' Shigetoshi Hasegawa facing 1-2-3,Top of the 8th Red Sox Batting Ahead 8-5 Mariners' Shigetoshi Hasegawa facing 1-2-3,Top of the 8th Red Sox Batting Ahead 8-5 Mariners' Shigetoshi Hasegawa facing 1-2-3,Top of the 8th Red Sox Batting Ahead 8-5 Mariners' Shigetoshi Hasegawa facing 1-2-3,Top of the 8th Red Sox Batting Ahead 8-5 Mariners' Shigetoshi Hasegawa facing 1-2-3
 ,,,,,,,,,Jolbert Cabrera moves from PR to SSRaul Ibanez moves from PH to LFRandy Winn moves from LF to CF,Jolbert Cabrera moves from PR to SSRaul Ibanez moves from PH to LFRandy Winn moves from LF to CF,Jolbert Cabrera moves from PR to SSRaul Ibanez moves from PH to LFRandy Winn moves from LF to CF
-t8,8-5,0,"['', '', '']",6(3-2) ...CFBBBB,,BOS,J. Damon,S. Hasegawa,1%,93%,Walk
-t8,8-5,0,"['Damon', '', '']",5(3-1) BSBBX,,BOS,M. Bellhorn,S. Hasegawa,3%,96%,Double to CF (Line Drive to CF-RF); Damon to 3B
-t8,8-5,0,"['', 'Bellhorn', 'Damon']",3(2-0) BBX,RO,BOS,D. Ortiz,S. Hasegawa,-0%,96%,Flyball: LF/Sacrifice Fly; Damon Scores
-t8,9-5,1,"['', 'Bellhorn', '']",6(3-2) CBS*BBC,O,BOS,M. Ramirez,S. Hasegawa,-1%,96%,Strikeout Looking
-t8,9-5,2,"['', 'Bellhorn', '']",1(0-0) X,O,BOS,N. Garciaparra,S. Hasegawa,-1%,95%,Flyball: LF
+t8,8-5,0,"______, ______, ______",6(3-2) ...CFBBBB,,BOS,J. Damon,S. Hasegawa,1%,93%,Walk
+t8,8-5,0,"J. Damon, ______, ______",5(3-1) BSBBX,,BOS,M. Bellhorn,S. Hasegawa,3%,96%,Double to CF (Line Drive to CF-RF); J. Damon to 3B
+t8,8-5,0,"______, M. Bellhorn, J. Damon",3(2-0) BBX,RO,BOS,D. Ortiz,S. Hasegawa,-0%,96%,Flyball: LF/Sacrifice Fly; J. Damon Scores
+t8,9-5,1,"______, M. Bellhorn, ______",6(3-2) CBS*BBC,O,BOS,M. Ramirez,S. Hasegawa,-1%,96%,Strikeout Looking
+t8,9-5,2,"______, M. Bellhorn, ______",1(0-0) X,O,BOS,N. Garciaparra,S. Hasegawa,-1%,95%,Flyball: LF
 ,,,,,,,,,1 run 1 hit 0 errors 1 LOB. Red Sox 9 Mariners 5.,1 run 1 hit 0 errors 1 LOB. Red Sox 9 Mariners 5.,1 run 1 hit 0 errors 1 LOB. Red Sox 9 Mariners 5.
 Bottom of the 8th Mariners Batting Behind 5-9 Red Sox' Joe Nelson facing 2-3-4,Bottom of the 8th Mariners Batting Behind 5-9 Red Sox' Joe Nelson facing 2-3-4,Bottom of the 8th Mariners Batting Behind 5-9 Red Sox' Joe Nelson facing 2-3-4,,Bottom of the 8th Mariners Batting Behind 5-9 Red Sox' Joe Nelson facing 2-3-4,Bottom of the 8th Mariners Batting Behind 5-9 Red Sox' Joe Nelson facing 2-3-4,Bottom of the 8th Mariners Batting Behind 5-9 Red Sox' Joe Nelson facing 2-3-4,Bottom of the 8th Mariners Batting Behind 5-9 Red Sox' Joe Nelson facing 2-3-4,Bottom of the 8th Mariners Batting Behind 5-9 Red Sox' Joe Nelson facing 2-3-4,Bottom of the 8th Mariners Batting Behind 5-9 Red Sox' Joe Nelson facing 2-3-4,Bottom of the 8th Mariners Batting Behind 5-9 Red Sox' Joe Nelson facing 2-3-4,Bottom of the 8th Mariners Batting Behind 5-9 Red Sox' Joe Nelson facing 2-3-4
 ,,,,,,,,,Joe Nelson replaces Mike Timlin pitchingGabe Kapler replaces Manny Ramirez playing LF batting 4th,Joe Nelson replaces Mike Timlin pitchingGabe Kapler replaces Manny Ramirez playing LF batting 4th,Joe Nelson replaces Mike Timlin pitchingGabe Kapler replaces Manny Ramirez playing LF batting 4th
-b8,5-9,0,"['', '', '']",2(0-1) ..CH,,SEA,R. Winn,J. Nelson,-3%,92%,Hit By Pitch
-b8,5-9,0,"['Winn', '', '']",3(1-1) BCX,,SEA,B. Boone,J. Nelson,-9%,83%,Double to LF (Ground Ball); Winn to 3B
-b8,5-9,0,"['', 'Boone', 'Winn']",4(1-2) FBSX,R,SEA,E. Martinez,J. Nelson,-10%,73%,Single to LF (Ground Ball thru LF-CF); Winn Scores; Boone to 3B
-b8,6-9,0,"['Martinez', '', 'Boone']",5(2-2) BFFBS,O,SEA,B. Jacobsen,J. Nelson,9%,83%,Strikeout Swinging
+b8,5-9,0,"______, ______, ______",2(0-1) ..CH,,SEA,R. Winn,J. Nelson,-3%,92%,Hit By Pitch
+b8,5-9,0,"R. Winn, ______, ______",3(1-1) BCX,,SEA,B. Boone,J. Nelson,-9%,83%,Double to LF (Ground Ball); R. Winn to 3B
+b8,5-9,0,"______, B. Boone, R. Winn",4(1-2) FBSX,R,SEA,E. Martinez,J. Nelson,-10%,73%,Single to LF (Ground Ball thru LF-CF); R. Winn Scores; B. Boone to 3B
+b8,6-9,0,"E. Martinez, ______, B. Boone",5(2-2) BFFBS,O,SEA,B. Jacobsen,J. Nelson,9%,83%,Strikeout Swinging
 ,,,,,,,,,Alan Embree replaces Joe Nelson pitching,Alan Embree replaces Joe Nelson pitching,Alan Embree replaces Joe Nelson pitching
-b8,6-9,1,"['Martinez', '', 'Boone']",2(1-0) .BX,RO,SEA,S. Spiezio,A. Embree,5%,87%,Groundout: 3B-2B/Forceout at 2B; Boone Scores
-b8,7-9,2,"['Spiezio', '', '']",9(3-2) FBBFB>F>F>F>B,,SEA,M. Olivo,A. Embree,-4%,83%,Walk; Spiezio to 2B
-b8,7-9,2,"['Olivo', 'Spiezio', '']",4(2-1) BCBX,,SEA,R. Ibanez,A. Embree,-7%,76%,Single to LF (Line Drive); Spiezio to 3B; Olivo to 2B
-b8,7-9,2,"['Ibanez', 'Olivo', 'Spiezio']",3(1-1) CBX,O,SEA,J. Cabrera,A. Embree,16%,92%,Flyball: CF
+b8,6-9,1,"E. Martinez, ______, B. Boone",2(1-0) .BX,RO,SEA,S. Spiezio,A. Embree,5%,87%,Groundout: 3B-2B/Forceout at 2B; B. Boone Scores
+b8,7-9,2,"S. Spiezio, ______, ______",9(3-2) FBBFB>F>F>F>B,,SEA,M. Olivo,A. Embree,-4%,83%,Walk; S. Spiezio to 2B
+b8,7-9,2,"M. Olivo, S. Spiezio, ______",4(2-1) BCBX,,SEA,R. Ibanez,A. Embree,-7%,76%,Single to LF (Line Drive); S. Spiezio to 3B; M. Olivo to 2B
+b8,7-9,2,"R. Ibanez, M. Olivo, S. Spiezio",3(1-1) CBX,O,SEA,J. Cabrera,A. Embree,16%,92%,Flyball: CF
 ,,,,,,,,,2 runs 3 hits 0 errors 3 LOB. Red Sox 9 Mariners 7.,2 runs 3 hits 0 errors 3 LOB. Red Sox 9 Mariners 7.,2 runs 3 hits 0 errors 3 LOB. Red Sox 9 Mariners 7.
 Top of the 9th Red Sox Batting Ahead 9-7 Mariners' Mike Myers facing 6-7-8,Top of the 9th Red Sox Batting Ahead 9-7 Mariners' Mike Myers facing 6-7-8,Top of the 9th Red Sox Batting Ahead 9-7 Mariners' Mike Myers facing 6-7-8,,Top of the 9th Red Sox Batting Ahead 9-7 Mariners' Mike Myers facing 6-7-8,Top of the 9th Red Sox Batting Ahead 9-7 Mariners' Mike Myers facing 6-7-8,Top of the 9th Red Sox Batting Ahead 9-7 Mariners' Mike Myers facing 6-7-8,Top of the 9th Red Sox Batting Ahead 9-7 Mariners' Mike Myers facing 6-7-8,Top of the 9th Red Sox Batting Ahead 9-7 Mariners' Mike Myers facing 6-7-8,Top of the 9th Red Sox Batting Ahead 9-7 Mariners' Mike Myers facing 6-7-8,Top of the 9th Red Sox Batting Ahead 9-7 Mariners' Mike Myers facing 6-7-8,Top of the 9th Red Sox Batting Ahead 9-7 Mariners' Mike Myers facing 6-7-8
 ,,,,,,,,,Mike Myers replaces Shigetoshi Hasegawa pitching,Mike Myers replaces Shigetoshi Hasegawa pitching,Mike Myers replaces Shigetoshi Hasegawa pitching
-t9,9-7,0,"['', '', '']",3(0-2) .CSC,O,BOS,T. Nixon,M. Myers,-1%,91%,Strikeout Looking
-t9,9-7,1,"['', '', '']",5(1-2) CSFBS,O,BOS,D. Mirabelli,M. Myers,-1%,90%,Strikeout Swinging
-t9,9-7,2,"['', '', '']",2(1-0) BX,,BOS,B. Mueller,M. Myers,0%,91%,Single to 3B (Ground Ball)
-t9,9-7,2,"['Mueller', '', '']",3(2-0) 1BBX,O,BOS,D. McCarty,M. Myers,-1%,90%,Lineout: P-2B
+t9,9-7,0,"______, ______, ______",3(0-2) .CSC,O,BOS,T. Nixon,M. Myers,-1%,91%,Strikeout Looking
+t9,9-7,1,"______, ______, ______",5(1-2) CSFBS,O,BOS,D. Mirabelli,M. Myers,-1%,90%,Strikeout Swinging
+t9,9-7,2,"______, ______, ______",2(1-0) BX,,BOS,B. Mueller,M. Myers,0%,91%,Single to 3B (Ground Ball)
+t9,9-7,2,"B. Mueller, ______, ______",3(2-0) 1BBX,O,BOS,D. McCarty,M. Myers,-1%,90%,Lineout: P-2B
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Red Sox 9 Mariners 7.,0 runs 1 hit 0 errors 1 LOB. Red Sox 9 Mariners 7.,0 runs 1 hit 0 errors 1 LOB. Red Sox 9 Mariners 7.
 Bottom of the 9th Mariners Batting Behind 7-9 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 9th Mariners Batting Behind 7-9 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 9th Mariners Batting Behind 7-9 Red Sox' Keith Foulke facing 1-2-3,,Bottom of the 9th Mariners Batting Behind 7-9 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 9th Mariners Batting Behind 7-9 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 9th Mariners Batting Behind 7-9 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 9th Mariners Batting Behind 7-9 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 9th Mariners Batting Behind 7-9 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 9th Mariners Batting Behind 7-9 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 9th Mariners Batting Behind 7-9 Red Sox' Keith Foulke facing 1-2-3,Bottom of the 9th Mariners Batting Behind 7-9 Red Sox' Keith Foulke facing 1-2-3
 ,,,,,,,,,Keith Foulke replaces Alan Embree pitchingJason Varitek replaces Doug Mirabelli playing C batting 7th,Keith Foulke replaces Alan Embree pitchingJason Varitek replaces Doug Mirabelli playing C batting 7th,Keith Foulke replaces Alan Embree pitchingJason Varitek replaces Doug Mirabelli playing C batting 7th
-b9,7-9,0,"['', '', '']",4(1-2) ..CCBX,,SEA,I. Suzuki,K. Foulke,-10%,80%,Single to LF (Ground Ball)
-b9,7-9,0,"['Suzuki', '', '']",3(1-1) BF>B,,SEA,R. Winn,K. Foulke,-2%,79%,Suzuki Steals 2B
-b9,7-9,0,"['', 'Suzuki', '']",6(3-2) BF>B.FBB,,SEA,R. Winn,K. Foulke,-13%,66%,Walk
-b9,7-9,0,"['Winn', 'Suzuki', '']",4(1-2) BSCS,O,SEA,B. Boone,K. Foulke,13%,79%,Strikeout Swinging
-b9,7-9,1,"['Winn', 'Suzuki', '']",3(0-2) CCC,O,SEA,E. Martinez,K. Foulke,11%,90%,Strikeout Looking
-b9,7-9,2,"['Winn', 'Suzuki', '']",4(1-2) SBCS,O,SEA,B. Jacobsen,K. Foulke,10%,100%,Strikeout Swinging
+b9,7-9,0,"______, ______, ______",4(1-2) ..CCBX,,SEA,I. Suzuki,K. Foulke,-10%,80%,Single to LF (Ground Ball)
+b9,7-9,0,"I. Suzuki, ______, ______",3(1-1) BF>B,,SEA,R. Winn,K. Foulke,-2%,79%,I. Suzuki Steals 2B
+b9,7-9,0,"______, I. Suzuki, ______",6(3-2) BF>B.FBB,,SEA,R. Winn,K. Foulke,-13%,66%,Walk
+b9,7-9,0,"R. Winn, I. Suzuki, ______",4(1-2) BSCS,O,SEA,B. Boone,K. Foulke,13%,79%,Strikeout Swinging
+b9,7-9,1,"R. Winn, I. Suzuki, ______",3(0-2) CCC,O,SEA,E. Martinez,K. Foulke,11%,90%,Strikeout Looking
+b9,7-9,2,"R. Winn, I. Suzuki, ______",4(1-2) SBCS,O,SEA,B. Jacobsen,K. Foulke,10%,100%,Strikeout Swinging
 ,,,,,,,,,0 runs 1 hit 0 errors 2 LOB. Red Sox 9 Mariners 7.,0 runs 1 hit 0 errors 2 LOB. Red Sox 9 Mariners 7.,0 runs 1 hit 0 errors 2 LOB. Red Sox 9 Mariners 7.

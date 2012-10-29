@@ -1,108 +1,108 @@
 Inn,Score,Out,RoB,Pit(cnt)Sequence,R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
 Top of the 1st Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,,Top of the 1st Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3
-t1,0-0,0,"['', '', '']",5(1-2) CBSFX,O,TOR,R. Johnson,P. Martinez,2%,52%,Foul Popfly: 1B (1B Foul)
-t1,0-0,1,"['', '', '']",2(1-0) BX,,TOR,F. Catalanotto,P. Martinez,-2%,50%,Single to RF (Fly Ball)
-t1,0-0,1,"['Catalanotto', '', '']",2(0-1) CX,O,TOR,V. Wells,P. Martinez,3%,53%,Flyball: CF
-t1,0-0,2,"['Catalanotto', '', '']",4(1-2) BCSX,O,TOR,C. Delgado,P. Martinez,2%,55%,Flyball: LF
+t1,0-0,0,"______, ______, ______",5(1-2) CBSFX,O,TOR,R. Johnson,P. Martinez,2%,52%,Foul Popfly: 1B (1B Foul)
+t1,0-0,1,"______, ______, ______",2(1-0) BX,,TOR,F. Catalanotto,P. Martinez,-2%,50%,Single to RF (Fly Ball)
+t1,0-0,1,"F. Catalanotto, ______, ______",2(0-1) CX,O,TOR,V. Wells,P. Martinez,3%,53%,Flyball: CF
+t1,0-0,2,"F. Catalanotto, ______, ______",4(1-2) BCSX,O,TOR,C. Delgado,P. Martinez,2%,55%,Flyball: LF
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Blue Jays 0 Red Sox 0.,0 runs 1 hit 0 errors 1 LOB. Blue Jays 0 Red Sox 0.,0 runs 1 hit 0 errors 1 LOB. Blue Jays 0 Red Sox 0.
 Bottom of the 1st Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 1-2-3,,Bottom of the 1st Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 1-2-3
-b1,0-0,0,"['', '', '']",3(0-2) CSC,O,BOS,C. Crespo,R. Halladay,-2%,53%,Strikeout Looking
-b1,0-0,1,"['', '', '']",4(1-2) BCFX,O,BOS,B. Mueller,R. Halladay,-2%,51%,Flyball: LF
-b1,0-0,2,"['', '', '']",2(1-0) BX,O,BOS,D. Ortiz,R. Halladay,-1%,50%,Groundout: 2B-1B
+b1,0-0,0,"______, ______, ______",3(0-2) CSC,O,BOS,C. Crespo,R. Halladay,-2%,53%,Strikeout Looking
+b1,0-0,1,"______, ______, ______",4(1-2) BCFX,O,BOS,B. Mueller,R. Halladay,-2%,51%,Flyball: LF
+b1,0-0,2,"______, ______, ______",2(1-0) BX,O,BOS,D. Ortiz,R. Halladay,-1%,50%,Groundout: 2B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Blue Jays 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Blue Jays 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Blue Jays 0 Red Sox 0.
 Top of the 2nd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 5-6-7,Top of the 2nd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 5-6-7,Top of the 2nd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 5-6-7,,Top of the 2nd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 5-6-7,Top of the 2nd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 5-6-7,Top of the 2nd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 5-6-7,Top of the 2nd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 5-6-7,Top of the 2nd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 5-6-7,Top of the 2nd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 5-6-7,Top of the 2nd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 5-6-7,Top of the 2nd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 5-6-7
-t2,0-0,0,"['', '', '']",1(0-0) X,O,TOR,J. Phelps,P. Martinez,2%,52%,Flyball: RF (Deep RF Line)
-t2,0-0,1,"['', '', '']",2(1-0) BX,,TOR,E. Hinske,P. Martinez,-3%,50%,Single to RF (Line Drive)
-t2,0-0,1,"['Hinske', '', '']",6(2-2) CFFBBS,O,TOR,O. Hudson,P. Martinez,3%,53%,Strikeout Swinging
-t2,0-0,2,"['Hinske', '', '']",4(0-2) C1SFC,O,TOR,C. Woodward,P. Martinez,2%,55%,Strikeout Looking
+t2,0-0,0,"______, ______, ______",1(0-0) X,O,TOR,J. Phelps,P. Martinez,2%,52%,Flyball: RF (Deep RF Line)
+t2,0-0,1,"______, ______, ______",2(1-0) BX,,TOR,E. Hinske,P. Martinez,-3%,50%,Single to RF (Line Drive)
+t2,0-0,1,"E. Hinske, ______, ______",6(2-2) CFFBBS,O,TOR,O. Hudson,P. Martinez,3%,53%,Strikeout Swinging
+t2,0-0,2,"E. Hinske, ______, ______",4(0-2) C1SFC,O,TOR,C. Woodward,P. Martinez,2%,55%,Strikeout Looking
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Blue Jays 0 Red Sox 0.,0 runs 1 hit 0 errors 1 LOB. Blue Jays 0 Red Sox 0.,0 runs 1 hit 0 errors 1 LOB. Blue Jays 0 Red Sox 0.
 Bottom of the 2nd Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 4-5-6,Bottom of the 2nd Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 4-5-6,Bottom of the 2nd Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 4-5-6,,Bottom of the 2nd Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 4-5-6,Bottom of the 2nd Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 4-5-6,Bottom of the 2nd Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 4-5-6,Bottom of the 2nd Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 4-5-6,Bottom of the 2nd Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 4-5-6,Bottom of the 2nd Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 4-5-6,Bottom of the 2nd Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 4-5-6,Bottom of the 2nd Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 4-5-6
-b2,0-0,0,"['', '', '']",2(0-1) FX,,BOS,M. Ramirez,R. Halladay,4%,59%,Single to CF (Ground Ball)
-b2,0-0,0,"['Ramirez', '', '']",4(1-2) FBFS,O,BOS,K. Millar,R. Halladay,-3%,56%,Strikeout Swinging
-b2,0-0,1,"['Ramirez', '', '']",3(1-1) BCX,O,BOS,J. Varitek,R. Halladay,-2%,53%,Groundout: P-1B; Ramirez to 2B
-b2,0-0,2,"['', 'Ramirez', '']",2(0-1) SX,O,BOS,G. Kapler,R. Halladay,-3%,50%,Popfly: 3B
+b2,0-0,0,"______, ______, ______",2(0-1) FX,,BOS,M. Ramirez,R. Halladay,4%,59%,Single to CF (Ground Ball)
+b2,0-0,0,"M. Ramirez, ______, ______",4(1-2) FBFS,O,BOS,K. Millar,R. Halladay,-3%,56%,Strikeout Swinging
+b2,0-0,1,"M. Ramirez, ______, ______",3(1-1) BCX,O,BOS,J. Varitek,R. Halladay,-2%,53%,Groundout: P-1B; M. Ramirez to 2B
+b2,0-0,2,"______, M. Ramirez, ______",2(0-1) SX,O,BOS,G. Kapler,R. Halladay,-3%,50%,Popfly: 3B
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Blue Jays 0 Red Sox 0.,0 runs 1 hit 0 errors 1 LOB. Blue Jays 0 Red Sox 0.,0 runs 1 hit 0 errors 1 LOB. Blue Jays 0 Red Sox 0.
 Top of the 3rd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 9-1-2,Top of the 3rd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 9-1-2,Top of the 3rd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 9-1-2,,Top of the 3rd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 9-1-2,Top of the 3rd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 9-1-2,Top of the 3rd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 9-1-2,Top of the 3rd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 9-1-2,Top of the 3rd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 9-1-2,Top of the 3rd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 9-1-2,Top of the 3rd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 9-1-2,Top of the 3rd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 9-1-2
-t3,0-0,0,"['', '', '']",6(1-2) CCBFFS,O,TOR,K. Cash,P. Martinez,3%,53%,Strikeout Swinging
-t3,0-0,1,"['', '', '']",6(2-2) BCFFBH,,TOR,R. Johnson,P. Martinez,-3%,50%,Hit By Pitch
-t3,0-0,1,"['Johnson', '', '']",5(2-2) BCBSC,O,TOR,F. Catalanotto,P. Martinez,3%,53%,Strikeout Looking
-t3,0-0,2,"['Johnson', '', '']",1(0-0) X,O,TOR,V. Wells,P. Martinez,3%,56%,Groundout: 3B-1B
+t3,0-0,0,"______, ______, ______",6(1-2) CCBFFS,O,TOR,K. Cash,P. Martinez,3%,53%,Strikeout Swinging
+t3,0-0,1,"______, ______, ______",6(2-2) BCFFBH,,TOR,R. Johnson,P. Martinez,-3%,50%,Hit By Pitch
+t3,0-0,1,"R. Johnson, ______, ______",5(2-2) BCBSC,O,TOR,F. Catalanotto,P. Martinez,3%,53%,Strikeout Looking
+t3,0-0,2,"R. Johnson, ______, ______",1(0-0) X,O,TOR,V. Wells,P. Martinez,3%,56%,Groundout: 3B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Blue Jays 0 Red Sox 0.,0 runs 0 hits 0 errors 1 LOB. Blue Jays 0 Red Sox 0.,0 runs 0 hits 0 errors 1 LOB. Blue Jays 0 Red Sox 0.
 Bottom of the 3rd Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 8-9-1,Bottom of the 3rd Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 8-9-1,Bottom of the 3rd Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 8-9-1,,Bottom of the 3rd Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 8-9-1,Bottom of the 3rd Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 8-9-1,Bottom of the 3rd Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 8-9-1,Bottom of the 3rd Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 8-9-1,Bottom of the 3rd Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 8-9-1,Bottom of the 3rd Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 8-9-1,Bottom of the 3rd Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 8-9-1,Bottom of the 3rd Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 8-9-1
-b3,0-0,0,"['', '', '']",4(1-2) CFBX,O,BOS,M. Bellhorn,R. Halladay,-3%,53%,Flyball: CF
-b3,0-0,1,"['', '', '']",3(1-1) BCX,,BOS,P. Reese,R. Halladay,3%,56%,Single to CF (Ground Ball thru CF-RF)
-b3,0-0,1,"['Reese', '', '']",2(0-1) CX,O,BOS,C. Crespo,R. Halladay,-2%,54%,Groundout: 3B-1B; Reese to 2B
-b3,0-0,2,"['', 'Reese', '']",5(3-1) BBBCB,,BOS,B. Mueller,R. Halladay,1%,55%,Walk
-b3,0-0,2,"['Mueller', 'Reese', '']",4(1-2) BCSS,O,BOS,D. Ortiz,R. Halladay,-5%,50%,Strikeout Swinging
+b3,0-0,0,"______, ______, ______",4(1-2) CFBX,O,BOS,M. Bellhorn,R. Halladay,-3%,53%,Flyball: CF
+b3,0-0,1,"______, ______, ______",3(1-1) BCX,,BOS,P. Reese,R. Halladay,3%,56%,Single to CF (Ground Ball thru CF-RF)
+b3,0-0,1,"P. Reese, ______, ______",2(0-1) CX,O,BOS,C. Crespo,R. Halladay,-2%,54%,Groundout: 3B-1B; P. Reese to 2B
+b3,0-0,2,"______, P. Reese, ______",5(3-1) BBBCB,,BOS,B. Mueller,R. Halladay,1%,55%,Walk
+b3,0-0,2,"B. Mueller, P. Reese, ______",4(1-2) BCSS,O,BOS,D. Ortiz,R. Halladay,-5%,50%,Strikeout Swinging
 ,,,,,,,,,0 runs 1 hit 0 errors 2 LOB. Blue Jays 0 Red Sox 0.,0 runs 1 hit 0 errors 2 LOB. Blue Jays 0 Red Sox 0.,0 runs 1 hit 0 errors 2 LOB. Blue Jays 0 Red Sox 0.
 Top of the 4th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 4th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 4th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,,Top of the 4th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 4th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 4th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 4th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 4th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 4th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 4th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 4th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6
-t4,0-0,0,"['', '', '']",6(3-2) BCSBBB,,TOR,C. Delgado,P. Martinez,-4%,46%,Walk
-t4,0-0,0,"['Delgado', '', '']",6(3-2) SBBCBX,O,TOR,J. Phelps,P. Martinez,4%,50%,Popfly: 2B
-t4,0-0,1,"['Delgado', '', '']",1(0-0) X,OO,TOR,E. Hinske,P. Martinez,7%,56%,Ground Ball Double Play: SS-2B-1B
+t4,0-0,0,"______, ______, ______",6(3-2) BCSBBB,,TOR,C. Delgado,P. Martinez,-4%,46%,Walk
+t4,0-0,0,"C. Delgado, ______, ______",6(3-2) SBBCBX,O,TOR,J. Phelps,P. Martinez,4%,50%,Popfly: 2B
+t4,0-0,1,"C. Delgado, ______, ______",1(0-0) X,OO,TOR,E. Hinske,P. Martinez,7%,56%,Ground Ball Double Play: SS-2B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Blue Jays 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Blue Jays 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Blue Jays 0 Red Sox 0.
 Bottom of the 4th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 4-5-6,Bottom of the 4th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 4-5-6,Bottom of the 4th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 4-5-6,,Bottom of the 4th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 4-5-6,Bottom of the 4th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 4-5-6,Bottom of the 4th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 4-5-6,Bottom of the 4th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 4-5-6,Bottom of the 4th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 4-5-6,Bottom of the 4th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 4-5-6,Bottom of the 4th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 4-5-6,Bottom of the 4th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 4-5-6
-b4,0-0,0,"['', '', '']",3(1-1) FBX,O,BOS,M. Ramirez,R. Halladay,-3%,54%,Flyball: RF (Deep RF)
-b4,0-0,1,"['', '', '']",5(2-2) FCBBS,O,BOS,K. Millar,R. Halladay,-2%,51%,Strikeout Swinging
-b4,0-0,2,"['', '', '']",5(1-2) CBFFS,O,BOS,J. Varitek,R. Halladay,-1%,50%,Strikeout Swinging
+b4,0-0,0,"______, ______, ______",3(1-1) FBX,O,BOS,M. Ramirez,R. Halladay,-3%,54%,Flyball: RF (Deep RF)
+b4,0-0,1,"______, ______, ______",5(2-2) FCBBS,O,BOS,K. Millar,R. Halladay,-2%,51%,Strikeout Swinging
+b4,0-0,2,"______, ______, ______",5(1-2) CBFFS,O,BOS,J. Varitek,R. Halladay,-1%,50%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Blue Jays 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Blue Jays 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Blue Jays 0 Red Sox 0.
 Top of the 5th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 7-8-9,Top of the 5th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 7-8-9,Top of the 5th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 7-8-9,,Top of the 5th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 7-8-9,Top of the 5th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 7-8-9,Top of the 5th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 7-8-9,Top of the 5th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 7-8-9,Top of the 5th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 7-8-9,Top of the 5th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 7-8-9,Top of the 5th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 7-8-9,Top of the 5th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 7-8-9
-t5,0-0,0,"['', '', '']",1(0-0) X,O,TOR,O. Hudson,P. Martinez,3%,53%,Flyball: CF
-t5,0-0,1,"['', '', '']",4(1-2) BFCC,O,TOR,C. Woodward,P. Martinez,2%,56%,Strikeout Looking
-t5,0-0,2,"['', '', '']",6(3-2) BCBBFB,,TOR,K. Cash,P. Martinez,-2%,54%,Walk
-t5,0-0,2,"['Cash', '', '']",4(1-2) CCBX,O,TOR,R. Johnson,P. Martinez,3%,57%,Groundout: SS-2B/Forceout at 2B
+t5,0-0,0,"______, ______, ______",1(0-0) X,O,TOR,O. Hudson,P. Martinez,3%,53%,Flyball: CF
+t5,0-0,1,"______, ______, ______",4(1-2) BFCC,O,TOR,C. Woodward,P. Martinez,2%,56%,Strikeout Looking
+t5,0-0,2,"______, ______, ______",6(3-2) BCBBFB,,TOR,K. Cash,P. Martinez,-2%,54%,Walk
+t5,0-0,2,"K. Cash, ______, ______",4(1-2) CCBX,O,TOR,R. Johnson,P. Martinez,3%,57%,Groundout: SS-2B/Forceout at 2B
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Blue Jays 0 Red Sox 0.,0 runs 0 hits 0 errors 1 LOB. Blue Jays 0 Red Sox 0.,0 runs 0 hits 0 errors 1 LOB. Blue Jays 0 Red Sox 0.
 Bottom of the 5th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 7-8-9,Bottom of the 5th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 7-8-9,Bottom of the 5th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 7-8-9,,Bottom of the 5th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 7-8-9,Bottom of the 5th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 7-8-9,Bottom of the 5th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 7-8-9,Bottom of the 5th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 7-8-9,Bottom of the 5th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 7-8-9,Bottom of the 5th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 7-8-9,Bottom of the 5th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 7-8-9,Bottom of the 5th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 7-8-9
-b5,0-0,0,"['', '', '']",6(3-2) CBSBBX,O,BOS,G. Kapler,R. Halladay,-3%,54%,Groundout: 2B-1B
-b5,0-0,1,"['', '', '']",6(3-2) FBSBBC,O,BOS,M. Bellhorn,R. Halladay,-2%,52%,Strikeout Looking
-b5,0-0,2,"['', '', '']",4(2-1) BBCX,O,BOS,P. Reese,R. Halladay,-2%,50%,Flyball: CF (CF-RF)
+b5,0-0,0,"______, ______, ______",6(3-2) CBSBBX,O,BOS,G. Kapler,R. Halladay,-3%,54%,Groundout: 2B-1B
+b5,0-0,1,"______, ______, ______",6(3-2) FBSBBC,O,BOS,M. Bellhorn,R. Halladay,-2%,52%,Strikeout Looking
+b5,0-0,2,"______, ______, ______",4(2-1) BBCX,O,BOS,P. Reese,R. Halladay,-2%,50%,Flyball: CF (CF-RF)
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Blue Jays 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Blue Jays 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Blue Jays 0 Red Sox 0.
 Top of the 6th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 2-3-4,Top of the 6th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 2-3-4,Top of the 6th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 2-3-4,,Top of the 6th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 2-3-4,Top of the 6th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 2-3-4,Top of the 6th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 2-3-4,Top of the 6th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 2-3-4,Top of the 6th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 2-3-4,Top of the 6th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 2-3-4,Top of the 6th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 2-3-4,Top of the 6th Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 2-3-4
-t6,0-0,0,"['', '', '']",1(0-0) X,O,TOR,F. Catalanotto,P. Martinez,4%,54%,Groundout: 2B-1B
-t6,0-0,1,"['', '', '']",3(1-1) BCX,O,TOR,V. Wells,P. Martinez,3%,56%,Flyball: CF
-t6,0-0,2,"['', '', '']",4(2-1) BCBX,O,TOR,C. Delgado,P. Martinez,2%,58%,Groundout: 2B-1B
+t6,0-0,0,"______, ______, ______",1(0-0) X,O,TOR,F. Catalanotto,P. Martinez,4%,54%,Groundout: 2B-1B
+t6,0-0,1,"______, ______, ______",3(1-1) BCX,O,TOR,V. Wells,P. Martinez,3%,56%,Flyball: CF
+t6,0-0,2,"______, ______, ______",4(2-1) BCBX,O,TOR,C. Delgado,P. Martinez,2%,58%,Groundout: 2B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Blue Jays 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Blue Jays 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Blue Jays 0 Red Sox 0.
 Bottom of the 6th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 1-2-3,Bottom of the 6th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 1-2-3,Bottom of the 6th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 1-2-3,,Bottom of the 6th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 1-2-3,Bottom of the 6th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 1-2-3,Bottom of the 6th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 1-2-3,Bottom of the 6th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 1-2-3,Bottom of the 6th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 1-2-3,Bottom of the 6th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 1-2-3,Bottom of the 6th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 1-2-3,Bottom of the 6th Red Sox Batting Tied 0-0 Blue Jays' Roy Halladay facing 1-2-3
-b6,0-0,0,"['', '', '']",3(0-2) FLX,,BOS,C. Crespo,R. Halladay,5%,63%,Single to 3B (Ground Ball)
-b6,0-0,0,"['Crespo', '', '']",4(2-1) 1BFBX,O,BOS,B. Mueller,R. Halladay,-5%,58%,Groundout: 1B-SS/Forceout at 2B
-b6,0-0,1,"['Mueller', '', '']",5(1-2) FCBFX,RR,BOS,D. Ortiz,R. Halladay,23%,82%,Home Run (Fly Ball); Mueller Scores
-b6,2-0,1,"['', '', '']",1(0-0) X,,BOS,M. Ramirez,R. Halladay,2%,83%,Single to RF (Line Drive to CF-RF)
-b6,2-0,1,"['Ramirez', '', '']",5(3-1) BBBFX,O,BOS,K. Millar,R. Halladay,-2%,81%,Flyball: CF
-b6,2-0,2,"['Ramirez', '', '']",5(3-1) BFBBB,,BOS,J. Varitek,R. Halladay,1%,83%,Walk; Ramirez to 2B
-b6,2-0,2,"['Varitek', 'Ramirez', '']",6(2-2) CBBFFS,O,BOS,G. Kapler,R. Halladay,-3%,80%,Strikeout Swinging
+b6,0-0,0,"______, ______, ______",3(0-2) FLX,,BOS,C. Crespo,R. Halladay,5%,63%,Single to 3B (Ground Ball)
+b6,0-0,0,"C. Crespo, ______, ______",4(2-1) 1BFBX,O,BOS,B. Mueller,R. Halladay,-5%,58%,Groundout: 1B-SS/Forceout at 2B
+b6,0-0,1,"B. Mueller, ______, ______",5(1-2) FCBFX,RR,BOS,D. Ortiz,R. Halladay,23%,82%,Home Run (Fly Ball); B. Mueller Scores
+b6,2-0,1,"______, ______, ______",1(0-0) X,,BOS,M. Ramirez,R. Halladay,2%,83%,Single to RF (Line Drive to CF-RF)
+b6,2-0,1,"M. Ramirez, ______, ______",5(3-1) BBBFX,O,BOS,K. Millar,R. Halladay,-2%,81%,Flyball: CF
+b6,2-0,2,"M. Ramirez, ______, ______",5(3-1) BFBBB,,BOS,J. Varitek,R. Halladay,1%,83%,Walk; M. Ramirez to 2B
+b6,2-0,2,"J. Varitek, M. Ramirez, ______",6(2-2) CBBFFS,O,BOS,G. Kapler,R. Halladay,-3%,80%,Strikeout Swinging
 ,,,,,,,,,2 runs 3 hits 0 errors 2 LOB. Blue Jays 0 Red Sox 2.,2 runs 3 hits 0 errors 2 LOB. Blue Jays 0 Red Sox 2.,2 runs 3 hits 0 errors 2 LOB. Blue Jays 0 Red Sox 2.
 Top of the 7th Blue Jays Batting Behind 0-2 Red Sox' Pedro Martinez facing 5-6-7,Top of the 7th Blue Jays Batting Behind 0-2 Red Sox' Pedro Martinez facing 5-6-7,Top of the 7th Blue Jays Batting Behind 0-2 Red Sox' Pedro Martinez facing 5-6-7,,Top of the 7th Blue Jays Batting Behind 0-2 Red Sox' Pedro Martinez facing 5-6-7,Top of the 7th Blue Jays Batting Behind 0-2 Red Sox' Pedro Martinez facing 5-6-7,Top of the 7th Blue Jays Batting Behind 0-2 Red Sox' Pedro Martinez facing 5-6-7,Top of the 7th Blue Jays Batting Behind 0-2 Red Sox' Pedro Martinez facing 5-6-7,Top of the 7th Blue Jays Batting Behind 0-2 Red Sox' Pedro Martinez facing 5-6-7,Top of the 7th Blue Jays Batting Behind 0-2 Red Sox' Pedro Martinez facing 5-6-7,Top of the 7th Blue Jays Batting Behind 0-2 Red Sox' Pedro Martinez facing 5-6-7,Top of the 7th Blue Jays Batting Behind 0-2 Red Sox' Pedro Martinez facing 5-6-7
-t7,0-2,0,"['', '', '']",1(0-0) X,O,TOR,J. Phelps,P. Martinez,4%,83%,Flyball: CF (Deep CF)
-t7,0-2,1,"['', '', '']",2(0-1) CX,O,TOR,E. Hinske,P. Martinez,3%,86%,Flyball: CF (Deep CF)
-t7,0-2,2,"['', '', '']",4(2-1) CBBX,R,TOR,O. Hudson,P. Martinez,-10%,75%,Home Run (Fly Ball)
-t7,1-2,2,"['', '', '']",2(0-1) CX,O,TOR,C. Woodward,P. Martinez,2%,78%,Flyball: RF
+t7,0-2,0,"______, ______, ______",1(0-0) X,O,TOR,J. Phelps,P. Martinez,4%,83%,Flyball: CF (Deep CF)
+t7,0-2,1,"______, ______, ______",2(0-1) CX,O,TOR,E. Hinske,P. Martinez,3%,86%,Flyball: CF (Deep CF)
+t7,0-2,2,"______, ______, ______",4(2-1) CBBX,R,TOR,O. Hudson,P. Martinez,-10%,75%,Home Run (Fly Ball)
+t7,1-2,2,"______, ______, ______",2(0-1) CX,O,TOR,C. Woodward,P. Martinez,2%,78%,Flyball: RF
 ,,,,,,,,,1 run 1 hit 0 errors 0 LOB. Blue Jays 1 Red Sox 2.,1 run 1 hit 0 errors 0 LOB. Blue Jays 1 Red Sox 2.,1 run 1 hit 0 errors 0 LOB. Blue Jays 1 Red Sox 2.
 Bottom of the 7th Red Sox Batting Ahead 2-1 Blue Jays' Roy Halladay facing 8-9-1,Bottom of the 7th Red Sox Batting Ahead 2-1 Blue Jays' Roy Halladay facing 8-9-1,Bottom of the 7th Red Sox Batting Ahead 2-1 Blue Jays' Roy Halladay facing 8-9-1,,Bottom of the 7th Red Sox Batting Ahead 2-1 Blue Jays' Roy Halladay facing 8-9-1,Bottom of the 7th Red Sox Batting Ahead 2-1 Blue Jays' Roy Halladay facing 8-9-1,Bottom of the 7th Red Sox Batting Ahead 2-1 Blue Jays' Roy Halladay facing 8-9-1,Bottom of the 7th Red Sox Batting Ahead 2-1 Blue Jays' Roy Halladay facing 8-9-1,Bottom of the 7th Red Sox Batting Ahead 2-1 Blue Jays' Roy Halladay facing 8-9-1,Bottom of the 7th Red Sox Batting Ahead 2-1 Blue Jays' Roy Halladay facing 8-9-1,Bottom of the 7th Red Sox Batting Ahead 2-1 Blue Jays' Roy Halladay facing 8-9-1,Bottom of the 7th Red Sox Batting Ahead 2-1 Blue Jays' Roy Halladay facing 8-9-1
-b7,2-1,0,"['', '', '']",1(0-0) X,R,BOS,M. Bellhorn,R. Halladay,10%,88%,Home Run (Fly Ball)
-b7,3-1,0,"['', '', '']",6(2-2) FBSBFX,O,BOS,P. Reese,R. Halladay,-1%,86%,Flyball: RF (CF-RF)
-b7,3-1,1,"['', '', '']",4(2-1) BBCX,,BOS,C. Crespo,R. Halladay,1%,88%,Single to 2B (Ground Ball)
-b7,3-1,1,"['Crespo', '', '']",3(1-1) BCX,OO,BOS,B. Mueller,R. Halladay,-3%,85%,Ground Ball Double Play: SS-2B-1B
+b7,2-1,0,"______, ______, ______",1(0-0) X,R,BOS,M. Bellhorn,R. Halladay,10%,88%,Home Run (Fly Ball)
+b7,3-1,0,"______, ______, ______",6(2-2) FBSBFX,O,BOS,P. Reese,R. Halladay,-1%,86%,Flyball: RF (CF-RF)
+b7,3-1,1,"______, ______, ______",4(2-1) BBCX,,BOS,C. Crespo,R. Halladay,1%,88%,Single to 2B (Ground Ball)
+b7,3-1,1,"C. Crespo, ______, ______",3(1-1) BCX,OO,BOS,B. Mueller,R. Halladay,-3%,85%,Ground Ball Double Play: SS-2B-1B
 ,,,,,,,,,1 run 2 hits 0 errors 0 LOB. Blue Jays 1 Red Sox 3.,1 run 2 hits 0 errors 0 LOB. Blue Jays 1 Red Sox 3.,1 run 2 hits 0 errors 0 LOB. Blue Jays 1 Red Sox 3.
 Top of the 8th Blue Jays Batting Behind 1-3 Red Sox' Pedro Martinez facing 9-1-2,Top of the 8th Blue Jays Batting Behind 1-3 Red Sox' Pedro Martinez facing 9-1-2,Top of the 8th Blue Jays Batting Behind 1-3 Red Sox' Pedro Martinez facing 9-1-2,,Top of the 8th Blue Jays Batting Behind 1-3 Red Sox' Pedro Martinez facing 9-1-2,Top of the 8th Blue Jays Batting Behind 1-3 Red Sox' Pedro Martinez facing 9-1-2,Top of the 8th Blue Jays Batting Behind 1-3 Red Sox' Pedro Martinez facing 9-1-2,Top of the 8th Blue Jays Batting Behind 1-3 Red Sox' Pedro Martinez facing 9-1-2,Top of the 8th Blue Jays Batting Behind 1-3 Red Sox' Pedro Martinez facing 9-1-2,Top of the 8th Blue Jays Batting Behind 1-3 Red Sox' Pedro Martinez facing 9-1-2,Top of the 8th Blue Jays Batting Behind 1-3 Red Sox' Pedro Martinez facing 9-1-2,Top of the 8th Blue Jays Batting Behind 1-3 Red Sox' Pedro Martinez facing 9-1-2
-t8,1-3,0,"['', '', '']",4(1-2) CCBS,O,TOR,K. Cash,P. Martinez,4%,89%,Strikeout Swinging
-t8,1-3,1,"['', '', '']",8(2-2) SBBSFFFX,,TOR,R. Johnson,P. Martinez,-5%,84%,Single to CF (Ground Ball)
-t8,1-3,1,"['Johnson', '', '']",5(2-2) BFCBC,O,TOR,F. Catalanotto,P. Martinez,5%,89%,Strikeout Looking
+t8,1-3,0,"______, ______, ______",4(1-2) CCBS,O,TOR,K. Cash,P. Martinez,4%,89%,Strikeout Swinging
+t8,1-3,1,"______, ______, ______",8(2-2) SBBSFFFX,,TOR,R. Johnson,P. Martinez,-5%,84%,Single to CF (Ground Ball)
+t8,1-3,1,"R. Johnson, ______, ______",5(2-2) BFCBC,O,TOR,F. Catalanotto,P. Martinez,5%,89%,Strikeout Looking
 ,,,,,,,,,Keith Foulke replaces Pedro Martinez pitching,Keith Foulke replaces Pedro Martinez pitching,Keith Foulke replaces Pedro Martinez pitching
-t8,1-3,2,"['Johnson', '', '']",2(1-0) .BX,O,TOR,V. Wells,K. Foulke,4%,93%,Groundout: SS-2B/Forceout at 2B
+t8,1-3,2,"R. Johnson, ______, ______",2(1-0) .BX,O,TOR,V. Wells,K. Foulke,4%,93%,Groundout: SS-2B/Forceout at 2B
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Blue Jays 1 Red Sox 3.,0 runs 1 hit 0 errors 1 LOB. Blue Jays 1 Red Sox 3.,0 runs 1 hit 0 errors 1 LOB. Blue Jays 1 Red Sox 3.
 Bottom of the 8th Red Sox Batting Ahead 3-1 Blue Jays' Valerio De Los Santos facing 3-4-5,Bottom of the 8th Red Sox Batting Ahead 3-1 Blue Jays' Valerio De Los Santos facing 3-4-5,Bottom of the 8th Red Sox Batting Ahead 3-1 Blue Jays' Valerio De Los Santos facing 3-4-5,,Bottom of the 8th Red Sox Batting Ahead 3-1 Blue Jays' Valerio De Los Santos facing 3-4-5,Bottom of the 8th Red Sox Batting Ahead 3-1 Blue Jays' Valerio De Los Santos facing 3-4-5,Bottom of the 8th Red Sox Batting Ahead 3-1 Blue Jays' Valerio De Los Santos facing 3-4-5,Bottom of the 8th Red Sox Batting Ahead 3-1 Blue Jays' Valerio De Los Santos facing 3-4-5,Bottom of the 8th Red Sox Batting Ahead 3-1 Blue Jays' Valerio De Los Santos facing 3-4-5,Bottom of the 8th Red Sox Batting Ahead 3-1 Blue Jays' Valerio De Los Santos facing 3-4-5,Bottom of the 8th Red Sox Batting Ahead 3-1 Blue Jays' Valerio De Los Santos facing 3-4-5,Bottom of the 8th Red Sox Batting Ahead 3-1 Blue Jays' Valerio De Los Santos facing 3-4-5
 ,,,,,,,,,Valerio De Los Santos replaces Roy Halladay pitching,Valerio De Los Santos replaces Roy Halladay pitching,Valerio De Los Santos replaces Roy Halladay pitching
-b8,3-1,0,"['', '', '']",4(1-2) .CCBS,O,BOS,D. Ortiz,V. De Los Santos,-1%,92%,Strikeout Swinging
+b8,3-1,0,"______, ______, ______",4(1-2) .CCBS,O,BOS,D. Ortiz,V. De Los Santos,-1%,92%,Strikeout Swinging
 ,,,,,,,,,Aquilino Lopez replaces Valerio De Los Santos pitching,Aquilino Lopez replaces Valerio De Los Santos pitching,Aquilino Lopez replaces Valerio De Los Santos pitching
-b8,3-1,1,"['', '', '']",1(0-0) .X,R,BOS,M. Ramirez,A. Lopez,4%,96%,Home Run (Fly Ball)
-b8,4-1,1,"['', '', '']",2(0-1) CX,O,BOS,K. Millar,A. Lopez,-0%,96%,Foul Popfly: C (Behind Home)
-b8,4-1,2,"['', '', '']",6(3-2) CCBBBB,,BOS,J. Varitek,A. Lopez,0%,96%,Walk
-b8,4-1,2,"['Varitek', '', '']",3(1-1) CBX,,BOS,G. Kapler,A. Lopez,0%,97%,Single to 3B (Ground Ball); Varitek to 2B
-b8,4-1,2,"['Kapler', 'Varitek', '']",4(1-2) BSCS,O,BOS,M. Bellhorn,A. Lopez,-1%,96%,Strikeout Swinging
+b8,3-1,1,"______, ______, ______",1(0-0) .X,R,BOS,M. Ramirez,A. Lopez,4%,96%,Home Run (Fly Ball)
+b8,4-1,1,"______, ______, ______",2(0-1) CX,O,BOS,K. Millar,A. Lopez,-0%,96%,Foul Popfly: C (Behind Home)
+b8,4-1,2,"______, ______, ______",6(3-2) CCBBBB,,BOS,J. Varitek,A. Lopez,0%,96%,Walk
+b8,4-1,2,"J. Varitek, ______, ______",3(1-1) CBX,,BOS,G. Kapler,A. Lopez,0%,97%,Single to 3B (Ground Ball); J. Varitek to 2B
+b8,4-1,2,"G. Kapler, J. Varitek, ______",4(1-2) BSCS,O,BOS,M. Bellhorn,A. Lopez,-1%,96%,Strikeout Swinging
 ,,,,,,,,,1 run 2 hits 0 errors 2 LOB. Blue Jays 1 Red Sox 4.,1 run 2 hits 0 errors 2 LOB. Blue Jays 1 Red Sox 4.,1 run 2 hits 0 errors 2 LOB. Blue Jays 1 Red Sox 4.
 Top of the 9th Blue Jays Batting Behind 1-4 Red Sox' Keith Foulke facing 4-5-6,Top of the 9th Blue Jays Batting Behind 1-4 Red Sox' Keith Foulke facing 4-5-6,Top of the 9th Blue Jays Batting Behind 1-4 Red Sox' Keith Foulke facing 4-5-6,,Top of the 9th Blue Jays Batting Behind 1-4 Red Sox' Keith Foulke facing 4-5-6,Top of the 9th Blue Jays Batting Behind 1-4 Red Sox' Keith Foulke facing 4-5-6,Top of the 9th Blue Jays Batting Behind 1-4 Red Sox' Keith Foulke facing 4-5-6,Top of the 9th Blue Jays Batting Behind 1-4 Red Sox' Keith Foulke facing 4-5-6,Top of the 9th Blue Jays Batting Behind 1-4 Red Sox' Keith Foulke facing 4-5-6,Top of the 9th Blue Jays Batting Behind 1-4 Red Sox' Keith Foulke facing 4-5-6,Top of the 9th Blue Jays Batting Behind 1-4 Red Sox' Keith Foulke facing 4-5-6,Top of the 9th Blue Jays Batting Behind 1-4 Red Sox' Keith Foulke facing 4-5-6
-t9,1-4,0,"['', '', '']",1(0-0) X,O,TOR,C. Delgado,K. Foulke,2%,98%,Flyball: RF (Deep RF)
-t9,1-4,1,"['', '', '']",3(1-1) CBX,,TOR,J. Phelps,K. Foulke,-2%,96%,Single to CF (Line Drive)
+t9,1-4,0,"______, ______, ______",1(0-0) X,O,TOR,C. Delgado,K. Foulke,2%,98%,Flyball: RF (Deep RF)
+t9,1-4,1,"______, ______, ______",3(1-1) CBX,,TOR,J. Phelps,K. Foulke,-2%,96%,Single to CF (Line Drive)
 ,,,,,,,,,Dave Berg pinch runs for Josh Phelps (DH) batting 5th,Dave Berg pinch runs for Josh Phelps (DH) batting 5th,Dave Berg pinch runs for Josh Phelps (DH) batting 5th
-t9,1-4,1,"['Berg', '', '']",1(0-0) .X,O,TOR,E. Hinske,K. Foulke,3%,98%,Groundout: 1B unassisted; Berg to 2B
-t9,1-4,2,"['', 'Berg', '']",4(2-1) BBFX,O,TOR,O. Hudson,K. Foulke,2%,100%,Flyball: LF
+t9,1-4,1,"Berg, ______, ______",1(0-0) .X,O,TOR,E. Hinske,K. Foulke,3%,98%,Groundout: 1B unassisted; Berg to 2B
+t9,1-4,2,"______, Berg, ______",4(2-1) BBFX,O,TOR,O. Hudson,K. Foulke,2%,100%,Flyball: LF
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Blue Jays 1 Red Sox 4.,0 runs 1 hit 0 errors 1 LOB. Blue Jays 1 Red Sox 4.,0 runs 1 hit 0 errors 1 LOB. Blue Jays 1 Red Sox 4.

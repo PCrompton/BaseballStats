@@ -1,163 +1,163 @@
 Inn,Score,Out,RoB,Pit(cnt)Sequence,R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
 Top of the 1st Twins Batting Tied 0-0 Yankees' Jon Lieber facing 1-2-3,Top of the 1st Twins Batting Tied 0-0 Yankees' Jon Lieber facing 1-2-3,Top of the 1st Twins Batting Tied 0-0 Yankees' Jon Lieber facing 1-2-3,,Top of the 1st Twins Batting Tied 0-0 Yankees' Jon Lieber facing 1-2-3,Top of the 1st Twins Batting Tied 0-0 Yankees' Jon Lieber facing 1-2-3,Top of the 1st Twins Batting Tied 0-0 Yankees' Jon Lieber facing 1-2-3,Top of the 1st Twins Batting Tied 0-0 Yankees' Jon Lieber facing 1-2-3,Top of the 1st Twins Batting Tied 0-0 Yankees' Jon Lieber facing 1-2-3,Top of the 1st Twins Batting Tied 0-0 Yankees' Jon Lieber facing 1-2-3,Top of the 1st Twins Batting Tied 0-0 Yankees' Jon Lieber facing 1-2-3,Top of the 1st Twins Batting Tied 0-0 Yankees' Jon Lieber facing 1-2-3
-t1,0-0,0,"['', '', '']",2(0-1) CX,O,MIN,S. Stewart,J. Lieber,2%,52%,Flyball: RF
-t1,0-0,1,"['', '', '']",2(1-0) BX,,MIN,J. Jones,J. Lieber,-2%,50%,Single to RF (Ground Ball)
-t1,0-0,1,"['Jones', '', '']",1(0-0) X,O,MIN,T. Hunter,J. Lieber,3%,53%,Groundout: 3B-2B/Forceout at 2B
-t1,0-0,2,"['Hunter', '', '']",1(0-0) X,RO,MIN,J. Morneau,J. Lieber,-7%,45%,Double to RF (Line Drive); Hunter Scores; Morneau out at 3B/RF-2B-C-3B
+t1,0-0,0,"______, ______, ______",2(0-1) CX,O,MIN,S. Stewart,J. Lieber,2%,52%,Flyball: RF
+t1,0-0,1,"______, ______, ______",2(1-0) BX,,MIN,J. Jones,J. Lieber,-2%,50%,Single to RF (Ground Ball)
+t1,0-0,1,"J. Jones, ______, ______",1(0-0) X,O,MIN,T. Hunter,J. Lieber,3%,53%,Groundout: 3B-2B/Forceout at 2B
+t1,0-0,2,"T. Hunter, ______, ______",1(0-0) X,RO,MIN,J. Morneau,J. Lieber,-7%,45%,Double to RF (Line Drive); T. Hunter Scores; J. Morneau out at 3B/RF-2B-C-3B
 ,,,,,,,,,1 run 2 hits 0 errors 0 LOB. Twins 1 Yankees 0.,1 run 2 hits 0 errors 0 LOB. Twins 1 Yankees 0.,1 run 2 hits 0 errors 0 LOB. Twins 1 Yankees 0.
 Bottom of the 1st Yankees Batting Behind 0-1 Twins' Brad Radke facing 1-2-3,Bottom of the 1st Yankees Batting Behind 0-1 Twins' Brad Radke facing 1-2-3,Bottom of the 1st Yankees Batting Behind 0-1 Twins' Brad Radke facing 1-2-3,,Bottom of the 1st Yankees Batting Behind 0-1 Twins' Brad Radke facing 1-2-3,Bottom of the 1st Yankees Batting Behind 0-1 Twins' Brad Radke facing 1-2-3,Bottom of the 1st Yankees Batting Behind 0-1 Twins' Brad Radke facing 1-2-3,Bottom of the 1st Yankees Batting Behind 0-1 Twins' Brad Radke facing 1-2-3,Bottom of the 1st Yankees Batting Behind 0-1 Twins' Brad Radke facing 1-2-3,Bottom of the 1st Yankees Batting Behind 0-1 Twins' Brad Radke facing 1-2-3,Bottom of the 1st Yankees Batting Behind 0-1 Twins' Brad Radke facing 1-2-3,Bottom of the 1st Yankees Batting Behind 0-1 Twins' Brad Radke facing 1-2-3
-b1,0-1,0,"['', '', '']",3(1-1) FBX,R,NYY,D. Jeter,B. Radke,10%,55%,Home Run (Fly Ball)
-b1,1-1,0,"['', '', '']",6(2-2) CBBFFX,O,NYY,A. Rodriguez,B. Radke,-2%,53%,Lineout: 2B
-b1,1-1,1,"['', '', '']",3(0-2) FFX,O,NYY,G. Sheffield,B. Radke,-2%,51%,Groundout: 3B-1B
-b1,1-1,2,"['', '', '']",4(3-0) BBBB,,NYY,H. Matsui,B. Radke,1%,52%,Walk
-b1,1-1,2,"['Matsui', '', '']",4(2-1) FBBX,,NYY,B. Williams,B. Radke,3%,56%,Double to RF (Line Drive); Matsui to 3B
-b1,1-1,2,"['', 'Williams', 'Matsui']",1(0-0) X,O,NYY,J. Posada,B. Radke,-6%,50%,Popfly: 2B
+b1,0-1,0,"______, ______, ______",3(1-1) FBX,R,NYY,D. Jeter,B. Radke,10%,55%,Home Run (Fly Ball)
+b1,1-1,0,"______, ______, ______",6(2-2) CBBFFX,O,NYY,A. Rodriguez,B. Radke,-2%,53%,Lineout: 2B
+b1,1-1,1,"______, ______, ______",3(0-2) FFX,O,NYY,G. Sheffield,B. Radke,-2%,51%,Groundout: 3B-1B
+b1,1-1,2,"______, ______, ______",4(3-0) BBBB,,NYY,H. Matsui,B. Radke,1%,52%,Walk
+b1,1-1,2,"H. Matsui, ______, ______",4(2-1) FBBX,,NYY,B. Williams,B. Radke,3%,56%,Double to RF (Line Drive); H. Matsui to 3B
+b1,1-1,2,"______, B. Williams, H. Matsui",1(0-0) X,O,NYY,J. Posada,B. Radke,-6%,50%,Popfly: 2B
 ,,,,,,,,,1 run 2 hits 0 errors 2 LOB. Twins 1 Yankees 1.,1 run 2 hits 0 errors 2 LOB. Twins 1 Yankees 1.,1 run 2 hits 0 errors 2 LOB. Twins 1 Yankees 1.
 Top of the 2nd Twins Batting Tied 1-1 Yankees' Jon Lieber facing 5-6-7,Top of the 2nd Twins Batting Tied 1-1 Yankees' Jon Lieber facing 5-6-7,Top of the 2nd Twins Batting Tied 1-1 Yankees' Jon Lieber facing 5-6-7,,Top of the 2nd Twins Batting Tied 1-1 Yankees' Jon Lieber facing 5-6-7,Top of the 2nd Twins Batting Tied 1-1 Yankees' Jon Lieber facing 5-6-7,Top of the 2nd Twins Batting Tied 1-1 Yankees' Jon Lieber facing 5-6-7,Top of the 2nd Twins Batting Tied 1-1 Yankees' Jon Lieber facing 5-6-7,Top of the 2nd Twins Batting Tied 1-1 Yankees' Jon Lieber facing 5-6-7,Top of the 2nd Twins Batting Tied 1-1 Yankees' Jon Lieber facing 5-6-7,Top of the 2nd Twins Batting Tied 1-1 Yankees' Jon Lieber facing 5-6-7,Top of the 2nd Twins Batting Tied 1-1 Yankees' Jon Lieber facing 5-6-7
-t2,1-1,0,"['', '', '']",5(3-1) BBCBB,,MIN,C. Koskie,J. Lieber,-4%,46%,Walk
-t2,1-1,0,"['Koskie', '', '']",6(2-2) FBSF1BT,O,MIN,J. Kubel,J. Lieber,4%,50%,Strikeout Swinging
-t2,1-1,1,"['Koskie', '', '']",1(0-0) X,,MIN,C. Guzman,J. Lieber,-4%,46%,Single to RF (Ground Ball); Koskie to 2B
-t2,1-1,1,"['Guzman', 'Koskie', '']",2(0-1) SX,R,MIN,M. Cuddyer,J. Lieber,-12%,34%,Single to RF (Line Drive); Koskie Scores; Guzman to 3B
-t2,2-1,1,"['Cuddyer', '', 'Guzman']",3(0-2) C1SX,RO,MIN,H. Blanco,J. Lieber,-1%,33%,Flyball: RF/Sacrifice Fly; Guzman Scores
-t2,3-1,2,"['Cuddyer', '', '']",3(1-1) SBX,O,MIN,S. Stewart,J. Lieber,2%,35%,Groundout: SS-2B/Forceout at 2B
+t2,1-1,0,"______, ______, ______",5(3-1) BBCBB,,MIN,C. Koskie,J. Lieber,-4%,46%,Walk
+t2,1-1,0,"C. Koskie, ______, ______",6(2-2) FBSF1BT,O,MIN,J. Kubel,J. Lieber,4%,50%,Strikeout Swinging
+t2,1-1,1,"C. Koskie, ______, ______",1(0-0) X,,MIN,C. Guzman,J. Lieber,-4%,46%,Single to RF (Ground Ball); C. Koskie to 2B
+t2,1-1,1,"C. Guzman, C. Koskie, ______",2(0-1) SX,R,MIN,M. Cuddyer,J. Lieber,-12%,34%,Single to RF (Line Drive); C. Koskie Scores; C. Guzman to 3B
+t2,2-1,1,"M. Cuddyer, ______, C. Guzman",3(0-2) C1SX,RO,MIN,H. Blanco,J. Lieber,-1%,33%,Flyball: RF/Sacrifice Fly; C. Guzman Scores
+t2,3-1,2,"M. Cuddyer, ______, ______",3(1-1) SBX,O,MIN,S. Stewart,J. Lieber,2%,35%,Groundout: SS-2B/Forceout at 2B
 ,,,,,,,,,2 runs 2 hits 0 errors 1 LOB. Twins 3 Yankees 1.,2 runs 2 hits 0 errors 1 LOB. Twins 3 Yankees 1.,2 runs 2 hits 0 errors 1 LOB. Twins 3 Yankees 1.
 Bottom of the 2nd Yankees Batting Behind 1-3 Twins' Brad Radke facing 7-8-9,Bottom of the 2nd Yankees Batting Behind 1-3 Twins' Brad Radke facing 7-8-9,Bottom of the 2nd Yankees Batting Behind 1-3 Twins' Brad Radke facing 7-8-9,,Bottom of the 2nd Yankees Batting Behind 1-3 Twins' Brad Radke facing 7-8-9,Bottom of the 2nd Yankees Batting Behind 1-3 Twins' Brad Radke facing 7-8-9,Bottom of the 2nd Yankees Batting Behind 1-3 Twins' Brad Radke facing 7-8-9,Bottom of the 2nd Yankees Batting Behind 1-3 Twins' Brad Radke facing 7-8-9,Bottom of the 2nd Yankees Batting Behind 1-3 Twins' Brad Radke facing 7-8-9,Bottom of the 2nd Yankees Batting Behind 1-3 Twins' Brad Radke facing 7-8-9,Bottom of the 2nd Yankees Batting Behind 1-3 Twins' Brad Radke facing 7-8-9,Bottom of the 2nd Yankees Batting Behind 1-3 Twins' Brad Radke facing 7-8-9
-b2,1-3,0,"['', '', '']",1(0-0) X,O,NYY,R. Sierra,B. Radke,-3%,33%,Groundout: 2B-1B
-b2,1-3,1,"['', '', '']",3(0-2) CCX,O,NYY,J. Olerud,B. Radke,-2%,31%,Flyball: LF
-b2,1-3,2,"['', '', '']",3(0-2) CCX,O,NYY,M. Cairo,B. Radke,-1%,30%,Groundout: SS-1B
+b2,1-3,0,"______, ______, ______",1(0-0) X,O,NYY,R. Sierra,B. Radke,-3%,33%,Groundout: 2B-1B
+b2,1-3,1,"______, ______, ______",3(0-2) CCX,O,NYY,J. Olerud,B. Radke,-2%,31%,Flyball: LF
+b2,1-3,2,"______, ______, ______",3(0-2) CCX,O,NYY,M. Cairo,B. Radke,-1%,30%,Groundout: SS-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Twins 3 Yankees 1.,0 runs 0 hits 0 errors 0 LOB. Twins 3 Yankees 1.,0 runs 0 hits 0 errors 0 LOB. Twins 3 Yankees 1.
 Top of the 3rd Twins Batting Ahead 3-1 Yankees' Jon Lieber facing 2-3-4,Top of the 3rd Twins Batting Ahead 3-1 Yankees' Jon Lieber facing 2-3-4,Top of the 3rd Twins Batting Ahead 3-1 Yankees' Jon Lieber facing 2-3-4,,Top of the 3rd Twins Batting Ahead 3-1 Yankees' Jon Lieber facing 2-3-4,Top of the 3rd Twins Batting Ahead 3-1 Yankees' Jon Lieber facing 2-3-4,Top of the 3rd Twins Batting Ahead 3-1 Yankees' Jon Lieber facing 2-3-4,Top of the 3rd Twins Batting Ahead 3-1 Yankees' Jon Lieber facing 2-3-4,Top of the 3rd Twins Batting Ahead 3-1 Yankees' Jon Lieber facing 2-3-4,Top of the 3rd Twins Batting Ahead 3-1 Yankees' Jon Lieber facing 2-3-4,Top of the 3rd Twins Batting Ahead 3-1 Yankees' Jon Lieber facing 2-3-4,Top of the 3rd Twins Batting Ahead 3-1 Yankees' Jon Lieber facing 2-3-4
-t3,3-1,0,"['', '', '']",3(2-0) BBX,O,MIN,J. Jones,J. Lieber,2%,31%,Groundout: 2B-1B
-t3,3-1,1,"['', '', '']",5(2-2) BSSBS,O,MIN,T. Hunter,J. Lieber,1%,33%,Strikeout Swinging
-t3,3-1,2,"['', '', '']",2(0-1) FX,O,MIN,J. Morneau,J. Lieber,1%,34%,Popfly: SS
+t3,3-1,0,"______, ______, ______",3(2-0) BBX,O,MIN,J. Jones,J. Lieber,2%,31%,Groundout: 2B-1B
+t3,3-1,1,"______, ______, ______",5(2-2) BSSBS,O,MIN,T. Hunter,J. Lieber,1%,33%,Strikeout Swinging
+t3,3-1,2,"______, ______, ______",2(0-1) FX,O,MIN,J. Morneau,J. Lieber,1%,34%,Popfly: SS
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Twins 3 Yankees 1.,0 runs 0 hits 0 errors 0 LOB. Twins 3 Yankees 1.,0 runs 0 hits 0 errors 0 LOB. Twins 3 Yankees 1.
 Bottom of the 3rd Yankees Batting Behind 1-3 Twins' Brad Radke facing 1-2-3,Bottom of the 3rd Yankees Batting Behind 1-3 Twins' Brad Radke facing 1-2-3,Bottom of the 3rd Yankees Batting Behind 1-3 Twins' Brad Radke facing 1-2-3,,Bottom of the 3rd Yankees Batting Behind 1-3 Twins' Brad Radke facing 1-2-3,Bottom of the 3rd Yankees Batting Behind 1-3 Twins' Brad Radke facing 1-2-3,Bottom of the 3rd Yankees Batting Behind 1-3 Twins' Brad Radke facing 1-2-3,Bottom of the 3rd Yankees Batting Behind 1-3 Twins' Brad Radke facing 1-2-3,Bottom of the 3rd Yankees Batting Behind 1-3 Twins' Brad Radke facing 1-2-3,Bottom of the 3rd Yankees Batting Behind 1-3 Twins' Brad Radke facing 1-2-3,Bottom of the 3rd Yankees Batting Behind 1-3 Twins' Brad Radke facing 1-2-3,Bottom of the 3rd Yankees Batting Behind 1-3 Twins' Brad Radke facing 1-2-3
-b3,1-3,0,"['', '', '']",7(3-2) BFBSBFX,O,NYY,D. Jeter,B. Radke,-3%,31%,Flyball: LF
-b3,1-3,1,"['', '', '']",1(0-0) X,,NYY,A. Rodriguez,B. Radke,3%,34%,Single to LF (Ground Ball)
-b3,1-3,1,"['Rodriguez', '', '']",4(2-1) BFBX,RR,NYY,G. Sheffield,B. Radke,19%,53%,Home Run (Fly Ball); Rodriguez Scores
-b3,3-3,1,"['', '', '']",3(0-2) FFX,,NYY,H. Matsui,B. Radke,3%,56%,Single to RF (Line Drive)
-b3,3-3,1,"['Matsui', '', '']",3(0-2) CCX,OO,NYY,B. Williams,B. Radke,-6%,50%,Ground Ball Double Play: 1B-SS-1B
+b3,1-3,0,"______, ______, ______",7(3-2) BFBSBFX,O,NYY,D. Jeter,B. Radke,-3%,31%,Flyball: LF
+b3,1-3,1,"______, ______, ______",1(0-0) X,,NYY,A. Rodriguez,B. Radke,3%,34%,Single to LF (Ground Ball)
+b3,1-3,1,"A. Rodriguez, ______, ______",4(2-1) BFBX,RR,NYY,G. Sheffield,B. Radke,19%,53%,Home Run (Fly Ball); A. Rodriguez Scores
+b3,3-3,1,"______, ______, ______",3(0-2) FFX,,NYY,H. Matsui,B. Radke,3%,56%,Single to RF (Line Drive)
+b3,3-3,1,"H. Matsui, ______, ______",3(0-2) CCX,OO,NYY,B. Williams,B. Radke,-6%,50%,Ground Ball Double Play: 1B-SS-1B
 ,,,,,,,,,2 runs 3 hits 0 errors 0 LOB. Twins 3 Yankees 3.,2 runs 3 hits 0 errors 0 LOB. Twins 3 Yankees 3.,2 runs 3 hits 0 errors 0 LOB. Twins 3 Yankees 3.
 Top of the 4th Twins Batting Tied 3-3 Yankees' Jon Lieber facing 5-6-7,Top of the 4th Twins Batting Tied 3-3 Yankees' Jon Lieber facing 5-6-7,Top of the 4th Twins Batting Tied 3-3 Yankees' Jon Lieber facing 5-6-7,,Top of the 4th Twins Batting Tied 3-3 Yankees' Jon Lieber facing 5-6-7,Top of the 4th Twins Batting Tied 3-3 Yankees' Jon Lieber facing 5-6-7,Top of the 4th Twins Batting Tied 3-3 Yankees' Jon Lieber facing 5-6-7,Top of the 4th Twins Batting Tied 3-3 Yankees' Jon Lieber facing 5-6-7,Top of the 4th Twins Batting Tied 3-3 Yankees' Jon Lieber facing 5-6-7,Top of the 4th Twins Batting Tied 3-3 Yankees' Jon Lieber facing 5-6-7,Top of the 4th Twins Batting Tied 3-3 Yankees' Jon Lieber facing 5-6-7,Top of the 4th Twins Batting Tied 3-3 Yankees' Jon Lieber facing 5-6-7
-t4,3-3,0,"['', '', '']",3(2-0) BBX,O,MIN,C. Koskie,J. Lieber,3%,53%,Groundout: 2B-1B
-t4,3-3,1,"['', '', '']",2(1-0) BX,O,MIN,J. Kubel,J. Lieber,2%,55%,Groundout: SS-1B
-t4,3-3,2,"['', '', '']",3(0-2) CFX,O,MIN,C. Guzman,J. Lieber,1%,56%,Groundout: 1B-P
+t4,3-3,0,"______, ______, ______",3(2-0) BBX,O,MIN,C. Koskie,J. Lieber,3%,53%,Groundout: 2B-1B
+t4,3-3,1,"______, ______, ______",2(1-0) BX,O,MIN,J. Kubel,J. Lieber,2%,55%,Groundout: SS-1B
+t4,3-3,2,"______, ______, ______",3(0-2) CFX,O,MIN,C. Guzman,J. Lieber,1%,56%,Groundout: 1B-P
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Twins 3 Yankees 3.,0 runs 0 hits 0 errors 0 LOB. Twins 3 Yankees 3.,0 runs 0 hits 0 errors 0 LOB. Twins 3 Yankees 3.
 Bottom of the 4th Yankees Batting Tied 3-3 Twins' Brad Radke facing 6-7-8,Bottom of the 4th Yankees Batting Tied 3-3 Twins' Brad Radke facing 6-7-8,Bottom of the 4th Yankees Batting Tied 3-3 Twins' Brad Radke facing 6-7-8,,Bottom of the 4th Yankees Batting Tied 3-3 Twins' Brad Radke facing 6-7-8,Bottom of the 4th Yankees Batting Tied 3-3 Twins' Brad Radke facing 6-7-8,Bottom of the 4th Yankees Batting Tied 3-3 Twins' Brad Radke facing 6-7-8,Bottom of the 4th Yankees Batting Tied 3-3 Twins' Brad Radke facing 6-7-8,Bottom of the 4th Yankees Batting Tied 3-3 Twins' Brad Radke facing 6-7-8,Bottom of the 4th Yankees Batting Tied 3-3 Twins' Brad Radke facing 6-7-8,Bottom of the 4th Yankees Batting Tied 3-3 Twins' Brad Radke facing 6-7-8,Bottom of the 4th Yankees Batting Tied 3-3 Twins' Brad Radke facing 6-7-8
-b4,3-3,0,"['', '', '']",3(2-0) BBX,O,NYY,J. Posada,B. Radke,-3%,53%,Popfly: 3B
-b4,3-3,1,"['', '', '']",1(0-0) X,O,NYY,R. Sierra,B. Radke,-2%,51%,Groundout: 2B-1B
-b4,3-3,2,"['', '', '']",1(0-0) X,,NYY,J. Olerud,B. Radke,3%,54%,Double to CF (Line Drive)
-b4,3-3,2,"['', 'Olerud', '']",1(0-0) X,O,NYY,M. Cairo,B. Radke,-4%,50%,Groundout: SS-1B
+b4,3-3,0,"______, ______, ______",3(2-0) BBX,O,NYY,J. Posada,B. Radke,-3%,53%,Popfly: 3B
+b4,3-3,1,"______, ______, ______",1(0-0) X,O,NYY,R. Sierra,B. Radke,-2%,51%,Groundout: 2B-1B
+b4,3-3,2,"______, ______, ______",1(0-0) X,,NYY,J. Olerud,B. Radke,3%,54%,Double to CF (Line Drive)
+b4,3-3,2,"______, J. Olerud, ______",1(0-0) X,O,NYY,M. Cairo,B. Radke,-4%,50%,Groundout: SS-1B
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Twins 3 Yankees 3.,0 runs 1 hit 0 errors 1 LOB. Twins 3 Yankees 3.,0 runs 1 hit 0 errors 1 LOB. Twins 3 Yankees 3.
 Top of the 5th Twins Batting Tied 3-3 Yankees' Jon Lieber facing 8-9-1,Top of the 5th Twins Batting Tied 3-3 Yankees' Jon Lieber facing 8-9-1,Top of the 5th Twins Batting Tied 3-3 Yankees' Jon Lieber facing 8-9-1,,Top of the 5th Twins Batting Tied 3-3 Yankees' Jon Lieber facing 8-9-1,Top of the 5th Twins Batting Tied 3-3 Yankees' Jon Lieber facing 8-9-1,Top of the 5th Twins Batting Tied 3-3 Yankees' Jon Lieber facing 8-9-1,Top of the 5th Twins Batting Tied 3-3 Yankees' Jon Lieber facing 8-9-1,Top of the 5th Twins Batting Tied 3-3 Yankees' Jon Lieber facing 8-9-1,Top of the 5th Twins Batting Tied 3-3 Yankees' Jon Lieber facing 8-9-1,Top of the 5th Twins Batting Tied 3-3 Yankees' Jon Lieber facing 8-9-1,Top of the 5th Twins Batting Tied 3-3 Yankees' Jon Lieber facing 8-9-1
-t5,3-3,0,"['', '', '']",2(1-0) BX,,MIN,M. Cuddyer,J. Lieber,-5%,45%,Single to CF (Ground Ball)
-t5,3-3,0,"['Cuddyer', '', '']",5(1-2) 1CBLFX,OO,MIN,H. Blanco,J. Lieber,10%,55%,Ground Ball Double Play: SS-1B
-t5,3-3,2,"['', '', '']",1(0-0) X,O,MIN,S. Stewart,J. Lieber,2%,57%,Flyball: RF
+t5,3-3,0,"______, ______, ______",2(1-0) BX,,MIN,M. Cuddyer,J. Lieber,-5%,45%,Single to CF (Ground Ball)
+t5,3-3,0,"M. Cuddyer, ______, ______",5(1-2) 1CBLFX,OO,MIN,H. Blanco,J. Lieber,10%,55%,Ground Ball Double Play: SS-1B
+t5,3-3,2,"______, ______, ______",1(0-0) X,O,MIN,S. Stewart,J. Lieber,2%,57%,Flyball: RF
 ,,,,,,,,,0 runs 1 hit 0 errors 0 LOB. Twins 3 Yankees 3.,0 runs 1 hit 0 errors 0 LOB. Twins 3 Yankees 3.,0 runs 1 hit 0 errors 0 LOB. Twins 3 Yankees 3.
 Bottom of the 5th Yankees Batting Tied 3-3 Twins' Brad Radke facing 1-2-3,Bottom of the 5th Yankees Batting Tied 3-3 Twins' Brad Radke facing 1-2-3,Bottom of the 5th Yankees Batting Tied 3-3 Twins' Brad Radke facing 1-2-3,,Bottom of the 5th Yankees Batting Tied 3-3 Twins' Brad Radke facing 1-2-3,Bottom of the 5th Yankees Batting Tied 3-3 Twins' Brad Radke facing 1-2-3,Bottom of the 5th Yankees Batting Tied 3-3 Twins' Brad Radke facing 1-2-3,Bottom of the 5th Yankees Batting Tied 3-3 Twins' Brad Radke facing 1-2-3,Bottom of the 5th Yankees Batting Tied 3-3 Twins' Brad Radke facing 1-2-3,Bottom of the 5th Yankees Batting Tied 3-3 Twins' Brad Radke facing 1-2-3,Bottom of the 5th Yankees Batting Tied 3-3 Twins' Brad Radke facing 1-2-3,Bottom of the 5th Yankees Batting Tied 3-3 Twins' Brad Radke facing 1-2-3
-b5,3-3,0,"['', '', '']",1(0-0) X,O,NYY,D. Jeter,B. Radke,-3%,54%,Groundout: 3B-1B
-b5,3-3,1,"['', '', '']",1(0-0) X,R,NYY,A. Rodriguez,B. Radke,14%,68%,Home Run (Fly Ball to LF-CF)
-b5,4-3,1,"['', '', '']",1(0-0) X,O,NYY,G. Sheffield,B. Radke,-2%,66%,Popfly: 3B
-b5,4-3,2,"['', '', '']",2(0-1) SX,O,NYY,H. Matsui,B. Radke,-1%,65%,Flyball: CF
+b5,3-3,0,"______, ______, ______",1(0-0) X,O,NYY,D. Jeter,B. Radke,-3%,54%,Groundout: 3B-1B
+b5,3-3,1,"______, ______, ______",1(0-0) X,R,NYY,A. Rodriguez,B. Radke,14%,68%,Home Run (Fly Ball to LF-CF)
+b5,4-3,1,"______, ______, ______",1(0-0) X,O,NYY,G. Sheffield,B. Radke,-2%,66%,Popfly: 3B
+b5,4-3,2,"______, ______, ______",2(0-1) SX,O,NYY,H. Matsui,B. Radke,-1%,65%,Flyball: CF
 ,,,,,,,,,1 run 1 hit 0 errors 0 LOB. Twins 3 Yankees 4.,1 run 1 hit 0 errors 0 LOB. Twins 3 Yankees 4.,1 run 1 hit 0 errors 0 LOB. Twins 3 Yankees 4.
 Top of the 6th Twins Batting Behind 3-4 Yankees' Jon Lieber facing 2-3-4,Top of the 6th Twins Batting Behind 3-4 Yankees' Jon Lieber facing 2-3-4,Top of the 6th Twins Batting Behind 3-4 Yankees' Jon Lieber facing 2-3-4,,Top of the 6th Twins Batting Behind 3-4 Yankees' Jon Lieber facing 2-3-4,Top of the 6th Twins Batting Behind 3-4 Yankees' Jon Lieber facing 2-3-4,Top of the 6th Twins Batting Behind 3-4 Yankees' Jon Lieber facing 2-3-4,Top of the 6th Twins Batting Behind 3-4 Yankees' Jon Lieber facing 2-3-4,Top of the 6th Twins Batting Behind 3-4 Yankees' Jon Lieber facing 2-3-4,Top of the 6th Twins Batting Behind 3-4 Yankees' Jon Lieber facing 2-3-4,Top of the 6th Twins Batting Behind 3-4 Yankees' Jon Lieber facing 2-3-4,Top of the 6th Twins Batting Behind 3-4 Yankees' Jon Lieber facing 2-3-4
-t6,3-4,0,"['', '', '']",4(1-2) FSBC,O,MIN,J. Jones,J. Lieber,4%,69%,Strikeout Looking
-t6,3-4,1,"['', '', '']",4(2-1) BSBX,,MIN,T. Hunter,J. Lieber,-4%,65%,Single to LF (Line Drive)
-t6,3-4,1,"['Hunter', '', '']",5(2-2) B1BFF1X,O,MIN,J. Morneau,J. Lieber,5%,70%,Popfly: SS
-t6,3-4,2,"['Hunter', '', '']",1(0-1) F1,,MIN,C. Koskie,J. Lieber,-1%,68%,Hunter Steals 2B
-t6,3-4,2,"['', 'Hunter', '']",5(2-2) F1.BBFS,O,MIN,C. Koskie,J. Lieber,5%,74%,Strikeout Swinging
+t6,3-4,0,"______, ______, ______",4(1-2) FSBC,O,MIN,J. Jones,J. Lieber,4%,69%,Strikeout Looking
+t6,3-4,1,"______, ______, ______",4(2-1) BSBX,,MIN,T. Hunter,J. Lieber,-4%,65%,Single to LF (Line Drive)
+t6,3-4,1,"T. Hunter, ______, ______",5(2-2) B1BFF1X,O,MIN,J. Morneau,J. Lieber,5%,70%,Popfly: SS
+t6,3-4,2,"T. Hunter, ______, ______",1(0-1) F1,,MIN,C. Koskie,J. Lieber,-1%,68%,T. Hunter Steals 2B
+t6,3-4,2,"______, T. Hunter, ______",5(2-2) F1.BBFS,O,MIN,C. Koskie,J. Lieber,5%,74%,Strikeout Swinging
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Twins 3 Yankees 4.,0 runs 1 hit 0 errors 1 LOB. Twins 3 Yankees 4.,0 runs 1 hit 0 errors 1 LOB. Twins 3 Yankees 4.
 Bottom of the 6th Yankees Batting Ahead 4-3 Twins' Brad Radke facing 5-6-7,Bottom of the 6th Yankees Batting Ahead 4-3 Twins' Brad Radke facing 5-6-7,Bottom of the 6th Yankees Batting Ahead 4-3 Twins' Brad Radke facing 5-6-7,,Bottom of the 6th Yankees Batting Ahead 4-3 Twins' Brad Radke facing 5-6-7,Bottom of the 6th Yankees Batting Ahead 4-3 Twins' Brad Radke facing 5-6-7,Bottom of the 6th Yankees Batting Ahead 4-3 Twins' Brad Radke facing 5-6-7,Bottom of the 6th Yankees Batting Ahead 4-3 Twins' Brad Radke facing 5-6-7,Bottom of the 6th Yankees Batting Ahead 4-3 Twins' Brad Radke facing 5-6-7,Bottom of the 6th Yankees Batting Ahead 4-3 Twins' Brad Radke facing 5-6-7,Bottom of the 6th Yankees Batting Ahead 4-3 Twins' Brad Radke facing 5-6-7,Bottom of the 6th Yankees Batting Ahead 4-3 Twins' Brad Radke facing 5-6-7
-b6,4-3,0,"['', '', '']",5(2-2) SCBBX,O,NYY,B. Williams,B. Radke,-2%,71%,Groundout: SS-1B
-b6,4-3,1,"['', '', '']",1(0-0) X,O,NYY,J. Posada,B. Radke,-2%,70%,Flyball: RF
-b6,4-3,2,"['', '', '']",5(3-1) CBBBB,,NYY,R. Sierra,B. Radke,1%,71%,Walk
-b6,4-3,2,"['Sierra', '', '']",3(0-2) CF1>B,,NYY,J. Olerud,B. Radke,1%,72%,Sierra Steals 2B
-b6,4-3,2,"['', 'Sierra', '']",9(3-2) CF1>B.FB*BFFX,O,NYY,J. Olerud,B. Radke,-4%,68%,Groundout: P-1B
+b6,4-3,0,"______, ______, ______",5(2-2) SCBBX,O,NYY,B. Williams,B. Radke,-2%,71%,Groundout: SS-1B
+b6,4-3,1,"______, ______, ______",1(0-0) X,O,NYY,J. Posada,B. Radke,-2%,70%,Flyball: RF
+b6,4-3,2,"______, ______, ______",5(3-1) CBBBB,,NYY,R. Sierra,B. Radke,1%,71%,Walk
+b6,4-3,2,"R. Sierra, ______, ______",3(0-2) CF1>B,,NYY,J. Olerud,B. Radke,1%,72%,R. Sierra Steals 2B
+b6,4-3,2,"______, R. Sierra, ______",9(3-2) CF1>B.FB*BFFX,O,NYY,J. Olerud,B. Radke,-4%,68%,Groundout: P-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Twins 3 Yankees 4.,0 runs 0 hits 0 errors 1 LOB. Twins 3 Yankees 4.,0 runs 0 hits 0 errors 1 LOB. Twins 3 Yankees 4.
 Top of the 7th Twins Batting Behind 3-4 Yankees' Jon Lieber facing 6-7-8,Top of the 7th Twins Batting Behind 3-4 Yankees' Jon Lieber facing 6-7-8,Top of the 7th Twins Batting Behind 3-4 Yankees' Jon Lieber facing 6-7-8,,Top of the 7th Twins Batting Behind 3-4 Yankees' Jon Lieber facing 6-7-8,Top of the 7th Twins Batting Behind 3-4 Yankees' Jon Lieber facing 6-7-8,Top of the 7th Twins Batting Behind 3-4 Yankees' Jon Lieber facing 6-7-8,Top of the 7th Twins Batting Behind 3-4 Yankees' Jon Lieber facing 6-7-8,Top of the 7th Twins Batting Behind 3-4 Yankees' Jon Lieber facing 6-7-8,Top of the 7th Twins Batting Behind 3-4 Yankees' Jon Lieber facing 6-7-8,Top of the 7th Twins Batting Behind 3-4 Yankees' Jon Lieber facing 6-7-8,Top of the 7th Twins Batting Behind 3-4 Yankees' Jon Lieber facing 6-7-8
-t7,3-4,0,"['', '', '']",4(2-1) BFBX,O,MIN,J. Kubel,J. Lieber,5%,73%,Groundout: 1B-P
-t7,3-4,1,"['', '', '']",1(0-0) X,,MIN,C. Guzman,J. Lieber,-5%,68%,Single to CF (Ground Ball)
-t7,3-4,1,"['Guzman', '', '']",3(1-1) CB1X,O,MIN,M. Cuddyer,J. Lieber,4%,72%,Groundout: 3B-1B; Guzman to 2B
+t7,3-4,0,"______, ______, ______",4(2-1) BFBX,O,MIN,J. Kubel,J. Lieber,5%,73%,Groundout: 1B-P
+t7,3-4,1,"______, ______, ______",1(0-0) X,,MIN,C. Guzman,J. Lieber,-5%,68%,Single to CF (Ground Ball)
+t7,3-4,1,"C. Guzman, ______, ______",3(1-1) CB1X,O,MIN,M. Cuddyer,J. Lieber,4%,72%,Groundout: 3B-1B; C. Guzman to 2B
 ,,,,,,,,,Tom Gordon replaces Jon Lieber pitchingJose Offerman pinch hits for Henry Blanco (C) batting 9th,Tom Gordon replaces Jon Lieber pitchingJose Offerman pinch hits for Henry Blanco (C) batting 9th,Tom Gordon replaces Jon Lieber pitchingJose Offerman pinch hits for Henry Blanco (C) batting 9th
-t7,3-4,2,"['', 'Guzman', '']",3(2-0) ..BBX,O,MIN,J. Offerman,T. Gordon,6%,78%,Lineout: 2B
+t7,3-4,2,"______, C. Guzman, ______",3(2-0) ..BBX,O,MIN,J. Offerman,T. Gordon,6%,78%,Lineout: 2B
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Twins 3 Yankees 4.,0 runs 1 hit 0 errors 1 LOB. Twins 3 Yankees 4.,0 runs 1 hit 0 errors 1 LOB. Twins 3 Yankees 4.
 Bottom of the 7th Yankees Batting Ahead 4-3 Twins' Brad Radke facing 9-1-2,Bottom of the 7th Yankees Batting Ahead 4-3 Twins' Brad Radke facing 9-1-2,Bottom of the 7th Yankees Batting Ahead 4-3 Twins' Brad Radke facing 9-1-2,,Bottom of the 7th Yankees Batting Ahead 4-3 Twins' Brad Radke facing 9-1-2,Bottom of the 7th Yankees Batting Ahead 4-3 Twins' Brad Radke facing 9-1-2,Bottom of the 7th Yankees Batting Ahead 4-3 Twins' Brad Radke facing 9-1-2,Bottom of the 7th Yankees Batting Ahead 4-3 Twins' Brad Radke facing 9-1-2,Bottom of the 7th Yankees Batting Ahead 4-3 Twins' Brad Radke facing 9-1-2,Bottom of the 7th Yankees Batting Ahead 4-3 Twins' Brad Radke facing 9-1-2,Bottom of the 7th Yankees Batting Ahead 4-3 Twins' Brad Radke facing 9-1-2,Bottom of the 7th Yankees Batting Ahead 4-3 Twins' Brad Radke facing 9-1-2
 ,,,,,,,,,Pat Borders replaces Jose Offerman (PH) playing C batting 9th,Pat Borders replaces Jose Offerman (PH) playing C batting 9th,Pat Borders replaces Jose Offerman (PH) playing C batting 9th
-b7,4-3,0,"['', '', '']",6(3-2) .BCBBCB,,NYY,M. Cairo,B. Radke,3%,81%,Walk
-b7,4-3,0,"['Cairo', '', '']",2(0-1) LX,O,NYY,D. Jeter,B. Radke,-1%,80%,Bunt Groundout: 3B-2B/Sacrifice; Cairo to 2B
-b7,4-3,1,"['', 'Cairo', '']",2(0-1) CX,R,NYY,A. Rodriguez,B. Radke,8%,88%,Single to LF (Line Drive); Cairo Scores
+b7,4-3,0,"______, ______, ______",6(3-2) .BCBBCB,,NYY,M. Cairo,B. Radke,3%,81%,Walk
+b7,4-3,0,"M. Cairo, ______, ______",2(0-1) LX,O,NYY,D. Jeter,B. Radke,-1%,80%,Bunt Groundout: 3B-2B/Sacrifice; M. Cairo to 2B
+b7,4-3,1,"______, M. Cairo, ______",2(0-1) CX,R,NYY,A. Rodriguez,B. Radke,8%,88%,Single to LF (Line Drive); M. Cairo Scores
 ,,,,,,,,,Grant Balfour replaces Brad Radke pitching,Grant Balfour replaces Brad Radke pitching,Grant Balfour replaces Brad Radke pitching
-b7,5-3,1,"['Rodriguez', '', '']",6(3-2) .B1BCF1B>X,OO,NYY,G. Sheffield,G. Balfour,-3%,85%,Ground Ball Double Play: P-2B-1B
+b7,5-3,1,"A. Rodriguez, ______, ______",6(3-2) .B1BCF1B>X,OO,NYY,G. Sheffield,G. Balfour,-3%,85%,Ground Ball Double Play: P-2B-1B
 ,,,,,,,,,1 run 1 hit 0 errors 0 LOB. Twins 3 Yankees 5.,1 run 1 hit 0 errors 0 LOB. Twins 3 Yankees 5.,1 run 1 hit 0 errors 0 LOB. Twins 3 Yankees 5.
 Top of the 8th Twins Batting Behind 3-5 Yankees' Tom Gordon facing 1-2-3,Top of the 8th Twins Batting Behind 3-5 Yankees' Tom Gordon facing 1-2-3,Top of the 8th Twins Batting Behind 3-5 Yankees' Tom Gordon facing 1-2-3,,Top of the 8th Twins Batting Behind 3-5 Yankees' Tom Gordon facing 1-2-3,Top of the 8th Twins Batting Behind 3-5 Yankees' Tom Gordon facing 1-2-3,Top of the 8th Twins Batting Behind 3-5 Yankees' Tom Gordon facing 1-2-3,Top of the 8th Twins Batting Behind 3-5 Yankees' Tom Gordon facing 1-2-3,Top of the 8th Twins Batting Behind 3-5 Yankees' Tom Gordon facing 1-2-3,Top of the 8th Twins Batting Behind 3-5 Yankees' Tom Gordon facing 1-2-3,Top of the 8th Twins Batting Behind 3-5 Yankees' Tom Gordon facing 1-2-3,Top of the 8th Twins Batting Behind 3-5 Yankees' Tom Gordon facing 1-2-3
-t8,3-5,0,"['', '', '']",8(3-2) BFCFFBBX,O,MIN,S. Stewart,T. Gordon,4%,89%,Flyball: RF
-t8,3-5,1,"['', '', '']",4(1-2) CFBS,,MIN,J. Jones,T. Gordon,-5%,85%,Strikeout Swinging Wild Pitch; Jones to 1B
-t8,3-5,1,"['Jones', '', '']",2(1-0) 1BX,,MIN,T. Hunter,T. Gordon,-7%,78%,Single to CF (Line Drive); Jones to 2B
+t8,3-5,0,"______, ______, ______",8(3-2) BFCFFBBX,O,MIN,S. Stewart,T. Gordon,4%,89%,Flyball: RF
+t8,3-5,1,"______, ______, ______",4(1-2) CFBS,,MIN,J. Jones,T. Gordon,-5%,85%,Strikeout Swinging Wild Pitch; J. Jones to 1B
+t8,3-5,1,"J. Jones, ______, ______",2(1-0) 1BX,,MIN,T. Hunter,T. Gordon,-7%,78%,Single to CF (Line Drive); J. Jones to 2B
 ,,,,,,,,,Mariano Rivera replaces Tom Gordon pitching,Mariano Rivera replaces Tom Gordon pitching,Mariano Rivera replaces Tom Gordon pitching
-t8,3-5,1,"['Hunter', 'Jones', '']",1(0-0) .X,R,MIN,J. Morneau,M. Rivera,-20%,58%,Single to RF (Fly Ball); Jones Scores; Hunter to 3B
+t8,3-5,1,"T. Hunter, J. Jones, ______",1(0-0) .X,R,MIN,J. Morneau,M. Rivera,-20%,58%,Single to RF (Fly Ball); J. Jones Scores; T. Hunter to 3B
 ,,,,,,,,,Luis Rivas pinch runs for Justin Morneau (1B) batting 4th,Luis Rivas pinch runs for Justin Morneau (1B) batting 4th,Luis Rivas pinch runs for Justin Morneau (1B) batting 4th
-t8,4-5,1,"['Rivas', '', 'Hunter']",8(3-2) SFFBFBB.1>X,R,MIN,C. Koskie,M. Rivera,-25%,33%,Ground-rule Double (Fly Ball); Hunter Scores; Rivas to 3B
-t8,5-5,1,"['', 'Koskie', 'Rivas']",3(0-2) CSS,O,MIN,J. Kubel,M. Rivera,16%,49%,Strikeout Swinging
-t8,5-5,2,"['', 'Koskie', 'Rivas']",3(0-2) FFX,O,MIN,C. Guzman,M. Rivera,12%,61%,Groundout: P-1B
+t8,4-5,1,"Rivas, ______, T. Hunter",8(3-2) SFFBFBB.1>X,R,MIN,C. Koskie,M. Rivera,-25%,33%,Ground-rule Double (Fly Ball); T. Hunter Scores; Rivas to 3B
+t8,5-5,1,"______, C. Koskie, Rivas",3(0-2) CSS,O,MIN,J. Kubel,M. Rivera,16%,49%,Strikeout Swinging
+t8,5-5,2,"______, C. Koskie, Rivas",3(0-2) FFX,O,MIN,C. Guzman,M. Rivera,12%,61%,Groundout: P-1B
 ,,,,,,,,,2 runs 3 hits 0 errors 2 LOB. Twins 5 Yankees 5.,2 runs 3 hits 0 errors 2 LOB. Twins 5 Yankees 5.,2 runs 3 hits 0 errors 2 LOB. Twins 5 Yankees 5.
 Bottom of the 8th Yankees Batting Tied 5-5 Twins' Juan Rincon facing 4-5-6,Bottom of the 8th Yankees Batting Tied 5-5 Twins' Juan Rincon facing 4-5-6,Bottom of the 8th Yankees Batting Tied 5-5 Twins' Juan Rincon facing 4-5-6,,Bottom of the 8th Yankees Batting Tied 5-5 Twins' Juan Rincon facing 4-5-6,Bottom of the 8th Yankees Batting Tied 5-5 Twins' Juan Rincon facing 4-5-6,Bottom of the 8th Yankees Batting Tied 5-5 Twins' Juan Rincon facing 4-5-6,Bottom of the 8th Yankees Batting Tied 5-5 Twins' Juan Rincon facing 4-5-6,Bottom of the 8th Yankees Batting Tied 5-5 Twins' Juan Rincon facing 4-5-6,Bottom of the 8th Yankees Batting Tied 5-5 Twins' Juan Rincon facing 4-5-6,Bottom of the 8th Yankees Batting Tied 5-5 Twins' Juan Rincon facing 4-5-6,Bottom of the 8th Yankees Batting Tied 5-5 Twins' Juan Rincon facing 4-5-6
 ,,,,,,,,,Juan Rincon replaces Grant Balfour pitchingMichael Cuddyer moves from 2B to 1BLuis Rivas moves from PR to 2B,Juan Rincon replaces Grant Balfour pitchingMichael Cuddyer moves from 2B to 1BLuis Rivas moves from PR to 2B,Juan Rincon replaces Grant Balfour pitchingMichael Cuddyer moves from 2B to 1BLuis Rivas moves from PR to 2B
-b8,5-5,0,"['', '', '']",6(2-2) ...BSCFBT,O,NYY,H. Matsui,J. Rincon,-5%,56%,Strikeout Swinging
-b8,5-5,1,"['', '', '']",5(2-2) FBFBX,O,NYY,B. Williams,J. Rincon,-4%,53%,Groundout: 2B-1B
-b8,5-5,2,"['', '', '']",7(1-2) CCBFFFS,O,NYY,J. Posada,J. Rincon,-3%,50%,Strikeout Swinging
+b8,5-5,0,"______, ______, ______",6(2-2) ...BSCFBT,O,NYY,H. Matsui,J. Rincon,-5%,56%,Strikeout Swinging
+b8,5-5,1,"______, ______, ______",5(2-2) FBFBX,O,NYY,B. Williams,J. Rincon,-4%,53%,Groundout: 2B-1B
+b8,5-5,2,"______, ______, ______",7(1-2) CCBFFFS,O,NYY,J. Posada,J. Rincon,-3%,50%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Twins 5 Yankees 5.,0 runs 0 hits 0 errors 0 LOB. Twins 5 Yankees 5.,0 runs 0 hits 0 errors 0 LOB. Twins 5 Yankees 5.
 Top of the 9th Twins Batting Tied 5-5 Yankees' Mariano Rivera facing 8-9-1,Top of the 9th Twins Batting Tied 5-5 Yankees' Mariano Rivera facing 8-9-1,Top of the 9th Twins Batting Tied 5-5 Yankees' Mariano Rivera facing 8-9-1,,Top of the 9th Twins Batting Tied 5-5 Yankees' Mariano Rivera facing 8-9-1,Top of the 9th Twins Batting Tied 5-5 Yankees' Mariano Rivera facing 8-9-1,Top of the 9th Twins Batting Tied 5-5 Yankees' Mariano Rivera facing 8-9-1,Top of the 9th Twins Batting Tied 5-5 Yankees' Mariano Rivera facing 8-9-1,Top of the 9th Twins Batting Tied 5-5 Yankees' Mariano Rivera facing 8-9-1,Top of the 9th Twins Batting Tied 5-5 Yankees' Mariano Rivera facing 8-9-1,Top of the 9th Twins Batting Tied 5-5 Yankees' Mariano Rivera facing 8-9-1,Top of the 9th Twins Batting Tied 5-5 Yankees' Mariano Rivera facing 8-9-1
-t9,5-5,0,"['', '', '']",1(0-0) X,O,MIN,M. Cuddyer,M. Rivera,6%,56%,Lineout: 3B
-t9,5-5,1,"['', '', '']",5(1-2) BFFFX,O,MIN,P. Borders,M. Rivera,5%,61%,Groundout: 1B unassisted
-t9,5-5,2,"['', '', '']",4(1-2) BSFX,O,MIN,S. Stewart,M. Rivera,4%,65%,Groundout: 2B-1B
+t9,5-5,0,"______, ______, ______",1(0-0) X,O,MIN,M. Cuddyer,M. Rivera,6%,56%,Lineout: 3B
+t9,5-5,1,"______, ______, ______",5(1-2) BFFFX,O,MIN,P. Borders,M. Rivera,5%,61%,Groundout: 1B unassisted
+t9,5-5,2,"______, ______, ______",4(1-2) BSFX,O,MIN,S. Stewart,M. Rivera,4%,65%,Groundout: 2B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Twins 5 Yankees 5.,0 runs 0 hits 0 errors 0 LOB. Twins 5 Yankees 5.,0 runs 0 hits 0 errors 0 LOB. Twins 5 Yankees 5.
 Bottom of the 9th Yankees Batting Tied 5-5 Twins' Juan Rincon facing 7-8-9,Bottom of the 9th Yankees Batting Tied 5-5 Twins' Juan Rincon facing 7-8-9,Bottom of the 9th Yankees Batting Tied 5-5 Twins' Juan Rincon facing 7-8-9,,Bottom of the 9th Yankees Batting Tied 5-5 Twins' Juan Rincon facing 7-8-9,Bottom of the 9th Yankees Batting Tied 5-5 Twins' Juan Rincon facing 7-8-9,Bottom of the 9th Yankees Batting Tied 5-5 Twins' Juan Rincon facing 7-8-9,Bottom of the 9th Yankees Batting Tied 5-5 Twins' Juan Rincon facing 7-8-9,Bottom of the 9th Yankees Batting Tied 5-5 Twins' Juan Rincon facing 7-8-9,Bottom of the 9th Yankees Batting Tied 5-5 Twins' Juan Rincon facing 7-8-9,Bottom of the 9th Yankees Batting Tied 5-5 Twins' Juan Rincon facing 7-8-9,Bottom of the 9th Yankees Batting Tied 5-5 Twins' Juan Rincon facing 7-8-9
-b9,5-5,0,"['', '', '']",6(2-2) BFBFFC,O,NYY,R. Sierra,J. Rincon,-6%,59%,Strikeout Looking
-b9,5-5,1,"['', '', '']",2(0-1) CX,O,NYY,J. Olerud,J. Rincon,-5%,54%,Groundout: 1B unassisted
-b9,5-5,2,"['', '', '']",7(3-2) FBFFBBS,O,NYY,M. Cairo,J. Rincon,-4%,50%,Strikeout Swinging
+b9,5-5,0,"______, ______, ______",6(2-2) BFBFFC,O,NYY,R. Sierra,J. Rincon,-6%,59%,Strikeout Looking
+b9,5-5,1,"______, ______, ______",2(0-1) CX,O,NYY,J. Olerud,J. Rincon,-5%,54%,Groundout: 1B unassisted
+b9,5-5,2,"______, ______, ______",7(3-2) FBFFBBS,O,NYY,M. Cairo,J. Rincon,-4%,50%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Twins 5 Yankees 5.,0 runs 0 hits 0 errors 0 LOB. Twins 5 Yankees 5.,0 runs 0 hits 0 errors 0 LOB. Twins 5 Yankees 5.
 Top of the 10th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 2-3-4,Top of the 10th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 2-3-4,Top of the 10th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 2-3-4,,Top of the 10th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 2-3-4,Top of the 10th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 2-3-4,Top of the 10th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 2-3-4,Top of the 10th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 2-3-4,Top of the 10th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 2-3-4,Top of the 10th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 2-3-4,Top of the 10th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 2-3-4,Top of the 10th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 2-3-4
 ,,,,,,,,,Tanyon Sturtze replaces Mariano Rivera pitching,Tanyon Sturtze replaces Mariano Rivera pitching,Tanyon Sturtze replaces Mariano Rivera pitching
-t10,5-5,0,"['', '', '']",4(1-2) .BSSS,O,MIN,J. Jones,T. Sturtze,6%,56%,Strikeout Swinging
-t10,5-5,1,"['', '', '']",5(3-1) BBBCX,O,MIN,T. Hunter,T. Sturtze,5%,61%,Popfly: SS
+t10,5-5,0,"______, ______, ______",4(1-2) .BSSS,O,MIN,J. Jones,T. Sturtze,6%,56%,Strikeout Swinging
+t10,5-5,1,"______, ______, ______",5(3-1) BBBCX,O,MIN,T. Hunter,T. Sturtze,5%,61%,Popfly: SS
 ,,,,,,,,,Matt LeCroy pinch hits for Luis Rivas (2B) batting 4th,Matt LeCroy pinch hits for Luis Rivas (2B) batting 4th,Matt LeCroy pinch hits for Luis Rivas (2B) batting 4th
-t10,5-5,2,"['', '', '']",7(3-2) .SSBBFBB,,MIN,M. LeCroy,T. Sturtze,-3%,58%,Walk
-t10,5-5,2,"['LeCroy', '', '']",4(1-2) FBFS,O,MIN,C. Koskie,T. Sturtze,7%,65%,Strikeout Swinging
+t10,5-5,2,"______, ______, ______",7(3-2) .SSBBFBB,,MIN,M. LeCroy,T. Sturtze,-3%,58%,Walk
+t10,5-5,2,"M. LeCroy, ______, ______",4(1-2) FBFS,O,MIN,C. Koskie,T. Sturtze,7%,65%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Twins 5 Yankees 5.,0 runs 0 hits 0 errors 1 LOB. Twins 5 Yankees 5.,0 runs 0 hits 0 errors 1 LOB. Twins 5 Yankees 5.
 Bottom of the 10th Yankees Batting Tied 5-5 Twins' Joe Nathan facing 1-2-3,Bottom of the 10th Yankees Batting Tied 5-5 Twins' Joe Nathan facing 1-2-3,Bottom of the 10th Yankees Batting Tied 5-5 Twins' Joe Nathan facing 1-2-3,,Bottom of the 10th Yankees Batting Tied 5-5 Twins' Joe Nathan facing 1-2-3,Bottom of the 10th Yankees Batting Tied 5-5 Twins' Joe Nathan facing 1-2-3,Bottom of the 10th Yankees Batting Tied 5-5 Twins' Joe Nathan facing 1-2-3,Bottom of the 10th Yankees Batting Tied 5-5 Twins' Joe Nathan facing 1-2-3,Bottom of the 10th Yankees Batting Tied 5-5 Twins' Joe Nathan facing 1-2-3,Bottom of the 10th Yankees Batting Tied 5-5 Twins' Joe Nathan facing 1-2-3,Bottom of the 10th Yankees Batting Tied 5-5 Twins' Joe Nathan facing 1-2-3,Bottom of the 10th Yankees Batting Tied 5-5 Twins' Joe Nathan facing 1-2-3
 ,,,,,,,,,Joe Nathan replaces Juan Rincon pitchingMatt LeCroy moves from PH to 1BMichael Cuddyer moves from 1B to 2B,Joe Nathan replaces Juan Rincon pitchingMatt LeCroy moves from PH to 1BMichael Cuddyer moves from 1B to 2B,Joe Nathan replaces Juan Rincon pitchingMatt LeCroy moves from PH to 1BMichael Cuddyer moves from 1B to 2B
-b10,5-5,0,"['', '', '']",7(3-2) ...SSBFBBX,O,NYY,D. Jeter,J. Nathan,-6%,59%,Flyball: RF
-b10,5-5,1,"['', '', '']",4(1-2) SBSX,O,NYY,A. Rodriguez,J. Nathan,-5%,54%,Groundout: P-1B
-b10,5-5,2,"['', '', '']",1(0-0) X,O,NYY,G. Sheffield,J. Nathan,-4%,50%,Groundout: SS-1B
+b10,5-5,0,"______, ______, ______",7(3-2) ...SSBFBBX,O,NYY,D. Jeter,J. Nathan,-6%,59%,Flyball: RF
+b10,5-5,1,"______, ______, ______",4(1-2) SBSX,O,NYY,A. Rodriguez,J. Nathan,-5%,54%,Groundout: P-1B
+b10,5-5,2,"______, ______, ______",1(0-0) X,O,NYY,G. Sheffield,J. Nathan,-4%,50%,Groundout: SS-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Twins 5 Yankees 5.,0 runs 0 hits 0 errors 0 LOB. Twins 5 Yankees 5.,0 runs 0 hits 0 errors 0 LOB. Twins 5 Yankees 5.
 Top of the 11th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 6-7-8,Top of the 11th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 6-7-8,Top of the 11th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 6-7-8,,Top of the 11th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 6-7-8,Top of the 11th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 6-7-8,Top of the 11th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 6-7-8,Top of the 11th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 6-7-8,Top of the 11th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 6-7-8,Top of the 11th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 6-7-8,Top of the 11th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 6-7-8,Top of the 11th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 6-7-8
-t11,5-5,0,"['', '', '']",2(1-0) BX,O,MIN,J. Kubel,T. Sturtze,6%,56%,Popfly: SS
-t11,5-5,1,"['', '', '']",4(3-0) BBBB,,MIN,C. Guzman,T. Sturtze,-6%,50%,Walk
-t11,5-5,1,"['Guzman', '', '']",3(1-1) C1BB,,MIN,M. Cuddyer,T. Sturtze,-6%,44%,Passed Ball; Guzman to 2B
-t11,5-5,1,"['', 'Guzman', '']",4(2-1) C1BB.X,O,MIN,M. Cuddyer,T. Sturtze,8%,52%,Groundout: P-1B; Guzman to 3B
-t11,5-5,2,"['', '', 'Guzman']",5(1-2) BCFFS,O,MIN,P. Borders,T. Sturtze,12%,65%,Strikeout Swinging
+t11,5-5,0,"______, ______, ______",2(1-0) BX,O,MIN,J. Kubel,T. Sturtze,6%,56%,Popfly: SS
+t11,5-5,1,"______, ______, ______",4(3-0) BBBB,,MIN,C. Guzman,T. Sturtze,-6%,50%,Walk
+t11,5-5,1,"C. Guzman, ______, ______",3(1-1) C1BB,,MIN,M. Cuddyer,T. Sturtze,-6%,44%,Passed Ball; C. Guzman to 2B
+t11,5-5,1,"______, C. Guzman, ______",4(2-1) C1BB.X,O,MIN,M. Cuddyer,T. Sturtze,8%,52%,Groundout: P-1B; C. Guzman to 3B
+t11,5-5,2,"______, ______, C. Guzman",5(1-2) BCFFS,O,MIN,P. Borders,T. Sturtze,12%,65%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Twins 5 Yankees 5.,0 runs 0 hits 0 errors 1 LOB. Twins 5 Yankees 5.,0 runs 0 hits 0 errors 1 LOB. Twins 5 Yankees 5.
 Bottom of the 11th Yankees Batting Tied 5-5 Twins' Joe Nathan facing 4-5-6,Bottom of the 11th Yankees Batting Tied 5-5 Twins' Joe Nathan facing 4-5-6,Bottom of the 11th Yankees Batting Tied 5-5 Twins' Joe Nathan facing 4-5-6,,Bottom of the 11th Yankees Batting Tied 5-5 Twins' Joe Nathan facing 4-5-6,Bottom of the 11th Yankees Batting Tied 5-5 Twins' Joe Nathan facing 4-5-6,Bottom of the 11th Yankees Batting Tied 5-5 Twins' Joe Nathan facing 4-5-6,Bottom of the 11th Yankees Batting Tied 5-5 Twins' Joe Nathan facing 4-5-6,Bottom of the 11th Yankees Batting Tied 5-5 Twins' Joe Nathan facing 4-5-6,Bottom of the 11th Yankees Batting Tied 5-5 Twins' Joe Nathan facing 4-5-6,Bottom of the 11th Yankees Batting Tied 5-5 Twins' Joe Nathan facing 4-5-6,Bottom of the 11th Yankees Batting Tied 5-5 Twins' Joe Nathan facing 4-5-6
-b11,5-5,0,"['', '', '']",2(1-0) BX,O,NYY,H. Matsui,J. Nathan,-6%,59%,Flyball: CF
-b11,5-5,1,"['', '', '']",5(3-1) CBBBB,,NYY,B. Williams,J. Nathan,6%,64%,Walk
-b11,5-5,1,"['Williams', '', '']",8(2-2) FCBFF1B>FS,O,NYY,J. Posada,J. Nathan,-7%,57%,Strikeout Swinging
-b11,5-5,2,"['Williams', '', '']",5(2-2) CBCBS,O,NYY,R. Sierra,J. Nathan,-7%,50%,Strikeout Swinging
+b11,5-5,0,"______, ______, ______",2(1-0) BX,O,NYY,H. Matsui,J. Nathan,-6%,59%,Flyball: CF
+b11,5-5,1,"______, ______, ______",5(3-1) CBBBB,,NYY,B. Williams,J. Nathan,6%,64%,Walk
+b11,5-5,1,"B. Williams, ______, ______",8(2-2) FCBFF1B>FS,O,NYY,J. Posada,J. Nathan,-7%,57%,Strikeout Swinging
+b11,5-5,2,"B. Williams, ______, ______",5(2-2) CBCBS,O,NYY,R. Sierra,J. Nathan,-7%,50%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Twins 5 Yankees 5.,0 runs 0 hits 0 errors 1 LOB. Twins 5 Yankees 5.,0 runs 0 hits 0 errors 1 LOB. Twins 5 Yankees 5.
 Top of the 12th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 1-2-3,Top of the 12th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 1-2-3,Top of the 12th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 1-2-3,,Top of the 12th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 1-2-3,Top of the 12th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 1-2-3,Top of the 12th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 1-2-3,Top of the 12th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 1-2-3,Top of the 12th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 1-2-3,Top of the 12th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 1-2-3,Top of the 12th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 1-2-3,Top of the 12th Twins Batting Tied 5-5 Yankees' Tanyon Sturtze facing 1-2-3
-t12,5-5,0,"['', '', '']",7(3-2) BCBFBFS,O,MIN,S. Stewart,T. Sturtze,6%,56%,Strikeout Swinging
-t12,5-5,1,"['', '', '']",5(3-1) BBFBX,O,MIN,J. Jones,T. Sturtze,5%,61%,Popfly: 2B
-t12,5-5,2,"['', '', '']",2(1-0) BX,R,MIN,T. Hunter,T. Sturtze,-40%,21%,Home Run (Fly Ball)
-t12,6-5,2,"['', '', '']",2(0-1) CX,,MIN,M. LeCroy,T. Sturtze,-1%,20%,Single to LF (Ground Ball)
-t12,6-5,2,"['LeCroy', '', '']",5(3-1) SBBBB,,MIN,C. Koskie,T. Sturtze,-2%,18%,Walk; LeCroy to 2B
+t12,5-5,0,"______, ______, ______",7(3-2) BCBFBFS,O,MIN,S. Stewart,T. Sturtze,6%,56%,Strikeout Swinging
+t12,5-5,1,"______, ______, ______",5(3-1) BBFBX,O,MIN,J. Jones,T. Sturtze,5%,61%,Popfly: 2B
+t12,5-5,2,"______, ______, ______",2(1-0) BX,R,MIN,T. Hunter,T. Sturtze,-40%,21%,Home Run (Fly Ball)
+t12,6-5,2,"______, ______, ______",2(0-1) CX,,MIN,M. LeCroy,T. Sturtze,-1%,20%,Single to LF (Ground Ball)
+t12,6-5,2,"M. LeCroy, ______, ______",5(3-1) SBBBB,,MIN,C. Koskie,T. Sturtze,-2%,18%,Walk; M. LeCroy to 2B
 ,,,,,,,,,Paul Quantrill replaces Tanyon Sturtze pitching,Paul Quantrill replaces Tanyon Sturtze pitching,Paul Quantrill replaces Tanyon Sturtze pitching
-t12,6-5,2,"['Koskie', 'LeCroy', '']",3(1-1) .C*BX,O,MIN,J. Kubel,P. Quantrill,4%,22%,Groundout: 2B-SS/Forceout at 2B
+t12,6-5,2,"C. Koskie, M. LeCroy, ______",3(1-1) .C*BX,O,MIN,J. Kubel,P. Quantrill,4%,22%,Groundout: 2B-SS/Forceout at 2B
 ,,,,,,,,,1 run 2 hits 0 errors 2 LOB. Twins 6 Yankees 5.,1 run 2 hits 0 errors 2 LOB. Twins 6 Yankees 5.,1 run 2 hits 0 errors 2 LOB. Twins 6 Yankees 5.
 Bottom of the 12th Yankees Batting Behind 5-6 Twins' Joe Nathan facing 8-9-1,Bottom of the 12th Yankees Batting Behind 5-6 Twins' Joe Nathan facing 8-9-1,Bottom of the 12th Yankees Batting Behind 5-6 Twins' Joe Nathan facing 8-9-1,,Bottom of the 12th Yankees Batting Behind 5-6 Twins' Joe Nathan facing 8-9-1,Bottom of the 12th Yankees Batting Behind 5-6 Twins' Joe Nathan facing 8-9-1,Bottom of the 12th Yankees Batting Behind 5-6 Twins' Joe Nathan facing 8-9-1,Bottom of the 12th Yankees Batting Behind 5-6 Twins' Joe Nathan facing 8-9-1,Bottom of the 12th Yankees Batting Behind 5-6 Twins' Joe Nathan facing 8-9-1,Bottom of the 12th Yankees Batting Behind 5-6 Twins' Joe Nathan facing 8-9-1,Bottom of the 12th Yankees Batting Behind 5-6 Twins' Joe Nathan facing 8-9-1,Bottom of the 12th Yankees Batting Behind 5-6 Twins' Joe Nathan facing 8-9-1
-b12,5-6,0,"['', '', '']",5(1-2) CCBFS,O,NYY,J. Olerud,J. Nathan,-9%,12%,Strikeout Swinging
-b12,5-6,1,"['', '', '']",5(3-1) CBBBB,,NYY,M. Cairo,J. Nathan,10%,22%,Walk
-b12,5-6,1,"['Cairo', '', '']",4(3-0) BBBB,,NYY,D. Jeter,J. Nathan,13%,35%,Walk; Cairo to 2B
-b12,5-6,1,"['Jeter', 'Cairo', '']",3(1-1) BCX,R,NYY,A. Rodriguez,J. Nathan,50%,85%,Ground-rule Double (Fly Ball to LF-CF); Cairo Scores; Jeter to 3B
-b12,6-6,1,"['', 'Rodriguez', 'Jeter']",4(3-0) IIII,,NYY,G. Sheffield,J. Nathan,-1%,84%,Intentional Walk
+b12,5-6,0,"______, ______, ______",5(1-2) CCBFS,O,NYY,J. Olerud,J. Nathan,-9%,12%,Strikeout Swinging
+b12,5-6,1,"______, ______, ______",5(3-1) CBBBB,,NYY,M. Cairo,J. Nathan,10%,22%,Walk
+b12,5-6,1,"M. Cairo, ______, ______",4(3-0) BBBB,,NYY,D. Jeter,J. Nathan,13%,35%,Walk; M. Cairo to 2B
+b12,5-6,1,"D. Jeter, M. Cairo, ______",3(1-1) BCX,R,NYY,A. Rodriguez,J. Nathan,50%,85%,Ground-rule Double (Fly Ball to LF-CF); M. Cairo Scores; D. Jeter to 3B
+b12,6-6,1,"______, A. Rodriguez, D. Jeter",4(3-0) IIII,,NYY,G. Sheffield,J. Nathan,-1%,84%,Intentional Walk
 ,,,,,,,,,J.C. Romero replaces Joe Nathan pitching,J.C. Romero replaces Joe Nathan pitching,J.C. Romero replaces Joe Nathan pitching
-b12,6-6,1,"['Sheffield', 'Rodriguez', 'Jeter']",1(0-0) .X,RO,NYY,H. Matsui,J. Romero,16%,100%,Flyball: RF/Sacrifice Fly; Jeter Scores
+b12,6-6,1,"G. Sheffield, A. Rodriguez, D. Jeter",1(0-0) .X,RO,NYY,H. Matsui,J. Romero,16%,100%,Flyball: RF/Sacrifice Fly; D. Jeter Scores
 ,,,,,,,,,2 runs 1 hit 0 errors 2 LOB. Twins 6 Yankees 7.,2 runs 1 hit 0 errors 2 LOB. Twins 6 Yankees 7.,2 runs 1 hit 0 errors 2 LOB. Twins 6 Yankees 7.

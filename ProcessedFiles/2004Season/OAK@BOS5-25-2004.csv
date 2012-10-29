@@ -1,132 +1,132 @@
 Inn,Score,Out,RoB,Pit(cnt)Sequence,R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
 Top of the 1st Athletics Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 1st Athletics Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 1st Athletics Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,,Top of the 1st Athletics Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 1st Athletics Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 1st Athletics Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 1st Athletics Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 1st Athletics Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 1st Athletics Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 1st Athletics Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Top of the 1st Athletics Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3
-t1,0-0,0,"['', '', '']",3(1-1) CBX,O,OAK,M. Kotsay,C. Schilling,2%,52%,Groundout: SS-1B
-t1,0-0,1,"['', '', '']",2(1-0) BX,O,OAK,E. Byrnes,C. Schilling,2%,54%,Groundout: 2B-1B
-t1,0-0,2,"['', '', '']",4(2-1) CBBX,O,OAK,E. Chavez,C. Schilling,1%,55%,Groundout: 2B-1B
+t1,0-0,0,"______, ______, ______",3(1-1) CBX,O,OAK,M. Kotsay,C. Schilling,2%,52%,Groundout: SS-1B
+t1,0-0,1,"______, ______, ______",2(1-0) BX,O,OAK,E. Byrnes,C. Schilling,2%,54%,Groundout: 2B-1B
+t1,0-0,2,"______, ______, ______",4(2-1) CBBX,O,OAK,E. Chavez,C. Schilling,1%,55%,Groundout: 2B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Athletics 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Athletics 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Athletics 0 Red Sox 0.
 Bottom of the 1st Red Sox Batting Tied 0-0 Athletics' Tim Hudson facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Athletics' Tim Hudson facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Athletics' Tim Hudson facing 1-2-3,,Bottom of the 1st Red Sox Batting Tied 0-0 Athletics' Tim Hudson facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Athletics' Tim Hudson facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Athletics' Tim Hudson facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Athletics' Tim Hudson facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Athletics' Tim Hudson facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Athletics' Tim Hudson facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Athletics' Tim Hudson facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Athletics' Tim Hudson facing 1-2-3
-b1,0-0,0,"['', '', '']",3(1-1) CBX,,BOS,J. Damon,T. Hudson,3%,58%,Single to LF (Ground Ball)
-b1,0-0,0,"['Damon', '', '']",1(0-0) X,OO,BOS,M. Bellhorn,T. Hudson,-7%,51%,Ground Ball Double Play: SS-2B-1B
-b1,0-0,2,"['', '', '']",3(2-0) BBX,,BOS,D. Ortiz,T. Hudson,2%,53%,Double to CF (Fly Ball to Deep CF-RF)
-b1,0-0,2,"['', 'Ortiz', '']",5(2-2) CBFBX,R,BOS,M. Ramirez,T. Hudson,9%,62%,Double to CF (Fly Ball to Deep CF); Ortiz Scores
-b1,1-0,2,"['', 'Ramirez', '']",2(1-0) BH,,BOS,B. Daubach,T. Hudson,1%,63%,Hit By Pitch
-b1,1-0,2,"['Daubach', 'Ramirez', '']",6(3-2) F*BSB*B>B,,BOS,J. Varitek,T. Hudson,2%,66%,Walk; Ramirez to 3B; Daubach to 2B
-b1,1-0,2,"['Varitek', 'Daubach', 'Ramirez']",3(0-2) CFX,O,BOS,K. Millar,T. Hudson,-6%,59%,Groundout: SS-1B
+b1,0-0,0,"______, ______, ______",3(1-1) CBX,,BOS,J. Damon,T. Hudson,3%,58%,Single to LF (Ground Ball)
+b1,0-0,0,"J. Damon, ______, ______",1(0-0) X,OO,BOS,M. Bellhorn,T. Hudson,-7%,51%,Ground Ball Double Play: SS-2B-1B
+b1,0-0,2,"______, ______, ______",3(2-0) BBX,,BOS,D. Ortiz,T. Hudson,2%,53%,Double to CF (Fly Ball to Deep CF-RF)
+b1,0-0,2,"______, D. Ortiz, ______",5(2-2) CBFBX,R,BOS,M. Ramirez,T. Hudson,9%,62%,Double to CF (Fly Ball to Deep CF); D. Ortiz Scores
+b1,1-0,2,"______, M. Ramirez, ______",2(1-0) BH,,BOS,B. Daubach,T. Hudson,1%,63%,Hit By Pitch
+b1,1-0,2,"B. Daubach, M. Ramirez, ______",6(3-2) F*BSB*B>B,,BOS,J. Varitek,T. Hudson,2%,66%,Walk; M. Ramirez to 3B; B. Daubach to 2B
+b1,1-0,2,"J. Varitek, B. Daubach, M. Ramirez",3(0-2) CFX,O,BOS,K. Millar,T. Hudson,-6%,59%,Groundout: SS-1B
 ,,,,,,,,,1 run 3 hits 0 errors 3 LOB. Athletics 0 Red Sox 1.,1 run 3 hits 0 errors 3 LOB. Athletics 0 Red Sox 1.,1 run 3 hits 0 errors 3 LOB. Athletics 0 Red Sox 1.
 Top of the 2nd Athletics Batting Behind 0-1 Red Sox' Curt Schilling facing 4-5-6,Top of the 2nd Athletics Batting Behind 0-1 Red Sox' Curt Schilling facing 4-5-6,Top of the 2nd Athletics Batting Behind 0-1 Red Sox' Curt Schilling facing 4-5-6,,Top of the 2nd Athletics Batting Behind 0-1 Red Sox' Curt Schilling facing 4-5-6,Top of the 2nd Athletics Batting Behind 0-1 Red Sox' Curt Schilling facing 4-5-6,Top of the 2nd Athletics Batting Behind 0-1 Red Sox' Curt Schilling facing 4-5-6,Top of the 2nd Athletics Batting Behind 0-1 Red Sox' Curt Schilling facing 4-5-6,Top of the 2nd Athletics Batting Behind 0-1 Red Sox' Curt Schilling facing 4-5-6,Top of the 2nd Athletics Batting Behind 0-1 Red Sox' Curt Schilling facing 4-5-6,Top of the 2nd Athletics Batting Behind 0-1 Red Sox' Curt Schilling facing 4-5-6,Top of the 2nd Athletics Batting Behind 0-1 Red Sox' Curt Schilling facing 4-5-6
-t2,0-1,0,"['', '', '']",5(2-2) BCCBS,O,OAK,J. Dye,C. Schilling,3%,62%,Strikeout Swinging
-t2,0-1,1,"['', '', '']",4(1-2) CBFX,,OAK,S. Hatteberg,C. Schilling,-3%,59%,Single to CF (Fly Ball)
-t2,0-1,1,"['Hatteberg', '', '']",3(0-2) CFX,O,OAK,E. Durazo,C. Schilling,3%,62%,Popfly: 2B
-t2,0-1,2,"['Hatteberg', '', '']",2(0-1) CX,O,OAK,B. Crosby,C. Schilling,3%,65%,Flyball: CF
+t2,0-1,0,"______, ______, ______",5(2-2) BCCBS,O,OAK,J. Dye,C. Schilling,3%,62%,Strikeout Swinging
+t2,0-1,1,"______, ______, ______",4(1-2) CBFX,,OAK,S. Hatteberg,C. Schilling,-3%,59%,Single to CF (Fly Ball)
+t2,0-1,1,"S. Hatteberg, ______, ______",3(0-2) CFX,O,OAK,E. Durazo,C. Schilling,3%,62%,Popfly: 2B
+t2,0-1,2,"S. Hatteberg, ______, ______",2(0-1) CX,O,OAK,B. Crosby,C. Schilling,3%,65%,Flyball: CF
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Athletics 0 Red Sox 1.,0 runs 1 hit 0 errors 1 LOB. Athletics 0 Red Sox 1.,0 runs 1 hit 0 errors 1 LOB. Athletics 0 Red Sox 1.
 Bottom of the 2nd Red Sox Batting Ahead 1-0 Athletics' Tim Hudson facing 8-9-1,Bottom of the 2nd Red Sox Batting Ahead 1-0 Athletics' Tim Hudson facing 8-9-1,Bottom of the 2nd Red Sox Batting Ahead 1-0 Athletics' Tim Hudson facing 8-9-1,,Bottom of the 2nd Red Sox Batting Ahead 1-0 Athletics' Tim Hudson facing 8-9-1,Bottom of the 2nd Red Sox Batting Ahead 1-0 Athletics' Tim Hudson facing 8-9-1,Bottom of the 2nd Red Sox Batting Ahead 1-0 Athletics' Tim Hudson facing 8-9-1,Bottom of the 2nd Red Sox Batting Ahead 1-0 Athletics' Tim Hudson facing 8-9-1,Bottom of the 2nd Red Sox Batting Ahead 1-0 Athletics' Tim Hudson facing 8-9-1,Bottom of the 2nd Red Sox Batting Ahead 1-0 Athletics' Tim Hudson facing 8-9-1,Bottom of the 2nd Red Sox Batting Ahead 1-0 Athletics' Tim Hudson facing 8-9-1,Bottom of the 2nd Red Sox Batting Ahead 1-0 Athletics' Tim Hudson facing 8-9-1
-b2,1-0,0,"['', '', '']",2(0-1) CX,O,BOS,K. Youkilis,T. Hudson,-2%,63%,Groundout: C-1B (Front of Home)
-b2,1-0,1,"['', '', '']",4(2-1) BCBX,,BOS,P. Reese,T. Hudson,2%,65%,Single to CF (Ground Ball)
-b2,1-0,1,"['Reese', '', '']",4(1-2) CB1FX,O,BOS,J. Damon,T. Hudson,-3%,62%,Groundout: 2B-SS/Forceout at 2B
-b2,1-0,2,"['Damon', '', '']",2(1-0) 11B>C,O,BOS,M. Bellhorn,T. Hudson,-2%,60%,Damon Caught Stealing 2B (C-SS)
+b2,1-0,0,"______, ______, ______",2(0-1) CX,O,BOS,K. Youkilis,T. Hudson,-2%,63%,Groundout: C-1B (Front of Home)
+b2,1-0,1,"______, ______, ______",4(2-1) BCBX,,BOS,P. Reese,T. Hudson,2%,65%,Single to CF (Ground Ball)
+b2,1-0,1,"P. Reese, ______, ______",4(1-2) CB1FX,O,BOS,J. Damon,T. Hudson,-3%,62%,Groundout: 2B-SS/Forceout at 2B
+b2,1-0,2,"J. Damon, ______, ______",2(1-0) 11B>C,O,BOS,M. Bellhorn,T. Hudson,-2%,60%,J. Damon Caught Stealing 2B (C-SS)
 ,,,,,,,,,0 runs 1 hit 0 errors 0 LOB. Athletics 0 Red Sox 1.,0 runs 1 hit 0 errors 0 LOB. Athletics 0 Red Sox 1.,0 runs 1 hit 0 errors 0 LOB. Athletics 0 Red Sox 1.
 Top of the 3rd Athletics Batting Behind 0-1 Red Sox' Curt Schilling facing 8-9-1,Top of the 3rd Athletics Batting Behind 0-1 Red Sox' Curt Schilling facing 8-9-1,Top of the 3rd Athletics Batting Behind 0-1 Red Sox' Curt Schilling facing 8-9-1,,Top of the 3rd Athletics Batting Behind 0-1 Red Sox' Curt Schilling facing 8-9-1,Top of the 3rd Athletics Batting Behind 0-1 Red Sox' Curt Schilling facing 8-9-1,Top of the 3rd Athletics Batting Behind 0-1 Red Sox' Curt Schilling facing 8-9-1,Top of the 3rd Athletics Batting Behind 0-1 Red Sox' Curt Schilling facing 8-9-1,Top of the 3rd Athletics Batting Behind 0-1 Red Sox' Curt Schilling facing 8-9-1,Top of the 3rd Athletics Batting Behind 0-1 Red Sox' Curt Schilling facing 8-9-1,Top of the 3rd Athletics Batting Behind 0-1 Red Sox' Curt Schilling facing 8-9-1,Top of the 3rd Athletics Batting Behind 0-1 Red Sox' Curt Schilling facing 8-9-1
-t3,0-1,0,"['', '', '']",5(1-2) CCFBS,O,OAK,A. Melhuse,C. Schilling,3%,63%,Strikeout Swinging
-t3,0-1,1,"['', '', '']",1(0-0) X,,OAK,M. McLemore,C. Schilling,-3%,60%,Single to RF (Ground Ball)
-t3,0-1,1,"['McLemore', '', '']",6(3-2) BBBCF>X,O,OAK,M. Kotsay,C. Schilling,3%,63%,Flyball: LF
-t3,0-1,2,"['McLemore', '', '']",4(1-2) 1BCC1X,O,OAK,E. Byrnes,C. Schilling,3%,66%,Flyball: LF
+t3,0-1,0,"______, ______, ______",5(1-2) CCFBS,O,OAK,A. Melhuse,C. Schilling,3%,63%,Strikeout Swinging
+t3,0-1,1,"______, ______, ______",1(0-0) X,,OAK,M. McLemore,C. Schilling,-3%,60%,Single to RF (Ground Ball)
+t3,0-1,1,"M. McLemore, ______, ______",6(3-2) BBBCF>X,O,OAK,M. Kotsay,C. Schilling,3%,63%,Flyball: LF
+t3,0-1,2,"M. McLemore, ______, ______",4(1-2) 1BCC1X,O,OAK,E. Byrnes,C. Schilling,3%,66%,Flyball: LF
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Athletics 0 Red Sox 1.,0 runs 1 hit 0 errors 1 LOB. Athletics 0 Red Sox 1.,0 runs 1 hit 0 errors 1 LOB. Athletics 0 Red Sox 1.
 Bottom of the 3rd Red Sox Batting Ahead 1-0 Athletics' Tim Hudson facing 2-3-4,Bottom of the 3rd Red Sox Batting Ahead 1-0 Athletics' Tim Hudson facing 2-3-4,Bottom of the 3rd Red Sox Batting Ahead 1-0 Athletics' Tim Hudson facing 2-3-4,,Bottom of the 3rd Red Sox Batting Ahead 1-0 Athletics' Tim Hudson facing 2-3-4,Bottom of the 3rd Red Sox Batting Ahead 1-0 Athletics' Tim Hudson facing 2-3-4,Bottom of the 3rd Red Sox Batting Ahead 1-0 Athletics' Tim Hudson facing 2-3-4,Bottom of the 3rd Red Sox Batting Ahead 1-0 Athletics' Tim Hudson facing 2-3-4,Bottom of the 3rd Red Sox Batting Ahead 1-0 Athletics' Tim Hudson facing 2-3-4,Bottom of the 3rd Red Sox Batting Ahead 1-0 Athletics' Tim Hudson facing 2-3-4,Bottom of the 3rd Red Sox Batting Ahead 1-0 Athletics' Tim Hudson facing 2-3-4,Bottom of the 3rd Red Sox Batting Ahead 1-0 Athletics' Tim Hudson facing 2-3-4
-b3,1-0,0,"['', '', '']",4(1-2) CBFX,,BOS,M. Bellhorn,T. Hudson,3%,69%,Single to RF (Ground Ball)
-b3,1-0,0,"['Bellhorn', '', '']",6(3-2) BBSBFS,O,BOS,D. Ortiz,T. Hudson,-3%,66%,Strikeout Swinging
-b3,1-0,1,"['Bellhorn', '', '']",5(2-2) CBFBS,O,BOS,M. Ramirez,T. Hudson,-3%,64%,Strikeout Swinging
-b3,1-0,2,"['Bellhorn', '', '']",5(3-1) BBBCB,,BOS,B. Daubach,T. Hudson,2%,65%,Walk; Bellhorn to 2B
-b3,1-0,2,"['Daubach', 'Bellhorn', '']",2(0-1) FX,R,BOS,J. Varitek,T. Hudson,10%,76%,Double to RF (Fly Ball to Deep RF); Bellhorn Scores; Daubach to 3B
-b3,2-0,2,"['', 'Varitek', 'Daubach']",1(0-0) X,O,BOS,K. Millar,T. Hudson,-4%,71%,Groundout: 3B-1B
+b3,1-0,0,"______, ______, ______",4(1-2) CBFX,,BOS,M. Bellhorn,T. Hudson,3%,69%,Single to RF (Ground Ball)
+b3,1-0,0,"M. Bellhorn, ______, ______",6(3-2) BBSBFS,O,BOS,D. Ortiz,T. Hudson,-3%,66%,Strikeout Swinging
+b3,1-0,1,"M. Bellhorn, ______, ______",5(2-2) CBFBS,O,BOS,M. Ramirez,T. Hudson,-3%,64%,Strikeout Swinging
+b3,1-0,2,"M. Bellhorn, ______, ______",5(3-1) BBBCB,,BOS,B. Daubach,T. Hudson,2%,65%,Walk; M. Bellhorn to 2B
+b3,1-0,2,"B. Daubach, M. Bellhorn, ______",2(0-1) FX,R,BOS,J. Varitek,T. Hudson,10%,76%,Double to RF (Fly Ball to Deep RF); M. Bellhorn Scores; B. Daubach to 3B
+b3,2-0,2,"______, J. Varitek, B. Daubach",1(0-0) X,O,BOS,K. Millar,T. Hudson,-4%,71%,Groundout: 3B-1B
 ,,,,,,,,,1 run 2 hits 0 errors 2 LOB. Athletics 0 Red Sox 2.,1 run 2 hits 0 errors 2 LOB. Athletics 0 Red Sox 2.,1 run 2 hits 0 errors 2 LOB. Athletics 0 Red Sox 2.
 Top of the 4th Athletics Batting Behind 0-2 Red Sox' Curt Schilling facing 3-4-5,Top of the 4th Athletics Batting Behind 0-2 Red Sox' Curt Schilling facing 3-4-5,Top of the 4th Athletics Batting Behind 0-2 Red Sox' Curt Schilling facing 3-4-5,,Top of the 4th Athletics Batting Behind 0-2 Red Sox' Curt Schilling facing 3-4-5,Top of the 4th Athletics Batting Behind 0-2 Red Sox' Curt Schilling facing 3-4-5,Top of the 4th Athletics Batting Behind 0-2 Red Sox' Curt Schilling facing 3-4-5,Top of the 4th Athletics Batting Behind 0-2 Red Sox' Curt Schilling facing 3-4-5,Top of the 4th Athletics Batting Behind 0-2 Red Sox' Curt Schilling facing 3-4-5,Top of the 4th Athletics Batting Behind 0-2 Red Sox' Curt Schilling facing 3-4-5,Top of the 4th Athletics Batting Behind 0-2 Red Sox' Curt Schilling facing 3-4-5,Top of the 4th Athletics Batting Behind 0-2 Red Sox' Curt Schilling facing 3-4-5
-t4,0-2,0,"['', '', '']",7(3-2) FCBBBFX,O,OAK,E. Chavez,C. Schilling,3%,74%,Flyball: RF
-t4,0-2,1,"['', '', '']",4(0-2) CCFX,O,OAK,J. Dye,C. Schilling,2%,76%,Groundout: 3B-1B
-t4,0-2,2,"['', '', '']",2(1-0) BX,O,OAK,S. Hatteberg,C. Schilling,1%,77%,Flyball: RF (Deep RF)
+t4,0-2,0,"______, ______, ______",7(3-2) FCBBBFX,O,OAK,E. Chavez,C. Schilling,3%,74%,Flyball: RF
+t4,0-2,1,"______, ______, ______",4(0-2) CCFX,O,OAK,J. Dye,C. Schilling,2%,76%,Groundout: 3B-1B
+t4,0-2,2,"______, ______, ______",2(1-0) BX,O,OAK,S. Hatteberg,C. Schilling,1%,77%,Flyball: RF (Deep RF)
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Athletics 0 Red Sox 2.,0 runs 0 hits 0 errors 0 LOB. Athletics 0 Red Sox 2.,0 runs 0 hits 0 errors 0 LOB. Athletics 0 Red Sox 2.
 Bottom of the 4th Red Sox Batting Ahead 2-0 Athletics' Tim Hudson facing 8-9-1,Bottom of the 4th Red Sox Batting Ahead 2-0 Athletics' Tim Hudson facing 8-9-1,Bottom of the 4th Red Sox Batting Ahead 2-0 Athletics' Tim Hudson facing 8-9-1,,Bottom of the 4th Red Sox Batting Ahead 2-0 Athletics' Tim Hudson facing 8-9-1,Bottom of the 4th Red Sox Batting Ahead 2-0 Athletics' Tim Hudson facing 8-9-1,Bottom of the 4th Red Sox Batting Ahead 2-0 Athletics' Tim Hudson facing 8-9-1,Bottom of the 4th Red Sox Batting Ahead 2-0 Athletics' Tim Hudson facing 8-9-1,Bottom of the 4th Red Sox Batting Ahead 2-0 Athletics' Tim Hudson facing 8-9-1,Bottom of the 4th Red Sox Batting Ahead 2-0 Athletics' Tim Hudson facing 8-9-1,Bottom of the 4th Red Sox Batting Ahead 2-0 Athletics' Tim Hudson facing 8-9-1,Bottom of the 4th Red Sox Batting Ahead 2-0 Athletics' Tim Hudson facing 8-9-1
-b4,2-0,0,"['', '', '']",7(3-2) CBBCBFH,,BOS,K. Youkilis,T. Hudson,2%,80%,Hit By Pitch
-b4,2-0,0,"['Youkilis', '', '']",2(0-1) CX,O,BOS,P. Reese,T. Hudson,-2%,77%,Flyball: LF (LF-CF)
-b4,2-0,1,"['Youkilis', '', '']",3(0-2) CFX,,BOS,J. Damon,T. Hudson,2%,80%,Single to RF (Ground Ball); Youkilis to 2B
-b4,2-0,1,"['Damon', 'Youkilis', '']",9(3-2) FSBFBFBFX,RR,BOS,M. Bellhorn,T. Hudson,11%,91%,Double to CF (Fly Ball to Deep CF); Youkilis Scores; Damon Scores
-b4,4-0,1,"['', 'Bellhorn', '']",2(1-0) BB,,BOS,D. Ortiz,T. Hudson,1%,92%,Wild Pitch; Bellhorn to 3B
-b4,4-0,1,"['', '', 'Bellhorn']",4(3-0) BB.BX,R,BOS,D. Ortiz,T. Hudson,2%,94%,Double to CF (Fly Ball to Deep CF); Bellhorn Scores
-b4,5-0,1,"['', 'Ortiz', '']",1(0-0) X,O,BOS,M. Ramirez,T. Hudson,-1%,93%,Groundout: SS-1B; Ortiz to 3B
-b4,5-0,2,"['', '', 'Ortiz']",4(3-0) BBBB,,BOS,B. Daubach,T. Hudson,0%,94%,Walk
-b4,5-0,2,"['Daubach', '', 'Ortiz']",4(3-0) 1BBBB,,BOS,J. Varitek,T. Hudson,0%,94%,Walk; Daubach to 2B
-b4,5-0,2,"['Varitek', 'Daubach', 'Ortiz']",5(2-2) CSBBX,O,BOS,K. Millar,T. Hudson,-2%,92%,Groundout: SS-2B/Forceout at 2B
+b4,2-0,0,"______, ______, ______",7(3-2) CBBCBFH,,BOS,K. Youkilis,T. Hudson,2%,80%,Hit By Pitch
+b4,2-0,0,"K. Youkilis, ______, ______",2(0-1) CX,O,BOS,P. Reese,T. Hudson,-2%,77%,Flyball: LF (LF-CF)
+b4,2-0,1,"K. Youkilis, ______, ______",3(0-2) CFX,,BOS,J. Damon,T. Hudson,2%,80%,Single to RF (Ground Ball); K. Youkilis to 2B
+b4,2-0,1,"J. Damon, K. Youkilis, ______",9(3-2) FSBFBFBFX,RR,BOS,M. Bellhorn,T. Hudson,11%,91%,Double to CF (Fly Ball to Deep CF); K. Youkilis Scores; J. Damon Scores
+b4,4-0,1,"______, M. Bellhorn, ______",2(1-0) BB,,BOS,D. Ortiz,T. Hudson,1%,92%,Wild Pitch; M. Bellhorn to 3B
+b4,4-0,1,"______, ______, M. Bellhorn",4(3-0) BB.BX,R,BOS,D. Ortiz,T. Hudson,2%,94%,Double to CF (Fly Ball to Deep CF); M. Bellhorn Scores
+b4,5-0,1,"______, D. Ortiz, ______",1(0-0) X,O,BOS,M. Ramirez,T. Hudson,-1%,93%,Groundout: SS-1B; D. Ortiz to 3B
+b4,5-0,2,"______, ______, D. Ortiz",4(3-0) BBBB,,BOS,B. Daubach,T. Hudson,0%,94%,Walk
+b4,5-0,2,"B. Daubach, ______, D. Ortiz",4(3-0) 1BBBB,,BOS,J. Varitek,T. Hudson,0%,94%,Walk; B. Daubach to 2B
+b4,5-0,2,"J. Varitek, B. Daubach, D. Ortiz",5(2-2) CSBBX,O,BOS,K. Millar,T. Hudson,-2%,92%,Groundout: SS-2B/Forceout at 2B
 ,,,,,,,,,3 runs 3 hits 0 errors 3 LOB. Athletics 0 Red Sox 5.,3 runs 3 hits 0 errors 3 LOB. Athletics 0 Red Sox 5.,3 runs 3 hits 0 errors 3 LOB. Athletics 0 Red Sox 5.
 Top of the 5th Athletics Batting Behind 0-5 Red Sox' Curt Schilling facing 6-7-8,Top of the 5th Athletics Batting Behind 0-5 Red Sox' Curt Schilling facing 6-7-8,Top of the 5th Athletics Batting Behind 0-5 Red Sox' Curt Schilling facing 6-7-8,,Top of the 5th Athletics Batting Behind 0-5 Red Sox' Curt Schilling facing 6-7-8,Top of the 5th Athletics Batting Behind 0-5 Red Sox' Curt Schilling facing 6-7-8,Top of the 5th Athletics Batting Behind 0-5 Red Sox' Curt Schilling facing 6-7-8,Top of the 5th Athletics Batting Behind 0-5 Red Sox' Curt Schilling facing 6-7-8,Top of the 5th Athletics Batting Behind 0-5 Red Sox' Curt Schilling facing 6-7-8,Top of the 5th Athletics Batting Behind 0-5 Red Sox' Curt Schilling facing 6-7-8,Top of the 5th Athletics Batting Behind 0-5 Red Sox' Curt Schilling facing 6-7-8,Top of the 5th Athletics Batting Behind 0-5 Red Sox' Curt Schilling facing 6-7-8
-t5,0-5,0,"['', '', '']",2(0-1) CX,,OAK,E. Durazo,C. Schilling,-3%,89%,Double to LF (Fly Ball)
-t5,0-5,0,"['', 'Durazo', '']",5(1-2) BSFFS,O,OAK,B. Crosby,C. Schilling,3%,92%,Strikeout Swinging (C-1B)
-t5,0-5,1,"['', 'Durazo', '']",2(0-1) CX,O,OAK,A. Melhuse,C. Schilling,2%,94%,Groundout: 2B-1B; Durazo to 3B
-t5,0-5,2,"['', '', 'Durazo']",4(1-2) CBCX,O,OAK,M. McLemore,C. Schilling,2%,95%,Groundout: 2B-1B
+t5,0-5,0,"______, ______, ______",2(0-1) CX,,OAK,E. Durazo,C. Schilling,-3%,89%,Double to LF (Fly Ball)
+t5,0-5,0,"______, E. Durazo, ______",5(1-2) BSFFS,O,OAK,B. Crosby,C. Schilling,3%,92%,Strikeout Swinging (C-1B)
+t5,0-5,1,"______, E. Durazo, ______",2(0-1) CX,O,OAK,A. Melhuse,C. Schilling,2%,94%,Groundout: 2B-1B; E. Durazo to 3B
+t5,0-5,2,"______, ______, E. Durazo",4(1-2) CBCX,O,OAK,M. McLemore,C. Schilling,2%,95%,Groundout: 2B-1B
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Athletics 0 Red Sox 5.,0 runs 1 hit 0 errors 1 LOB. Athletics 0 Red Sox 5.,0 runs 1 hit 0 errors 1 LOB. Athletics 0 Red Sox 5.
 Bottom of the 5th Red Sox Batting Ahead 5-0 Athletics' Chris Hammond facing 8-9-1,Bottom of the 5th Red Sox Batting Ahead 5-0 Athletics' Chris Hammond facing 8-9-1,Bottom of the 5th Red Sox Batting Ahead 5-0 Athletics' Chris Hammond facing 8-9-1,,Bottom of the 5th Red Sox Batting Ahead 5-0 Athletics' Chris Hammond facing 8-9-1,Bottom of the 5th Red Sox Batting Ahead 5-0 Athletics' Chris Hammond facing 8-9-1,Bottom of the 5th Red Sox Batting Ahead 5-0 Athletics' Chris Hammond facing 8-9-1,Bottom of the 5th Red Sox Batting Ahead 5-0 Athletics' Chris Hammond facing 8-9-1,Bottom of the 5th Red Sox Batting Ahead 5-0 Athletics' Chris Hammond facing 8-9-1,Bottom of the 5th Red Sox Batting Ahead 5-0 Athletics' Chris Hammond facing 8-9-1,Bottom of the 5th Red Sox Batting Ahead 5-0 Athletics' Chris Hammond facing 8-9-1,Bottom of the 5th Red Sox Batting Ahead 5-0 Athletics' Chris Hammond facing 8-9-1
 ,,,,,,,,,Chris Hammond replaces Tim Hudson pitching,Chris Hammond replaces Tim Hudson pitching,Chris Hammond replaces Tim Hudson pitching
-b5,5-0,0,"['', '', '']",5(3-1) .BCBBX,,BOS,K. Youkilis,C. Hammond,1%,96%,Double to LF (Line Drive to LF Line)
-b5,5-0,0,"['', 'Youkilis', '']",1(0-0) X,,BOS,P. Reese,C. Hammond,1%,97%,Single to RF (Ground Ball); Youkilis to 3B
-b5,5-0,0,"['Reese', '', 'Youkilis']",3(0-2) CFX,O,BOS,J. Damon,C. Hammond,-1%,96%,Flyball: CF (Short CF)
-b5,5-0,1,"['Reese', '', 'Youkilis']",2(0-1) FX,RO,BOS,M. Bellhorn,C. Hammond,0%,97%,Groundout: 3B-2B/Forceout at 2B; Youkilis Scores
-b5,6-0,2,"['Bellhorn', '', '']",6(3-2) BSBBS>X,R,BOS,D. Ortiz,C. Hammond,1%,98%,Single to RF (Fly Ball to Short CF-RF); Bellhorn Scores
-b5,7-0,2,"['Ortiz', '', '']",2(1-0) BX,RR,BOS,M. Ramirez,C. Hammond,1%,99%,Home Run (Fly Ball); Ortiz Scores
-b5,9-0,2,"['', '', '']",5(1-2) FBSFS,O,BOS,B. Daubach,C. Hammond,-0%,99%,Strikeout Swinging
+b5,5-0,0,"______, ______, ______",5(3-1) .BCBBX,,BOS,K. Youkilis,C. Hammond,1%,96%,Double to LF (Line Drive to LF Line)
+b5,5-0,0,"______, K. Youkilis, ______",1(0-0) X,,BOS,P. Reese,C. Hammond,1%,97%,Single to RF (Ground Ball); K. Youkilis to 3B
+b5,5-0,0,"P. Reese, ______, K. Youkilis",3(0-2) CFX,O,BOS,J. Damon,C. Hammond,-1%,96%,Flyball: CF (Short CF)
+b5,5-0,1,"P. Reese, ______, K. Youkilis",2(0-1) FX,RO,BOS,M. Bellhorn,C. Hammond,0%,97%,Groundout: 3B-2B/Forceout at 2B; K. Youkilis Scores
+b5,6-0,2,"M. Bellhorn, ______, ______",6(3-2) BSBBS>X,R,BOS,D. Ortiz,C. Hammond,1%,98%,Single to RF (Fly Ball to Short CF-RF); M. Bellhorn Scores
+b5,7-0,2,"D. Ortiz, ______, ______",2(1-0) BX,RR,BOS,M. Ramirez,C. Hammond,1%,99%,Home Run (Fly Ball); D. Ortiz Scores
+b5,9-0,2,"______, ______, ______",5(1-2) FBSFS,O,BOS,B. Daubach,C. Hammond,-0%,99%,Strikeout Swinging
 ,,,,,,,,,4 runs 4 hits 0 errors 0 LOB. Athletics 0 Red Sox 9.,4 runs 4 hits 0 errors 0 LOB. Athletics 0 Red Sox 9.,4 runs 4 hits 0 errors 0 LOB. Athletics 0 Red Sox 9.
 Top of the 6th Athletics Batting Behind 0-9 Red Sox' Curt Schilling facing 1-2-3,Top of the 6th Athletics Batting Behind 0-9 Red Sox' Curt Schilling facing 1-2-3,Top of the 6th Athletics Batting Behind 0-9 Red Sox' Curt Schilling facing 1-2-3,,Top of the 6th Athletics Batting Behind 0-9 Red Sox' Curt Schilling facing 1-2-3,Top of the 6th Athletics Batting Behind 0-9 Red Sox' Curt Schilling facing 1-2-3,Top of the 6th Athletics Batting Behind 0-9 Red Sox' Curt Schilling facing 1-2-3,Top of the 6th Athletics Batting Behind 0-9 Red Sox' Curt Schilling facing 1-2-3,Top of the 6th Athletics Batting Behind 0-9 Red Sox' Curt Schilling facing 1-2-3,Top of the 6th Athletics Batting Behind 0-9 Red Sox' Curt Schilling facing 1-2-3,Top of the 6th Athletics Batting Behind 0-9 Red Sox' Curt Schilling facing 1-2-3,Top of the 6th Athletics Batting Behind 0-9 Red Sox' Curt Schilling facing 1-2-3
-t6,0-9,0,"['', '', '']",4(2-1) BCBX,O,OAK,M. Kotsay,C. Schilling,0%,100%,Flyball: LF
-t6,0-9,1,"['', '', '']",2(0-1) SX,,OAK,E. Byrnes,C. Schilling,-0%,99%,Double to LF (Line Drive to LF Line)
-t6,0-9,1,"['', 'Byrnes', '']",2(1-0) BX,R,OAK,E. Chavez,C. Schilling,-1%,99%,Ground-rule Double (Fly Ball); Byrnes Scores
-t6,1-9,1,"['', 'Chavez', '']",5(2-2) CBSBX,O,OAK,J. Dye,C. Schilling,0%,99%,Foul Popfly: 3B (3B Foul)
-t6,1-9,2,"['', 'Chavez', '']",3(1-1) BCX,O,OAK,S. Hatteberg,C. Schilling,0%,100%,Popfly: SS
+t6,0-9,0,"______, ______, ______",4(2-1) BCBX,O,OAK,M. Kotsay,C. Schilling,0%,100%,Flyball: LF
+t6,0-9,1,"______, ______, ______",2(0-1) SX,,OAK,E. Byrnes,C. Schilling,-0%,99%,Double to LF (Line Drive to LF Line)
+t6,0-9,1,"______, E. Byrnes, ______",2(1-0) BX,R,OAK,E. Chavez,C. Schilling,-1%,99%,Ground-rule Double (Fly Ball); E. Byrnes Scores
+t6,1-9,1,"______, E. Chavez, ______",5(2-2) CBSBX,O,OAK,J. Dye,C. Schilling,0%,99%,Foul Popfly: 3B (3B Foul)
+t6,1-9,2,"______, E. Chavez, ______",3(1-1) BCX,O,OAK,S. Hatteberg,C. Schilling,0%,100%,Popfly: SS
 ,,,,,,,,,1 run 2 hits 0 errors 1 LOB. Athletics 1 Red Sox 9.,1 run 2 hits 0 errors 1 LOB. Athletics 1 Red Sox 9.,1 run 2 hits 0 errors 1 LOB. Athletics 1 Red Sox 9.
 Bottom of the 6th Red Sox Batting Ahead 9-1 Athletics' Chris Hammond facing 6-7-8,Bottom of the 6th Red Sox Batting Ahead 9-1 Athletics' Chris Hammond facing 6-7-8,Bottom of the 6th Red Sox Batting Ahead 9-1 Athletics' Chris Hammond facing 6-7-8,,Bottom of the 6th Red Sox Batting Ahead 9-1 Athletics' Chris Hammond facing 6-7-8,Bottom of the 6th Red Sox Batting Ahead 9-1 Athletics' Chris Hammond facing 6-7-8,Bottom of the 6th Red Sox Batting Ahead 9-1 Athletics' Chris Hammond facing 6-7-8,Bottom of the 6th Red Sox Batting Ahead 9-1 Athletics' Chris Hammond facing 6-7-8,Bottom of the 6th Red Sox Batting Ahead 9-1 Athletics' Chris Hammond facing 6-7-8,Bottom of the 6th Red Sox Batting Ahead 9-1 Athletics' Chris Hammond facing 6-7-8,Bottom of the 6th Red Sox Batting Ahead 9-1 Athletics' Chris Hammond facing 6-7-8,Bottom of the 6th Red Sox Batting Ahead 9-1 Athletics' Chris Hammond facing 6-7-8
-b6,9-1,0,"['', '', '']",3(0-2) CCX,,BOS,J. Varitek,C. Hammond,0%,100%,Single to RF (Ground Ball)
-b6,9-1,0,"['Varitek', '', '']",6(3-2) BSBFBX,OO,BOS,K. Millar,C. Hammond,-0%,99%,Ground Ball Double Play: SS-2B-1B
-b6,9-1,2,"['', '', '']",5(3-1) BBCBB,,BOS,K. Youkilis,C. Hammond,0%,99%,Walk
-b6,9-1,2,"['Youkilis', '', '']",2(0-1) CX,O,BOS,P. Reese,C. Hammond,-0%,99%,Groundout: 2B-1B
+b6,9-1,0,"______, ______, ______",3(0-2) CCX,,BOS,J. Varitek,C. Hammond,0%,100%,Single to RF (Ground Ball)
+b6,9-1,0,"J. Varitek, ______, ______",6(3-2) BSBFBX,OO,BOS,K. Millar,C. Hammond,-0%,99%,Ground Ball Double Play: SS-2B-1B
+b6,9-1,2,"______, ______, ______",5(3-1) BBCBB,,BOS,K. Youkilis,C. Hammond,0%,99%,Walk
+b6,9-1,2,"K. Youkilis, ______, ______",2(0-1) CX,O,BOS,P. Reese,C. Hammond,-0%,99%,Groundout: 2B-1B
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Athletics 1 Red Sox 9.,0 runs 1 hit 0 errors 1 LOB. Athletics 1 Red Sox 9.,0 runs 1 hit 0 errors 1 LOB. Athletics 1 Red Sox 9.
 Top of the 7th Athletics Batting Behind 1-9 Red Sox' Curt Schilling facing 6-7-8,Top of the 7th Athletics Batting Behind 1-9 Red Sox' Curt Schilling facing 6-7-8,Top of the 7th Athletics Batting Behind 1-9 Red Sox' Curt Schilling facing 6-7-8,,Top of the 7th Athletics Batting Behind 1-9 Red Sox' Curt Schilling facing 6-7-8,Top of the 7th Athletics Batting Behind 1-9 Red Sox' Curt Schilling facing 6-7-8,Top of the 7th Athletics Batting Behind 1-9 Red Sox' Curt Schilling facing 6-7-8,Top of the 7th Athletics Batting Behind 1-9 Red Sox' Curt Schilling facing 6-7-8,Top of the 7th Athletics Batting Behind 1-9 Red Sox' Curt Schilling facing 6-7-8,Top of the 7th Athletics Batting Behind 1-9 Red Sox' Curt Schilling facing 6-7-8,Top of the 7th Athletics Batting Behind 1-9 Red Sox' Curt Schilling facing 6-7-8,Top of the 7th Athletics Batting Behind 1-9 Red Sox' Curt Schilling facing 6-7-8
 ,,,,,,,,,Gabe Kapler replaces Kevin Millar playing RF batting 7th,Gabe Kapler replaces Kevin Millar playing RF batting 7th,Gabe Kapler replaces Kevin Millar playing RF batting 7th
-t7,1-9,0,"['', '', '']",4(2-1) .BBCX,,OAK,E. Durazo,C. Schilling,-0%,99%,Single to CF (Ground Ball)
-t7,1-9,0,"['Durazo', '', '']",5(2-2) BSBFX,,OAK,B. Crosby,C. Schilling,-1%,98%,Single to LF (Ground Ball); Durazo to 2B
-t7,1-9,0,"['Crosby', 'Durazo', '']",5(2-2) FSB*BS,O,OAK,A. Melhuse,C. Schilling,1%,99%,Strikeout Swinging
-t7,1-9,1,"['Crosby', 'Durazo', '']",3(1-1) BCX,,OAK,M. McLemore,C. Schilling,-1%,98%,Single to LF (Ground Ball); Durazo to 3B; Crosby to 2B
-t7,1-9,1,"['McLemore', 'Crosby', 'Durazo']",3(1-1) BCX,R,OAK,M. Kotsay,C. Schilling,-1%,97%,Single to RF (Ground Ball); Durazo Scores; Crosby to 3B; McLemore to 2B
-t7,2-9,1,"['Kotsay', 'McLemore', 'Crosby']",6(2-2) CBBCFX,O,OAK,E. Byrnes,C. Schilling,2%,98%,Foul Popfly: 1B (1B Foul)
-t7,2-9,2,"['Kotsay', 'McLemore', 'Crosby']",6(2-2) SCFB*BS,O,OAK,E. Chavez,C. Schilling,1%,100%,Strikeout Swinging
+t7,1-9,0,"______, ______, ______",4(2-1) .BBCX,,OAK,E. Durazo,C. Schilling,-0%,99%,Single to CF (Ground Ball)
+t7,1-9,0,"E. Durazo, ______, ______",5(2-2) BSBFX,,OAK,B. Crosby,C. Schilling,-1%,98%,Single to LF (Ground Ball); E. Durazo to 2B
+t7,1-9,0,"B. Crosby, E. Durazo, ______",5(2-2) FSB*BS,O,OAK,A. Melhuse,C. Schilling,1%,99%,Strikeout Swinging
+t7,1-9,1,"B. Crosby, E. Durazo, ______",3(1-1) BCX,,OAK,M. McLemore,C. Schilling,-1%,98%,Single to LF (Ground Ball); E. Durazo to 3B; B. Crosby to 2B
+t7,1-9,1,"M. McLemore, B. Crosby, E. Durazo",3(1-1) BCX,R,OAK,M. Kotsay,C. Schilling,-1%,97%,Single to RF (Ground Ball); E. Durazo Scores; B. Crosby to 3B; M. McLemore to 2B
+t7,2-9,1,"M. Kotsay, M. McLemore, B. Crosby",6(2-2) CBBCFX,O,OAK,E. Byrnes,C. Schilling,2%,98%,Foul Popfly: 1B (1B Foul)
+t7,2-9,2,"M. Kotsay, M. McLemore, B. Crosby",6(2-2) SCFB*BS,O,OAK,E. Chavez,C. Schilling,1%,100%,Strikeout Swinging
 ,,,,,,,,,1 run 4 hits 0 errors 3 LOB. Athletics 2 Red Sox 9.,1 run 4 hits 0 errors 3 LOB. Athletics 2 Red Sox 9.,1 run 4 hits 0 errors 3 LOB. Athletics 2 Red Sox 9.
 Bottom of the 7th Red Sox Batting Ahead 9-2 Athletics' Ricardo Rincon facing 1-2-3,Bottom of the 7th Red Sox Batting Ahead 9-2 Athletics' Ricardo Rincon facing 1-2-3,Bottom of the 7th Red Sox Batting Ahead 9-2 Athletics' Ricardo Rincon facing 1-2-3,,Bottom of the 7th Red Sox Batting Ahead 9-2 Athletics' Ricardo Rincon facing 1-2-3,Bottom of the 7th Red Sox Batting Ahead 9-2 Athletics' Ricardo Rincon facing 1-2-3,Bottom of the 7th Red Sox Batting Ahead 9-2 Athletics' Ricardo Rincon facing 1-2-3,Bottom of the 7th Red Sox Batting Ahead 9-2 Athletics' Ricardo Rincon facing 1-2-3,Bottom of the 7th Red Sox Batting Ahead 9-2 Athletics' Ricardo Rincon facing 1-2-3,Bottom of the 7th Red Sox Batting Ahead 9-2 Athletics' Ricardo Rincon facing 1-2-3,Bottom of the 7th Red Sox Batting Ahead 9-2 Athletics' Ricardo Rincon facing 1-2-3,Bottom of the 7th Red Sox Batting Ahead 9-2 Athletics' Ricardo Rincon facing 1-2-3
 ,,,,,,,,,Ricardo Rincon replaces Chris Hammond pitching,Ricardo Rincon replaces Chris Hammond pitching,Ricardo Rincon replaces Chris Hammond pitching
-b7,9-2,0,"['', '', '']",2(1-0) .BX,,BOS,J. Damon,R. Rincon,0%,100%,Single to SS (Ground Ball)
-b7,9-2,0,"['Damon', '', '']",4(2-1) BBCX,RR,BOS,M. Bellhorn,R. Rincon,0%,100%,Home Run (Fly Ball); Damon Scores
-b7,11-2,0,"['', '', '']",4(1-2) BSCC,O,BOS,D. Ortiz,R. Rincon,-0%,100%,Strikeout Looking
-b7,11-2,1,"['', '', '']",5(3-1) BBBCB,,BOS,M. Ramirez,R. Rincon,0%,100%,Walk
+b7,9-2,0,"______, ______, ______",2(1-0) .BX,,BOS,J. Damon,R. Rincon,0%,100%,Single to SS (Ground Ball)
+b7,9-2,0,"J. Damon, ______, ______",4(2-1) BBCX,RR,BOS,M. Bellhorn,R. Rincon,0%,100%,Home Run (Fly Ball); J. Damon Scores
+b7,11-2,0,"______, ______, ______",4(1-2) BSCC,O,BOS,D. Ortiz,R. Rincon,-0%,100%,Strikeout Looking
+b7,11-2,1,"______, ______, ______",5(3-1) BBBCB,,BOS,M. Ramirez,R. Rincon,0%,100%,Walk
 ,,,,,,,,,Dave McCarty pinch hits for Brian Daubach (1B) batting 5th,Dave McCarty pinch hits for Brian Daubach (1B) batting 5th,Dave McCarty pinch hits for Brian Daubach (1B) batting 5th
-b7,11-2,1,"['Ramirez', '', '']",1(0-0) .X,,BOS,D. McCarty,R. Rincon,0%,100%,Single to LF (Ground Ball); Ramirez to 2B
-b7,11-2,1,"['McCarty', 'Ramirez', '']",4(2-1) BBCX,,BOS,J. Varitek,R. Rincon,0%,100%,Single to LF (Ground Ball); Ramirez to 3B; McCarty to 2B
-b7,11-2,1,"['Varitek', 'McCarty', 'Ramirez']",4(2-1) FBBX,RO,BOS,G. Kapler,R. Rincon,0%,100%,Flyball: CF/Sacrifice Fly; Ramirez Scores
-b7,12-2,2,"['Varitek', 'McCarty', '']",8(3-2) BBCFFBFB,,BOS,K. Youkilis,R. Rincon,0%,100%,Walk; McCarty to 3B; Varitek to 2B
+b7,11-2,1,"M. Ramirez, ______, ______",1(0-0) .X,,BOS,D. McCarty,R. Rincon,0%,100%,Single to LF (Ground Ball); M. Ramirez to 2B
+b7,11-2,1,"D. McCarty, M. Ramirez, ______",4(2-1) BBCX,,BOS,J. Varitek,R. Rincon,0%,100%,Single to LF (Ground Ball); M. Ramirez to 3B; D. McCarty to 2B
+b7,11-2,1,"J. Varitek, D. McCarty, M. Ramirez",4(2-1) FBBX,RO,BOS,G. Kapler,R. Rincon,0%,100%,Flyball: CF/Sacrifice Fly; M. Ramirez Scores
+b7,12-2,2,"J. Varitek, D. McCarty, ______",8(3-2) BBCFFBFB,,BOS,K. Youkilis,R. Rincon,0%,100%,Walk; D. McCarty to 3B; J. Varitek to 2B
 ,,,,,,,,,Justin Duchscherer replaces Ricardo Rincon pitchingCesar Crespo pinch hits for Pokey Reese (SS) batting 9th,Justin Duchscherer replaces Ricardo Rincon pitchingCesar Crespo pinch hits for Pokey Reese (SS) batting 9th,Justin Duchscherer replaces Ricardo Rincon pitchingCesar Crespo pinch hits for Pokey Reese (SS) batting 9th
-b7,12-2,2,"['Youkilis', 'Varitek', 'McCarty']",3(0-2) ..CSS,O,BOS,C. Crespo,J. Duchscherer,-0%,100%,Strikeout Swinging
+b7,12-2,2,"K. Youkilis, J. Varitek, D. McCarty",3(0-2) ..CSS,O,BOS,C. Crespo,J. Duchscherer,-0%,100%,Strikeout Swinging
 ,,,,,,,,,3 runs 4 hits 0 errors 3 LOB. Athletics 2 Red Sox 12.,3 runs 4 hits 0 errors 3 LOB. Athletics 2 Red Sox 12.,3 runs 4 hits 0 errors 3 LOB. Athletics 2 Red Sox 12.
 Top of the 8th Athletics Batting Behind 2-12 Red Sox' Lenny DiNardo facing 4-5-6,Top of the 8th Athletics Batting Behind 2-12 Red Sox' Lenny DiNardo facing 4-5-6,Top of the 8th Athletics Batting Behind 2-12 Red Sox' Lenny DiNardo facing 4-5-6,,Top of the 8th Athletics Batting Behind 2-12 Red Sox' Lenny DiNardo facing 4-5-6,Top of the 8th Athletics Batting Behind 2-12 Red Sox' Lenny DiNardo facing 4-5-6,Top of the 8th Athletics Batting Behind 2-12 Red Sox' Lenny DiNardo facing 4-5-6,Top of the 8th Athletics Batting Behind 2-12 Red Sox' Lenny DiNardo facing 4-5-6,Top of the 8th Athletics Batting Behind 2-12 Red Sox' Lenny DiNardo facing 4-5-6,Top of the 8th Athletics Batting Behind 2-12 Red Sox' Lenny DiNardo facing 4-5-6,Top of the 8th Athletics Batting Behind 2-12 Red Sox' Lenny DiNardo facing 4-5-6,Top of the 8th Athletics Batting Behind 2-12 Red Sox' Lenny DiNardo facing 4-5-6
 ,,,,,,,,,Lenny DiNardo replaces Curt Schilling pitchingAndy Dominique replaces Manny Ramirez (LF) playing 1B batting 4thCesar Crespo moves from PH to SSDave McCarty moves from PH to LF,Lenny DiNardo replaces Curt Schilling pitchingAndy Dominique replaces Manny Ramirez (LF) playing 1B batting 4thCesar Crespo moves from PH to SSDave McCarty moves from PH to LF,Lenny DiNardo replaces Curt Schilling pitchingAndy Dominique replaces Manny Ramirez (LF) playing 1B batting 4thCesar Crespo moves from PH to SSDave McCarty moves from PH to LF
-t8,2-12,0,"['', '', '']",3(1-1) ....BCX,O,OAK,J. Dye,L. DiNardo,0%,100%,Groundout: 2B-1B
-t8,2-12,1,"['', '', '']",2(1-0) BX,O,OAK,S. Hatteberg,L. DiNardo,0%,100%,Groundout: 2B-1B
-t8,2-12,2,"['', '', '']",7(2-2) SCBFBFS,O,OAK,E. Durazo,L. DiNardo,0%,100%,Strikeout Swinging
+t8,2-12,0,"______, ______, ______",3(1-1) ....BCX,O,OAK,J. Dye,L. DiNardo,0%,100%,Groundout: 2B-1B
+t8,2-12,1,"______, ______, ______",2(1-0) BX,O,OAK,S. Hatteberg,L. DiNardo,0%,100%,Groundout: 2B-1B
+t8,2-12,2,"______, ______, ______",7(2-2) SCBFBFS,O,OAK,E. Durazo,L. DiNardo,0%,100%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Athletics 2 Red Sox 12.,0 runs 0 hits 0 errors 0 LOB. Athletics 2 Red Sox 12.,0 runs 0 hits 0 errors 0 LOB. Athletics 2 Red Sox 12.
 Bottom of the 8th Red Sox Batting Ahead 12-2 Athletics' Justin Duchscherer facing 1-2-3,Bottom of the 8th Red Sox Batting Ahead 12-2 Athletics' Justin Duchscherer facing 1-2-3,Bottom of the 8th Red Sox Batting Ahead 12-2 Athletics' Justin Duchscherer facing 1-2-3,,Bottom of the 8th Red Sox Batting Ahead 12-2 Athletics' Justin Duchscherer facing 1-2-3,Bottom of the 8th Red Sox Batting Ahead 12-2 Athletics' Justin Duchscherer facing 1-2-3,Bottom of the 8th Red Sox Batting Ahead 12-2 Athletics' Justin Duchscherer facing 1-2-3,Bottom of the 8th Red Sox Batting Ahead 12-2 Athletics' Justin Duchscherer facing 1-2-3,Bottom of the 8th Red Sox Batting Ahead 12-2 Athletics' Justin Duchscherer facing 1-2-3,Bottom of the 8th Red Sox Batting Ahead 12-2 Athletics' Justin Duchscherer facing 1-2-3,Bottom of the 8th Red Sox Batting Ahead 12-2 Athletics' Justin Duchscherer facing 1-2-3,Bottom of the 8th Red Sox Batting Ahead 12-2 Athletics' Justin Duchscherer facing 1-2-3
 ,,,,,,,,,Marco Scutaro replaces Mark McLemore playing 2B batting 9th,Marco Scutaro replaces Mark McLemore playing 2B batting 9th,Marco Scutaro replaces Mark McLemore playing 2B batting 9th
-b8,12-2,0,"['', '', '']",1(0-0) .X,O,BOS,J. Damon,J. Duchscherer,0%,100%,Popfly: SS
-b8,12-2,1,"['', '', '']",3(0-2) CFS,O,BOS,M. Bellhorn,J. Duchscherer,0%,100%,Strikeout Swinging
-b8,12-2,2,"['', '', '']",4(1-2) FBCX,,BOS,D. Ortiz,J. Duchscherer,0%,100%,Single to 2B (Ground Ball to Short RF)
-b8,12-2,2,"['Ortiz', '', '']",5(2-2) BBCCS,O,BOS,A. Dominique,J. Duchscherer,0%,100%,Strikeout Swinging
+b8,12-2,0,"______, ______, ______",1(0-0) .X,O,BOS,J. Damon,J. Duchscherer,0%,100%,Popfly: SS
+b8,12-2,1,"______, ______, ______",3(0-2) CFS,O,BOS,M. Bellhorn,J. Duchscherer,0%,100%,Strikeout Swinging
+b8,12-2,2,"______, ______, ______",4(1-2) FBCX,,BOS,D. Ortiz,J. Duchscherer,0%,100%,Single to 2B (Ground Ball to Short RF)
+b8,12-2,2,"D. Ortiz, ______, ______",5(2-2) BBCCS,O,BOS,A. Dominique,J. Duchscherer,0%,100%,Strikeout Swinging
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Athletics 2 Red Sox 12.,0 runs 1 hit 0 errors 1 LOB. Athletics 2 Red Sox 12.,0 runs 1 hit 0 errors 1 LOB. Athletics 2 Red Sox 12.
 Top of the 9th Athletics Batting Behind 2-12 Red Sox' Jamie Brown facing 7-8-9,Top of the 9th Athletics Batting Behind 2-12 Red Sox' Jamie Brown facing 7-8-9,Top of the 9th Athletics Batting Behind 2-12 Red Sox' Jamie Brown facing 7-8-9,,Top of the 9th Athletics Batting Behind 2-12 Red Sox' Jamie Brown facing 7-8-9,Top of the 9th Athletics Batting Behind 2-12 Red Sox' Jamie Brown facing 7-8-9,Top of the 9th Athletics Batting Behind 2-12 Red Sox' Jamie Brown facing 7-8-9,Top of the 9th Athletics Batting Behind 2-12 Red Sox' Jamie Brown facing 7-8-9,Top of the 9th Athletics Batting Behind 2-12 Red Sox' Jamie Brown facing 7-8-9,Top of the 9th Athletics Batting Behind 2-12 Red Sox' Jamie Brown facing 7-8-9,Top of the 9th Athletics Batting Behind 2-12 Red Sox' Jamie Brown facing 7-8-9,Top of the 9th Athletics Batting Behind 2-12 Red Sox' Jamie Brown facing 7-8-9
 ,,,,,,,,,Jamie Brown replaces Lenny DiNardo pitching,Jamie Brown replaces Lenny DiNardo pitching,Jamie Brown replaces Lenny DiNardo pitching
-t9,2-12,0,"['', '', '']",5(1-2) .CBSFC,O,OAK,B. Crosby,J. Brown,0%,100%,Strikeout Looking
+t9,2-12,0,"______, ______, ______",5(1-2) .CBSFC,O,OAK,B. Crosby,J. Brown,0%,100%,Strikeout Looking
 ,,,,,,,,,Bobby Kielty pinch hits for Adam Melhuse (C) batting 8th,Bobby Kielty pinch hits for Adam Melhuse (C) batting 8th,Bobby Kielty pinch hits for Adam Melhuse (C) batting 8th
-t9,2-12,1,"['', '', '']",1(0-0) .X,,OAK,B. Kielty,J. Brown,-0%,100%,Single to CF (Ground Ball)
-t9,2-12,1,"['Kielty', '', '']",5(0-2) FFFFS,O,OAK,M. Scutaro,J. Brown,0%,100%,Strikeout Swinging
-t9,2-12,2,"['Kielty', '', '']",4(1-2) BFCX,O,OAK,M. Kotsay,J. Brown,0%,100%,Flyball: CF
+t9,2-12,1,"______, ______, ______",1(0-0) .X,,OAK,B. Kielty,J. Brown,-0%,100%,Single to CF (Ground Ball)
+t9,2-12,1,"B. Kielty, ______, ______",5(0-2) FFFFS,O,OAK,M. Scutaro,J. Brown,0%,100%,Strikeout Swinging
+t9,2-12,2,"B. Kielty, ______, ______",4(1-2) BFCX,O,OAK,M. Kotsay,J. Brown,0%,100%,Flyball: CF
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Athletics 2 Red Sox 12.,0 runs 1 hit 0 errors 1 LOB. Athletics 2 Red Sox 12.,0 runs 1 hit 0 errors 1 LOB. Athletics 2 Red Sox 12.

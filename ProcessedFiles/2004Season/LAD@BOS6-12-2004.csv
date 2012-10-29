@@ -1,140 +1,140 @@
 Inn,Score,Out,RoB,Pit(cnt)Sequence,R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
 Top of the 1st Dodgers Batting Tied 0-0 Red Sox' Tim Wakefield facing 1-2-3,Top of the 1st Dodgers Batting Tied 0-0 Red Sox' Tim Wakefield facing 1-2-3,Top of the 1st Dodgers Batting Tied 0-0 Red Sox' Tim Wakefield facing 1-2-3,,Top of the 1st Dodgers Batting Tied 0-0 Red Sox' Tim Wakefield facing 1-2-3,Top of the 1st Dodgers Batting Tied 0-0 Red Sox' Tim Wakefield facing 1-2-3,Top of the 1st Dodgers Batting Tied 0-0 Red Sox' Tim Wakefield facing 1-2-3,Top of the 1st Dodgers Batting Tied 0-0 Red Sox' Tim Wakefield facing 1-2-3,Top of the 1st Dodgers Batting Tied 0-0 Red Sox' Tim Wakefield facing 1-2-3,Top of the 1st Dodgers Batting Tied 0-0 Red Sox' Tim Wakefield facing 1-2-3,Top of the 1st Dodgers Batting Tied 0-0 Red Sox' Tim Wakefield facing 1-2-3,Top of the 1st Dodgers Batting Tied 0-0 Red Sox' Tim Wakefield facing 1-2-3
-t1,0-0,0,"['', '', '']",3(1-1) BCX,,LAD,C. Izturis,T. Wakefield,3%,53%,Single to CF (Fly Ball)
-t1,0-0,0,"['Izturis', '', '']",7(3-2) CCBFBB>X,,LAD,J. Werth,T. Wakefield,5%,58%,Single to 3B (Ground Ball); Izturis to 2B
-t1,0-0,0,"['Werth', 'Izturis', '']",4(1-2) SSBS,O,LAD,M. Bradley,T. Wakefield,-5%,53%,Strikeout Swinging
-t1,0-0,1,"['Werth', 'Izturis', '']",6(2-2) BBCCFX,OO,LAD,S. Green,T. Wakefield,-9%,45%,Ground Ball Double Play: 2B-SS-1B
+t1,0-0,0,"______, ______, ______",3(1-1) BCX,,LAD,C. Izturis,T. Wakefield,3%,53%,Single to CF (Fly Ball)
+t1,0-0,0,"C. Izturis, ______, ______",7(3-2) CCBFBB>X,,LAD,J. Werth,T. Wakefield,5%,58%,Single to 3B (Ground Ball); C. Izturis to 2B
+t1,0-0,0,"J. Werth, C. Izturis, ______",4(1-2) SSBS,O,LAD,M. Bradley,T. Wakefield,-5%,53%,Strikeout Swinging
+t1,0-0,1,"J. Werth, C. Izturis, ______",6(2-2) BBCCFX,OO,LAD,S. Green,T. Wakefield,-9%,45%,Ground Ball Double Play: 2B-SS-1B
 ,,,,,,,,,0 runs 2 hits 0 errors 1 LOB. Dodgers 0 Red Sox 0.,0 runs 2 hits 0 errors 1 LOB. Dodgers 0 Red Sox 0.,0 runs 2 hits 0 errors 1 LOB. Dodgers 0 Red Sox 0.
 Bottom of the 1st Red Sox Batting Tied 0-0 Dodgers' Jeff Weaver facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Dodgers' Jeff Weaver facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Dodgers' Jeff Weaver facing 1-2-3,,Bottom of the 1st Red Sox Batting Tied 0-0 Dodgers' Jeff Weaver facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Dodgers' Jeff Weaver facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Dodgers' Jeff Weaver facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Dodgers' Jeff Weaver facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Dodgers' Jeff Weaver facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Dodgers' Jeff Weaver facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Dodgers' Jeff Weaver facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Dodgers' Jeff Weaver facing 1-2-3
-b1,0-0,0,"['', '', '']",6(3-2) CBBBCB,,BOS,J. Damon,J. Weaver,-3%,42%,Walk
-b1,0-0,0,"['Damon', '', '']",5(1-2) B11C1FFX,O,BOS,M. Bellhorn,J. Weaver,3%,45%,Flyball: RF (CF-RF)
-b1,0-0,1,"['Damon', '', '']",3(1-1) BC1X,O,BOS,D. Ortiz,J. Weaver,2%,47%,Groundout: 3B-1B; Damon to 2B
-b1,0-0,2,"['', 'Damon', '']",5(2-2) BCBCX,O,BOS,M. Ramirez,J. Weaver,3%,50%,Flyball: CF (Deep CF)
+b1,0-0,0,"______, ______, ______",6(3-2) CBBBCB,,BOS,J. Damon,J. Weaver,-3%,42%,Walk
+b1,0-0,0,"J. Damon, ______, ______",5(1-2) B11C1FFX,O,BOS,M. Bellhorn,J. Weaver,3%,45%,Flyball: RF (CF-RF)
+b1,0-0,1,"J. Damon, ______, ______",3(1-1) BC1X,O,BOS,D. Ortiz,J. Weaver,2%,47%,Groundout: 3B-1B; J. Damon to 2B
+b1,0-0,2,"______, J. Damon, ______",5(2-2) BCBCX,O,BOS,M. Ramirez,J. Weaver,3%,50%,Flyball: CF (Deep CF)
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Dodgers 0 Red Sox 0.,0 runs 0 hits 0 errors 1 LOB. Dodgers 0 Red Sox 0.,0 runs 0 hits 0 errors 1 LOB. Dodgers 0 Red Sox 0.
 Top of the 2nd Dodgers Batting Tied 0-0 Red Sox' Tim Wakefield facing 5-6-7,Top of the 2nd Dodgers Batting Tied 0-0 Red Sox' Tim Wakefield facing 5-6-7,Top of the 2nd Dodgers Batting Tied 0-0 Red Sox' Tim Wakefield facing 5-6-7,,Top of the 2nd Dodgers Batting Tied 0-0 Red Sox' Tim Wakefield facing 5-6-7,Top of the 2nd Dodgers Batting Tied 0-0 Red Sox' Tim Wakefield facing 5-6-7,Top of the 2nd Dodgers Batting Tied 0-0 Red Sox' Tim Wakefield facing 5-6-7,Top of the 2nd Dodgers Batting Tied 0-0 Red Sox' Tim Wakefield facing 5-6-7,Top of the 2nd Dodgers Batting Tied 0-0 Red Sox' Tim Wakefield facing 5-6-7,Top of the 2nd Dodgers Batting Tied 0-0 Red Sox' Tim Wakefield facing 5-6-7,Top of the 2nd Dodgers Batting Tied 0-0 Red Sox' Tim Wakefield facing 5-6-7,Top of the 2nd Dodgers Batting Tied 0-0 Red Sox' Tim Wakefield facing 5-6-7
-t2,0-0,0,"['', '', '']",3(1-1) BSX,O,LAD,P. Lo Duca,T. Wakefield,-2%,48%,Groundout: SS-1B
-t2,0-0,1,"['', '', '']",5(2-2) BFBFX,O,LAD,A. Beltre,T. Wakefield,-2%,46%,Groundout: SS-1B
-t2,0-0,2,"['', '', '']",2(0-1) CX,,LAD,J. Encarnacion,T. Wakefield,2%,48%,Double to LF (Line Drive to LF Line)
-t2,0-0,2,"['', 'Encarnacion', '']",3(1-1) C*BX,R,LAD,O. Saenz,T. Wakefield,9%,57%,Single to CF (Fly Ball); Encarnacion Scores
-t2,1-0,2,"['Saenz', '', '']",1(0-0) X,O,LAD,A. Cora,T. Wakefield,-2%,54%,Popfly: 1B
+t2,0-0,0,"______, ______, ______",3(1-1) BSX,O,LAD,P. Lo Duca,T. Wakefield,-2%,48%,Groundout: SS-1B
+t2,0-0,1,"______, ______, ______",5(2-2) BFBFX,O,LAD,A. Beltre,T. Wakefield,-2%,46%,Groundout: SS-1B
+t2,0-0,2,"______, ______, ______",2(0-1) CX,,LAD,J. Encarnacion,T. Wakefield,2%,48%,Double to LF (Line Drive to LF Line)
+t2,0-0,2,"______, J. Encarnacion, ______",3(1-1) C*BX,R,LAD,O. Saenz,T. Wakefield,9%,57%,Single to CF (Fly Ball); J. Encarnacion Scores
+t2,1-0,2,"O. Saenz, ______, ______",1(0-0) X,O,LAD,A. Cora,T. Wakefield,-2%,54%,Popfly: 1B
 ,,,,,,,,,1 run 2 hits 0 errors 1 LOB. Dodgers 1 Red Sox 0.,1 run 2 hits 0 errors 1 LOB. Dodgers 1 Red Sox 0.,1 run 2 hits 0 errors 1 LOB. Dodgers 1 Red Sox 0.
 Bottom of the 2nd Red Sox Batting Behind 0-1 Dodgers' Jeff Weaver facing 5-6-7,Bottom of the 2nd Red Sox Batting Behind 0-1 Dodgers' Jeff Weaver facing 5-6-7,Bottom of the 2nd Red Sox Batting Behind 0-1 Dodgers' Jeff Weaver facing 5-6-7,,Bottom of the 2nd Red Sox Batting Behind 0-1 Dodgers' Jeff Weaver facing 5-6-7,Bottom of the 2nd Red Sox Batting Behind 0-1 Dodgers' Jeff Weaver facing 5-6-7,Bottom of the 2nd Red Sox Batting Behind 0-1 Dodgers' Jeff Weaver facing 5-6-7,Bottom of the 2nd Red Sox Batting Behind 0-1 Dodgers' Jeff Weaver facing 5-6-7,Bottom of the 2nd Red Sox Batting Behind 0-1 Dodgers' Jeff Weaver facing 5-6-7,Bottom of the 2nd Red Sox Batting Behind 0-1 Dodgers' Jeff Weaver facing 5-6-7,Bottom of the 2nd Red Sox Batting Behind 0-1 Dodgers' Jeff Weaver facing 5-6-7,Bottom of the 2nd Red Sox Batting Behind 0-1 Dodgers' Jeff Weaver facing 5-6-7
-b2,0-1,0,"['', '', '']",1(0-0) X,O,BOS,N. Garciaparra,J. Weaver,3%,57%,Groundout: P-1B
-b2,0-1,1,"['', '', '']",6(2-2) BBCCFX,O,BOS,J. Varitek,J. Weaver,2%,59%,Flyball: LF (LF-CF)
-b2,0-1,2,"['', '', '']",3(1-1) CBX,O,BOS,K. Youkilis,J. Weaver,1%,60%,Groundout: 3B-1B
+b2,0-1,0,"______, ______, ______",1(0-0) X,O,BOS,N. Garciaparra,J. Weaver,3%,57%,Groundout: P-1B
+b2,0-1,1,"______, ______, ______",6(2-2) BBCCFX,O,BOS,J. Varitek,J. Weaver,2%,59%,Flyball: LF (LF-CF)
+b2,0-1,2,"______, ______, ______",3(1-1) CBX,O,BOS,K. Youkilis,J. Weaver,1%,60%,Groundout: 3B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Dodgers 1 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Dodgers 1 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Dodgers 1 Red Sox 0.
 Top of the 3rd Dodgers Batting Ahead 1-0 Red Sox' Tim Wakefield facing 1-2-3,Top of the 3rd Dodgers Batting Ahead 1-0 Red Sox' Tim Wakefield facing 1-2-3,Top of the 3rd Dodgers Batting Ahead 1-0 Red Sox' Tim Wakefield facing 1-2-3,,Top of the 3rd Dodgers Batting Ahead 1-0 Red Sox' Tim Wakefield facing 1-2-3,Top of the 3rd Dodgers Batting Ahead 1-0 Red Sox' Tim Wakefield facing 1-2-3,Top of the 3rd Dodgers Batting Ahead 1-0 Red Sox' Tim Wakefield facing 1-2-3,Top of the 3rd Dodgers Batting Ahead 1-0 Red Sox' Tim Wakefield facing 1-2-3,Top of the 3rd Dodgers Batting Ahead 1-0 Red Sox' Tim Wakefield facing 1-2-3,Top of the 3rd Dodgers Batting Ahead 1-0 Red Sox' Tim Wakefield facing 1-2-3,Top of the 3rd Dodgers Batting Ahead 1-0 Red Sox' Tim Wakefield facing 1-2-3,Top of the 3rd Dodgers Batting Ahead 1-0 Red Sox' Tim Wakefield facing 1-2-3
-t3,1-0,0,"['', '', '']",4(2-1) BCBX,,LAD,C. Izturis,T. Wakefield,3%,64%,Single to SS (Ground Ball)
-t3,1-0,0,"['Izturis', '', '']",3(1-1) CB>B,,LAD,J. Werth,T. Wakefield,2%,66%,Izturis Steals 2B
-t3,1-0,0,"['', 'Izturis', '']",6(2-2) CB>B.SFC,O,LAD,J. Werth,T. Wakefield,-4%,62%,Strikeout Looking
-t3,1-0,1,"['', 'Izturis', '']",4(0-2) FSFX,O,LAD,M. Bradley,T. Wakefield,-3%,59%,Groundout: 2B-1B; Izturis to 3B
-t3,1-0,2,"['', '', 'Izturis']",6(3-2) BCBFB*B,,LAD,S. Green,T. Wakefield,1%,60%,Walk
-t3,1-0,2,"['Green', '', 'Izturis']",1(0-0) X,O,LAD,P. Lo Duca,T. Wakefield,-5%,55%,Flyball: RF
+t3,1-0,0,"______, ______, ______",4(2-1) BCBX,,LAD,C. Izturis,T. Wakefield,3%,64%,Single to SS (Ground Ball)
+t3,1-0,0,"C. Izturis, ______, ______",3(1-1) CB>B,,LAD,J. Werth,T. Wakefield,2%,66%,C. Izturis Steals 2B
+t3,1-0,0,"______, C. Izturis, ______",6(2-2) CB>B.SFC,O,LAD,J. Werth,T. Wakefield,-4%,62%,Strikeout Looking
+t3,1-0,1,"______, C. Izturis, ______",4(0-2) FSFX,O,LAD,M. Bradley,T. Wakefield,-3%,59%,Groundout: 2B-1B; C. Izturis to 3B
+t3,1-0,2,"______, ______, C. Izturis",6(3-2) BCBFB*B,,LAD,S. Green,T. Wakefield,1%,60%,Walk
+t3,1-0,2,"S. Green, ______, C. Izturis",1(0-0) X,O,LAD,P. Lo Duca,T. Wakefield,-5%,55%,Flyball: RF
 ,,,,,,,,,0 runs 1 hit 0 errors 2 LOB. Dodgers 1 Red Sox 0.,0 runs 1 hit 0 errors 2 LOB. Dodgers 1 Red Sox 0.,0 runs 1 hit 0 errors 2 LOB. Dodgers 1 Red Sox 0.
 Bottom of the 3rd Red Sox Batting Behind 0-1 Dodgers' Jeff Weaver facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 0-1 Dodgers' Jeff Weaver facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 0-1 Dodgers' Jeff Weaver facing 8-9-1,,Bottom of the 3rd Red Sox Batting Behind 0-1 Dodgers' Jeff Weaver facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 0-1 Dodgers' Jeff Weaver facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 0-1 Dodgers' Jeff Weaver facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 0-1 Dodgers' Jeff Weaver facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 0-1 Dodgers' Jeff Weaver facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 0-1 Dodgers' Jeff Weaver facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 0-1 Dodgers' Jeff Weaver facing 8-9-1,Bottom of the 3rd Red Sox Batting Behind 0-1 Dodgers' Jeff Weaver facing 8-9-1
-b3,0-1,0,"['', '', '']",4(3-0) BBBB,,BOS,D. Mirabelli,J. Weaver,-4%,51%,Walk
-b3,0-1,0,"['Mirabelli', '', '']",6(2-2) BCBFFX,,BOS,G. Kapler,J. Weaver,-6%,44%,Single to LF (Line Drive); Mirabelli to 2B
-b3,0-1,0,"['Kapler', 'Mirabelli', '']",5(3-1) BCBBB,,BOS,J. Damon,J. Weaver,-8%,37%,Walk; Mirabelli to 3B; Kapler to 2B
-b3,0-1,0,"['Damon', 'Kapler', 'Mirabelli']",5(3-1) BBCBB,R,BOS,M. Bellhorn,J. Weaver,-9%,28%,Walk; Mirabelli Scores; Kapler to 3B; Damon to 2B
-b3,1-1,0,"['Bellhorn', 'Damon', 'Kapler']",1(0-0) X,RO,BOS,D. Ortiz,J. Weaver,0%,28%,Groundout: 1B-SS/Forceout at 2B; Kapler Scores; Damon to 3B
-b3,2-1,1,"['Ortiz', '', 'Damon']",3(1-1) FBX,O,BOS,M. Ramirez,J. Weaver,6%,34%,Popfly: 2B
-b3,2-1,2,"['Ortiz', '', 'Damon']",3(1-1) BCH,,BOS,N. Garciaparra,J. Weaver,-2%,32%,Hit By Pitch; Ortiz to 2B
-b3,2-1,2,"['Garciaparra', 'Ortiz', 'Damon']",6(3-2) CBFBBX,O,BOS,J. Varitek,J. Weaver,7%,39%,Flyball: RF (Deep RF)
+b3,0-1,0,"______, ______, ______",4(3-0) BBBB,,BOS,D. Mirabelli,J. Weaver,-4%,51%,Walk
+b3,0-1,0,"D. Mirabelli, ______, ______",6(2-2) BCBFFX,,BOS,G. Kapler,J. Weaver,-6%,44%,Single to LF (Line Drive); D. Mirabelli to 2B
+b3,0-1,0,"G. Kapler, D. Mirabelli, ______",5(3-1) BCBBB,,BOS,J. Damon,J. Weaver,-8%,37%,Walk; D. Mirabelli to 3B; G. Kapler to 2B
+b3,0-1,0,"J. Damon, G. Kapler, D. Mirabelli",5(3-1) BBCBB,R,BOS,M. Bellhorn,J. Weaver,-9%,28%,Walk; D. Mirabelli Scores; G. Kapler to 3B; J. Damon to 2B
+b3,1-1,0,"M. Bellhorn, J. Damon, G. Kapler",1(0-0) X,RO,BOS,D. Ortiz,J. Weaver,0%,28%,Groundout: 1B-SS/Forceout at 2B; G. Kapler Scores; J. Damon to 3B
+b3,2-1,1,"D. Ortiz, ______, J. Damon",3(1-1) FBX,O,BOS,M. Ramirez,J. Weaver,6%,34%,Popfly: 2B
+b3,2-1,2,"D. Ortiz, ______, J. Damon",3(1-1) BCH,,BOS,N. Garciaparra,J. Weaver,-2%,32%,Hit By Pitch; D. Ortiz to 2B
+b3,2-1,2,"N. Garciaparra, D. Ortiz, J. Damon",6(3-2) CBFBBX,O,BOS,J. Varitek,J. Weaver,7%,39%,Flyball: RF (Deep RF)
 ,,,,,,,,,2 runs 1 hit 0 errors 3 LOB. Dodgers 1 Red Sox 2.,2 runs 1 hit 0 errors 3 LOB. Dodgers 1 Red Sox 2.,2 runs 1 hit 0 errors 3 LOB. Dodgers 1 Red Sox 2.
 Top of the 4th Dodgers Batting Behind 1-2 Red Sox' Tim Wakefield facing 6-7-8,Top of the 4th Dodgers Batting Behind 1-2 Red Sox' Tim Wakefield facing 6-7-8,Top of the 4th Dodgers Batting Behind 1-2 Red Sox' Tim Wakefield facing 6-7-8,,Top of the 4th Dodgers Batting Behind 1-2 Red Sox' Tim Wakefield facing 6-7-8,Top of the 4th Dodgers Batting Behind 1-2 Red Sox' Tim Wakefield facing 6-7-8,Top of the 4th Dodgers Batting Behind 1-2 Red Sox' Tim Wakefield facing 6-7-8,Top of the 4th Dodgers Batting Behind 1-2 Red Sox' Tim Wakefield facing 6-7-8,Top of the 4th Dodgers Batting Behind 1-2 Red Sox' Tim Wakefield facing 6-7-8,Top of the 4th Dodgers Batting Behind 1-2 Red Sox' Tim Wakefield facing 6-7-8,Top of the 4th Dodgers Batting Behind 1-2 Red Sox' Tim Wakefield facing 6-7-8,Top of the 4th Dodgers Batting Behind 1-2 Red Sox' Tim Wakefield facing 6-7-8
-t4,1-2,0,"['', '', '']",5(2-2) BFCBX,O,LAD,A. Beltre,T. Wakefield,-3%,36%,Popfly: 1B
-t4,1-2,1,"['', '', '']",4(2-1) BCBX,R,LAD,J. Encarnacion,T. Wakefield,11%,47%,Home Run (Fly Ball)
-t4,2-2,1,"['', '', '']",4(3-0) BBBB,,LAD,O. Saenz,T. Wakefield,3%,50%,Walk
-t4,2-2,1,"['Saenz', '', '']",4(1-2) BCFX,O,LAD,A. Cora,T. Wakefield,-4%,47%,Flyball: RF (CF-RF)
-t4,2-2,2,"['Saenz', '', '']",2(1-0) BX,R,LAD,C. Izturis,T. Wakefield,13%,59%,Double to LF (Fly Ball to Deep LF-CF); Saenz Scores
-t4,3-2,2,"['', 'Izturis', '']",5(3-1) BBCBX,RR,LAD,J. Werth,T. Wakefield,18%,77%,Home Run (Fly Ball); Izturis Scores
-t4,5-2,2,"['', '', '']",3(2-0) BBX,O,LAD,M. Bradley,T. Wakefield,-1%,76%,Foul Popfly: 1B (1B Foul)
+t4,1-2,0,"______, ______, ______",5(2-2) BFCBX,O,LAD,A. Beltre,T. Wakefield,-3%,36%,Popfly: 1B
+t4,1-2,1,"______, ______, ______",4(2-1) BCBX,R,LAD,J. Encarnacion,T. Wakefield,11%,47%,Home Run (Fly Ball)
+t4,2-2,1,"______, ______, ______",4(3-0) BBBB,,LAD,O. Saenz,T. Wakefield,3%,50%,Walk
+t4,2-2,1,"O. Saenz, ______, ______",4(1-2) BCFX,O,LAD,A. Cora,T. Wakefield,-4%,47%,Flyball: RF (CF-RF)
+t4,2-2,2,"O. Saenz, ______, ______",2(1-0) BX,R,LAD,C. Izturis,T. Wakefield,13%,59%,Double to LF (Fly Ball to Deep LF-CF); O. Saenz Scores
+t4,3-2,2,"______, C. Izturis, ______",5(3-1) BBCBX,RR,LAD,J. Werth,T. Wakefield,18%,77%,Home Run (Fly Ball); C. Izturis Scores
+t4,5-2,2,"______, ______, ______",3(2-0) BBX,O,LAD,M. Bradley,T. Wakefield,-1%,76%,Foul Popfly: 1B (1B Foul)
 ,,,,,,,,,4 runs 3 hits 0 errors 0 LOB. Dodgers 5 Red Sox 2.,4 runs 3 hits 0 errors 0 LOB. Dodgers 5 Red Sox 2.,4 runs 3 hits 0 errors 0 LOB. Dodgers 5 Red Sox 2.
 Bottom of the 4th Red Sox Batting Behind 2-5 Dodgers' Jeff Weaver facing 7-8-9,Bottom of the 4th Red Sox Batting Behind 2-5 Dodgers' Jeff Weaver facing 7-8-9,Bottom of the 4th Red Sox Batting Behind 2-5 Dodgers' Jeff Weaver facing 7-8-9,,Bottom of the 4th Red Sox Batting Behind 2-5 Dodgers' Jeff Weaver facing 7-8-9,Bottom of the 4th Red Sox Batting Behind 2-5 Dodgers' Jeff Weaver facing 7-8-9,Bottom of the 4th Red Sox Batting Behind 2-5 Dodgers' Jeff Weaver facing 7-8-9,Bottom of the 4th Red Sox Batting Behind 2-5 Dodgers' Jeff Weaver facing 7-8-9,Bottom of the 4th Red Sox Batting Behind 2-5 Dodgers' Jeff Weaver facing 7-8-9,Bottom of the 4th Red Sox Batting Behind 2-5 Dodgers' Jeff Weaver facing 7-8-9,Bottom of the 4th Red Sox Batting Behind 2-5 Dodgers' Jeff Weaver facing 7-8-9,Bottom of the 4th Red Sox Batting Behind 2-5 Dodgers' Jeff Weaver facing 7-8-9
-b4,2-5,0,"['', '', '']",4(1-2) CCBC,O,BOS,K. Youkilis,J. Weaver,3%,79%,Strikeout Looking
-b4,2-5,1,"['', '', '']",4(1-2) CFBX,O,BOS,D. Mirabelli,J. Weaver,2%,81%,Groundout: SS-1B
-b4,2-5,2,"['', '', '']",4(1-2) CSBX,O,BOS,G. Kapler,J. Weaver,1%,82%,Groundout: 3B-1B
+b4,2-5,0,"______, ______, ______",4(1-2) CCBC,O,BOS,K. Youkilis,J. Weaver,3%,79%,Strikeout Looking
+b4,2-5,1,"______, ______, ______",4(1-2) CFBX,O,BOS,D. Mirabelli,J. Weaver,2%,81%,Groundout: SS-1B
+b4,2-5,2,"______, ______, ______",4(1-2) CSBX,O,BOS,G. Kapler,J. Weaver,1%,82%,Groundout: 3B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Dodgers 5 Red Sox 2.,0 runs 0 hits 0 errors 0 LOB. Dodgers 5 Red Sox 2.,0 runs 0 hits 0 errors 0 LOB. Dodgers 5 Red Sox 2.
 Top of the 5th Dodgers Batting Ahead 5-2 Red Sox' Tim Wakefield facing 4-5-6,Top of the 5th Dodgers Batting Ahead 5-2 Red Sox' Tim Wakefield facing 4-5-6,Top of the 5th Dodgers Batting Ahead 5-2 Red Sox' Tim Wakefield facing 4-5-6,,Top of the 5th Dodgers Batting Ahead 5-2 Red Sox' Tim Wakefield facing 4-5-6,Top of the 5th Dodgers Batting Ahead 5-2 Red Sox' Tim Wakefield facing 4-5-6,Top of the 5th Dodgers Batting Ahead 5-2 Red Sox' Tim Wakefield facing 4-5-6,Top of the 5th Dodgers Batting Ahead 5-2 Red Sox' Tim Wakefield facing 4-5-6,Top of the 5th Dodgers Batting Ahead 5-2 Red Sox' Tim Wakefield facing 4-5-6,Top of the 5th Dodgers Batting Ahead 5-2 Red Sox' Tim Wakefield facing 4-5-6,Top of the 5th Dodgers Batting Ahead 5-2 Red Sox' Tim Wakefield facing 4-5-6,Top of the 5th Dodgers Batting Ahead 5-2 Red Sox' Tim Wakefield facing 4-5-6
-t5,5-2,0,"['', '', '']",3(1-1) BFX,,LAD,S. Green,T. Wakefield,2%,84%,Single to 2B (Ground Ball)
-t5,5-2,0,"['Green', '', '']",2(1-0) BX,,LAD,P. Lo Duca,T. Wakefield,6%,89%,Double to LF (Line Drive to LF Line); Green to 3B
-t5,5-2,0,"['', 'Duca', 'Green']",3(1-1) FBX,O,LAD,A. Beltre,T. Wakefield,-3%,87%,Foul Popfly: C (Behind Home)
-t5,5-2,1,"['', 'Duca', 'Green']",6(3-2) FB+3F*BBB,,LAD,J. Encarnacion,T. Wakefield,0%,87%,Walk
+t5,5-2,0,"______, ______, ______",3(1-1) BFX,,LAD,S. Green,T. Wakefield,2%,84%,Single to 2B (Ground Ball)
+t5,5-2,0,"S. Green, ______, ______",2(1-0) BX,,LAD,P. Lo Duca,T. Wakefield,6%,89%,Double to LF (Line Drive to LF Line); S. Green to 3B
+t5,5-2,0,"______, P. Lo Duca, S. Green",3(1-1) FBX,O,LAD,A. Beltre,T. Wakefield,-3%,87%,Foul Popfly: C (Behind Home)
+t5,5-2,1,"______, P. Lo Duca, S. Green",6(3-2) FB+3F*BBB,,LAD,J. Encarnacion,T. Wakefield,0%,87%,Walk
 ,,,,,,,,,Anastacio Martinez replaces Tim Wakefield pitching,Anastacio Martinez replaces Tim Wakefield pitching,Anastacio Martinez replaces Tim Wakefield pitching
-t5,5-2,1,"['Encarnacion', 'Duca', 'Green']",1(0-0) .H,R,LAD,O. Saenz,A. Martinez,5%,92%,Hit By Pitch; Green Scores; Lo Duca to 3B; Encarnacion to 2B
-t5,6-2,1,"['Saenz', 'Encarnacion', 'Duca']",4(2-1) CBBX,RO,LAD,A. Cora,A. Martinez,1%,92%,Groundout: 2B-SS/Forceout at 2B; Lo Duca Scores; Encarnacion to 3B
-t5,7-2,2,"['Cora', '', 'Encarnacion']",5(1-2) CBFFX,R,LAD,C. Izturis,A. Martinez,3%,95%,Single to CF (Line Drive); Encarnacion Scores; Cora to 3B
-t5,8-2,2,"['Izturis', '', 'Cora']",5(2-2) *BCBC11>B,,LAD,J. Werth,A. Martinez,0%,95%,Izturis Steals 2B
-t5,8-2,2,"['', 'Izturis', 'Cora']",6(3-2) *BCBC11>B.B,,LAD,J. Werth,A. Martinez,0%,95%,Walk
-t5,8-2,2,"['Werth', 'Izturis', 'Cora']",7(3-2) FFBBBFB,R,LAD,M. Bradley,A. Martinez,2%,97%,Walk; Cora Scores; Izturis to 3B; Werth to 2B
+t5,5-2,1,"J. Encarnacion, P. Lo Duca, S. Green",1(0-0) .H,R,LAD,O. Saenz,A. Martinez,5%,92%,Hit By Pitch; S. Green Scores; Lo P. Lo Duca to 3B; J. Encarnacion to 2B
+t5,6-2,1,"O. Saenz, J. Encarnacion, P. Lo Duca",4(2-1) CBBX,RO,LAD,A. Cora,A. Martinez,1%,92%,Groundout: 2B-SS/Forceout at 2B; Lo P. Lo Duca Scores; J. Encarnacion to 3B
+t5,7-2,2,"A. Cora, ______, J. Encarnacion",5(1-2) CBFFX,R,LAD,C. Izturis,A. Martinez,3%,95%,Single to CF (Line Drive); J. Encarnacion Scores; A. Cora to 3B
+t5,8-2,2,"C. Izturis, ______, A. Cora",5(2-2) *BCBC11>B,,LAD,J. Werth,A. Martinez,0%,95%,C. Izturis Steals 2B
+t5,8-2,2,"______, C. Izturis, A. Cora",6(3-2) *BCBC11>B.B,,LAD,J. Werth,A. Martinez,0%,95%,Walk
+t5,8-2,2,"J. Werth, C. Izturis, A. Cora",7(3-2) FFBBBFB,R,LAD,M. Bradley,A. Martinez,2%,97%,Walk; A. Cora Scores; C. Izturis to 3B; J. Werth to 2B
 ,,,,,,,,,Mark Malaska replaces Anastacio Martinez pitching,Mark Malaska replaces Anastacio Martinez pitching,Mark Malaska replaces Anastacio Martinez pitching
-t5,9-2,2,"['Bradley', 'Werth', 'Izturis']",4(0-2) .FCF>X,RR,LAD,S. Green,M. Malaska,2%,99%,Single to LF (Line Drive); Izturis Scores; Werth Scores; Bradley to 2B
-t5,11-2,2,"['Green', 'Bradley', '']",4(2-1) CBBX,R,LAD,P. Lo Duca,M. Malaska,0%,99%,Single to LF (Fly Ball); Bradley Scores; Green to 2B
-t5,12-2,2,"['Duca', 'Green', '']",7(3-2) CSBFBB>X,O,LAD,A. Beltre,M. Malaska,-0%,99%,Groundout: P-1B
+t5,9-2,2,"M. Bradley, J. Werth, C. Izturis",4(0-2) .FCF>X,RR,LAD,S. Green,M. Malaska,2%,99%,Single to LF (Line Drive); C. Izturis Scores; J. Werth Scores; M. Bradley to 2B
+t5,11-2,2,"S. Green, M. Bradley, ______",4(2-1) CBBX,R,LAD,P. Lo Duca,M. Malaska,0%,99%,Single to LF (Fly Ball); M. Bradley Scores; S. Green to 2B
+t5,12-2,2,"P. Lo Duca, S. Green, ______",7(3-2) CSBFBB>X,O,LAD,A. Beltre,M. Malaska,-0%,99%,Groundout: P-1B
 ,,,,,,,,,7 runs 5 hits 0 errors 2 LOB. Dodgers 12 Red Sox 2.,7 runs 5 hits 0 errors 2 LOB. Dodgers 12 Red Sox 2.,7 runs 5 hits 0 errors 2 LOB. Dodgers 12 Red Sox 2.
 Bottom of the 5th Red Sox Batting Behind 2-12 Dodgers' Jeff Weaver facing 1-2-3,Bottom of the 5th Red Sox Batting Behind 2-12 Dodgers' Jeff Weaver facing 1-2-3,Bottom of the 5th Red Sox Batting Behind 2-12 Dodgers' Jeff Weaver facing 1-2-3,,Bottom of the 5th Red Sox Batting Behind 2-12 Dodgers' Jeff Weaver facing 1-2-3,Bottom of the 5th Red Sox Batting Behind 2-12 Dodgers' Jeff Weaver facing 1-2-3,Bottom of the 5th Red Sox Batting Behind 2-12 Dodgers' Jeff Weaver facing 1-2-3,Bottom of the 5th Red Sox Batting Behind 2-12 Dodgers' Jeff Weaver facing 1-2-3,Bottom of the 5th Red Sox Batting Behind 2-12 Dodgers' Jeff Weaver facing 1-2-3,Bottom of the 5th Red Sox Batting Behind 2-12 Dodgers' Jeff Weaver facing 1-2-3,Bottom of the 5th Red Sox Batting Behind 2-12 Dodgers' Jeff Weaver facing 1-2-3,Bottom of the 5th Red Sox Batting Behind 2-12 Dodgers' Jeff Weaver facing 1-2-3
-b5,2-12,0,"['', '', '']",4(1-2) CCBX,,BOS,J. Damon,J. Weaver,-0%,99%,Ground-rule Double (Ground Ball)
-b5,2-12,0,"['', 'Damon', '']",3(2-0) BBX,,BOS,M. Bellhorn,J. Weaver,-1%,98%,Single to RF (Line Drive); Damon to 3B
-b5,2-12,0,"['Bellhorn', '', 'Damon']",1(0-0) X,RO,BOS,D. Ortiz,J. Weaver,1%,99%,Flyball: RF/Sacrifice Fly (Deep RF); Damon Scores
-b5,3-12,1,"['Bellhorn', '', '']",3(1-1) BFB,,BOS,M. Ramirez,J. Weaver,-0%,99%,Wild Pitch; Bellhorn to 2B
-b5,3-12,1,"['', 'Bellhorn', '']",6(2-2) BFB.FFX,RR,BOS,M. Ramirez,J. Weaver,-1%,97%,Home Run (Fly Ball); Bellhorn Scores
-b5,5-12,1,"['', '', '']",5(1-2) FBFFS,O,BOS,N. Garciaparra,J. Weaver,1%,98%,Strikeout Swinging
-b5,5-12,2,"['', '', '']",1(0-0) X,,BOS,J. Varitek,J. Weaver,-0%,97%,Single to RF (Ground Ball thru CF-RF)
-b5,5-12,2,"['Varitek', '', '']",4(2-1) BBFX,O,BOS,K. Youkilis,J. Weaver,1%,98%,Groundout: 3B-1B
+b5,2-12,0,"______, ______, ______",4(1-2) CCBX,,BOS,J. Damon,J. Weaver,-0%,99%,Ground-rule Double (Ground Ball)
+b5,2-12,0,"______, J. Damon, ______",3(2-0) BBX,,BOS,M. Bellhorn,J. Weaver,-1%,98%,Single to RF (Line Drive); J. Damon to 3B
+b5,2-12,0,"M. Bellhorn, ______, J. Damon",1(0-0) X,RO,BOS,D. Ortiz,J. Weaver,1%,99%,Flyball: RF/Sacrifice Fly (Deep RF); J. Damon Scores
+b5,3-12,1,"M. Bellhorn, ______, ______",3(1-1) BFB,,BOS,M. Ramirez,J. Weaver,-0%,99%,Wild Pitch; M. Bellhorn to 2B
+b5,3-12,1,"______, M. Bellhorn, ______",6(2-2) BFB.FFX,RR,BOS,M. Ramirez,J. Weaver,-1%,97%,Home Run (Fly Ball); M. Bellhorn Scores
+b5,5-12,1,"______, ______, ______",5(1-2) FBFFS,O,BOS,N. Garciaparra,J. Weaver,1%,98%,Strikeout Swinging
+b5,5-12,2,"______, ______, ______",1(0-0) X,,BOS,J. Varitek,J. Weaver,-0%,97%,Single to RF (Ground Ball thru CF-RF)
+b5,5-12,2,"J. Varitek, ______, ______",4(2-1) BBFX,O,BOS,K. Youkilis,J. Weaver,1%,98%,Groundout: 3B-1B
 ,,,,,,,,,3 runs 4 hits 0 errors 1 LOB. Dodgers 12 Red Sox 5.,3 runs 4 hits 0 errors 1 LOB. Dodgers 12 Red Sox 5.,3 runs 4 hits 0 errors 1 LOB. Dodgers 12 Red Sox 5.
 Top of the 6th Dodgers Batting Ahead 12-5 Red Sox' Mark Malaska facing 7-8-9,Top of the 6th Dodgers Batting Ahead 12-5 Red Sox' Mark Malaska facing 7-8-9,Top of the 6th Dodgers Batting Ahead 12-5 Red Sox' Mark Malaska facing 7-8-9,,Top of the 6th Dodgers Batting Ahead 12-5 Red Sox' Mark Malaska facing 7-8-9,Top of the 6th Dodgers Batting Ahead 12-5 Red Sox' Mark Malaska facing 7-8-9,Top of the 6th Dodgers Batting Ahead 12-5 Red Sox' Mark Malaska facing 7-8-9,Top of the 6th Dodgers Batting Ahead 12-5 Red Sox' Mark Malaska facing 7-8-9,Top of the 6th Dodgers Batting Ahead 12-5 Red Sox' Mark Malaska facing 7-8-9,Top of the 6th Dodgers Batting Ahead 12-5 Red Sox' Mark Malaska facing 7-8-9,Top of the 6th Dodgers Batting Ahead 12-5 Red Sox' Mark Malaska facing 7-8-9,Top of the 6th Dodgers Batting Ahead 12-5 Red Sox' Mark Malaska facing 7-8-9
-t6,12-5,0,"['', '', '']",5(3-1) CBBBB,,LAD,J. Encarnacion,M. Malaska,0%,98%,Walk
-t6,12-5,0,"['Encarnacion', '', '']",1(0-0) X,RR,LAD,O. Saenz,M. Malaska,1%,99%,Home Run (Fly Ball); Encarnacion Scores
-t6,14-5,0,"['', '', '']",6(2-2) BBCFFX,O,LAD,A. Cora,M. Malaska,-0%,99%,Groundout: P-1B (Front of Home)
-t6,14-5,1,"['', '', '']",3(0-2) CFS,O,LAD,C. Izturis,M. Malaska,-0%,99%,Strikeout Swinging
-t6,14-5,2,"['', '', '']",4(0-2) CCFX,O,LAD,J. Werth,M. Malaska,-0%,99%,Lineout: LF
+t6,12-5,0,"______, ______, ______",5(3-1) CBBBB,,LAD,J. Encarnacion,M. Malaska,0%,98%,Walk
+t6,12-5,0,"J. Encarnacion, ______, ______",1(0-0) X,RR,LAD,O. Saenz,M. Malaska,1%,99%,Home Run (Fly Ball); J. Encarnacion Scores
+t6,14-5,0,"______, ______, ______",6(2-2) BBCFFX,O,LAD,A. Cora,M. Malaska,-0%,99%,Groundout: P-1B (Front of Home)
+t6,14-5,1,"______, ______, ______",3(0-2) CFS,O,LAD,C. Izturis,M. Malaska,-0%,99%,Strikeout Swinging
+t6,14-5,2,"______, ______, ______",4(0-2) CCFX,O,LAD,J. Werth,M. Malaska,-0%,99%,Lineout: LF
 ,,,,,,,,,2 runs 1 hit 0 errors 0 LOB. Dodgers 14 Red Sox 5.,2 runs 1 hit 0 errors 0 LOB. Dodgers 14 Red Sox 5.,2 runs 1 hit 0 errors 0 LOB. Dodgers 14 Red Sox 5.
 Bottom of the 6th Red Sox Batting Behind 5-14 Dodgers' Guillermo Mota facing 8-9-1,Bottom of the 6th Red Sox Batting Behind 5-14 Dodgers' Guillermo Mota facing 8-9-1,Bottom of the 6th Red Sox Batting Behind 5-14 Dodgers' Guillermo Mota facing 8-9-1,,Bottom of the 6th Red Sox Batting Behind 5-14 Dodgers' Guillermo Mota facing 8-9-1,Bottom of the 6th Red Sox Batting Behind 5-14 Dodgers' Guillermo Mota facing 8-9-1,Bottom of the 6th Red Sox Batting Behind 5-14 Dodgers' Guillermo Mota facing 8-9-1,Bottom of the 6th Red Sox Batting Behind 5-14 Dodgers' Guillermo Mota facing 8-9-1,Bottom of the 6th Red Sox Batting Behind 5-14 Dodgers' Guillermo Mota facing 8-9-1,Bottom of the 6th Red Sox Batting Behind 5-14 Dodgers' Guillermo Mota facing 8-9-1,Bottom of the 6th Red Sox Batting Behind 5-14 Dodgers' Guillermo Mota facing 8-9-1,Bottom of the 6th Red Sox Batting Behind 5-14 Dodgers' Guillermo Mota facing 8-9-1
 ,,,,,,,,,Guillermo Mota replaces Jeff Weaver pitching,Guillermo Mota replaces Jeff Weaver pitching,Guillermo Mota replaces Jeff Weaver pitching
-b6,5-14,0,"['', '', '']",2(0-1) .CX,O,BOS,D. Mirabelli,G. Mota,0%,99%,Groundout: 3B-1B
-b6,5-14,1,"['', '', '']",4(3-0) BBBB,,BOS,G. Kapler,G. Mota,-0%,99%,Walk
-b6,5-14,1,"['Kapler', '', '']",4(1-2) BCSS,O,BOS,J. Damon,G. Mota,0%,100%,Strikeout Swinging
-b6,5-14,2,"['Kapler', '', '']",1(0-0) >C,,BOS,M. Bellhorn,G. Mota,-0%,100%,Defensive Indifference; Kapler to 2B
-b6,5-14,2,"['', 'Kapler', '']",4(1-2) >C.CBS,O,BOS,M. Bellhorn,G. Mota,0%,100%,Strikeout Swinging
+b6,5-14,0,"______, ______, ______",2(0-1) .CX,O,BOS,D. Mirabelli,G. Mota,0%,99%,Groundout: 3B-1B
+b6,5-14,1,"______, ______, ______",4(3-0) BBBB,,BOS,G. Kapler,G. Mota,-0%,99%,Walk
+b6,5-14,1,"G. Kapler, ______, ______",4(1-2) BCSS,O,BOS,J. Damon,G. Mota,0%,100%,Strikeout Swinging
+b6,5-14,2,"G. Kapler, ______, ______",1(0-0) >C,,BOS,M. Bellhorn,G. Mota,-0%,100%,Defensive Indifference; G. Kapler to 2B
+b6,5-14,2,"______, G. Kapler, ______",4(1-2) >C.CBS,O,BOS,M. Bellhorn,G. Mota,0%,100%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Dodgers 14 Red Sox 5.,0 runs 0 hits 0 errors 1 LOB. Dodgers 14 Red Sox 5.,0 runs 0 hits 0 errors 1 LOB. Dodgers 14 Red Sox 5.
 Top of the 7th Dodgers Batting Ahead 14-5 Red Sox' Mark Malaska facing 3-4-5,Top of the 7th Dodgers Batting Ahead 14-5 Red Sox' Mark Malaska facing 3-4-5,Top of the 7th Dodgers Batting Ahead 14-5 Red Sox' Mark Malaska facing 3-4-5,,Top of the 7th Dodgers Batting Ahead 14-5 Red Sox' Mark Malaska facing 3-4-5,Top of the 7th Dodgers Batting Ahead 14-5 Red Sox' Mark Malaska facing 3-4-5,Top of the 7th Dodgers Batting Ahead 14-5 Red Sox' Mark Malaska facing 3-4-5,Top of the 7th Dodgers Batting Ahead 14-5 Red Sox' Mark Malaska facing 3-4-5,Top of the 7th Dodgers Batting Ahead 14-5 Red Sox' Mark Malaska facing 3-4-5,Top of the 7th Dodgers Batting Ahead 14-5 Red Sox' Mark Malaska facing 3-4-5,Top of the 7th Dodgers Batting Ahead 14-5 Red Sox' Mark Malaska facing 3-4-5,Top of the 7th Dodgers Batting Ahead 14-5 Red Sox' Mark Malaska facing 3-4-5
 ,,,,,,,,,Dave McCarty replaces Manny Ramirez playing LF batting 4th,Dave McCarty replaces Manny Ramirez playing LF batting 4th,Dave McCarty replaces Manny Ramirez playing LF batting 4th
-t7,14-5,0,"['', '', '']",5(2-2) .BCSBX,O,LAD,M. Bradley,M. Malaska,-0%,100%,Lineout: LF
-t7,14-5,1,"['', '', '']",3(1-1) SBX,O,LAD,S. Green,M. Malaska,-0%,100%,Flyball: CF (Deep CF)
-t7,14-5,2,"['', '', '']",3(2-0) BBX,O,LAD,P. Lo Duca,M. Malaska,-0%,100%,Groundout: 3B-1B
+t7,14-5,0,"______, ______, ______",5(2-2) .BCSBX,O,LAD,M. Bradley,M. Malaska,-0%,100%,Lineout: LF
+t7,14-5,1,"______, ______, ______",3(1-1) SBX,O,LAD,S. Green,M. Malaska,-0%,100%,Flyball: CF (Deep CF)
+t7,14-5,2,"______, ______, ______",3(2-0) BBX,O,LAD,P. Lo Duca,M. Malaska,-0%,100%,Groundout: 3B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Dodgers 14 Red Sox 5.,0 runs 0 hits 0 errors 0 LOB. Dodgers 14 Red Sox 5.,0 runs 0 hits 0 errors 0 LOB. Dodgers 14 Red Sox 5.
 Bottom of the 7th Red Sox Batting Behind 5-14 Dodgers' Guillermo Mota facing 3-4-5,Bottom of the 7th Red Sox Batting Behind 5-14 Dodgers' Guillermo Mota facing 3-4-5,Bottom of the 7th Red Sox Batting Behind 5-14 Dodgers' Guillermo Mota facing 3-4-5,,Bottom of the 7th Red Sox Batting Behind 5-14 Dodgers' Guillermo Mota facing 3-4-5,Bottom of the 7th Red Sox Batting Behind 5-14 Dodgers' Guillermo Mota facing 3-4-5,Bottom of the 7th Red Sox Batting Behind 5-14 Dodgers' Guillermo Mota facing 3-4-5,Bottom of the 7th Red Sox Batting Behind 5-14 Dodgers' Guillermo Mota facing 3-4-5,Bottom of the 7th Red Sox Batting Behind 5-14 Dodgers' Guillermo Mota facing 3-4-5,Bottom of the 7th Red Sox Batting Behind 5-14 Dodgers' Guillermo Mota facing 3-4-5,Bottom of the 7th Red Sox Batting Behind 5-14 Dodgers' Guillermo Mota facing 3-4-5,Bottom of the 7th Red Sox Batting Behind 5-14 Dodgers' Guillermo Mota facing 3-4-5
 ,,,,,,,,,Jason Grabowski replaces Shawn Green playing 1B batting 4th,Jason Grabowski replaces Shawn Green playing 1B batting 4th,Jason Grabowski replaces Shawn Green playing 1B batting 4th
-b7,5-14,0,"['', '', '']",4(1-2) .BSCS,O,BOS,D. Ortiz,G. Mota,0%,100%,Strikeout Swinging
-b7,5-14,1,"['', '', '']",5(2-2) FCBBS,O,BOS,D. McCarty,G. Mota,0%,100%,Strikeout Swinging
-b7,5-14,2,"['', '', '']",6(3-2) CBBFBB,,BOS,N. Garciaparra,G. Mota,-0%,100%,Walk
+b7,5-14,0,"______, ______, ______",4(1-2) .BSCS,O,BOS,D. Ortiz,G. Mota,0%,100%,Strikeout Swinging
+b7,5-14,1,"______, ______, ______",5(2-2) FCBBS,O,BOS,D. McCarty,G. Mota,0%,100%,Strikeout Swinging
+b7,5-14,2,"______, ______, ______",6(3-2) CBBFBB,,BOS,N. Garciaparra,G. Mota,-0%,100%,Walk
 ,,,,,,,,,Cesar Crespo pinch runs for Nomar Garciaparra (SS) batting 5th,Cesar Crespo pinch runs for Nomar Garciaparra (SS) batting 5th,Cesar Crespo pinch runs for Nomar Garciaparra (SS) batting 5th
-b7,5-14,2,"['Crespo', '', '']",1(0-0) .>S,,BOS,J. Varitek,G. Mota,-0%,100%,Defensive Indifference; Crespo to 2B
-b7,5-14,2,"['', 'Crespo', '']",3(0-2) .>S.SS,O,BOS,J. Varitek,G. Mota,0%,100%,Strikeout Swinging
+b7,5-14,2,"Crespo, ______, ______",1(0-0) .>S,,BOS,J. Varitek,G. Mota,-0%,100%,Defensive Indifference; Crespo to 2B
+b7,5-14,2,"______, Crespo, ______",3(0-2) .>S.SS,O,BOS,J. Varitek,G. Mota,0%,100%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Dodgers 14 Red Sox 5.,0 runs 0 hits 0 errors 1 LOB. Dodgers 14 Red Sox 5.,0 runs 0 hits 0 errors 1 LOB. Dodgers 14 Red Sox 5.
 Top of the 8th Dodgers Batting Ahead 14-5 Red Sox' Scott Williamson facing 6-7-8,Top of the 8th Dodgers Batting Ahead 14-5 Red Sox' Scott Williamson facing 6-7-8,Top of the 8th Dodgers Batting Ahead 14-5 Red Sox' Scott Williamson facing 6-7-8,,Top of the 8th Dodgers Batting Ahead 14-5 Red Sox' Scott Williamson facing 6-7-8,Top of the 8th Dodgers Batting Ahead 14-5 Red Sox' Scott Williamson facing 6-7-8,Top of the 8th Dodgers Batting Ahead 14-5 Red Sox' Scott Williamson facing 6-7-8,Top of the 8th Dodgers Batting Ahead 14-5 Red Sox' Scott Williamson facing 6-7-8,Top of the 8th Dodgers Batting Ahead 14-5 Red Sox' Scott Williamson facing 6-7-8,Top of the 8th Dodgers Batting Ahead 14-5 Red Sox' Scott Williamson facing 6-7-8,Top of the 8th Dodgers Batting Ahead 14-5 Red Sox' Scott Williamson facing 6-7-8,Top of the 8th Dodgers Batting Ahead 14-5 Red Sox' Scott Williamson facing 6-7-8
 ,,,,,,,,,Scott Williamson replaces Mark Malaska pitchingCesar Crespo moves from PR to SS,Scott Williamson replaces Mark Malaska pitchingCesar Crespo moves from PR to SS,Scott Williamson replaces Mark Malaska pitchingCesar Crespo moves from PR to SS
-t8,14-5,0,"['', '', '']",3(1-1) ..CBX,,LAD,A. Beltre,S. Williamson,0%,100%,Single to CF (Fly Ball)
-t8,14-5,0,"['Beltre', '', '']",4(1-2) CBCS,O,LAD,J. Encarnacion,S. Williamson,-0%,100%,Strikeout Swinging
-t8,14-5,1,"['Beltre', '', '']",2(0-1) FB,,LAD,O. Saenz,S. Williamson,0%,100%,Wild Pitch; Beltre to 2B
-t8,14-5,1,"['', 'Beltre', '']",4(1-2) FB.SS,O,LAD,O. Saenz,S. Williamson,-0%,100%,Strikeout Swinging
-t8,14-5,2,"['', 'Beltre', '']",7(2-2) CFFB*BFS,O,LAD,A. Cora,S. Williamson,-0%,100%,Strikeout Swinging
+t8,14-5,0,"______, ______, ______",3(1-1) ..CBX,,LAD,A. Beltre,S. Williamson,0%,100%,Single to CF (Fly Ball)
+t8,14-5,0,"A. Beltre, ______, ______",4(1-2) CBCS,O,LAD,J. Encarnacion,S. Williamson,-0%,100%,Strikeout Swinging
+t8,14-5,1,"A. Beltre, ______, ______",2(0-1) FB,,LAD,O. Saenz,S. Williamson,0%,100%,Wild Pitch; A. Beltre to 2B
+t8,14-5,1,"______, A. Beltre, ______",4(1-2) FB.SS,O,LAD,O. Saenz,S. Williamson,-0%,100%,Strikeout Swinging
+t8,14-5,2,"______, A. Beltre, ______",7(2-2) CFFB*BFS,O,LAD,A. Cora,S. Williamson,-0%,100%,Strikeout Swinging
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Dodgers 14 Red Sox 5.,0 runs 1 hit 0 errors 1 LOB. Dodgers 14 Red Sox 5.,0 runs 1 hit 0 errors 1 LOB. Dodgers 14 Red Sox 5.
 Bottom of the 8th Red Sox Batting Behind 5-14 Dodgers' Darren Dreifort facing 7-8-9,Bottom of the 8th Red Sox Batting Behind 5-14 Dodgers' Darren Dreifort facing 7-8-9,Bottom of the 8th Red Sox Batting Behind 5-14 Dodgers' Darren Dreifort facing 7-8-9,,Bottom of the 8th Red Sox Batting Behind 5-14 Dodgers' Darren Dreifort facing 7-8-9,Bottom of the 8th Red Sox Batting Behind 5-14 Dodgers' Darren Dreifort facing 7-8-9,Bottom of the 8th Red Sox Batting Behind 5-14 Dodgers' Darren Dreifort facing 7-8-9,Bottom of the 8th Red Sox Batting Behind 5-14 Dodgers' Darren Dreifort facing 7-8-9,Bottom of the 8th Red Sox Batting Behind 5-14 Dodgers' Darren Dreifort facing 7-8-9,Bottom of the 8th Red Sox Batting Behind 5-14 Dodgers' Darren Dreifort facing 7-8-9,Bottom of the 8th Red Sox Batting Behind 5-14 Dodgers' Darren Dreifort facing 7-8-9,Bottom of the 8th Red Sox Batting Behind 5-14 Dodgers' Darren Dreifort facing 7-8-9
 ,,,,,,,,,Darren Dreifort replaces Guillermo Mota pitchingDavid Ross replaces Paul Lo Duca playing C batting 5th,Darren Dreifort replaces Guillermo Mota pitchingDavid Ross replaces Paul Lo Duca playing C batting 5th,Darren Dreifort replaces Guillermo Mota pitchingDavid Ross replaces Paul Lo Duca playing C batting 5th
-b8,5-14,0,"['', '', '']",5(2-2) ..BBCFC,O,BOS,K. Youkilis,D. Dreifort,0%,100%,Strikeout Looking
-b8,5-14,1,"['', '', '']",6(2-2) SBFFBS,O,BOS,D. Mirabelli,D. Dreifort,0%,100%,Strikeout Swinging
-b8,5-14,2,"['', '', '']",4(1-2) BCSX,O,BOS,G. Kapler,D. Dreifort,0%,100%,Flyball: CF
+b8,5-14,0,"______, ______, ______",5(2-2) ..BBCFC,O,BOS,K. Youkilis,D. Dreifort,0%,100%,Strikeout Looking
+b8,5-14,1,"______, ______, ______",6(2-2) SBFFBS,O,BOS,D. Mirabelli,D. Dreifort,0%,100%,Strikeout Swinging
+b8,5-14,2,"______, ______, ______",4(1-2) BCSX,O,BOS,G. Kapler,D. Dreifort,0%,100%,Flyball: CF
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Dodgers 14 Red Sox 5.,0 runs 0 hits 0 errors 0 LOB. Dodgers 14 Red Sox 5.,0 runs 0 hits 0 errors 0 LOB. Dodgers 14 Red Sox 5.
 Top of the 9th Dodgers Batting Ahead 14-5 Red Sox' Dave McCarty facing 1-2-3,Top of the 9th Dodgers Batting Ahead 14-5 Red Sox' Dave McCarty facing 1-2-3,Top of the 9th Dodgers Batting Ahead 14-5 Red Sox' Dave McCarty facing 1-2-3,,Top of the 9th Dodgers Batting Ahead 14-5 Red Sox' Dave McCarty facing 1-2-3,Top of the 9th Dodgers Batting Ahead 14-5 Red Sox' Dave McCarty facing 1-2-3,Top of the 9th Dodgers Batting Ahead 14-5 Red Sox' Dave McCarty facing 1-2-3,Top of the 9th Dodgers Batting Ahead 14-5 Red Sox' Dave McCarty facing 1-2-3,Top of the 9th Dodgers Batting Ahead 14-5 Red Sox' Dave McCarty facing 1-2-3,Top of the 9th Dodgers Batting Ahead 14-5 Red Sox' Dave McCarty facing 1-2-3,Top of the 9th Dodgers Batting Ahead 14-5 Red Sox' Dave McCarty facing 1-2-3,Top of the 9th Dodgers Batting Ahead 14-5 Red Sox' Dave McCarty facing 1-2-3
 ,,,,,,,,,Dave McCarty moves from LF to PKevin Millar replaces Jason Varitek (DH) playing LF batting 6th,Dave McCarty moves from LF to PKevin Millar replaces Jason Varitek (DH) playing LF batting 6th,Dave McCarty moves from LF to PKevin Millar replaces Jason Varitek (DH) playing LF batting 6th
-t9,14-5,0,"['', '', '']",6(2-2) ..FTBBFX,O,LAD,C. Izturis,D. McCarty,0%,100%,Groundout: 1B unassisted
-t9,14-5,1,"['', '', '']",6(3-2) BBCBFS,O,LAD,J. Werth,D. McCarty,0%,100%,Strikeout Swinging
-t9,14-5,2,"['', '', '']",7(3-2) BBFBCFX,O,LAD,M. Bradley,D. McCarty,-0%,100%,Groundout: 3B-1B
+t9,14-5,0,"______, ______, ______",6(2-2) ..FTBBFX,O,LAD,C. Izturis,D. McCarty,0%,100%,Groundout: 1B unassisted
+t9,14-5,1,"______, ______, ______",6(3-2) BBCBFS,O,LAD,J. Werth,D. McCarty,0%,100%,Strikeout Swinging
+t9,14-5,2,"______, ______, ______",7(3-2) BBFBCFX,O,LAD,M. Bradley,D. McCarty,-0%,100%,Groundout: 3B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Dodgers 14 Red Sox 5.,0 runs 0 hits 0 errors 0 LOB. Dodgers 14 Red Sox 5.,0 runs 0 hits 0 errors 0 LOB. Dodgers 14 Red Sox 5.
 Bottom of the 9th Red Sox Batting Behind 5-14 Dodgers' Eric Gagne facing 1-2-3,Bottom of the 9th Red Sox Batting Behind 5-14 Dodgers' Eric Gagne facing 1-2-3,Bottom of the 9th Red Sox Batting Behind 5-14 Dodgers' Eric Gagne facing 1-2-3,,Bottom of the 9th Red Sox Batting Behind 5-14 Dodgers' Eric Gagne facing 1-2-3,Bottom of the 9th Red Sox Batting Behind 5-14 Dodgers' Eric Gagne facing 1-2-3,Bottom of the 9th Red Sox Batting Behind 5-14 Dodgers' Eric Gagne facing 1-2-3,Bottom of the 9th Red Sox Batting Behind 5-14 Dodgers' Eric Gagne facing 1-2-3,Bottom of the 9th Red Sox Batting Behind 5-14 Dodgers' Eric Gagne facing 1-2-3,Bottom of the 9th Red Sox Batting Behind 5-14 Dodgers' Eric Gagne facing 1-2-3,Bottom of the 9th Red Sox Batting Behind 5-14 Dodgers' Eric Gagne facing 1-2-3,Bottom of the 9th Red Sox Batting Behind 5-14 Dodgers' Eric Gagne facing 1-2-3
 ,,,,,,,,,Eric Gagne replaces Darren Dreifort pitching,Eric Gagne replaces Darren Dreifort pitching,Eric Gagne replaces Darren Dreifort pitching
-b9,5-14,0,"['', '', '']",7(2-2) .CBFFFBS,O,BOS,J. Damon,E. Gagne,0%,100%,Strikeout Swinging
-b9,5-14,1,"['', '', '']",7(3-2) BSCBFBS,O,BOS,M. Bellhorn,E. Gagne,0%,100%,Strikeout Swinging
-b9,5-14,2,"['', '', '']",6(3-2) SFBBBC,O,BOS,D. Ortiz,E. Gagne,0%,100%,Strikeout Looking
+b9,5-14,0,"______, ______, ______",7(2-2) .CBFFFBS,O,BOS,J. Damon,E. Gagne,0%,100%,Strikeout Swinging
+b9,5-14,1,"______, ______, ______",7(3-2) BSCBFBS,O,BOS,M. Bellhorn,E. Gagne,0%,100%,Strikeout Swinging
+b9,5-14,2,"______, ______, ______",6(3-2) SFBBBC,O,BOS,D. Ortiz,E. Gagne,0%,100%,Strikeout Looking
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Dodgers 14 Red Sox 5.,0 runs 0 hits 0 errors 0 LOB. Dodgers 14 Red Sox 5.,0 runs 0 hits 0 errors 0 LOB. Dodgers 14 Red Sox 5.

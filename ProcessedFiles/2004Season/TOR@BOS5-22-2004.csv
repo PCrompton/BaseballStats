@@ -1,115 +1,115 @@
 Inn,Score,Out,RoB,Pit(cnt)Sequence,R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
 Top of the 1st Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,,Top of the 1st Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3,Top of the 1st Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 1-2-3
-t1,0-0,0,"['', '', '']",4(1-2) CBFC,O,TOR,R. Johnson,P. Martinez,2%,52%,Strikeout Looking
-t1,0-0,1,"['', '', '']",7(3-2) BBBCFFS,O,TOR,E. Hinske,P. Martinez,2%,54%,Strikeout Swinging
-t1,0-0,2,"['', '', '']",5(2-2) BBFCX,O,TOR,V. Wells,P. Martinez,1%,55%,Flyball: CF
+t1,0-0,0,"______, ______, ______",4(1-2) CBFC,O,TOR,R. Johnson,P. Martinez,2%,52%,Strikeout Looking
+t1,0-0,1,"______, ______, ______",7(3-2) BBBCFFS,O,TOR,E. Hinske,P. Martinez,2%,54%,Strikeout Swinging
+t1,0-0,2,"______, ______, ______",5(2-2) BBFCX,O,TOR,V. Wells,P. Martinez,1%,55%,Flyball: CF
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Blue Jays 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Blue Jays 0 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Blue Jays 0 Red Sox 0.
 Bottom of the 1st Red Sox Batting Tied 0-0 Blue Jays' Ted Lilly facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Blue Jays' Ted Lilly facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Blue Jays' Ted Lilly facing 1-2-3,,Bottom of the 1st Red Sox Batting Tied 0-0 Blue Jays' Ted Lilly facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Blue Jays' Ted Lilly facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Blue Jays' Ted Lilly facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Blue Jays' Ted Lilly facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Blue Jays' Ted Lilly facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Blue Jays' Ted Lilly facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Blue Jays' Ted Lilly facing 1-2-3,Bottom of the 1st Red Sox Batting Tied 0-0 Blue Jays' Ted Lilly facing 1-2-3
-b1,0-0,0,"['', '', '']",4(1-2) CBFX,,BOS,J. Damon,T. Lilly,3%,58%,Single to CF (Line Drive to LF-CF)
-b1,0-0,0,"['Damon', '', '']",3(0-2) 1C1CC,O,BOS,M. Bellhorn,T. Lilly,-3%,55%,Strikeout Looking
-b1,0-0,1,"['Damon', '', '']",2(1-0) BX,,BOS,K. Millar,T. Lilly,6%,61%,Single to RF (Line Drive to CF-RF); Damon to 3B
-b1,0-0,1,"['Millar', '', 'Damon']",2(0-1) CX,OO,BOS,M. Ramirez,T. Lilly,-11%,50%,Ground Ball Double Play: 2B-SS-1B
+b1,0-0,0,"______, ______, ______",4(1-2) CBFX,,BOS,J. Damon,T. Lilly,3%,58%,Single to CF (Line Drive to LF-CF)
+b1,0-0,0,"J. Damon, ______, ______",3(0-2) 1C1CC,O,BOS,M. Bellhorn,T. Lilly,-3%,55%,Strikeout Looking
+b1,0-0,1,"J. Damon, ______, ______",2(1-0) BX,,BOS,K. Millar,T. Lilly,6%,61%,Single to RF (Line Drive to CF-RF); J. Damon to 3B
+b1,0-0,1,"K. Millar, ______, J. Damon",2(0-1) CX,OO,BOS,M. Ramirez,T. Lilly,-11%,50%,Ground Ball Double Play: 2B-SS-1B
 ,,,,,,,,,0 runs 2 hits 0 errors 1 LOB. Blue Jays 0 Red Sox 0.,0 runs 2 hits 0 errors 1 LOB. Blue Jays 0 Red Sox 0.,0 runs 2 hits 0 errors 1 LOB. Blue Jays 0 Red Sox 0.
 Top of the 2nd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,,Top of the 2nd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6,Top of the 2nd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 4-5-6
-t2,0-0,0,"['', '', '']",3(1-1) BCX,O,TOR,C. Delgado,P. Martinez,2%,52%,Groundout: 1B-P
-t2,0-0,1,"['', '', '']",5(2-2) CBFBX,O,TOR,J. Phelps,P. Martinez,2%,54%,Groundout: SS-1B
-t2,0-0,2,"['', '', '']",4(1-2) CBSX,,TOR,G. Zaun,P. Martinez,-1%,53%,Single to LF (Line Drive)
-t2,0-0,2,"['Zaun', '', '']",2(0-1) CX,O,TOR,S. Pond,P. Martinez,2%,55%,Groundout: 1B-P
+t2,0-0,0,"______, ______, ______",3(1-1) BCX,O,TOR,C. Delgado,P. Martinez,2%,52%,Groundout: 1B-P
+t2,0-0,1,"______, ______, ______",5(2-2) CBFBX,O,TOR,J. Phelps,P. Martinez,2%,54%,Groundout: SS-1B
+t2,0-0,2,"______, ______, ______",4(1-2) CBSX,,TOR,G. Zaun,P. Martinez,-1%,53%,Single to LF (Line Drive)
+t2,0-0,2,"G. Zaun, ______, ______",2(0-1) CX,O,TOR,S. Pond,P. Martinez,2%,55%,Groundout: 1B-P
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Blue Jays 0 Red Sox 0.,0 runs 1 hit 0 errors 1 LOB. Blue Jays 0 Red Sox 0.,0 runs 1 hit 0 errors 1 LOB. Blue Jays 0 Red Sox 0.
 Bottom of the 2nd Red Sox Batting Tied 0-0 Blue Jays' Ted Lilly facing 5-6-7,Bottom of the 2nd Red Sox Batting Tied 0-0 Blue Jays' Ted Lilly facing 5-6-7,Bottom of the 2nd Red Sox Batting Tied 0-0 Blue Jays' Ted Lilly facing 5-6-7,,Bottom of the 2nd Red Sox Batting Tied 0-0 Blue Jays' Ted Lilly facing 5-6-7,Bottom of the 2nd Red Sox Batting Tied 0-0 Blue Jays' Ted Lilly facing 5-6-7,Bottom of the 2nd Red Sox Batting Tied 0-0 Blue Jays' Ted Lilly facing 5-6-7,Bottom of the 2nd Red Sox Batting Tied 0-0 Blue Jays' Ted Lilly facing 5-6-7,Bottom of the 2nd Red Sox Batting Tied 0-0 Blue Jays' Ted Lilly facing 5-6-7,Bottom of the 2nd Red Sox Batting Tied 0-0 Blue Jays' Ted Lilly facing 5-6-7,Bottom of the 2nd Red Sox Batting Tied 0-0 Blue Jays' Ted Lilly facing 5-6-7,Bottom of the 2nd Red Sox Batting Tied 0-0 Blue Jays' Ted Lilly facing 5-6-7
-b2,0-0,0,"['', '', '']",5(3-1) BBBCX,,BOS,J. Varitek,T. Lilly,6%,61%,Double to LF (Line Drive to LF Line)
-b2,0-0,0,"['', 'Varitek', '']",4(1-2) CBCS,O,BOS,D. Mirabelli,T. Lilly,-4%,57%,Strikeout Swinging
-b2,0-0,1,"['', 'Varitek', '']",5(2-2) *BCBFS,O,BOS,K. Youkilis,T. Lilly,-4%,53%,Strikeout Swinging (C-1B)
-b2,0-0,2,"['', 'Varitek', '']",3(0-2) SCC,O,BOS,G. Kapler,T. Lilly,-3%,50%,Strikeout Looking
+b2,0-0,0,"______, ______, ______",5(3-1) BBBCX,,BOS,J. Varitek,T. Lilly,6%,61%,Double to LF (Line Drive to LF Line)
+b2,0-0,0,"______, J. Varitek, ______",4(1-2) CBCS,O,BOS,D. Mirabelli,T. Lilly,-4%,57%,Strikeout Swinging
+b2,0-0,1,"______, J. Varitek, ______",5(2-2) *BCBFS,O,BOS,K. Youkilis,T. Lilly,-4%,53%,Strikeout Swinging (C-1B)
+b2,0-0,2,"______, J. Varitek, ______",3(0-2) SCC,O,BOS,G. Kapler,T. Lilly,-3%,50%,Strikeout Looking
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Blue Jays 0 Red Sox 0.,0 runs 1 hit 0 errors 1 LOB. Blue Jays 0 Red Sox 0.,0 runs 1 hit 0 errors 1 LOB. Blue Jays 0 Red Sox 0.
 Top of the 3rd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 8-9-1,Top of the 3rd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 8-9-1,Top of the 3rd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 8-9-1,,Top of the 3rd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 8-9-1,Top of the 3rd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 8-9-1,Top of the 3rd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 8-9-1,Top of the 3rd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 8-9-1,Top of the 3rd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 8-9-1,Top of the 3rd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 8-9-1,Top of the 3rd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 8-9-1,Top of the 3rd Blue Jays Batting Tied 0-0 Red Sox' Pedro Martinez facing 8-9-1
-t3,0-0,0,"['', '', '']",2(1-0) BX,,TOR,O. Hudson,P. Martinez,-6%,44%,Double to RF (Line Drive)
-t3,0-0,0,"['', 'Hudson', '']",7(3-2) BBFFBFX,R,TOR,F. Menechino,P. Martinez,-12%,31%,Triple to RF (Fly Ball to Deep RF); Hudson Scores
-t3,1-0,0,"['', '', 'Menechino']",4(0-2) SSFT,O,TOR,R. Johnson,P. Martinez,4%,36%,Strikeout Swinging
-t3,1-0,1,"['', '', 'Menechino']",3(1-1) BCX,R,TOR,E. Hinske,P. Martinez,-5%,30%,Single to CF (Line Drive); Menechino Scores
-t3,2-0,1,"['Hinske', '', '']",1(0-0) 1X,,TOR,V. Wells,P. Martinez,-3%,28%,Single to CF (Line Drive); Hinske to 2B
-t3,2-0,1,"['Wells', 'Hinske', '']",3(1-1) BF2X,O,TOR,C. Delgado,P. Martinez,4%,31%,Foul Popfly: 3B (3B Foul)
-t3,2-0,2,"['Wells', 'Hinske', '']",5(2-2) BCFBX,O,TOR,J. Phelps,P. Martinez,4%,35%,Lineout: P
+t3,0-0,0,"______, ______, ______",2(1-0) BX,,TOR,O. Hudson,P. Martinez,-6%,44%,Double to RF (Line Drive)
+t3,0-0,0,"______, O. Hudson, ______",7(3-2) BBFFBFX,R,TOR,F. Menechino,P. Martinez,-12%,31%,Triple to RF (Fly Ball to Deep RF); O. Hudson Scores
+t3,1-0,0,"______, ______, F. Menechino",4(0-2) SSFT,O,TOR,R. Johnson,P. Martinez,4%,36%,Strikeout Swinging
+t3,1-0,1,"______, ______, F. Menechino",3(1-1) BCX,R,TOR,E. Hinske,P. Martinez,-5%,30%,Single to CF (Line Drive); F. Menechino Scores
+t3,2-0,1,"E. Hinske, ______, ______",1(0-0) 1X,,TOR,V. Wells,P. Martinez,-3%,28%,Single to CF (Line Drive); E. Hinske to 2B
+t3,2-0,1,"V. Wells, E. Hinske, ______",3(1-1) BF2X,O,TOR,C. Delgado,P. Martinez,4%,31%,Foul Popfly: 3B (3B Foul)
+t3,2-0,2,"V. Wells, E. Hinske, ______",5(2-2) BCFBX,O,TOR,J. Phelps,P. Martinez,4%,35%,Lineout: P
 ,,,,,,,,,2 runs 4 hits 0 errors 2 LOB. Blue Jays 2 Red Sox 0.,2 runs 4 hits 0 errors 2 LOB. Blue Jays 2 Red Sox 0.,2 runs 4 hits 0 errors 2 LOB. Blue Jays 2 Red Sox 0.
 Bottom of the 3rd Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 9-1-2,Bottom of the 3rd Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 9-1-2,Bottom of the 3rd Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 9-1-2,,Bottom of the 3rd Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 9-1-2,Bottom of the 3rd Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 9-1-2,Bottom of the 3rd Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 9-1-2,Bottom of the 3rd Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 9-1-2,Bottom of the 3rd Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 9-1-2,Bottom of the 3rd Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 9-1-2,Bottom of the 3rd Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 9-1-2,Bottom of the 3rd Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 9-1-2
-b3,0-2,0,"['', '', '']",4(1-2) BCFX,O,BOS,P. Reese,T. Lilly,-3%,32%,Groundout: SS-1B
-b3,0-2,1,"['', '', '']",5(3-1) BFBBB,,BOS,J. Damon,T. Lilly,3%,35%,Walk
-b3,0-2,1,"['Damon', '', '']",3(0-2) FCT,O,BOS,M. Bellhorn,T. Lilly,-3%,32%,Strikeout Swinging
-b3,0-2,2,"['Damon', '', '']",1(1-0) BN,,BOS,K. Millar,T. Lilly,1%,33%,Balk; Damon to 2B
-b3,0-2,2,"['', 'Damon', '']",4(1-2) BN.CCC,O,BOS,K. Millar,T. Lilly,-4%,29%,Strikeout Looking
+b3,0-2,0,"______, ______, ______",4(1-2) BCFX,O,BOS,P. Reese,T. Lilly,-3%,32%,Groundout: SS-1B
+b3,0-2,1,"______, ______, ______",5(3-1) BFBBB,,BOS,J. Damon,T. Lilly,3%,35%,Walk
+b3,0-2,1,"J. Damon, ______, ______",3(0-2) FCT,O,BOS,M. Bellhorn,T. Lilly,-3%,32%,Strikeout Swinging
+b3,0-2,2,"J. Damon, ______, ______",1(1-0) BN,,BOS,K. Millar,T. Lilly,1%,33%,Balk; J. Damon to 2B
+b3,0-2,2,"______, J. Damon, ______",4(1-2) BN.CCC,O,BOS,K. Millar,T. Lilly,-4%,29%,Strikeout Looking
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Blue Jays 2 Red Sox 0.,0 runs 0 hits 0 errors 1 LOB. Blue Jays 2 Red Sox 0.,0 runs 0 hits 0 errors 1 LOB. Blue Jays 2 Red Sox 0.
 Top of the 4th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 6-7-8,Top of the 4th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 6-7-8,Top of the 4th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 6-7-8,,Top of the 4th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 6-7-8,Top of the 4th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 6-7-8,Top of the 4th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 6-7-8,Top of the 4th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 6-7-8,Top of the 4th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 6-7-8,Top of the 4th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 6-7-8,Top of the 4th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 6-7-8,Top of the 4th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 6-7-8
-t4,2-0,0,"['', '', '']",6(2-2) CCBFBC,O,TOR,G. Zaun,P. Martinez,2%,31%,Strikeout Looking
-t4,2-0,1,"['', '', '']",7(3-2) BSBFBFS,O,TOR,S. Pond,P. Martinez,2%,32%,Strikeout Swinging
-t4,2-0,2,"['', '', '']",5(1-2) FFFBC,O,TOR,O. Hudson,P. Martinez,1%,33%,Strikeout Looking
+t4,2-0,0,"______, ______, ______",6(2-2) CCBFBC,O,TOR,G. Zaun,P. Martinez,2%,31%,Strikeout Looking
+t4,2-0,1,"______, ______, ______",7(3-2) BSBFBFS,O,TOR,S. Pond,P. Martinez,2%,32%,Strikeout Swinging
+t4,2-0,2,"______, ______, ______",5(1-2) FFFBC,O,TOR,O. Hudson,P. Martinez,1%,33%,Strikeout Looking
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Blue Jays 2 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Blue Jays 2 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Blue Jays 2 Red Sox 0.
 Bottom of the 4th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 4-5-6,Bottom of the 4th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 4-5-6,Bottom of the 4th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 4-5-6,,Bottom of the 4th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 4-5-6,Bottom of the 4th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 4-5-6,Bottom of the 4th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 4-5-6,Bottom of the 4th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 4-5-6,Bottom of the 4th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 4-5-6,Bottom of the 4th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 4-5-6,Bottom of the 4th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 4-5-6,Bottom of the 4th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 4-5-6
-b4,0-2,0,"['', '', '']",5(2-2) CBFBC,O,BOS,M. Ramirez,T. Lilly,-3%,30%,Strikeout Looking
-b4,0-2,1,"['', '', '']",4(1-2) CCBS,O,BOS,J. Varitek,T. Lilly,-2%,28%,Strikeout Swinging
-b4,0-2,2,"['', '', '']",5(3-1) SBBBB,,BOS,D. Mirabelli,T. Lilly,2%,30%,Walk
-b4,0-2,2,"['Mirabelli', '', '']",4(2-1) F*BBX,O,BOS,K. Youkilis,T. Lilly,-3%,27%,Groundout: SS-2B/Forceout at 2B
+b4,0-2,0,"______, ______, ______",5(2-2) CBFBC,O,BOS,M. Ramirez,T. Lilly,-3%,30%,Strikeout Looking
+b4,0-2,1,"______, ______, ______",4(1-2) CCBS,O,BOS,J. Varitek,T. Lilly,-2%,28%,Strikeout Swinging
+b4,0-2,2,"______, ______, ______",5(3-1) SBBBB,,BOS,D. Mirabelli,T. Lilly,2%,30%,Walk
+b4,0-2,2,"D. Mirabelli, ______, ______",4(2-1) F*BBX,O,BOS,K. Youkilis,T. Lilly,-3%,27%,Groundout: SS-2B/Forceout at 2B
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Blue Jays 2 Red Sox 0.,0 runs 0 hits 0 errors 1 LOB. Blue Jays 2 Red Sox 0.,0 runs 0 hits 0 errors 1 LOB. Blue Jays 2 Red Sox 0.
 Top of the 5th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 9-1-2,Top of the 5th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 9-1-2,Top of the 5th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 9-1-2,,Top of the 5th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 9-1-2,Top of the 5th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 9-1-2,Top of the 5th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 9-1-2,Top of the 5th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 9-1-2,Top of the 5th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 9-1-2,Top of the 5th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 9-1-2,Top of the 5th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 9-1-2,Top of the 5th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 9-1-2
-t5,2-0,0,"['', '', '']",3(1-1) FBX,O,TOR,F. Menechino,P. Martinez,2%,29%,Flyball: RF
-t5,2-0,1,"['', '', '']",2(0-1) CX,O,TOR,R. Johnson,P. Martinez,2%,30%,Groundout: SS-1B
-t5,2-0,2,"['', '', '']",5(2-2) BCCBS,O,TOR,E. Hinske,P. Martinez,1%,31%,Strikeout Swinging
+t5,2-0,0,"______, ______, ______",3(1-1) FBX,O,TOR,F. Menechino,P. Martinez,2%,29%,Flyball: RF
+t5,2-0,1,"______, ______, ______",2(0-1) CX,O,TOR,R. Johnson,P. Martinez,2%,30%,Groundout: SS-1B
+t5,2-0,2,"______, ______, ______",5(2-2) BCCBS,O,TOR,E. Hinske,P. Martinez,1%,31%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Blue Jays 2 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Blue Jays 2 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Blue Jays 2 Red Sox 0.
 Bottom of the 5th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 8-9-1,Bottom of the 5th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 8-9-1,Bottom of the 5th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 8-9-1,,Bottom of the 5th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 8-9-1,Bottom of the 5th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 8-9-1,Bottom of the 5th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 8-9-1,Bottom of the 5th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 8-9-1,Bottom of the 5th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 8-9-1,Bottom of the 5th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 8-9-1,Bottom of the 5th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 8-9-1,Bottom of the 5th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 8-9-1
-b5,0-2,0,"['', '', '']",4(1-2) CCBS,O,BOS,G. Kapler,T. Lilly,-3%,28%,Strikeout Swinging
-b5,0-2,1,"['', '', '']",3(1-1) BCX,O,BOS,P. Reese,T. Lilly,-2%,26%,Flyball: RF
-b5,0-2,2,"['', '', '']",5(3-1) BBBCX,O,BOS,J. Damon,T. Lilly,-2%,24%,Groundout: 3B-1B
+b5,0-2,0,"______, ______, ______",4(1-2) CCBS,O,BOS,G. Kapler,T. Lilly,-3%,28%,Strikeout Swinging
+b5,0-2,1,"______, ______, ______",3(1-1) BCX,O,BOS,P. Reese,T. Lilly,-2%,26%,Flyball: RF
+b5,0-2,2,"______, ______, ______",5(3-1) BBBCX,O,BOS,J. Damon,T. Lilly,-2%,24%,Groundout: 3B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Blue Jays 2 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Blue Jays 2 Red Sox 0.,0 runs 0 hits 0 errors 0 LOB. Blue Jays 2 Red Sox 0.
 Top of the 6th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 3-4-5,Top of the 6th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 3-4-5,Top of the 6th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 3-4-5,,Top of the 6th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 3-4-5,Top of the 6th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 3-4-5,Top of the 6th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 3-4-5,Top of the 6th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 3-4-5,Top of the 6th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 3-4-5,Top of the 6th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 3-4-5,Top of the 6th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 3-4-5,Top of the 6th Blue Jays Batting Ahead 2-0 Red Sox' Pedro Martinez facing 3-4-5
-t6,2-0,0,"['', '', '']",5(2-2) BBSCX,O,TOR,V. Wells,P. Martinez,2%,26%,Groundout: SS-1B
-t6,2-0,1,"['', '', '']",4(1-2) SFBX,O,TOR,C. Delgado,P. Martinez,2%,28%,Groundout: 3B-1B
-t6,2-0,2,"['', '', '']",7(3-2) BBCFFBB,,TOR,J. Phelps,P. Martinez,-1%,27%,Walk
-t6,2-0,2,"['Phelps', '', '']",8(3-2) CBFF1BFB>X,O,TOR,G. Zaun,P. Martinez,2%,29%,Groundout: 2B-1B
+t6,2-0,0,"______, ______, ______",5(2-2) BBSCX,O,TOR,V. Wells,P. Martinez,2%,26%,Groundout: SS-1B
+t6,2-0,1,"______, ______, ______",4(1-2) SFBX,O,TOR,C. Delgado,P. Martinez,2%,28%,Groundout: 3B-1B
+t6,2-0,2,"______, ______, ______",7(3-2) BBCFFBB,,TOR,J. Phelps,P. Martinez,-1%,27%,Walk
+t6,2-0,2,"J. Phelps, ______, ______",8(3-2) CBFF1BFB>X,O,TOR,G. Zaun,P. Martinez,2%,29%,Groundout: 2B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Blue Jays 2 Red Sox 0.,0 runs 0 hits 0 errors 1 LOB. Blue Jays 2 Red Sox 0.,0 runs 0 hits 0 errors 1 LOB. Blue Jays 2 Red Sox 0.
 Bottom of the 6th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 2-3-4,Bottom of the 6th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 2-3-4,Bottom of the 6th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 2-3-4,,Bottom of the 6th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 2-3-4,Bottom of the 6th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 2-3-4,Bottom of the 6th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 2-3-4,Bottom of the 6th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 2-3-4,Bottom of the 6th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 2-3-4,Bottom of the 6th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 2-3-4,Bottom of the 6th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 2-3-4,Bottom of the 6th Red Sox Batting Behind 0-2 Blue Jays' Ted Lilly facing 2-3-4
-b6,0-2,0,"['', '', '']",1(0-0) X,,BOS,M. Bellhorn,T. Lilly,6%,34%,Single to P (Line Drive)
-b6,0-2,0,"['Bellhorn', '', '']",3(0-2) CCX,O,BOS,K. Millar,T. Lilly,-6%,29%,Flyball: LF
-b6,0-2,1,"['Bellhorn', '', '']",3(1-1) BF1X,RR,BOS,M. Ramirez,T. Lilly,26%,55%,Home Run (Fly Ball); Bellhorn Scores
-b6,2-2,1,"['', '', '']",9(3-2) BCBCFFBFS,O,BOS,J. Varitek,T. Lilly,-3%,52%,Strikeout Swinging
+b6,0-2,0,"______, ______, ______",1(0-0) X,,BOS,M. Bellhorn,T. Lilly,6%,34%,Single to P (Line Drive)
+b6,0-2,0,"M. Bellhorn, ______, ______",3(0-2) CCX,O,BOS,K. Millar,T. Lilly,-6%,29%,Flyball: LF
+b6,0-2,1,"M. Bellhorn, ______, ______",3(1-1) BF1X,RR,BOS,M. Ramirez,T. Lilly,26%,55%,Home Run (Fly Ball); M. Bellhorn Scores
+b6,2-2,1,"______, ______, ______",9(3-2) BCBCFFBFS,O,BOS,J. Varitek,T. Lilly,-3%,52%,Strikeout Swinging
 ,,,,,,,,,Kerry Ligtenberg replaces Ted Lilly pitchingDavid Ortiz pinch hits for Doug Mirabelli (DH) batting 6th,Kerry Ligtenberg replaces Ted Lilly pitchingDavid Ortiz pinch hits for Doug Mirabelli (DH) batting 6th,Kerry Ligtenberg replaces Ted Lilly pitchingDavid Ortiz pinch hits for Doug Mirabelli (DH) batting 6th
-b6,2-2,2,"['', '', '']",10(3-2) ..BBCFFBFFFS,O,BOS,D. Ortiz,K. Ligtenberg,-2%,50%,Strikeout Swinging
+b6,2-2,2,"______, ______, ______",10(3-2) ..BBCFFBFFFS,O,BOS,D. Ortiz,K. Ligtenberg,-2%,50%,Strikeout Swinging
 ,,,,,,,,,2 runs 2 hits 0 errors 0 LOB. Blue Jays 2 Red Sox 2.,2 runs 2 hits 0 errors 0 LOB. Blue Jays 2 Red Sox 2.,2 runs 2 hits 0 errors 0 LOB. Blue Jays 2 Red Sox 2.
 Top of the 7th Blue Jays Batting Tied 2-2 Red Sox' Anastacio Martinez facing 7-8-9,Top of the 7th Blue Jays Batting Tied 2-2 Red Sox' Anastacio Martinez facing 7-8-9,Top of the 7th Blue Jays Batting Tied 2-2 Red Sox' Anastacio Martinez facing 7-8-9,,Top of the 7th Blue Jays Batting Tied 2-2 Red Sox' Anastacio Martinez facing 7-8-9,Top of the 7th Blue Jays Batting Tied 2-2 Red Sox' Anastacio Martinez facing 7-8-9,Top of the 7th Blue Jays Batting Tied 2-2 Red Sox' Anastacio Martinez facing 7-8-9,Top of the 7th Blue Jays Batting Tied 2-2 Red Sox' Anastacio Martinez facing 7-8-9,Top of the 7th Blue Jays Batting Tied 2-2 Red Sox' Anastacio Martinez facing 7-8-9,Top of the 7th Blue Jays Batting Tied 2-2 Red Sox' Anastacio Martinez facing 7-8-9,Top of the 7th Blue Jays Batting Tied 2-2 Red Sox' Anastacio Martinez facing 7-8-9,Top of the 7th Blue Jays Batting Tied 2-2 Red Sox' Anastacio Martinez facing 7-8-9
 ,,,,,,,,,Anastacio Martinez replaces Pedro Martinez pitching,Anastacio Martinez replaces Pedro Martinez pitching,Anastacio Martinez replaces Pedro Martinez pitching
-t7,2-2,0,"['', '', '']",5(2-2) ..BCFBS,O,TOR,S. Pond,A. Martinez,4%,54%,Strikeout Swinging (C-1B)
-t7,2-2,1,"['', '', '']",1(0-0) X,O,TOR,O. Hudson,A. Martinez,3%,57%,Groundout: 1B-P
-t7,2-2,2,"['', '', '']",3(1-1) CBX,O,TOR,F. Menechino,A. Martinez,2%,60%,Flyball: CF
+t7,2-2,0,"______, ______, ______",5(2-2) ..BCFBS,O,TOR,S. Pond,A. Martinez,4%,54%,Strikeout Swinging (C-1B)
+t7,2-2,1,"______, ______, ______",1(0-0) X,O,TOR,O. Hudson,A. Martinez,3%,57%,Groundout: 1B-P
+t7,2-2,2,"______, ______, ______",3(1-1) CBX,O,TOR,F. Menechino,A. Martinez,2%,60%,Flyball: CF
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Blue Jays 2 Red Sox 2.,0 runs 0 hits 0 errors 0 LOB. Blue Jays 2 Red Sox 2.,0 runs 0 hits 0 errors 0 LOB. Blue Jays 2 Red Sox 2.
 Bottom of the 7th Red Sox Batting Tied 2-2 Blue Jays' Kerry Ligtenberg facing 7-8-9,Bottom of the 7th Red Sox Batting Tied 2-2 Blue Jays' Kerry Ligtenberg facing 7-8-9,Bottom of the 7th Red Sox Batting Tied 2-2 Blue Jays' Kerry Ligtenberg facing 7-8-9,,Bottom of the 7th Red Sox Batting Tied 2-2 Blue Jays' Kerry Ligtenberg facing 7-8-9,Bottom of the 7th Red Sox Batting Tied 2-2 Blue Jays' Kerry Ligtenberg facing 7-8-9,Bottom of the 7th Red Sox Batting Tied 2-2 Blue Jays' Kerry Ligtenberg facing 7-8-9,Bottom of the 7th Red Sox Batting Tied 2-2 Blue Jays' Kerry Ligtenberg facing 7-8-9,Bottom of the 7th Red Sox Batting Tied 2-2 Blue Jays' Kerry Ligtenberg facing 7-8-9,Bottom of the 7th Red Sox Batting Tied 2-2 Blue Jays' Kerry Ligtenberg facing 7-8-9,Bottom of the 7th Red Sox Batting Tied 2-2 Blue Jays' Kerry Ligtenberg facing 7-8-9,Bottom of the 7th Red Sox Batting Tied 2-2 Blue Jays' Kerry Ligtenberg facing 7-8-9
-b7,2-2,0,"['', '', '']",2(0-1) CX,,BOS,K. Youkilis,K. Ligtenberg,5%,65%,Single to 3B (Ground Ball)
+b7,2-2,0,"______, ______, ______",2(0-1) CX,,BOS,K. Youkilis,K. Ligtenberg,5%,65%,Single to 3B (Ground Ball)
 ,,,,,,,,,Jason Kershner replaces Kerry Ligtenberg pitchingDave McCarty pinch hits for Brian Daubach batting 8thBrian Daubach pinch hits for Gabe Kapler (RF) batting 8th,Jason Kershner replaces Kerry Ligtenberg pitchingDave McCarty pinch hits for Brian Daubach batting 8thBrian Daubach pinch hits for Gabe Kapler (RF) batting 8th,Jason Kershner replaces Kerry Ligtenberg pitchingDave McCarty pinch hits for Brian Daubach batting 8thBrian Daubach pinch hits for Gabe Kapler (RF) batting 8th
-b7,2-2,0,"['Youkilis', '', '']",7(3-2) ...BBSBCF1B,,BOS,D. McCarty,J. Kershner,8%,73%,Walk; Youkilis to 2B
-b7,2-2,0,"['McCarty', 'Youkilis', '']",4(1-2) BLLL,O,BOS,P. Reese,J. Kershner,-8%,65%,Strikeout (foul bunt)
-b7,2-2,1,"['McCarty', 'Youkilis', '']",4(1-2) BCFX,,BOS,J. Damon,J. Kershner,9%,73%,Single to RF (Line Drive); Youkilis to 3B; McCarty to 2B
-b7,2-2,1,"['Damon', 'McCarty', 'Youkilis']",4(2-1) SBBX,R,BOS,M. Bellhorn,J. Kershner,12%,85%,Single to LF (Ground Ball); Youkilis Scores; McCarty to 3B; Damon to 2B
+b7,2-2,0,"K. Youkilis, ______, ______",7(3-2) ...BBSBCF1B,,BOS,D. McCarty,J. Kershner,8%,73%,Walk; K. Youkilis to 2B
+b7,2-2,0,"D. McCarty, K. Youkilis, ______",4(1-2) BLLL,O,BOS,P. Reese,J. Kershner,-8%,65%,Strikeout (foul bunt)
+b7,2-2,1,"D. McCarty, K. Youkilis, ______",4(1-2) BCFX,,BOS,J. Damon,J. Kershner,9%,73%,Single to RF (Line Drive); K. Youkilis to 3B; D. McCarty to 2B
+b7,2-2,1,"J. Damon, D. McCarty, K. Youkilis",4(2-1) SBBX,R,BOS,M. Bellhorn,J. Kershner,12%,85%,Single to LF (Ground Ball); K. Youkilis Scores; D. McCarty to 3B; J. Damon to 2B
 ,,,,,,,,,Terry Adams replaces Jason Kershner pitching,Terry Adams replaces Jason Kershner pitching,Terry Adams replaces Jason Kershner pitching
-b7,3-2,1,"['Bellhorn', 'Damon', 'McCarty']",6(1-2) .BFFFFX,OO,BOS,K. Millar,T. Adams,-13%,73%,Ground Ball Double Play: SS-2B-1B
+b7,3-2,1,"M. Bellhorn, J. Damon, D. McCarty",6(1-2) .BFFFFX,OO,BOS,K. Millar,T. Adams,-13%,73%,Ground Ball Double Play: SS-2B-1B
 ,,,,,,,,,1 run 3 hits 0 errors 2 LOB. Blue Jays 2 Red Sox 3.,1 run 3 hits 0 errors 2 LOB. Blue Jays 2 Red Sox 3.,1 run 3 hits 0 errors 2 LOB. Blue Jays 2 Red Sox 3.
 Top of the 8th Blue Jays Batting Behind 2-3 Red Sox' Anastacio Martinez facing 1-2-3,Top of the 8th Blue Jays Batting Behind 2-3 Red Sox' Anastacio Martinez facing 1-2-3,Top of the 8th Blue Jays Batting Behind 2-3 Red Sox' Anastacio Martinez facing 1-2-3,,Top of the 8th Blue Jays Batting Behind 2-3 Red Sox' Anastacio Martinez facing 1-2-3,Top of the 8th Blue Jays Batting Behind 2-3 Red Sox' Anastacio Martinez facing 1-2-3,Top of the 8th Blue Jays Batting Behind 2-3 Red Sox' Anastacio Martinez facing 1-2-3,Top of the 8th Blue Jays Batting Behind 2-3 Red Sox' Anastacio Martinez facing 1-2-3,Top of the 8th Blue Jays Batting Behind 2-3 Red Sox' Anastacio Martinez facing 1-2-3,Top of the 8th Blue Jays Batting Behind 2-3 Red Sox' Anastacio Martinez facing 1-2-3,Top of the 8th Blue Jays Batting Behind 2-3 Red Sox' Anastacio Martinez facing 1-2-3,Top of the 8th Blue Jays Batting Behind 2-3 Red Sox' Anastacio Martinez facing 1-2-3
 ,,,,,,,,,Dave McCarty moves from PH to 1BKevin Millar moves from 1B to RF,Dave McCarty moves from PH to 1BKevin Millar moves from 1B to RF,Dave McCarty moves from PH to 1BKevin Millar moves from 1B to RF
-t8,2-3,0,"['', '', '']",1(0-0) ..X,,TOR,R. Johnson,A. Martinez,-8%,64%,Single to P/Bunt
+t8,2-3,0,"______, ______, ______",1(0-0) ..X,,TOR,R. Johnson,A. Martinez,-8%,64%,Single to P/Bunt
 ,,,,,,,,,Alan Embree replaces Anastacio Martinez pitching,Alan Embree replaces Anastacio Martinez pitching,Alan Embree replaces Anastacio Martinez pitching
-t8,2-3,0,"['Johnson', '', '']",4(1-2) .CCB1F1,O,TOR,E. Hinske,A. Embree,14%,78%,Johnson Caught Stealing (PO) 2B (P-1B-SS)
-t8,2-3,1,"['', '', '']",5(1-2) .CCB1F1.S,O,TOR,E. Hinske,A. Embree,4%,83%,Strikeout Swinging
-t8,2-3,2,"['', '', '']",4(1-2) CFBX,O,TOR,V. Wells,A. Embree,3%,86%,Groundout: SS-1B
+t8,2-3,0,"R. Johnson, ______, ______",4(1-2) .CCB1F1,O,TOR,E. Hinske,A. Embree,14%,78%,R. Johnson Caught Stealing (PO) 2B (P-1B-SS)
+t8,2-3,1,"______, ______, ______",5(1-2) .CCB1F1.S,O,TOR,E. Hinske,A. Embree,4%,83%,Strikeout Swinging
+t8,2-3,2,"______, ______, ______",4(1-2) CFBX,O,TOR,V. Wells,A. Embree,3%,86%,Groundout: SS-1B
 ,,,,,,,,,0 runs 1 hit 0 errors 0 LOB. Blue Jays 2 Red Sox 3.,0 runs 1 hit 0 errors 0 LOB. Blue Jays 2 Red Sox 3.,0 runs 1 hit 0 errors 0 LOB. Blue Jays 2 Red Sox 3.
 Bottom of the 8th Red Sox Batting Ahead 3-2 Blue Jays' Terry Adams facing 4-5-6,Bottom of the 8th Red Sox Batting Ahead 3-2 Blue Jays' Terry Adams facing 4-5-6,Bottom of the 8th Red Sox Batting Ahead 3-2 Blue Jays' Terry Adams facing 4-5-6,,Bottom of the 8th Red Sox Batting Ahead 3-2 Blue Jays' Terry Adams facing 4-5-6,Bottom of the 8th Red Sox Batting Ahead 3-2 Blue Jays' Terry Adams facing 4-5-6,Bottom of the 8th Red Sox Batting Ahead 3-2 Blue Jays' Terry Adams facing 4-5-6,Bottom of the 8th Red Sox Batting Ahead 3-2 Blue Jays' Terry Adams facing 4-5-6,Bottom of the 8th Red Sox Batting Ahead 3-2 Blue Jays' Terry Adams facing 4-5-6,Bottom of the 8th Red Sox Batting Ahead 3-2 Blue Jays' Terry Adams facing 4-5-6,Bottom of the 8th Red Sox Batting Ahead 3-2 Blue Jays' Terry Adams facing 4-5-6,Bottom of the 8th Red Sox Batting Ahead 3-2 Blue Jays' Terry Adams facing 4-5-6
-b8,3-2,0,"['', '', '']",6(3-2) CBBCBX,,BOS,M. Ramirez,T. Adams,2%,88%,Single to LF (Ground Ball)
-b8,3-2,0,"['Ramirez', '', '']",2(0-1) FX,,BOS,J. Varitek,T. Adams,5%,93%,Single to RF (Line Drive); Ramirez to 3B
-b8,3-2,0,"['Varitek', '', 'Ramirez']",1(0-0) X,R,BOS,D. Ortiz,T. Adams,4%,97%,Single to CF (Ground Ball); Ramirez Scores; Varitek to 3B
-b8,4-2,0,"['Ortiz', '', 'Varitek']",3(0-2) CCX,O,BOS,K. Youkilis,T. Adams,-1%,96%,Fielder's Choice 2B; Varitek out at Hm/2B-3B-C; Ortiz to 3B; Youkilis to 2B
-b8,4-2,1,"['', 'Youkilis', 'Ortiz']",2(0-1) SX,O,BOS,D. McCarty,T. Adams,-3%,93%,Popfly: 2B (Short RF)
-b8,4-2,2,"['', 'Youkilis', 'Ortiz']",3(1-1) BFB,R,BOS,P. Reese,T. Adams,3%,97%,Passed Ball; Ortiz Scores/unER; Youkilis to 3B
-b8,5-2,2,"['', '', 'Youkilis']",4(2-1) BFB.X,O,BOS,P. Reese,T. Adams,-1%,96%,Lineout: RF
+b8,3-2,0,"______, ______, ______",6(3-2) CBBCBX,,BOS,M. Ramirez,T. Adams,2%,88%,Single to LF (Ground Ball)
+b8,3-2,0,"M. Ramirez, ______, ______",2(0-1) FX,,BOS,J. Varitek,T. Adams,5%,93%,Single to RF (Line Drive); M. Ramirez to 3B
+b8,3-2,0,"J. Varitek, ______, M. Ramirez",1(0-0) X,R,BOS,D. Ortiz,T. Adams,4%,97%,Single to CF (Ground Ball); M. Ramirez Scores; J. Varitek to 3B
+b8,4-2,0,"D. Ortiz, ______, J. Varitek",3(0-2) CCX,O,BOS,K. Youkilis,T. Adams,-1%,96%,Fielder's Choice 2B; J. Varitek out at Hm/2B-3B-C; D. Ortiz to 3B; K. Youkilis to 2B
+b8,4-2,1,"______, K. Youkilis, D. Ortiz",2(0-1) SX,O,BOS,D. McCarty,T. Adams,-3%,93%,Popfly: 2B (Short RF)
+b8,4-2,2,"______, K. Youkilis, D. Ortiz",3(1-1) BFB,R,BOS,P. Reese,T. Adams,3%,97%,Passed Ball; D. Ortiz Scores/unER; K. Youkilis to 3B
+b8,5-2,2,"______, ______, K. Youkilis",4(2-1) BFB.X,O,BOS,P. Reese,T. Adams,-1%,96%,Lineout: RF
 ,,,,,,,,,2 runs 3 hits 0 errors 1 LOB. Blue Jays 2 Red Sox 5.,2 runs 3 hits 0 errors 1 LOB. Blue Jays 2 Red Sox 5.,2 runs 3 hits 0 errors 1 LOB. Blue Jays 2 Red Sox 5.
 Top of the 9th Blue Jays Batting Behind 2-5 Red Sox' Keith Foulke facing 4-5-6,Top of the 9th Blue Jays Batting Behind 2-5 Red Sox' Keith Foulke facing 4-5-6,Top of the 9th Blue Jays Batting Behind 2-5 Red Sox' Keith Foulke facing 4-5-6,,Top of the 9th Blue Jays Batting Behind 2-5 Red Sox' Keith Foulke facing 4-5-6,Top of the 9th Blue Jays Batting Behind 2-5 Red Sox' Keith Foulke facing 4-5-6,Top of the 9th Blue Jays Batting Behind 2-5 Red Sox' Keith Foulke facing 4-5-6,Top of the 9th Blue Jays Batting Behind 2-5 Red Sox' Keith Foulke facing 4-5-6,Top of the 9th Blue Jays Batting Behind 2-5 Red Sox' Keith Foulke facing 4-5-6,Top of the 9th Blue Jays Batting Behind 2-5 Red Sox' Keith Foulke facing 4-5-6,Top of the 9th Blue Jays Batting Behind 2-5 Red Sox' Keith Foulke facing 4-5-6,Top of the 9th Blue Jays Batting Behind 2-5 Red Sox' Keith Foulke facing 4-5-6
 ,,,,,,,,,Keith Foulke replaces Alan Embree pitchingCesar Crespo replaces Kevin Millar playing RF batting 3rd,Keith Foulke replaces Alan Embree pitchingCesar Crespo replaces Kevin Millar playing RF batting 3rd,Keith Foulke replaces Alan Embree pitchingCesar Crespo replaces Kevin Millar playing RF batting 3rd
-t9,2-5,0,"['', '', '']",5(3-1) ..CBBBB,,TOR,C. Delgado,K. Foulke,-4%,92%,Walk
-t9,2-5,0,"['Delgado', '', '']",5(0-2) SCFFX,O,TOR,J. Phelps,K. Foulke,4%,96%,Groundout: SS-2B/Forceout at 2B
-t9,2-5,1,"['Phelps', '', '']",2(1-0) BX,O,TOR,G. Zaun,K. Foulke,3%,99%,Lineout: SS
-t9,2-5,2,"['Phelps', '', '']",4(1-2) BCFX,O,TOR,S. Pond,K. Foulke,1%,100%,Groundout: SS-1B
+t9,2-5,0,"______, ______, ______",5(3-1) ..CBBBB,,TOR,C. Delgado,K. Foulke,-4%,92%,Walk
+t9,2-5,0,"C. Delgado, ______, ______",5(0-2) SCFFX,O,TOR,J. Phelps,K. Foulke,4%,96%,Groundout: SS-2B/Forceout at 2B
+t9,2-5,1,"J. Phelps, ______, ______",2(1-0) BX,O,TOR,G. Zaun,K. Foulke,3%,99%,Lineout: SS
+t9,2-5,2,"J. Phelps, ______, ______",4(1-2) BCFX,O,TOR,S. Pond,K. Foulke,1%,100%,Groundout: SS-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Blue Jays 2 Red Sox 5.,0 runs 0 hits 0 errors 1 LOB. Blue Jays 2 Red Sox 5.,0 runs 0 hits 0 errors 1 LOB. Blue Jays 2 Red Sox 5.

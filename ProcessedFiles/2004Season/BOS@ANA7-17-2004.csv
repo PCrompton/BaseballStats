@@ -1,120 +1,120 @@
 Inn,Score,Out,RoB,Pit(cnt)Sequence,R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
 Top of the 1st Red Sox Batting Tied 0-0 Angels' Bartolo Colon facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Angels' Bartolo Colon facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Angels' Bartolo Colon facing 1-2-3,,Top of the 1st Red Sox Batting Tied 0-0 Angels' Bartolo Colon facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Angels' Bartolo Colon facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Angels' Bartolo Colon facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Angels' Bartolo Colon facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Angels' Bartolo Colon facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Angels' Bartolo Colon facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Angels' Bartolo Colon facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Angels' Bartolo Colon facing 1-2-3
-t1,0-0,0,"['', '', '']",2(1-0) BX,O,BOS,J. Damon,B. Colon,2%,52%,Flyball: CF
-t1,0-0,1,"['', '', '']",7(3-2) CSBFBBB,,BOS,M. Bellhorn,B. Colon,-2%,50%,Walk
-t1,0-0,1,"['Bellhorn', '', '']",7(3-2) 11BFCFBB>B,,BOS,D. Ortiz,B. Colon,-3%,46%,Walk; Bellhorn to 2B
-t1,0-0,1,"['Ortiz', 'Bellhorn', '']",3(2-0) BBX,OO,BOS,N. Garciaparra,B. Colon,9%,55%,Ground Ball Double Play: 2B-SS-1B
+t1,0-0,0,"______, ______, ______",2(1-0) BX,O,BOS,J. Damon,B. Colon,2%,52%,Flyball: CF
+t1,0-0,1,"______, ______, ______",7(3-2) CSBFBBB,,BOS,M. Bellhorn,B. Colon,-2%,50%,Walk
+t1,0-0,1,"M. Bellhorn, ______, ______",7(3-2) 11BFCFBB>B,,BOS,D. Ortiz,B. Colon,-3%,46%,Walk; M. Bellhorn to 2B
+t1,0-0,1,"D. Ortiz, M. Bellhorn, ______",3(2-0) BBX,OO,BOS,N. Garciaparra,B. Colon,9%,55%,Ground Ball Double Play: 2B-SS-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Red Sox 0 Angels 0.,0 runs 0 hits 0 errors 1 LOB. Red Sox 0 Angels 0.,0 runs 0 hits 0 errors 1 LOB. Red Sox 0 Angels 0.
 Bottom of the 1st Angels Batting Tied 0-0 Red Sox' Tim Wakefield facing 1-2-3,Bottom of the 1st Angels Batting Tied 0-0 Red Sox' Tim Wakefield facing 1-2-3,Bottom of the 1st Angels Batting Tied 0-0 Red Sox' Tim Wakefield facing 1-2-3,,Bottom of the 1st Angels Batting Tied 0-0 Red Sox' Tim Wakefield facing 1-2-3,Bottom of the 1st Angels Batting Tied 0-0 Red Sox' Tim Wakefield facing 1-2-3,Bottom of the 1st Angels Batting Tied 0-0 Red Sox' Tim Wakefield facing 1-2-3,Bottom of the 1st Angels Batting Tied 0-0 Red Sox' Tim Wakefield facing 1-2-3,Bottom of the 1st Angels Batting Tied 0-0 Red Sox' Tim Wakefield facing 1-2-3,Bottom of the 1st Angels Batting Tied 0-0 Red Sox' Tim Wakefield facing 1-2-3,Bottom of the 1st Angels Batting Tied 0-0 Red Sox' Tim Wakefield facing 1-2-3,Bottom of the 1st Angels Batting Tied 0-0 Red Sox' Tim Wakefield facing 1-2-3
-b1,0-0,0,"['', '', '']",4(1-2) CBFX,,ANA,D. Eckstein,T. Wakefield,3%,58%,Single to 3B (Line Drive)
-b1,0-0,0,"['Eckstein', '', '']",2(0-1) CX,,ANA,C. Figgins,T. Wakefield,5%,64%,Single to CF (Line Drive); Eckstein to 2B
-b1,0-0,0,"['Figgins', 'Eckstein', '']",5(1-2) CBFFS,O,ANA,G. Anderson,T. Wakefield,-5%,59%,Strikeout Swinging
-b1,0-0,1,"['Figgins', 'Eckstein', '']",3(0-2) CTS,O,ANA,V. Guerrero,T. Wakefield,-4%,54%,Strikeout Swinging
-b1,0-0,2,"['Figgins', 'Eckstein', '']",7(3-2) BFBBSF>B,,ANA,J. Guillen,T. Wakefield,3%,57%,Walk; Eckstein to 3B; Figgins to 2B
-b1,0-0,2,"['Guillen', 'Figgins', 'Eckstein']",3(1-1) BCX,RR,ANA,D. Erstad,T. Wakefield,16%,73%,Single to CF (Line Drive); Eckstein Scores; Figgins Scores; Guillen to 3B
-b1,2-0,2,"['Erstad', '', 'Guillen']",1(0-0) 1X,R,ANA,T. Salmon,T. Wakefield,7%,79%,Single to SS (Line Drive); Guillen Scores; Erstad to 2B
-b1,3-0,2,"['Salmon', 'Erstad', '']",4(2-1) BBCX,O,ANA,J. Molina,T. Wakefield,-2%,77%,Groundout: SS-2B/Forceout at 2B
+b1,0-0,0,"______, ______, ______",4(1-2) CBFX,,ANA,D. Eckstein,T. Wakefield,3%,58%,Single to 3B (Line Drive)
+b1,0-0,0,"D. Eckstein, ______, ______",2(0-1) CX,,ANA,C. Figgins,T. Wakefield,5%,64%,Single to CF (Line Drive); D. Eckstein to 2B
+b1,0-0,0,"C. Figgins, D. Eckstein, ______",5(1-2) CBFFS,O,ANA,G. Anderson,T. Wakefield,-5%,59%,Strikeout Swinging
+b1,0-0,1,"C. Figgins, D. Eckstein, ______",3(0-2) CTS,O,ANA,V. Guerrero,T. Wakefield,-4%,54%,Strikeout Swinging
+b1,0-0,2,"C. Figgins, D. Eckstein, ______",7(3-2) BFBBSF>B,,ANA,J. Guillen,T. Wakefield,3%,57%,Walk; D. Eckstein to 3B; C. Figgins to 2B
+b1,0-0,2,"J. Guillen, C. Figgins, D. Eckstein",3(1-1) BCX,RR,ANA,D. Erstad,T. Wakefield,16%,73%,Single to CF (Line Drive); D. Eckstein Scores; C. Figgins Scores; J. Guillen to 3B
+b1,2-0,2,"D. Erstad, ______, J. Guillen",1(0-0) 1X,R,ANA,T. Salmon,T. Wakefield,7%,79%,Single to SS (Line Drive); J. Guillen Scores; D. Erstad to 2B
+b1,3-0,2,"T. Salmon, D. Erstad, ______",4(2-1) BBCX,O,ANA,J. Molina,T. Wakefield,-2%,77%,Groundout: SS-2B/Forceout at 2B
 ,,,,,,,,,3 runs 4 hits 0 errors 2 LOB. Red Sox 0 Angels 3.,3 runs 4 hits 0 errors 2 LOB. Red Sox 0 Angels 3.,3 runs 4 hits 0 errors 2 LOB. Red Sox 0 Angels 3.
 Top of the 2nd Red Sox Batting Behind 0-3 Angels' Bartolo Colon facing 5-6-7,Top of the 2nd Red Sox Batting Behind 0-3 Angels' Bartolo Colon facing 5-6-7,Top of the 2nd Red Sox Batting Behind 0-3 Angels' Bartolo Colon facing 5-6-7,,Top of the 2nd Red Sox Batting Behind 0-3 Angels' Bartolo Colon facing 5-6-7,Top of the 2nd Red Sox Batting Behind 0-3 Angels' Bartolo Colon facing 5-6-7,Top of the 2nd Red Sox Batting Behind 0-3 Angels' Bartolo Colon facing 5-6-7,Top of the 2nd Red Sox Batting Behind 0-3 Angels' Bartolo Colon facing 5-6-7,Top of the 2nd Red Sox Batting Behind 0-3 Angels' Bartolo Colon facing 5-6-7,Top of the 2nd Red Sox Batting Behind 0-3 Angels' Bartolo Colon facing 5-6-7,Top of the 2nd Red Sox Batting Behind 0-3 Angels' Bartolo Colon facing 5-6-7,Top of the 2nd Red Sox Batting Behind 0-3 Angels' Bartolo Colon facing 5-6-7
-t2,0-3,0,"['', '', '']",3(2-0) BBX,O,BOS,T. Nixon,B. Colon,2%,79%,Groundout: 2B-1B
-t2,0-3,1,"['', '', '']",6(2-2) CBSFBX,O,BOS,K. Millar,B. Colon,1%,81%,Lineout: 2B
-t2,0-3,2,"['', '', '']",7(3-2) BCFFBBX,,BOS,G. Kapler,B. Colon,-1%,80%,Single to CF (Line Drive)
-t2,0-3,2,"['Kapler', '', '']",6(3-2) BBFCB>B,,BOS,D. Mirabelli,B. Colon,-2%,78%,Walk; Kapler to 2B
-t2,0-3,2,"['Mirabelli', 'Kapler', '']",5(3-1) BBBCB,,BOS,P. Reese,B. Colon,-3%,75%,Walk; Kapler to 3B; Mirabelli to 2B
-t2,0-3,2,"['Reese', 'Mirabelli', 'Kapler']",2(0-1) CX,O,BOS,J. Damon,B. Colon,7%,82%,Flyball: CF
+t2,0-3,0,"______, ______, ______",3(2-0) BBX,O,BOS,T. Nixon,B. Colon,2%,79%,Groundout: 2B-1B
+t2,0-3,1,"______, ______, ______",6(2-2) CBSFBX,O,BOS,K. Millar,B. Colon,1%,81%,Lineout: 2B
+t2,0-3,2,"______, ______, ______",7(3-2) BCFFBBX,,BOS,G. Kapler,B. Colon,-1%,80%,Single to CF (Line Drive)
+t2,0-3,2,"G. Kapler, ______, ______",6(3-2) BBFCB>B,,BOS,D. Mirabelli,B. Colon,-2%,78%,Walk; G. Kapler to 2B
+t2,0-3,2,"D. Mirabelli, G. Kapler, ______",5(3-1) BBBCB,,BOS,P. Reese,B. Colon,-3%,75%,Walk; G. Kapler to 3B; D. Mirabelli to 2B
+t2,0-3,2,"P. Reese, D. Mirabelli, G. Kapler",2(0-1) CX,O,BOS,J. Damon,B. Colon,7%,82%,Flyball: CF
 ,,,,,,,,,0 runs 1 hit 0 errors 3 LOB. Red Sox 0 Angels 3.,0 runs 1 hit 0 errors 3 LOB. Red Sox 0 Angels 3.,0 runs 1 hit 0 errors 3 LOB. Red Sox 0 Angels 3.
 Bottom of the 2nd Angels Batting Ahead 3-0 Red Sox' Tim Wakefield facing 9-1-2,Bottom of the 2nd Angels Batting Ahead 3-0 Red Sox' Tim Wakefield facing 9-1-2,Bottom of the 2nd Angels Batting Ahead 3-0 Red Sox' Tim Wakefield facing 9-1-2,,Bottom of the 2nd Angels Batting Ahead 3-0 Red Sox' Tim Wakefield facing 9-1-2,Bottom of the 2nd Angels Batting Ahead 3-0 Red Sox' Tim Wakefield facing 9-1-2,Bottom of the 2nd Angels Batting Ahead 3-0 Red Sox' Tim Wakefield facing 9-1-2,Bottom of the 2nd Angels Batting Ahead 3-0 Red Sox' Tim Wakefield facing 9-1-2,Bottom of the 2nd Angels Batting Ahead 3-0 Red Sox' Tim Wakefield facing 9-1-2,Bottom of the 2nd Angels Batting Ahead 3-0 Red Sox' Tim Wakefield facing 9-1-2,Bottom of the 2nd Angels Batting Ahead 3-0 Red Sox' Tim Wakefield facing 9-1-2,Bottom of the 2nd Angels Batting Ahead 3-0 Red Sox' Tim Wakefield facing 9-1-2
-b2,3-0,0,"['', '', '']",5(2-2) CBBSS,O,ANA,A. Kennedy,T. Wakefield,-1%,80%,Strikeout Swinging
-b2,3-0,1,"['', '', '']",3(1-1) CBX,O,ANA,D. Eckstein,T. Wakefield,-1%,79%,Groundout: SS-1B
-b2,3-0,2,"['', '', '']",7(2-2) BFBFFFC,O,ANA,C. Figgins,T. Wakefield,-1%,79%,Strikeout Looking
+b2,3-0,0,"______, ______, ______",5(2-2) CBBSS,O,ANA,A. Kennedy,T. Wakefield,-1%,80%,Strikeout Swinging
+b2,3-0,1,"______, ______, ______",3(1-1) CBX,O,ANA,D. Eckstein,T. Wakefield,-1%,79%,Groundout: SS-1B
+b2,3-0,2,"______, ______, ______",7(2-2) BFBFFFC,O,ANA,C. Figgins,T. Wakefield,-1%,79%,Strikeout Looking
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Angels 3.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Angels 3.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Angels 3.
 Top of the 3rd Red Sox Batting Behind 0-3 Angels' Bartolo Colon facing 2-3-4,Top of the 3rd Red Sox Batting Behind 0-3 Angels' Bartolo Colon facing 2-3-4,Top of the 3rd Red Sox Batting Behind 0-3 Angels' Bartolo Colon facing 2-3-4,,Top of the 3rd Red Sox Batting Behind 0-3 Angels' Bartolo Colon facing 2-3-4,Top of the 3rd Red Sox Batting Behind 0-3 Angels' Bartolo Colon facing 2-3-4,Top of the 3rd Red Sox Batting Behind 0-3 Angels' Bartolo Colon facing 2-3-4,Top of the 3rd Red Sox Batting Behind 0-3 Angels' Bartolo Colon facing 2-3-4,Top of the 3rd Red Sox Batting Behind 0-3 Angels' Bartolo Colon facing 2-3-4,Top of the 3rd Red Sox Batting Behind 0-3 Angels' Bartolo Colon facing 2-3-4,Top of the 3rd Red Sox Batting Behind 0-3 Angels' Bartolo Colon facing 2-3-4,Top of the 3rd Red Sox Batting Behind 0-3 Angels' Bartolo Colon facing 2-3-4
-t3,0-3,0,"['', '', '']",3(0-2) FCX,O,BOS,M. Bellhorn,B. Colon,2%,81%,Flyball: LF
-t3,0-3,1,"['', '', '']",3(0-2) FCS,O,BOS,D. Ortiz,B. Colon,1%,82%,Strikeout Swinging
-t3,0-3,2,"['', '', '']",2(0-1) FX,O,BOS,N. Garciaparra,B. Colon,1%,83%,Popfly: 2B
+t3,0-3,0,"______, ______, ______",3(0-2) FCX,O,BOS,M. Bellhorn,B. Colon,2%,81%,Flyball: LF
+t3,0-3,1,"______, ______, ______",3(0-2) FCS,O,BOS,D. Ortiz,B. Colon,1%,82%,Strikeout Swinging
+t3,0-3,2,"______, ______, ______",2(0-1) FX,O,BOS,N. Garciaparra,B. Colon,1%,83%,Popfly: 2B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Angels 3.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Angels 3.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Angels 3.
 Bottom of the 3rd Angels Batting Ahead 3-0 Red Sox' Tim Wakefield facing 3-4-5,Bottom of the 3rd Angels Batting Ahead 3-0 Red Sox' Tim Wakefield facing 3-4-5,Bottom of the 3rd Angels Batting Ahead 3-0 Red Sox' Tim Wakefield facing 3-4-5,,Bottom of the 3rd Angels Batting Ahead 3-0 Red Sox' Tim Wakefield facing 3-4-5,Bottom of the 3rd Angels Batting Ahead 3-0 Red Sox' Tim Wakefield facing 3-4-5,Bottom of the 3rd Angels Batting Ahead 3-0 Red Sox' Tim Wakefield facing 3-4-5,Bottom of the 3rd Angels Batting Ahead 3-0 Red Sox' Tim Wakefield facing 3-4-5,Bottom of the 3rd Angels Batting Ahead 3-0 Red Sox' Tim Wakefield facing 3-4-5,Bottom of the 3rd Angels Batting Ahead 3-0 Red Sox' Tim Wakefield facing 3-4-5,Bottom of the 3rd Angels Batting Ahead 3-0 Red Sox' Tim Wakefield facing 3-4-5,Bottom of the 3rd Angels Batting Ahead 3-0 Red Sox' Tim Wakefield facing 3-4-5
-b3,3-0,0,"['', '', '']",1(0-0) X,O,ANA,G. Anderson,T. Wakefield,-1%,82%,Groundout: 2B-1B
-b3,3-0,1,"['', '', '']",2(0-1) CX,R,ANA,V. Guerrero,T. Wakefield,6%,88%,Home Run (Fly Ball)
-b3,4-0,1,"['', '', '']",9(2-2) CSBFFFBFX,O,ANA,J. Guillen,T. Wakefield,-1%,87%,Groundout: C unassisted (Deep LF)
-b3,4-0,2,"['', '', '']",1(0-0) X,,ANA,D. Erstad,T. Wakefield,0%,88%,Single to CF (Line Drive)
-b3,4-0,2,"['Erstad', '', '']",5(3-1) PBBFX,O,ANA,T. Salmon,T. Wakefield,-1%,87%,Popfly: 2B
+b3,3-0,0,"______, ______, ______",1(0-0) X,O,ANA,G. Anderson,T. Wakefield,-1%,82%,Groundout: 2B-1B
+b3,3-0,1,"______, ______, ______",2(0-1) CX,R,ANA,V. Guerrero,T. Wakefield,6%,88%,Home Run (Fly Ball)
+b3,4-0,1,"______, ______, ______",9(2-2) CSBFFFBFX,O,ANA,J. Guillen,T. Wakefield,-1%,87%,Groundout: C unassisted (Deep LF)
+b3,4-0,2,"______, ______, ______",1(0-0) X,,ANA,D. Erstad,T. Wakefield,0%,88%,Single to CF (Line Drive)
+b3,4-0,2,"D. Erstad, ______, ______",5(3-1) PBBFX,O,ANA,T. Salmon,T. Wakefield,-1%,87%,Popfly: 2B
 ,,,,,,,,,1 run 2 hits 0 errors 1 LOB. Red Sox 0 Angels 4.,1 run 2 hits 0 errors 1 LOB. Red Sox 0 Angels 4.,1 run 2 hits 0 errors 1 LOB. Red Sox 0 Angels 4.
 Top of the 4th Red Sox Batting Behind 0-4 Angels' Bartolo Colon facing 5-6-7,Top of the 4th Red Sox Batting Behind 0-4 Angels' Bartolo Colon facing 5-6-7,Top of the 4th Red Sox Batting Behind 0-4 Angels' Bartolo Colon facing 5-6-7,,Top of the 4th Red Sox Batting Behind 0-4 Angels' Bartolo Colon facing 5-6-7,Top of the 4th Red Sox Batting Behind 0-4 Angels' Bartolo Colon facing 5-6-7,Top of the 4th Red Sox Batting Behind 0-4 Angels' Bartolo Colon facing 5-6-7,Top of the 4th Red Sox Batting Behind 0-4 Angels' Bartolo Colon facing 5-6-7,Top of the 4th Red Sox Batting Behind 0-4 Angels' Bartolo Colon facing 5-6-7,Top of the 4th Red Sox Batting Behind 0-4 Angels' Bartolo Colon facing 5-6-7,Top of the 4th Red Sox Batting Behind 0-4 Angels' Bartolo Colon facing 5-6-7,Top of the 4th Red Sox Batting Behind 0-4 Angels' Bartolo Colon facing 5-6-7
-t4,0-4,0,"['', '', '']",1(0-0) X,,BOS,T. Nixon,B. Colon,-3%,84%,Single to RF (Line Drive)
-t4,0-4,0,"['Nixon', '', '']",1(0-0) X,O,BOS,K. Millar,B. Colon,3%,87%,Flyball: RF (Deep CF-RF)
-t4,0-4,1,"['Nixon', '', '']",6(2-2) B1CBSFX,O,BOS,G. Kapler,B. Colon,2%,89%,Groundout: 3B-2B/Forceout at 2B
-t4,0-4,2,"['Kapler', '', '']",1(0-0) X,O,BOS,D. Mirabelli,B. Colon,2%,91%,Flyball: CF (Deep CF)
+t4,0-4,0,"______, ______, ______",1(0-0) X,,BOS,T. Nixon,B. Colon,-3%,84%,Single to RF (Line Drive)
+t4,0-4,0,"T. Nixon, ______, ______",1(0-0) X,O,BOS,K. Millar,B. Colon,3%,87%,Flyball: RF (Deep CF-RF)
+t4,0-4,1,"T. Nixon, ______, ______",6(2-2) B1CBSFX,O,BOS,G. Kapler,B. Colon,2%,89%,Groundout: 3B-2B/Forceout at 2B
+t4,0-4,2,"G. Kapler, ______, ______",1(0-0) X,O,BOS,D. Mirabelli,B. Colon,2%,91%,Flyball: CF (Deep CF)
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Red Sox 0 Angels 4.,0 runs 1 hit 0 errors 1 LOB. Red Sox 0 Angels 4.,0 runs 1 hit 0 errors 1 LOB. Red Sox 0 Angels 4.
 Bottom of the 4th Angels Batting Ahead 4-0 Red Sox' Tim Wakefield facing 8-9-1,Bottom of the 4th Angels Batting Ahead 4-0 Red Sox' Tim Wakefield facing 8-9-1,Bottom of the 4th Angels Batting Ahead 4-0 Red Sox' Tim Wakefield facing 8-9-1,,Bottom of the 4th Angels Batting Ahead 4-0 Red Sox' Tim Wakefield facing 8-9-1,Bottom of the 4th Angels Batting Ahead 4-0 Red Sox' Tim Wakefield facing 8-9-1,Bottom of the 4th Angels Batting Ahead 4-0 Red Sox' Tim Wakefield facing 8-9-1,Bottom of the 4th Angels Batting Ahead 4-0 Red Sox' Tim Wakefield facing 8-9-1,Bottom of the 4th Angels Batting Ahead 4-0 Red Sox' Tim Wakefield facing 8-9-1,Bottom of the 4th Angels Batting Ahead 4-0 Red Sox' Tim Wakefield facing 8-9-1,Bottom of the 4th Angels Batting Ahead 4-0 Red Sox' Tim Wakefield facing 8-9-1,Bottom of the 4th Angels Batting Ahead 4-0 Red Sox' Tim Wakefield facing 8-9-1
-b4,4-0,0,"['', '', '']",3(0-2) SCX,O,ANA,J. Molina,T. Wakefield,-1%,90%,Lineout: P-SS
-b4,4-0,1,"['', '', '']",1(0-0) X,R,ANA,A. Kennedy,T. Wakefield,4%,94%,Home Run (Fly Ball)
-b4,5-0,1,"['', '', '']",4(0-2) CSFX,O,ANA,D. Eckstein,T. Wakefield,-0%,93%,Groundout: SS-1B
-b4,5-0,2,"['', '', '']",4(1-2) FBSX,,ANA,C. Figgins,T. Wakefield,0%,94%,Single to P (Ground Ball)
-b4,5-0,2,"['Figgins', '', '']",2(1-0) 11P>B,,ANA,G. Anderson,T. Wakefield,0%,94%,Figgins Steals 2B
-b4,5-0,2,"['', 'Figgins', '']",4(2-1) 11P>B.FX,O,ANA,G. Anderson,T. Wakefield,-1%,93%,Flyball: CF
+b4,4-0,0,"______, ______, ______",3(0-2) SCX,O,ANA,J. Molina,T. Wakefield,-1%,90%,Lineout: P-SS
+b4,4-0,1,"______, ______, ______",1(0-0) X,R,ANA,A. Kennedy,T. Wakefield,4%,94%,Home Run (Fly Ball)
+b4,5-0,1,"______, ______, ______",4(0-2) CSFX,O,ANA,D. Eckstein,T. Wakefield,-0%,93%,Groundout: SS-1B
+b4,5-0,2,"______, ______, ______",4(1-2) FBSX,,ANA,C. Figgins,T. Wakefield,0%,94%,Single to P (Ground Ball)
+b4,5-0,2,"C. Figgins, ______, ______",2(1-0) 11P>B,,ANA,G. Anderson,T. Wakefield,0%,94%,C. Figgins Steals 2B
+b4,5-0,2,"______, C. Figgins, ______",4(2-1) 11P>B.FX,O,ANA,G. Anderson,T. Wakefield,-1%,93%,Flyball: CF
 ,,,,,,,,,1 run 2 hits 0 errors 1 LOB. Red Sox 0 Angels 5.,1 run 2 hits 0 errors 1 LOB. Red Sox 0 Angels 5.,1 run 2 hits 0 errors 1 LOB. Red Sox 0 Angels 5.
 Top of the 5th Red Sox Batting Behind 0-5 Angels' Bartolo Colon facing 9-1-2,Top of the 5th Red Sox Batting Behind 0-5 Angels' Bartolo Colon facing 9-1-2,Top of the 5th Red Sox Batting Behind 0-5 Angels' Bartolo Colon facing 9-1-2,,Top of the 5th Red Sox Batting Behind 0-5 Angels' Bartolo Colon facing 9-1-2,Top of the 5th Red Sox Batting Behind 0-5 Angels' Bartolo Colon facing 9-1-2,Top of the 5th Red Sox Batting Behind 0-5 Angels' Bartolo Colon facing 9-1-2,Top of the 5th Red Sox Batting Behind 0-5 Angels' Bartolo Colon facing 9-1-2,Top of the 5th Red Sox Batting Behind 0-5 Angels' Bartolo Colon facing 9-1-2,Top of the 5th Red Sox Batting Behind 0-5 Angels' Bartolo Colon facing 9-1-2,Top of the 5th Red Sox Batting Behind 0-5 Angels' Bartolo Colon facing 9-1-2,Top of the 5th Red Sox Batting Behind 0-5 Angels' Bartolo Colon facing 9-1-2
-t5,0-5,0,"['', '', '']",4(1-2) CCBX,O,BOS,P. Reese,B. Colon,1%,94%,Flyball: RF
-t5,0-5,1,"['', '', '']",3(1-1) BFX,R,BOS,J. Damon,B. Colon,-4%,91%,Home Run (Line Drive)
-t5,1-5,1,"['', '', '']",6(3-2) BFSBBB,,BOS,M. Bellhorn,B. Colon,-2%,89%,Walk
-t5,1-5,1,"['Bellhorn', '', '']",7(3-2) FBBFBFX,OO,BOS,D. Ortiz,B. Colon,4%,93%,Ground Ball Double Play: 1B-SS
+t5,0-5,0,"______, ______, ______",4(1-2) CCBX,O,BOS,P. Reese,B. Colon,1%,94%,Flyball: RF
+t5,0-5,1,"______, ______, ______",3(1-1) BFX,R,BOS,J. Damon,B. Colon,-4%,91%,Home Run (Line Drive)
+t5,1-5,1,"______, ______, ______",6(3-2) BFSBBB,,BOS,M. Bellhorn,B. Colon,-2%,89%,Walk
+t5,1-5,1,"M. Bellhorn, ______, ______",7(3-2) FBBFBFX,OO,BOS,D. Ortiz,B. Colon,4%,93%,Ground Ball Double Play: 1B-SS
 ,,,,,,,,,1 run 1 hit 0 errors 0 LOB. Red Sox 1 Angels 5.,1 run 1 hit 0 errors 0 LOB. Red Sox 1 Angels 5.,1 run 1 hit 0 errors 0 LOB. Red Sox 1 Angels 5.
 Bottom of the 5th Angels Batting Ahead 5-1 Red Sox' Joe Nelson facing 4-5-6,Bottom of the 5th Angels Batting Ahead 5-1 Red Sox' Joe Nelson facing 4-5-6,Bottom of the 5th Angels Batting Ahead 5-1 Red Sox' Joe Nelson facing 4-5-6,,Bottom of the 5th Angels Batting Ahead 5-1 Red Sox' Joe Nelson facing 4-5-6,Bottom of the 5th Angels Batting Ahead 5-1 Red Sox' Joe Nelson facing 4-5-6,Bottom of the 5th Angels Batting Ahead 5-1 Red Sox' Joe Nelson facing 4-5-6,Bottom of the 5th Angels Batting Ahead 5-1 Red Sox' Joe Nelson facing 4-5-6,Bottom of the 5th Angels Batting Ahead 5-1 Red Sox' Joe Nelson facing 4-5-6,Bottom of the 5th Angels Batting Ahead 5-1 Red Sox' Joe Nelson facing 4-5-6,Bottom of the 5th Angels Batting Ahead 5-1 Red Sox' Joe Nelson facing 4-5-6,Bottom of the 5th Angels Batting Ahead 5-1 Red Sox' Joe Nelson facing 4-5-6
 ,,,,,,,,,Joe Nelson replaces Tim Wakefield pitching,Joe Nelson replaces Tim Wakefield pitching,Joe Nelson replaces Tim Wakefield pitching
-b5,5-1,0,"['', '', '']",4(2-1) .SBBX,O,ANA,V. Guerrero,J. Nelson,-1%,92%,Popfly: 2B
-b5,5-1,1,"['', '', '']",5(2-2) BFBFS,O,ANA,J. Guillen,J. Nelson,-0%,92%,Strikeout Swinging
-b5,5-1,2,"['', '', '']",4(2-1) BCBX,,ANA,D. Erstad,J. Nelson,0%,92%,Single to 2B (Ground Ball)
-b5,5-1,2,"['Erstad', '', '']",6(3-2) BSBFB>C,O,ANA,T. Salmon,J. Nelson,-1%,91%,Strikeout Looking
+b5,5-1,0,"______, ______, ______",4(2-1) .SBBX,O,ANA,V. Guerrero,J. Nelson,-1%,92%,Popfly: 2B
+b5,5-1,1,"______, ______, ______",5(2-2) BFBFS,O,ANA,J. Guillen,J. Nelson,-0%,92%,Strikeout Swinging
+b5,5-1,2,"______, ______, ______",4(2-1) BCBX,,ANA,D. Erstad,J. Nelson,0%,92%,Single to 2B (Ground Ball)
+b5,5-1,2,"D. Erstad, ______, ______",6(3-2) BSBFB>C,O,ANA,T. Salmon,J. Nelson,-1%,91%,Strikeout Looking
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Red Sox 1 Angels 5.,0 runs 1 hit 0 errors 1 LOB. Red Sox 1 Angels 5.,0 runs 1 hit 0 errors 1 LOB. Red Sox 1 Angels 5.
 Top of the 6th Red Sox Batting Behind 1-5 Angels' Bartolo Colon facing 4-5-6,Top of the 6th Red Sox Batting Behind 1-5 Angels' Bartolo Colon facing 4-5-6,Top of the 6th Red Sox Batting Behind 1-5 Angels' Bartolo Colon facing 4-5-6,,Top of the 6th Red Sox Batting Behind 1-5 Angels' Bartolo Colon facing 4-5-6,Top of the 6th Red Sox Batting Behind 1-5 Angels' Bartolo Colon facing 4-5-6,Top of the 6th Red Sox Batting Behind 1-5 Angels' Bartolo Colon facing 4-5-6,Top of the 6th Red Sox Batting Behind 1-5 Angels' Bartolo Colon facing 4-5-6,Top of the 6th Red Sox Batting Behind 1-5 Angels' Bartolo Colon facing 4-5-6,Top of the 6th Red Sox Batting Behind 1-5 Angels' Bartolo Colon facing 4-5-6,Top of the 6th Red Sox Batting Behind 1-5 Angels' Bartolo Colon facing 4-5-6,Top of the 6th Red Sox Batting Behind 1-5 Angels' Bartolo Colon facing 4-5-6
-t6,1-5,0,"['', '', '']",1(0-0) X,O,BOS,N. Garciaparra,B. Colon,2%,93%,Flyball: LF (Deep LF)
-t6,1-5,1,"['', '', '']",2(0-1) SX,O,BOS,T. Nixon,B. Colon,1%,94%,Flyball: CF (Deep CF)
-t6,1-5,2,"['', '', '']",4(1-2) CBFX,O,BOS,K. Millar,B. Colon,1%,95%,Flyball: CF
+t6,1-5,0,"______, ______, ______",1(0-0) X,O,BOS,N. Garciaparra,B. Colon,2%,93%,Flyball: LF (Deep LF)
+t6,1-5,1,"______, ______, ______",2(0-1) SX,O,BOS,T. Nixon,B. Colon,1%,94%,Flyball: CF (Deep CF)
+t6,1-5,2,"______, ______, ______",4(1-2) CBFX,O,BOS,K. Millar,B. Colon,1%,95%,Flyball: CF
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 1 Angels 5.,0 runs 0 hits 0 errors 0 LOB. Red Sox 1 Angels 5.,0 runs 0 hits 0 errors 0 LOB. Red Sox 1 Angels 5.
 Bottom of the 6th Angels Batting Ahead 5-1 Red Sox' Joe Nelson facing 8-9-1,Bottom of the 6th Angels Batting Ahead 5-1 Red Sox' Joe Nelson facing 8-9-1,Bottom of the 6th Angels Batting Ahead 5-1 Red Sox' Joe Nelson facing 8-9-1,,Bottom of the 6th Angels Batting Ahead 5-1 Red Sox' Joe Nelson facing 8-9-1,Bottom of the 6th Angels Batting Ahead 5-1 Red Sox' Joe Nelson facing 8-9-1,Bottom of the 6th Angels Batting Ahead 5-1 Red Sox' Joe Nelson facing 8-9-1,Bottom of the 6th Angels Batting Ahead 5-1 Red Sox' Joe Nelson facing 8-9-1,Bottom of the 6th Angels Batting Ahead 5-1 Red Sox' Joe Nelson facing 8-9-1,Bottom of the 6th Angels Batting Ahead 5-1 Red Sox' Joe Nelson facing 8-9-1,Bottom of the 6th Angels Batting Ahead 5-1 Red Sox' Joe Nelson facing 8-9-1,Bottom of the 6th Angels Batting Ahead 5-1 Red Sox' Joe Nelson facing 8-9-1
-b6,5-1,0,"['', '', '']",5(2-2) BSBSX,,ANA,J. Molina,J. Nelson,1%,95%,Single to LF (Line Drive)
-b6,5-1,0,"['Molina', '', '']",1(0-0) H,,ANA,A. Kennedy,J. Nelson,1%,96%,Hit By Pitch; Molina to 2B
-b6,5-1,0,"['Kennedy', 'Molina', '']",2(1-0) BX,O,ANA,D. Eckstein,J. Nelson,0%,97%,Bunt Groundout: 3B-2B/Sacrifice; Molina to 3B; Kennedy to 2B
-b6,5-1,1,"['', 'Kennedy', 'Molina']",5(3-1) BFBBB,,ANA,C. Figgins,J. Nelson,0%,97%,Walk
+b6,5-1,0,"______, ______, ______",5(2-2) BSBSX,,ANA,J. Molina,J. Nelson,1%,95%,Single to LF (Line Drive)
+b6,5-1,0,"J. Molina, ______, ______",1(0-0) H,,ANA,A. Kennedy,J. Nelson,1%,96%,Hit By Pitch; J. Molina to 2B
+b6,5-1,0,"A. Kennedy, J. Molina, ______",2(1-0) BX,O,ANA,D. Eckstein,J. Nelson,0%,97%,Bunt Groundout: 3B-2B/Sacrifice; J. Molina to 3B; A. Kennedy to 2B
+b6,5-1,1,"______, A. Kennedy, J. Molina",5(3-1) BFBBB,,ANA,C. Figgins,J. Nelson,0%,97%,Walk
 ,,,,,,,,,Jimmy Anderson replaces Joe Nelson pitching,Jimmy Anderson replaces Joe Nelson pitching,Jimmy Anderson replaces Joe Nelson pitching
-b6,5-1,1,"['Figgins', 'Kennedy', 'Molina']",5(2-2) .BSFBB,R,ANA,G. Anderson,J. Anderson,2%,98%,Wild Pitch; Molina Scores; Kennedy to 3B; Figgins to 2B
-b6,6-1,1,"['', 'Figgins', 'Kennedy']",7(3-2) .BSFBB.FX,RR,ANA,G. Anderson,J. Anderson,1%,99%,Single to LF (Line Drive); Kennedy Scores; Figgins Scores
-b6,8-1,1,"['Anderson', '', '']",5(2-2) FFBBX,O,ANA,V. Guerrero,J. Anderson,-0%,99%,Groundout: 3B-2B/Forceout at 2B
-b6,8-1,2,"['Guerrero', '', '']",1(0-0) X,,ANA,J. Guillen,J. Anderson,0%,99%,Single to LF (Line Drive); Guerrero to 2B
-b6,8-1,2,"['Guillen', 'Guerrero', '']",6(3-2) BCBFB>X,O,ANA,D. Erstad,J. Anderson,-0%,99%,Groundout: 1B-P
+b6,5-1,1,"C. Figgins, A. Kennedy, J. Molina",5(2-2) .BSFBB,R,ANA,G. Anderson,J. Anderson,2%,98%,Wild Pitch; J. Molina Scores; A. Kennedy to 3B; C. Figgins to 2B
+b6,6-1,1,"______, C. Figgins, A. Kennedy",7(3-2) .BSFBB.FX,RR,ANA,G. Anderson,J. Anderson,1%,99%,Single to LF (Line Drive); A. Kennedy Scores; C. Figgins Scores
+b6,8-1,1,"G. Anderson, ______, ______",5(2-2) FFBBX,O,ANA,V. Guerrero,J. Anderson,-0%,99%,Groundout: 3B-2B/Forceout at 2B
+b6,8-1,2,"V. Guerrero, ______, ______",1(0-0) X,,ANA,J. Guillen,J. Anderson,0%,99%,Single to LF (Line Drive); V. Guerrero to 2B
+b6,8-1,2,"J. Guillen, V. Guerrero, ______",6(3-2) BCBFB>X,O,ANA,D. Erstad,J. Anderson,-0%,99%,Groundout: 1B-P
 ,,,,,,,,,3 runs 3 hits 0 errors 2 LOB. Red Sox 1 Angels 8.,3 runs 3 hits 0 errors 2 LOB. Red Sox 1 Angels 8.,3 runs 3 hits 0 errors 2 LOB. Red Sox 1 Angels 8.
 Top of the 7th Red Sox Batting Behind 1-8 Angels' Brendan Donnelly facing 7-8-9,Top of the 7th Red Sox Batting Behind 1-8 Angels' Brendan Donnelly facing 7-8-9,Top of the 7th Red Sox Batting Behind 1-8 Angels' Brendan Donnelly facing 7-8-9,,Top of the 7th Red Sox Batting Behind 1-8 Angels' Brendan Donnelly facing 7-8-9,Top of the 7th Red Sox Batting Behind 1-8 Angels' Brendan Donnelly facing 7-8-9,Top of the 7th Red Sox Batting Behind 1-8 Angels' Brendan Donnelly facing 7-8-9,Top of the 7th Red Sox Batting Behind 1-8 Angels' Brendan Donnelly facing 7-8-9,Top of the 7th Red Sox Batting Behind 1-8 Angels' Brendan Donnelly facing 7-8-9,Top of the 7th Red Sox Batting Behind 1-8 Angels' Brendan Donnelly facing 7-8-9,Top of the 7th Red Sox Batting Behind 1-8 Angels' Brendan Donnelly facing 7-8-9,Top of the 7th Red Sox Batting Behind 1-8 Angels' Brendan Donnelly facing 7-8-9
 ,,,,,,,,,Brendan Donnelly replaces Bartolo Colon pitching,Brendan Donnelly replaces Bartolo Colon pitching,Brendan Donnelly replaces Bartolo Colon pitching
-t7,1-8,0,"['', '', '']",5(1-2) .CCBFS,O,BOS,G. Kapler,B. Donnelly,0%,99%,Strikeout Swinging
-t7,1-8,1,"['', '', '']",2(0-1) CX,O,BOS,D. Mirabelli,B. Donnelly,0%,100%,Groundout: SS-1B
-t7,1-8,2,"['', '', '']",3(1-1) CBX,O,BOS,P. Reese,B. Donnelly,0%,100%,Bunt Groundout: 3B-1B
+t7,1-8,0,"______, ______, ______",5(1-2) .CCBFS,O,BOS,G. Kapler,B. Donnelly,0%,99%,Strikeout Swinging
+t7,1-8,1,"______, ______, ______",2(0-1) CX,O,BOS,D. Mirabelli,B. Donnelly,0%,100%,Groundout: SS-1B
+t7,1-8,2,"______, ______, ______",3(1-1) CBX,O,BOS,P. Reese,B. Donnelly,0%,100%,Bunt Groundout: 3B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 1 Angels 8.,0 runs 0 hits 0 errors 0 LOB. Red Sox 1 Angels 8.,0 runs 0 hits 0 errors 0 LOB. Red Sox 1 Angels 8.
 Bottom of the 7th Angels Batting Ahead 8-1 Red Sox' Jimmy Anderson facing 7-8-9,Bottom of the 7th Angels Batting Ahead 8-1 Red Sox' Jimmy Anderson facing 7-8-9,Bottom of the 7th Angels Batting Ahead 8-1 Red Sox' Jimmy Anderson facing 7-8-9,,Bottom of the 7th Angels Batting Ahead 8-1 Red Sox' Jimmy Anderson facing 7-8-9,Bottom of the 7th Angels Batting Ahead 8-1 Red Sox' Jimmy Anderson facing 7-8-9,Bottom of the 7th Angels Batting Ahead 8-1 Red Sox' Jimmy Anderson facing 7-8-9,Bottom of the 7th Angels Batting Ahead 8-1 Red Sox' Jimmy Anderson facing 7-8-9,Bottom of the 7th Angels Batting Ahead 8-1 Red Sox' Jimmy Anderson facing 7-8-9,Bottom of the 7th Angels Batting Ahead 8-1 Red Sox' Jimmy Anderson facing 7-8-9,Bottom of the 7th Angels Batting Ahead 8-1 Red Sox' Jimmy Anderson facing 7-8-9,Bottom of the 7th Angels Batting Ahead 8-1 Red Sox' Jimmy Anderson facing 7-8-9
-b7,8-1,0,"['', '', '']",4(1-2) CBCX,O,ANA,T. Salmon,J. Anderson,-0%,100%,Groundout: 3B-SS-1B
-b7,8-1,1,"['', '', '']",2(1-0) BX,O,ANA,J. Molina,J. Anderson,-0%,100%,Groundout: 3B-1B
-b7,8-1,2,"['', '', '']",4(3-0) BBBB,,ANA,A. Kennedy,J. Anderson,0%,100%,Walk
-b7,8-1,2,"['Kennedy', '', '']",5(3-1) FBBBB,,ANA,D. Eckstein,J. Anderson,0%,100%,Walk; Kennedy to 2B
+b7,8-1,0,"______, ______, ______",4(1-2) CBCX,O,ANA,T. Salmon,J. Anderson,-0%,100%,Groundout: 3B-SS-1B
+b7,8-1,1,"______, ______, ______",2(1-0) BX,O,ANA,J. Molina,J. Anderson,-0%,100%,Groundout: 3B-1B
+b7,8-1,2,"______, ______, ______",4(3-0) BBBB,,ANA,A. Kennedy,J. Anderson,0%,100%,Walk
+b7,8-1,2,"A. Kennedy, ______, ______",5(3-1) FBBBB,,ANA,D. Eckstein,J. Anderson,0%,100%,Walk; A. Kennedy to 2B
 ,,,,,,,,,Ramiro Mendoza replaces Jimmy Anderson pitching,Ramiro Mendoza replaces Jimmy Anderson pitching,Ramiro Mendoza replaces Jimmy Anderson pitching
-b7,8-1,2,"['Eckstein', 'Kennedy', '']",5(2-2) .FBSBS,O,ANA,C. Figgins,R. Mendoza,-0%,100%,Strikeout Swinging
+b7,8-1,2,"D. Eckstein, A. Kennedy, ______",5(2-2) .FBSBS,O,ANA,C. Figgins,R. Mendoza,-0%,100%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 2 LOB. Red Sox 1 Angels 8.,0 runs 0 hits 0 errors 2 LOB. Red Sox 1 Angels 8.,0 runs 0 hits 0 errors 2 LOB. Red Sox 1 Angels 8.
 Top of the 8th Red Sox Batting Behind 1-8 Angels' Ramon Ortiz facing 1-2-3,Top of the 8th Red Sox Batting Behind 1-8 Angels' Ramon Ortiz facing 1-2-3,Top of the 8th Red Sox Batting Behind 1-8 Angels' Ramon Ortiz facing 1-2-3,,Top of the 8th Red Sox Batting Behind 1-8 Angels' Ramon Ortiz facing 1-2-3,Top of the 8th Red Sox Batting Behind 1-8 Angels' Ramon Ortiz facing 1-2-3,Top of the 8th Red Sox Batting Behind 1-8 Angels' Ramon Ortiz facing 1-2-3,Top of the 8th Red Sox Batting Behind 1-8 Angels' Ramon Ortiz facing 1-2-3,Top of the 8th Red Sox Batting Behind 1-8 Angels' Ramon Ortiz facing 1-2-3,Top of the 8th Red Sox Batting Behind 1-8 Angels' Ramon Ortiz facing 1-2-3,Top of the 8th Red Sox Batting Behind 1-8 Angels' Ramon Ortiz facing 1-2-3,Top of the 8th Red Sox Batting Behind 1-8 Angels' Ramon Ortiz facing 1-2-3
 ,,,,,,,,,Ramon Ortiz replaces Brendan Donnelly pitching,Ramon Ortiz replaces Brendan Donnelly pitching,Ramon Ortiz replaces Brendan Donnelly pitching
-t8,1-8,0,"['', '', '']",5(3-1) .BBBCX,R,BOS,J. Damon,R. Ortiz,-0%,99%,Home Run (Fly Ball)
-t8,2-8,0,"['', '', '']",4(1-2) BCFS,O,BOS,M. Bellhorn,R. Ortiz,0%,99%,Strikeout Swinging
-t8,2-8,1,"['', '', '']",4(2-1) BCBX,R,BOS,D. Ortiz,R. Ortiz,-1%,99%,Home Run (Fly Ball)
-t8,3-8,1,"['', '', '']",6(3-2) BBFBCB,,BOS,N. Garciaparra,R. Ortiz,-1%,98%,Walk
-t8,3-8,1,"['Garciaparra', '', '']",1(0-0) X,O,BOS,T. Nixon,R. Ortiz,1%,99%,Popfly: SS
-t8,3-8,2,"['Garciaparra', '', '']",1(0-0) X,O,BOS,K. Millar,R. Ortiz,0%,99%,Lineout: LF
+t8,1-8,0,"______, ______, ______",5(3-1) .BBBCX,R,BOS,J. Damon,R. Ortiz,-0%,99%,Home Run (Fly Ball)
+t8,2-8,0,"______, ______, ______",4(1-2) BCFS,O,BOS,M. Bellhorn,R. Ortiz,0%,99%,Strikeout Swinging
+t8,2-8,1,"______, ______, ______",4(2-1) BCBX,R,BOS,D. Ortiz,R. Ortiz,-1%,99%,Home Run (Fly Ball)
+t8,3-8,1,"______, ______, ______",6(3-2) BBFBCB,,BOS,N. Garciaparra,R. Ortiz,-1%,98%,Walk
+t8,3-8,1,"N. Garciaparra, ______, ______",1(0-0) X,O,BOS,T. Nixon,R. Ortiz,1%,99%,Popfly: SS
+t8,3-8,2,"N. Garciaparra, ______, ______",1(0-0) X,O,BOS,K. Millar,R. Ortiz,0%,99%,Lineout: LF
 ,,,,,,,,,2 runs 2 hits 0 errors 1 LOB. Red Sox 3 Angels 8.,2 runs 2 hits 0 errors 1 LOB. Red Sox 3 Angels 8.,2 runs 2 hits 0 errors 1 LOB. Red Sox 3 Angels 8.
 Bottom of the 8th Angels Batting Ahead 8-3 Red Sox' Ramiro Mendoza facing 3-4-5,Bottom of the 8th Angels Batting Ahead 8-3 Red Sox' Ramiro Mendoza facing 3-4-5,Bottom of the 8th Angels Batting Ahead 8-3 Red Sox' Ramiro Mendoza facing 3-4-5,,Bottom of the 8th Angels Batting Ahead 8-3 Red Sox' Ramiro Mendoza facing 3-4-5,Bottom of the 8th Angels Batting Ahead 8-3 Red Sox' Ramiro Mendoza facing 3-4-5,Bottom of the 8th Angels Batting Ahead 8-3 Red Sox' Ramiro Mendoza facing 3-4-5,Bottom of the 8th Angels Batting Ahead 8-3 Red Sox' Ramiro Mendoza facing 3-4-5,Bottom of the 8th Angels Batting Ahead 8-3 Red Sox' Ramiro Mendoza facing 3-4-5,Bottom of the 8th Angels Batting Ahead 8-3 Red Sox' Ramiro Mendoza facing 3-4-5,Bottom of the 8th Angels Batting Ahead 8-3 Red Sox' Ramiro Mendoza facing 3-4-5,Bottom of the 8th Angels Batting Ahead 8-3 Red Sox' Ramiro Mendoza facing 3-4-5
-b8,8-3,0,"['', '', '']",2(0-1) CX,,ANA,G. Anderson,R. Mendoza,0%,100%,Single to CF (Line Drive)
-b8,8-3,0,"['Anderson', '', '']",1(0-0) X,OO,ANA,V. Guerrero,R. Mendoza,-0%,99%,Line Drive Double Play: 1B unassisted; Anderson out at 1B/1B
-b8,8-3,2,"['', '', '']",1(0-0) X,O,ANA,J. Guillen,R. Mendoza,-0%,99%,Groundout: 3B-1B
+b8,8-3,0,"______, ______, ______",2(0-1) CX,,ANA,G. Anderson,R. Mendoza,0%,100%,Single to CF (Line Drive)
+b8,8-3,0,"G. Anderson, ______, ______",1(0-0) X,OO,ANA,V. Guerrero,R. Mendoza,-0%,99%,Line Drive Double Play: 1B unassisted; G. Anderson out at 1B/1B
+b8,8-3,2,"______, ______, ______",1(0-0) X,O,ANA,J. Guillen,R. Mendoza,-0%,99%,Groundout: 3B-1B
 ,,,,,,,,,0 runs 1 hit 0 errors 0 LOB. Red Sox 3 Angels 8.,0 runs 1 hit 0 errors 0 LOB. Red Sox 3 Angels 8.,0 runs 1 hit 0 errors 0 LOB. Red Sox 3 Angels 8.
 Top of the 9th Red Sox Batting Behind 3-8 Angels' Francisco Rodriguez facing 7-8-9,Top of the 9th Red Sox Batting Behind 3-8 Angels' Francisco Rodriguez facing 7-8-9,Top of the 9th Red Sox Batting Behind 3-8 Angels' Francisco Rodriguez facing 7-8-9,,Top of the 9th Red Sox Batting Behind 3-8 Angels' Francisco Rodriguez facing 7-8-9,Top of the 9th Red Sox Batting Behind 3-8 Angels' Francisco Rodriguez facing 7-8-9,Top of the 9th Red Sox Batting Behind 3-8 Angels' Francisco Rodriguez facing 7-8-9,Top of the 9th Red Sox Batting Behind 3-8 Angels' Francisco Rodriguez facing 7-8-9,Top of the 9th Red Sox Batting Behind 3-8 Angels' Francisco Rodriguez facing 7-8-9,Top of the 9th Red Sox Batting Behind 3-8 Angels' Francisco Rodriguez facing 7-8-9,Top of the 9th Red Sox Batting Behind 3-8 Angels' Francisco Rodriguez facing 7-8-9,Top of the 9th Red Sox Batting Behind 3-8 Angels' Francisco Rodriguez facing 7-8-9
 ,,,,,,,,,Francisco Rodriguez replaces Ramon Ortiz pitching,Francisco Rodriguez replaces Ramon Ortiz pitching,Francisco Rodriguez replaces Ramon Ortiz pitching
-t9,3-8,0,"['', '', '']",3(0-2) .CFS,O,BOS,G. Kapler,F. Rodriguez,0%,100%,Strikeout Swinging
-t9,3-8,1,"['', '', '']",3(0-2) FCS,O,BOS,D. Mirabelli,F. Rodriguez,0%,100%,Strikeout Swinging
-t9,3-8,2,"['', '', '']",4(0-2) CSFS,O,BOS,P. Reese,F. Rodriguez,0%,100%,Strikeout Swinging
+t9,3-8,0,"______, ______, ______",3(0-2) .CFS,O,BOS,G. Kapler,F. Rodriguez,0%,100%,Strikeout Swinging
+t9,3-8,1,"______, ______, ______",3(0-2) FCS,O,BOS,D. Mirabelli,F. Rodriguez,0%,100%,Strikeout Swinging
+t9,3-8,2,"______, ______, ______",4(0-2) CSFS,O,BOS,P. Reese,F. Rodriguez,0%,100%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 3 Angels 8.,0 runs 0 hits 0 errors 0 LOB. Red Sox 3 Angels 8.,0 runs 0 hits 0 errors 0 LOB. Red Sox 3 Angels 8.

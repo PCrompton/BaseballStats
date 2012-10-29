@@ -1,112 +1,112 @@
 Inn,Score,Out,RoB,Pit(cnt)Sequence,R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
 Top of the 1st Red Sox Batting Tied 0-0 Braves' John Thomson facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Braves' John Thomson facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Braves' John Thomson facing 1-2-3,,Top of the 1st Red Sox Batting Tied 0-0 Braves' John Thomson facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Braves' John Thomson facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Braves' John Thomson facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Braves' John Thomson facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Braves' John Thomson facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Braves' John Thomson facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Braves' John Thomson facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Braves' John Thomson facing 1-2-3
-t1,0-0,0,"['', '', '']",2(0-1) CX,O,BOS,J. Damon,J. Thomson,-2%,48%,Lineout: 2B
-t1,0-0,1,"['', '', '']",2(0-1) CX,O,BOS,T. Nixon,J. Thomson,-2%,46%,Flyball: CF
-t1,0-0,2,"['', '', '']",4(2-1) BBCX,O,BOS,D. Ortiz,J. Thomson,-1%,45%,Popfly: 3B
+t1,0-0,0,"______, ______, ______",2(0-1) CX,O,BOS,J. Damon,J. Thomson,-2%,48%,Lineout: 2B
+t1,0-0,1,"______, ______, ______",2(0-1) CX,O,BOS,T. Nixon,J. Thomson,-2%,46%,Flyball: CF
+t1,0-0,2,"______, ______, ______",4(2-1) BBCX,O,BOS,D. Ortiz,J. Thomson,-1%,45%,Popfly: 3B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Braves 0.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Braves 0.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Braves 0.
 Bottom of the 1st Braves Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Braves Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Braves Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,,Bottom of the 1st Braves Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Braves Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Braves Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Braves Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Braves Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Braves Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Braves Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3,Bottom of the 1st Braves Batting Tied 0-0 Red Sox' Curt Schilling facing 1-2-3
-b1,0-0,0,"['', '', '']",2(0-1) FX,O,ATL,R. Furcal,C. Schilling,2%,47%,Flyball: RF (Deep RF)
-b1,0-0,1,"['', '', '']",4(1-2) CFBX,,ATL,N. Green,C. Schilling,-4%,43%,Double to LF (Line Drive to Deep LF)
-b1,0-0,1,"['', 'Green', '']",4(1-2) FFBX,O,ATL,J. Drew,C. Schilling,3%,47%,Popfly: P
-b1,0-0,2,"['', 'Green', '']",3(0-2) CCS,O,ATL,C. Jones,C. Schilling,3%,50%,Strikeout Swinging
+b1,0-0,0,"______, ______, ______",2(0-1) FX,O,ATL,R. Furcal,C. Schilling,2%,47%,Flyball: RF (Deep RF)
+b1,0-0,1,"______, ______, ______",4(1-2) CFBX,,ATL,N. Green,C. Schilling,-4%,43%,Double to LF (Line Drive to Deep LF)
+b1,0-0,1,"______, N. Green, ______",4(1-2) FFBX,O,ATL,J. Drew,C. Schilling,3%,47%,Popfly: P
+b1,0-0,2,"______, N. Green, ______",3(0-2) CCS,O,ATL,C. Jones,C. Schilling,3%,50%,Strikeout Swinging
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Red Sox 0 Braves 0.,0 runs 1 hit 0 errors 1 LOB. Red Sox 0 Braves 0.,0 runs 1 hit 0 errors 1 LOB. Red Sox 0 Braves 0.
 Top of the 2nd Red Sox Batting Tied 0-0 Braves' John Thomson facing 4-5-6,Top of the 2nd Red Sox Batting Tied 0-0 Braves' John Thomson facing 4-5-6,Top of the 2nd Red Sox Batting Tied 0-0 Braves' John Thomson facing 4-5-6,,Top of the 2nd Red Sox Batting Tied 0-0 Braves' John Thomson facing 4-5-6,Top of the 2nd Red Sox Batting Tied 0-0 Braves' John Thomson facing 4-5-6,Top of the 2nd Red Sox Batting Tied 0-0 Braves' John Thomson facing 4-5-6,Top of the 2nd Red Sox Batting Tied 0-0 Braves' John Thomson facing 4-5-6,Top of the 2nd Red Sox Batting Tied 0-0 Braves' John Thomson facing 4-5-6,Top of the 2nd Red Sox Batting Tied 0-0 Braves' John Thomson facing 4-5-6,Top of the 2nd Red Sox Batting Tied 0-0 Braves' John Thomson facing 4-5-6,Top of the 2nd Red Sox Batting Tied 0-0 Braves' John Thomson facing 4-5-6
-t2,0-0,0,"['', '', '']",5(1-2) FFFBX,O,BOS,M. Ramirez,J. Thomson,-2%,48%,Groundout: P-1B
-t2,0-0,1,"['', '', '']",4(2-1) FBBX,R,BOS,N. Garciaparra,J. Thomson,10%,58%,Home Run (Fly Ball)
-t2,1-0,1,"['', '', '']",3(2-0) BBX,O,BOS,B. Mueller,J. Thomson,-2%,57%,Groundout: 1B unassisted
-t2,1-0,2,"['', '', '']",6(3-2) BBCCBS,O,BOS,D. Mirabelli,J. Thomson,-1%,56%,Strikeout Swinging
+t2,0-0,0,"______, ______, ______",5(1-2) FFFBX,O,BOS,M. Ramirez,J. Thomson,-2%,48%,Groundout: P-1B
+t2,0-0,1,"______, ______, ______",4(2-1) FBBX,R,BOS,N. Garciaparra,J. Thomson,10%,58%,Home Run (Fly Ball)
+t2,1-0,1,"______, ______, ______",3(2-0) BBX,O,BOS,B. Mueller,J. Thomson,-2%,57%,Groundout: 1B unassisted
+t2,1-0,2,"______, ______, ______",6(3-2) BBCCBS,O,BOS,D. Mirabelli,J. Thomson,-1%,56%,Strikeout Swinging
 ,,,,,,,,,1 run 1 hit 0 errors 0 LOB. Red Sox 1 Braves 0.,1 run 1 hit 0 errors 0 LOB. Red Sox 1 Braves 0.,1 run 1 hit 0 errors 0 LOB. Red Sox 1 Braves 0.
 Bottom of the 2nd Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 2nd Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 2nd Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 5-6-7,,Bottom of the 2nd Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 2nd Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 2nd Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 2nd Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 2nd Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 2nd Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 2nd Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 2nd Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 5-6-7
-b2,0-1,0,"['', '', '']",1(0-0) X,O,ATL,J. Estrada,C. Schilling,3%,58%,Flyball: LF (LF Line)
-b2,0-1,1,"['', '', '']",5(1-2) CFBFS,O,ATL,A. LaRoche,C. Schilling,2%,60%,Strikeout Swinging
-b2,0-1,2,"['', '', '']",4(0-2) CFFX,,ATL,A. Jones,C. Schilling,-2%,57%,Double to CF (Line Drive to Deep LF-CF)
-b2,0-1,2,"['', 'Jones', '']",2(1-0) BX,O,ATL,C. Thomas,C. Schilling,4%,61%,Flyball: CF
+b2,0-1,0,"______, ______, ______",1(0-0) X,O,ATL,J. Estrada,C. Schilling,3%,58%,Flyball: LF (LF Line)
+b2,0-1,1,"______, ______, ______",5(1-2) CFBFS,O,ATL,A. LaRoche,C. Schilling,2%,60%,Strikeout Swinging
+b2,0-1,2,"______, ______, ______",4(0-2) CFFX,,ATL,A. Jones,C. Schilling,-2%,57%,Double to CF (Line Drive to Deep LF-CF)
+b2,0-1,2,"______, A. Jones, ______",2(1-0) BX,O,ATL,C. Thomas,C. Schilling,4%,61%,Flyball: CF
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Red Sox 1 Braves 0.,0 runs 1 hit 0 errors 1 LOB. Red Sox 1 Braves 0.,0 runs 1 hit 0 errors 1 LOB. Red Sox 1 Braves 0.
 Top of the 3rd Red Sox Batting Ahead 1-0 Braves' John Thomson facing 8-9-1,Top of the 3rd Red Sox Batting Ahead 1-0 Braves' John Thomson facing 8-9-1,Top of the 3rd Red Sox Batting Ahead 1-0 Braves' John Thomson facing 8-9-1,,Top of the 3rd Red Sox Batting Ahead 1-0 Braves' John Thomson facing 8-9-1,Top of the 3rd Red Sox Batting Ahead 1-0 Braves' John Thomson facing 8-9-1,Top of the 3rd Red Sox Batting Ahead 1-0 Braves' John Thomson facing 8-9-1,Top of the 3rd Red Sox Batting Ahead 1-0 Braves' John Thomson facing 8-9-1,Top of the 3rd Red Sox Batting Ahead 1-0 Braves' John Thomson facing 8-9-1,Top of the 3rd Red Sox Batting Ahead 1-0 Braves' John Thomson facing 8-9-1,Top of the 3rd Red Sox Batting Ahead 1-0 Braves' John Thomson facing 8-9-1,Top of the 3rd Red Sox Batting Ahead 1-0 Braves' John Thomson facing 8-9-1
-t3,1-0,0,"['', '', '']",4(1-2) BCFC,O,BOS,P. Reese,J. Thomson,-2%,59%,Strikeout Looking
-t3,1-0,1,"['', '', '']",4(1-2) FBCC,O,BOS,C. Schilling,J. Thomson,-2%,57%,Strikeout Looking
-t3,1-0,2,"['', '', '']",6(2-2) BFFFBX,,BOS,J. Damon,J. Thomson,1%,58%,Single to CF (Line Drive)
-t3,1-0,2,"['Damon', '', '']",1(0-0) X,O,BOS,T. Nixon,J. Thomson,-2%,56%,Lineout: CF
+t3,1-0,0,"______, ______, ______",4(1-2) BCFC,O,BOS,P. Reese,J. Thomson,-2%,59%,Strikeout Looking
+t3,1-0,1,"______, ______, ______",4(1-2) FBCC,O,BOS,C. Schilling,J. Thomson,-2%,57%,Strikeout Looking
+t3,1-0,2,"______, ______, ______",6(2-2) BFFFBX,,BOS,J. Damon,J. Thomson,1%,58%,Single to CF (Line Drive)
+t3,1-0,2,"J. Damon, ______, ______",1(0-0) X,O,BOS,T. Nixon,J. Thomson,-2%,56%,Lineout: CF
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Red Sox 1 Braves 0.,0 runs 1 hit 0 errors 1 LOB. Red Sox 1 Braves 0.,0 runs 1 hit 0 errors 1 LOB. Red Sox 1 Braves 0.
 Bottom of the 3rd Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 9-1-2,Bottom of the 3rd Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 9-1-2,Bottom of the 3rd Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 9-1-2,,Bottom of the 3rd Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 9-1-2,Bottom of the 3rd Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 9-1-2,Bottom of the 3rd Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 9-1-2,Bottom of the 3rd Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 9-1-2,Bottom of the 3rd Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 9-1-2,Bottom of the 3rd Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 9-1-2,Bottom of the 3rd Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 9-1-2,Bottom of the 3rd Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 9-1-2
-b3,0-1,0,"['', '', '']",1(0-0) X,O,ATL,J. Thomson,C. Schilling,3%,59%,Flyball: CF
-b3,0-1,1,"['', '', '']",4(1-2) BCCS,O,ATL,R. Furcal,C. Schilling,2%,61%,Strikeout Swinging
-b3,0-1,2,"['', '', '']",1(0-0) X,O,ATL,N. Green,C. Schilling,1%,62%,Flyball: RF
+b3,0-1,0,"______, ______, ______",1(0-0) X,O,ATL,J. Thomson,C. Schilling,3%,59%,Flyball: CF
+b3,0-1,1,"______, ______, ______",4(1-2) BCCS,O,ATL,R. Furcal,C. Schilling,2%,61%,Strikeout Swinging
+b3,0-1,2,"______, ______, ______",1(0-0) X,O,ATL,N. Green,C. Schilling,1%,62%,Flyball: RF
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 1 Braves 0.,0 runs 0 hits 0 errors 0 LOB. Red Sox 1 Braves 0.,0 runs 0 hits 0 errors 0 LOB. Red Sox 1 Braves 0.
 Top of the 4th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 3-4-5,Top of the 4th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 3-4-5,Top of the 4th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 3-4-5,,Top of the 4th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 3-4-5,Top of the 4th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 3-4-5,Top of the 4th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 3-4-5,Top of the 4th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 3-4-5,Top of the 4th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 3-4-5,Top of the 4th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 3-4-5,Top of the 4th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 3-4-5,Top of the 4th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 3-4-5
-t4,1-0,0,"['', '', '']",2(0-1) TX,O,BOS,D. Ortiz,J. Thomson,-2%,60%,Groundout: SS-1B
-t4,1-0,1,"['', '', '']",3(0-2) FFX,,BOS,M. Ramirez,J. Thomson,4%,64%,Double to RF (Fly Ball to Deep RF)
-t4,1-0,1,"['', 'Ramirez', '']",1(0-0) X,O,BOS,N. Garciaparra,J. Thomson,-5%,59%,Single to CF (Line Drive); Ramirez out at Hm/CF-C
-t4,1-0,2,"['Garciaparra', '', '']",5(2-2) 1BB1F1S1T,O,BOS,B. Mueller,J. Thomson,-2%,57%,Strikeout Swinging
+t4,1-0,0,"______, ______, ______",2(0-1) TX,O,BOS,D. Ortiz,J. Thomson,-2%,60%,Groundout: SS-1B
+t4,1-0,1,"______, ______, ______",3(0-2) FFX,,BOS,M. Ramirez,J. Thomson,4%,64%,Double to RF (Fly Ball to Deep RF)
+t4,1-0,1,"______, M. Ramirez, ______",1(0-0) X,O,BOS,N. Garciaparra,J. Thomson,-5%,59%,Single to CF (Line Drive); M. Ramirez out at Hm/CF-C
+t4,1-0,2,"N. Garciaparra, ______, ______",5(2-2) 1BB1F1S1T,O,BOS,B. Mueller,J. Thomson,-2%,57%,Strikeout Swinging
 ,,,,,,,,,0 runs 2 hits 0 errors 1 LOB. Red Sox 1 Braves 0.,0 runs 2 hits 0 errors 1 LOB. Red Sox 1 Braves 0.,0 runs 2 hits 0 errors 1 LOB. Red Sox 1 Braves 0.
 Bottom of the 4th Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 4th Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 4th Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 3-4-5,,Bottom of the 4th Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 4th Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 4th Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 4th Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 4th Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 4th Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 4th Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 4th Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 3-4-5
-b4,0-1,0,"['', '', '']",4(3-0) BBBB,,ATL,J. Drew,C. Schilling,-5%,52%,Walk
-b4,0-1,0,"['Drew', '', '']",2(1-0) BX,O,ATL,C. Jones,C. Schilling,5%,57%,Lineout: CF (Deep CF)
-b4,0-1,1,"['Drew', '', '']",7(3-2) BF1F*BB>F>T,O,ATL,J. Estrada,C. Schilling,3%,59%,Strikeout Swinging Drew Steals 2B
-b4,0-1,2,"['', 'Drew', '']",4(1-2) BCFX,O,ATL,A. LaRoche,C. Schilling,4%,64%,Groundout: 1B-P
+b4,0-1,0,"______, ______, ______",4(3-0) BBBB,,ATL,J. Drew,C. Schilling,-5%,52%,Walk
+b4,0-1,0,"J. Drew, ______, ______",2(1-0) BX,O,ATL,C. Jones,C. Schilling,5%,57%,Lineout: CF (Deep CF)
+b4,0-1,1,"J. Drew, ______, ______",7(3-2) BF1F*BB>F>T,O,ATL,J. Estrada,C. Schilling,3%,59%,Strikeout Swinging J. Drew Steals 2B
+b4,0-1,2,"______, J. Drew, ______",4(1-2) BCFX,O,ATL,A. LaRoche,C. Schilling,4%,64%,Groundout: 1B-P
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Red Sox 1 Braves 0.,0 runs 0 hits 0 errors 1 LOB. Red Sox 1 Braves 0.,0 runs 0 hits 0 errors 1 LOB. Red Sox 1 Braves 0.
 Top of the 5th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 7-8-9,Top of the 5th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 7-8-9,Top of the 5th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 7-8-9,,Top of the 5th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 7-8-9,Top of the 5th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 7-8-9,Top of the 5th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 7-8-9,Top of the 5th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 7-8-9,Top of the 5th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 7-8-9,Top of the 5th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 7-8-9,Top of the 5th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 7-8-9,Top of the 5th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 7-8-9
-t5,1-0,0,"['', '', '']",5(3-1) SBBBB,,BOS,D. Mirabelli,J. Thomson,4%,67%,Walk
-t5,1-0,0,"['Mirabelli', '', '']",1(0-0) X,OO,BOS,P. Reese,J. Thomson,-8%,59%,Ground Ball Double Play: SS-2B-1B
-t5,1-0,2,"['', '', '']",4(2-1) BCBX,O,BOS,C. Schilling,J. Thomson,-1%,58%,Groundout: 3B-1B
+t5,1-0,0,"______, ______, ______",5(3-1) SBBBB,,BOS,D. Mirabelli,J. Thomson,4%,67%,Walk
+t5,1-0,0,"D. Mirabelli, ______, ______",1(0-0) X,OO,BOS,P. Reese,J. Thomson,-8%,59%,Ground Ball Double Play: SS-2B-1B
+t5,1-0,2,"______, ______, ______",4(2-1) BCBX,O,BOS,C. Schilling,J. Thomson,-1%,58%,Groundout: 3B-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 1 Braves 0.,0 runs 0 hits 0 errors 0 LOB. Red Sox 1 Braves 0.,0 runs 0 hits 0 errors 0 LOB. Red Sox 1 Braves 0.
 Bottom of the 5th Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 5th Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 5th Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 7-8-9,,Bottom of the 5th Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 5th Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 5th Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 5th Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 5th Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 5th Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 5th Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 7-8-9,Bottom of the 5th Braves Batting Behind 0-1 Red Sox' Curt Schilling facing 7-8-9
-b5,0-1,0,"['', '', '']",1(0-0) X,O,ATL,A. Jones,C. Schilling,3%,62%,Groundout: SS-1B
-b5,0-1,1,"['', '', '']",8(3-2) BBFFFFBX,,ATL,C. Thomas,C. Schilling,-6%,55%,Double to CF (Fly Ball to Deep CF)
-b5,0-1,1,"['', 'Thomas', '']",1(0-0) X,,ATL,J. Thomson,C. Schilling,-7%,48%,Single to RF (Line Drive); Thomas to 3B
-b5,0-1,1,"['Thomson', '', 'Thomas']",3(0-2) CSS,O,ATL,R. Furcal,C. Schilling,10%,58%,Strikeout Swinging
-b5,0-1,2,"['Thomson', '', 'Thomas']",3(0-2) CFS,O,ATL,N. Green,C. Schilling,8%,66%,Strikeout Swinging
+b5,0-1,0,"______, ______, ______",1(0-0) X,O,ATL,A. Jones,C. Schilling,3%,62%,Groundout: SS-1B
+b5,0-1,1,"______, ______, ______",8(3-2) BBFFFFBX,,ATL,C. Thomas,C. Schilling,-6%,55%,Double to CF (Fly Ball to Deep CF)
+b5,0-1,1,"______, C. Thomas, ______",1(0-0) X,,ATL,J. Thomson,C. Schilling,-7%,48%,Single to RF (Line Drive); C. Thomas to 3B
+b5,0-1,1,"J. Thomson, ______, C. Thomas",3(0-2) CSS,O,ATL,R. Furcal,C. Schilling,10%,58%,Strikeout Swinging
+b5,0-1,2,"J. Thomson, ______, C. Thomas",3(0-2) CFS,O,ATL,N. Green,C. Schilling,8%,66%,Strikeout Swinging
 ,,,,,,,,,0 runs 2 hits 0 errors 2 LOB. Red Sox 1 Braves 0.,0 runs 2 hits 0 errors 2 LOB. Red Sox 1 Braves 0.,0 runs 2 hits 0 errors 2 LOB. Red Sox 1 Braves 0.
 Top of the 6th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 1-2-3,Top of the 6th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 1-2-3,Top of the 6th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 1-2-3,,Top of the 6th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 1-2-3,Top of the 6th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 1-2-3,Top of the 6th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 1-2-3,Top of the 6th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 1-2-3,Top of the 6th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 1-2-3,Top of the 6th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 1-2-3,Top of the 6th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 1-2-3,Top of the 6th Red Sox Batting Ahead 1-0 Braves' John Thomson facing 1-2-3
-t6,1-0,0,"['', '', '']",4(2-1) BFBX,R,BOS,J. Damon,J. Thomson,12%,78%,Home Run (Fly Ball)
-t6,2-0,0,"['', '', '']",2(1-0) BX,O,BOS,T. Nixon,J. Thomson,-2%,76%,Flyball: CF (Deep CF)
-t6,2-0,1,"['', '', '']",6(2-2) FBBFFX,O,BOS,D. Ortiz,J. Thomson,-1%,75%,Groundout: 1B unassisted
-t6,2-0,2,"['', '', '']",4(1-2) FBFX,,BOS,M. Ramirez,J. Thomson,1%,76%,Single to RF (Fly Ball)
-t6,2-0,2,"['Ramirez', '', '']",2(1-0) 1BX,,BOS,N. Garciaparra,J. Thomson,1%,77%,Single to CF (Line Drive); Ramirez to 2B
-t6,2-0,2,"['Garciaparra', 'Ramirez', '']",5(2-2) SFBBX,,BOS,B. Mueller,J. Thomson,2%,79%,Single to RF (Line Drive); Ramirez to 3B; Garciaparra to 2B
-t6,2-0,2,"['Mueller', 'Garciaparra', 'Ramirez']",8(3-2) SBFBFFB>X,RRRR,BOS,D. Mirabelli,J. Thomson,18%,97%,Home Run (Fly Ball); Ramirez Scores; Garciaparra Scores; Mueller Scores
+t6,1-0,0,"______, ______, ______",4(2-1) BFBX,R,BOS,J. Damon,J. Thomson,12%,78%,Home Run (Fly Ball)
+t6,2-0,0,"______, ______, ______",2(1-0) BX,O,BOS,T. Nixon,J. Thomson,-2%,76%,Flyball: CF (Deep CF)
+t6,2-0,1,"______, ______, ______",6(2-2) FBBFFX,O,BOS,D. Ortiz,J. Thomson,-1%,75%,Groundout: 1B unassisted
+t6,2-0,2,"______, ______, ______",4(1-2) FBFX,,BOS,M. Ramirez,J. Thomson,1%,76%,Single to RF (Fly Ball)
+t6,2-0,2,"M. Ramirez, ______, ______",2(1-0) 1BX,,BOS,N. Garciaparra,J. Thomson,1%,77%,Single to CF (Line Drive); M. Ramirez to 2B
+t6,2-0,2,"N. Garciaparra, M. Ramirez, ______",5(2-2) SFBBX,,BOS,B. Mueller,J. Thomson,2%,79%,Single to RF (Line Drive); M. Ramirez to 3B; N. Garciaparra to 2B
+t6,2-0,2,"B. Mueller, N. Garciaparra, M. Ramirez",8(3-2) SBFBFFB>X,RRRR,BOS,D. Mirabelli,J. Thomson,18%,97%,Home Run (Fly Ball); M. Ramirez Scores; N. Garciaparra Scores; B. Mueller Scores
 ,,,,,,,,,Sam McConnell replaces John Thomson pitching and batting 9th,Sam McConnell replaces John Thomson pitching and batting 9th,Sam McConnell replaces John Thomson pitching and batting 9th
-t6,6-0,2,"['', '', '']",5(3-1) .BBBCX,O,BOS,P. Reese,S. McConnell,-0%,97%,Groundout: SS-1B
+t6,6-0,2,"______, ______, ______",5(3-1) .BBBCX,O,BOS,P. Reese,S. McConnell,-0%,97%,Groundout: SS-1B
 ,,,,,,,,,5 runs 5 hits 0 errors 0 LOB. Red Sox 6 Braves 0.,5 runs 5 hits 0 errors 0 LOB. Red Sox 6 Braves 0.,5 runs 5 hits 0 errors 0 LOB. Red Sox 6 Braves 0.
 Bottom of the 6th Braves Batting Behind 0-6 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 6th Braves Batting Behind 0-6 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 6th Braves Batting Behind 0-6 Red Sox' Curt Schilling facing 3-4-5,,Bottom of the 6th Braves Batting Behind 0-6 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 6th Braves Batting Behind 0-6 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 6th Braves Batting Behind 0-6 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 6th Braves Batting Behind 0-6 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 6th Braves Batting Behind 0-6 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 6th Braves Batting Behind 0-6 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 6th Braves Batting Behind 0-6 Red Sox' Curt Schilling facing 3-4-5,Bottom of the 6th Braves Batting Behind 0-6 Red Sox' Curt Schilling facing 3-4-5
-b6,0-6,0,"['', '', '']",4(1-2) FFBX,,ATL,J. Drew,C. Schilling,-2%,95%,Double to CF (Line Drive)
-b6,0-6,0,"['', 'Drew', '']",4(1-2) SBFX,O,ATL,C. Jones,C. Schilling,1%,96%,Groundout: 2B-1B; Drew to 3B
-b6,0-6,1,"['', '', 'Drew']",1(0-0) X,O,ATL,J. Estrada,C. Schilling,2%,97%,Foul Popfly: C (3B Foul)
-b6,0-6,2,"['', '', 'Drew']",3(1-1) FBX,R,ATL,A. LaRoche,C. Schilling,-2%,96%,Single to 3B (Ground Ball); Drew Scores
-b6,1-6,2,"['LaRoche', '', '']",5(1-2) BCSFX,O,ATL,A. Jones,C. Schilling,1%,97%,Groundout: 3B-2B/Forceout at 2B
+b6,0-6,0,"______, ______, ______",4(1-2) FFBX,,ATL,J. Drew,C. Schilling,-2%,95%,Double to CF (Line Drive)
+b6,0-6,0,"______, J. Drew, ______",4(1-2) SBFX,O,ATL,C. Jones,C. Schilling,1%,96%,Groundout: 2B-1B; J. Drew to 3B
+b6,0-6,1,"______, ______, J. Drew",1(0-0) X,O,ATL,J. Estrada,C. Schilling,2%,97%,Foul Popfly: C (3B Foul)
+b6,0-6,2,"______, ______, J. Drew",3(1-1) FBX,R,ATL,A. LaRoche,C. Schilling,-2%,96%,Single to 3B (Ground Ball); J. Drew Scores
+b6,1-6,2,"A. LaRoche, ______, ______",5(1-2) BCSFX,O,ATL,A. Jones,C. Schilling,1%,97%,Groundout: 3B-2B/Forceout at 2B
 ,,,,,,,,,1 run 2 hits 0 errors 1 LOB. Red Sox 6 Braves 1.,1 run 2 hits 0 errors 1 LOB. Red Sox 6 Braves 1.,1 run 2 hits 0 errors 1 LOB. Red Sox 6 Braves 1.
 Top of the 7th Red Sox Batting Ahead 6-1 Braves' Sam McConnell facing 9-1-2,Top of the 7th Red Sox Batting Ahead 6-1 Braves' Sam McConnell facing 9-1-2,Top of the 7th Red Sox Batting Ahead 6-1 Braves' Sam McConnell facing 9-1-2,,Top of the 7th Red Sox Batting Ahead 6-1 Braves' Sam McConnell facing 9-1-2,Top of the 7th Red Sox Batting Ahead 6-1 Braves' Sam McConnell facing 9-1-2,Top of the 7th Red Sox Batting Ahead 6-1 Braves' Sam McConnell facing 9-1-2,Top of the 7th Red Sox Batting Ahead 6-1 Braves' Sam McConnell facing 9-1-2,Top of the 7th Red Sox Batting Ahead 6-1 Braves' Sam McConnell facing 9-1-2,Top of the 7th Red Sox Batting Ahead 6-1 Braves' Sam McConnell facing 9-1-2,Top of the 7th Red Sox Batting Ahead 6-1 Braves' Sam McConnell facing 9-1-2,Top of the 7th Red Sox Batting Ahead 6-1 Braves' Sam McConnell facing 9-1-2
-t7,6-1,0,"['', '', '']",4(2-1) BBCX,O,BOS,C. Schilling,S. McConnell,-0%,96%,Groundout: SS-1B
-t7,6-1,1,"['', '', '']",5(1-2) CBFFX,O,BOS,J. Damon,S. McConnell,-0%,96%,Flyball: LF
-t7,6-1,2,"['', '', '']",2(0-1) CX,,BOS,T. Nixon,S. McConnell,0%,96%,Single to RF (Ground Ball)
-t7,6-1,2,"['Nixon', '', '']",4(2-1) *BCBX,O,BOS,D. Ortiz,S. McConnell,-0%,96%,Flyball: CF
+t7,6-1,0,"______, ______, ______",4(2-1) BBCX,O,BOS,C. Schilling,S. McConnell,-0%,96%,Groundout: SS-1B
+t7,6-1,1,"______, ______, ______",5(1-2) CBFFX,O,BOS,J. Damon,S. McConnell,-0%,96%,Flyball: LF
+t7,6-1,2,"______, ______, ______",2(0-1) CX,,BOS,T. Nixon,S. McConnell,0%,96%,Single to RF (Ground Ball)
+t7,6-1,2,"T. Nixon, ______, ______",4(2-1) *BCBX,O,BOS,D. Ortiz,S. McConnell,-0%,96%,Flyball: CF
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Red Sox 6 Braves 1.,0 runs 1 hit 0 errors 1 LOB. Red Sox 6 Braves 1.,0 runs 1 hit 0 errors 1 LOB. Red Sox 6 Braves 1.
 Bottom of the 7th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 7th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 7th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 8-9-1,,Bottom of the 7th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 7th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 7th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 7th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 7th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 7th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 7th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 8-9-1,Bottom of the 7th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 8-9-1
-b7,1-6,0,"['', '', '']",5(1-2) CBFFS,O,ATL,C. Thomas,C. Schilling,1%,97%,Strikeout Swinging
+b7,1-6,0,"______, ______, ______",5(1-2) CBFFS,O,ATL,C. Thomas,C. Schilling,1%,97%,Strikeout Swinging
 ,,,,,,,,,Mark DeRosa pinch hits for Sam McConnell (P) batting 9th,Mark DeRosa pinch hits for Sam McConnell (P) batting 9th,Mark DeRosa pinch hits for Sam McConnell (P) batting 9th
-b7,1-6,1,"['', '', '']",2(0-1) .FX,O,ATL,M. DeRosa,C. Schilling,1%,98%,Popfly: 1B
-b7,1-6,2,"['', '', '']",3(1-1) SBX,O,ATL,R. Furcal,C. Schilling,0%,98%,Flyball: RF
+b7,1-6,1,"______, ______, ______",2(0-1) .FX,O,ATL,M. DeRosa,C. Schilling,1%,98%,Popfly: 1B
+b7,1-6,2,"______, ______, ______",3(1-1) SBX,O,ATL,R. Furcal,C. Schilling,0%,98%,Flyball: RF
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 6 Braves 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 6 Braves 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 6 Braves 1.
 Top of the 8th Red Sox Batting Ahead 6-1 Braves' Tim Drew facing 4-5-6,Top of the 8th Red Sox Batting Ahead 6-1 Braves' Tim Drew facing 4-5-6,Top of the 8th Red Sox Batting Ahead 6-1 Braves' Tim Drew facing 4-5-6,,Top of the 8th Red Sox Batting Ahead 6-1 Braves' Tim Drew facing 4-5-6,Top of the 8th Red Sox Batting Ahead 6-1 Braves' Tim Drew facing 4-5-6,Top of the 8th Red Sox Batting Ahead 6-1 Braves' Tim Drew facing 4-5-6,Top of the 8th Red Sox Batting Ahead 6-1 Braves' Tim Drew facing 4-5-6,Top of the 8th Red Sox Batting Ahead 6-1 Braves' Tim Drew facing 4-5-6,Top of the 8th Red Sox Batting Ahead 6-1 Braves' Tim Drew facing 4-5-6,Top of the 8th Red Sox Batting Ahead 6-1 Braves' Tim Drew facing 4-5-6,Top of the 8th Red Sox Batting Ahead 6-1 Braves' Tim Drew facing 4-5-6
 ,,,,,,,,,Tim Drew replaces Rafael Furcal (SS) pitching and batting 1stMark DeRosa moves from PH to SS,Tim Drew replaces Rafael Furcal (SS) pitching and batting 1stMark DeRosa moves from PH to SS,Tim Drew replaces Rafael Furcal (SS) pitching and batting 1stMark DeRosa moves from PH to SS
-t8,6-1,0,"['', '', '']",1(0-0) ..H,,BOS,M. Ramirez,T. Drew,0%,98%,Hit By Pitch
-t8,6-1,0,"['Ramirez', '', '']",4(1-2) F*BFX,O,BOS,N. Garciaparra,T. Drew,-0%,98%,Lineout: LF
-t8,6-1,1,"['Ramirez', '', '']",1(0-0) X,O,BOS,B. Mueller,T. Drew,-0%,98%,Groundout: 2B-SS/Forceout at 2B
-t8,6-1,2,"['Mueller', '', '']",7(3-2) CSBB*B>F>S,O,BOS,D. Mirabelli,T. Drew,-0%,98%,Strikeout Swinging
+t8,6-1,0,"______, ______, ______",1(0-0) ..H,,BOS,M. Ramirez,T. Drew,0%,98%,Hit By Pitch
+t8,6-1,0,"M. Ramirez, ______, ______",4(1-2) F*BFX,O,BOS,N. Garciaparra,T. Drew,-0%,98%,Lineout: LF
+t8,6-1,1,"M. Ramirez, ______, ______",1(0-0) X,O,BOS,B. Mueller,T. Drew,-0%,98%,Groundout: 2B-SS/Forceout at 2B
+t8,6-1,2,"B. Mueller, ______, ______",7(3-2) CSBB*B>F>S,O,BOS,D. Mirabelli,T. Drew,-0%,98%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Red Sox 6 Braves 1.,0 runs 0 hits 0 errors 1 LOB. Red Sox 6 Braves 1.,0 runs 0 hits 0 errors 1 LOB. Red Sox 6 Braves 1.
 Bottom of the 8th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 2-3-4,Bottom of the 8th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 2-3-4,Bottom of the 8th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 2-3-4,,Bottom of the 8th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 2-3-4,Bottom of the 8th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 2-3-4,Bottom of the 8th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 2-3-4,Bottom of the 8th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 2-3-4,Bottom of the 8th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 2-3-4,Bottom of the 8th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 2-3-4,Bottom of the 8th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 2-3-4,Bottom of the 8th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 2-3-4
-b8,1-6,0,"['', '', '']",3(0-2) CCS,O,ATL,N. Green,C. Schilling,1%,99%,Strikeout Swinging
-b8,1-6,1,"['', '', '']",4(2-1) FBBX,O,ATL,J. Drew,C. Schilling,0%,99%,Flyball: RF (Deep RF)
-b8,1-6,2,"['', '', '']",2(1-0) BX,O,ATL,C. Jones,C. Schilling,0%,99%,Lineout: 2B
+b8,1-6,0,"______, ______, ______",3(0-2) CCS,O,ATL,N. Green,C. Schilling,1%,99%,Strikeout Swinging
+b8,1-6,1,"______, ______, ______",4(2-1) FBBX,O,ATL,J. Drew,C. Schilling,0%,99%,Flyball: RF (Deep RF)
+b8,1-6,2,"______, ______, ______",2(1-0) BX,O,ATL,C. Jones,C. Schilling,0%,99%,Lineout: 2B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 6 Braves 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 6 Braves 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 6 Braves 1.
 Top of the 9th Red Sox Batting Ahead 6-1 Braves' Tim Drew facing 8-9-1,Top of the 9th Red Sox Batting Ahead 6-1 Braves' Tim Drew facing 8-9-1,Top of the 9th Red Sox Batting Ahead 6-1 Braves' Tim Drew facing 8-9-1,,Top of the 9th Red Sox Batting Ahead 6-1 Braves' Tim Drew facing 8-9-1,Top of the 9th Red Sox Batting Ahead 6-1 Braves' Tim Drew facing 8-9-1,Top of the 9th Red Sox Batting Ahead 6-1 Braves' Tim Drew facing 8-9-1,Top of the 9th Red Sox Batting Ahead 6-1 Braves' Tim Drew facing 8-9-1,Top of the 9th Red Sox Batting Ahead 6-1 Braves' Tim Drew facing 8-9-1,Top of the 9th Red Sox Batting Ahead 6-1 Braves' Tim Drew facing 8-9-1,Top of the 9th Red Sox Batting Ahead 6-1 Braves' Tim Drew facing 8-9-1,Top of the 9th Red Sox Batting Ahead 6-1 Braves' Tim Drew facing 8-9-1
-t9,6-1,0,"['', '', '']",5(1-2) CBTFX,O,BOS,P. Reese,T. Drew,-0%,99%,Flyball: LF
-t9,6-1,1,"['', '', '']",3(0-2) CCX,O,BOS,C. Schilling,T. Drew,-0%,99%,Groundout: 2B-1B
-t9,6-1,2,"['', '', '']",4(2-1) BBCX,,BOS,J. Damon,T. Drew,0%,99%,Single to RF (Ground Ball)
-t9,6-1,2,"['Damon', '', '']",2(1-0) BX,O,BOS,T. Nixon,T. Drew,-0%,99%,Flyball: CF
+t9,6-1,0,"______, ______, ______",5(1-2) CBTFX,O,BOS,P. Reese,T. Drew,-0%,99%,Flyball: LF
+t9,6-1,1,"______, ______, ______",3(0-2) CCX,O,BOS,C. Schilling,T. Drew,-0%,99%,Groundout: 2B-1B
+t9,6-1,2,"______, ______, ______",4(2-1) BBCX,,BOS,J. Damon,T. Drew,0%,99%,Single to RF (Ground Ball)
+t9,6-1,2,"J. Damon, ______, ______",2(1-0) BX,O,BOS,T. Nixon,T. Drew,-0%,99%,Flyball: CF
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Red Sox 6 Braves 1.,0 runs 1 hit 0 errors 1 LOB. Red Sox 6 Braves 1.,0 runs 1 hit 0 errors 1 LOB. Red Sox 6 Braves 1.
 Bottom of the 9th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 9th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 9th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 5-6-7,,Bottom of the 9th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 9th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 9th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 9th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 9th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 9th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 9th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 5-6-7,Bottom of the 9th Braves Batting Behind 1-6 Red Sox' Curt Schilling facing 5-6-7
-b9,1-6,0,"['', '', '']",6(1-2) TSBFFS,O,ATL,J. Estrada,C. Schilling,1%,100%,Strikeout Swinging
-b9,1-6,1,"['', '', '']",4(1-2) CSBS,O,ATL,A. LaRoche,C. Schilling,0%,100%,Strikeout Swinging
-b9,1-6,2,"['', '', '']",4(1-2) FBSX,O,ATL,A. Jones,C. Schilling,0%,100%,Groundout: SS-1B
+b9,1-6,0,"______, ______, ______",6(1-2) TSBFFS,O,ATL,J. Estrada,C. Schilling,1%,100%,Strikeout Swinging
+b9,1-6,1,"______, ______, ______",4(1-2) CSBS,O,ATL,A. LaRoche,C. Schilling,0%,100%,Strikeout Swinging
+b9,1-6,2,"______, ______, ______",4(1-2) FBSX,O,ATL,A. Jones,C. Schilling,0%,100%,Groundout: SS-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 6 Braves 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 6 Braves 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 6 Braves 1.

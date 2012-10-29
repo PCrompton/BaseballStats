@@ -1,129 +1,129 @@
 Inn,Score,Out,RoB,Pit(cnt)Sequence,R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
 Top of the 1st Red Sox Batting Tied 0-0 Devil Rays' Victor Zambrano facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Devil Rays' Victor Zambrano facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Devil Rays' Victor Zambrano facing 1-2-3,,Top of the 1st Red Sox Batting Tied 0-0 Devil Rays' Victor Zambrano facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Devil Rays' Victor Zambrano facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Devil Rays' Victor Zambrano facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Devil Rays' Victor Zambrano facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Devil Rays' Victor Zambrano facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Devil Rays' Victor Zambrano facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Devil Rays' Victor Zambrano facing 1-2-3,Top of the 1st Red Sox Batting Tied 0-0 Devil Rays' Victor Zambrano facing 1-2-3
-t1,0-0,0,"['', '', '']",7(3-2) CBBFBFB,,BOS,J. Damon,V. Zambrano,-3%,47%,Walk
-t1,0-0,0,"['Damon', '', '']",5(2-2) CBBSC,O,BOS,M. Bellhorn,V. Zambrano,3%,50%,Strikeout Looking
-t1,0-0,1,"['Damon', '', '']",5(3-1) BBBCB,,BOS,D. Ortiz,V. Zambrano,-3%,46%,Walk; Damon to 2B
-t1,0-0,1,"['Ortiz', 'Damon', '']",4(1-2) FFBC,O,BOS,M. Ramirez,V. Zambrano,4%,51%,Strikeout Looking
-t1,0-0,2,"['Ortiz', 'Damon', '']",5(3-1) BC*BBB,,BOS,B. Daubach,V. Zambrano,-3%,48%,Walk; Damon to 3B; Ortiz to 2B
-t1,0-0,2,"['Daubach', 'Ortiz', 'Damon']",5(2-2) BSCBC,O,BOS,J. Varitek,V. Zambrano,7%,55%,Strikeout Looking
+t1,0-0,0,"______, ______, ______",7(3-2) CBBFBFB,,BOS,J. Damon,V. Zambrano,-3%,47%,Walk
+t1,0-0,0,"J. Damon, ______, ______",5(2-2) CBBSC,O,BOS,M. Bellhorn,V. Zambrano,3%,50%,Strikeout Looking
+t1,0-0,1,"J. Damon, ______, ______",5(3-1) BBBCB,,BOS,D. Ortiz,V. Zambrano,-3%,46%,Walk; J. Damon to 2B
+t1,0-0,1,"D. Ortiz, J. Damon, ______",4(1-2) FFBC,O,BOS,M. Ramirez,V. Zambrano,4%,51%,Strikeout Looking
+t1,0-0,2,"D. Ortiz, J. Damon, ______",5(3-1) BC*BBB,,BOS,B. Daubach,V. Zambrano,-3%,48%,Walk; J. Damon to 3B; D. Ortiz to 2B
+t1,0-0,2,"B. Daubach, D. Ortiz, J. Damon",5(2-2) BSCBC,O,BOS,J. Varitek,V. Zambrano,7%,55%,Strikeout Looking
 ,,,,,,,,,0 runs 0 hits 0 errors 3 LOB. Red Sox 0 Devil Rays 0.,0 runs 0 hits 0 errors 3 LOB. Red Sox 0 Devil Rays 0.,0 runs 0 hits 0 errors 3 LOB. Red Sox 0 Devil Rays 0.
 Bottom of the 1st Devil Rays Batting Tied 0-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 1st Devil Rays Batting Tied 0-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 1st Devil Rays Batting Tied 0-0 Red Sox' Derek Lowe facing 1-2-3,,Bottom of the 1st Devil Rays Batting Tied 0-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 1st Devil Rays Batting Tied 0-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 1st Devil Rays Batting Tied 0-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 1st Devil Rays Batting Tied 0-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 1st Devil Rays Batting Tied 0-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 1st Devil Rays Batting Tied 0-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 1st Devil Rays Batting Tied 0-0 Red Sox' Derek Lowe facing 1-2-3,Bottom of the 1st Devil Rays Batting Tied 0-0 Red Sox' Derek Lowe facing 1-2-3
-b1,0-0,0,"['', '', '']",3(1-1) CBX,,TBD,C. Crawford,D. Lowe,3%,58%,Single to CF (Ground Ball)
-b1,0-0,0,"['Crawford', '', '']",2(0-1) CX,O,TBD,R. Baldelli,D. Lowe,-2%,57%,Groundout: 3B-1B; Crawford to 2B
-b1,0-0,1,"['', 'Crawford', '']",2(0-1) C2C,,TBD,A. Huff,D. Lowe,3%,59%,Crawford Steals 3B
-b1,0-0,1,"['', '', 'Crawford']",3(0-2) C2C.X,RO,TBD,A. Huff,D. Lowe,2%,61%,Groundout: SS-1B; Crawford Scores
-b1,1-0,2,"['', '', '']",6(2-2) CSBBFX,O,TBD,T. Martinez,D. Lowe,-1%,60%,Groundout: SS-1B
+b1,0-0,0,"______, ______, ______",3(1-1) CBX,,TBD,C. Crawford,D. Lowe,3%,58%,Single to CF (Ground Ball)
+b1,0-0,0,"C. Crawford, ______, ______",2(0-1) CX,O,TBD,R. Baldelli,D. Lowe,-2%,57%,Groundout: 3B-1B; C. Crawford to 2B
+b1,0-0,1,"______, C. Crawford, ______",2(0-1) C2C,,TBD,A. Huff,D. Lowe,3%,59%,C. Crawford Steals 3B
+b1,0-0,1,"______, ______, C. Crawford",3(0-2) C2C.X,RO,TBD,A. Huff,D. Lowe,2%,61%,Groundout: SS-1B; C. Crawford Scores
+b1,1-0,2,"______, ______, ______",6(2-2) CSBBFX,O,TBD,T. Martinez,D. Lowe,-1%,60%,Groundout: SS-1B
 ,,,,,,,,,1 run 1 hit 0 errors 0 LOB. Red Sox 0 Devil Rays 1.,1 run 1 hit 0 errors 0 LOB. Red Sox 0 Devil Rays 1.,1 run 1 hit 0 errors 0 LOB. Red Sox 0 Devil Rays 1.
 Top of the 2nd Red Sox Batting Behind 0-1 Devil Rays' Victor Zambrano facing 7-8-9,Top of the 2nd Red Sox Batting Behind 0-1 Devil Rays' Victor Zambrano facing 7-8-9,Top of the 2nd Red Sox Batting Behind 0-1 Devil Rays' Victor Zambrano facing 7-8-9,,Top of the 2nd Red Sox Batting Behind 0-1 Devil Rays' Victor Zambrano facing 7-8-9,Top of the 2nd Red Sox Batting Behind 0-1 Devil Rays' Victor Zambrano facing 7-8-9,Top of the 2nd Red Sox Batting Behind 0-1 Devil Rays' Victor Zambrano facing 7-8-9,Top of the 2nd Red Sox Batting Behind 0-1 Devil Rays' Victor Zambrano facing 7-8-9,Top of the 2nd Red Sox Batting Behind 0-1 Devil Rays' Victor Zambrano facing 7-8-9,Top of the 2nd Red Sox Batting Behind 0-1 Devil Rays' Victor Zambrano facing 7-8-9,Top of the 2nd Red Sox Batting Behind 0-1 Devil Rays' Victor Zambrano facing 7-8-9,Top of the 2nd Red Sox Batting Behind 0-1 Devil Rays' Victor Zambrano facing 7-8-9
-t2,0-1,0,"['', '', '']",5(2-2) CFBBX,,BOS,K. Millar,V. Zambrano,-6%,54%,Double to RF (Line Drive to Deep RF Line)
-t2,0-1,0,"['', 'Millar', '']",7(3-2) BBFFFBC,O,BOS,K. Youkilis,V. Zambrano,5%,58%,Strikeout Looking
-t2,0-1,1,"['', 'Millar', '']",5(2-2) CSBBX,O,BOS,P. Reese,V. Zambrano,4%,62%,Flyball: RF
-t2,0-1,2,"['', 'Millar', '']",4(1-2) CBSS,O,BOS,J. Damon,V. Zambrano,3%,65%,Strikeout Swinging
+t2,0-1,0,"______, ______, ______",5(2-2) CFBBX,,BOS,K. Millar,V. Zambrano,-6%,54%,Double to RF (Line Drive to Deep RF Line)
+t2,0-1,0,"______, K. Millar, ______",7(3-2) BBFFFBC,O,BOS,K. Youkilis,V. Zambrano,5%,58%,Strikeout Looking
+t2,0-1,1,"______, K. Millar, ______",5(2-2) CSBBX,O,BOS,P. Reese,V. Zambrano,4%,62%,Flyball: RF
+t2,0-1,2,"______, K. Millar, ______",4(1-2) CBSS,O,BOS,J. Damon,V. Zambrano,3%,65%,Strikeout Swinging
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Red Sox 0 Devil Rays 1.,0 runs 1 hit 0 errors 1 LOB. Red Sox 0 Devil Rays 1.,0 runs 1 hit 0 errors 1 LOB. Red Sox 0 Devil Rays 1.
 Bottom of the 2nd Devil Rays Batting Ahead 1-0 Red Sox' Derek Lowe facing 5-6-7,Bottom of the 2nd Devil Rays Batting Ahead 1-0 Red Sox' Derek Lowe facing 5-6-7,Bottom of the 2nd Devil Rays Batting Ahead 1-0 Red Sox' Derek Lowe facing 5-6-7,,Bottom of the 2nd Devil Rays Batting Ahead 1-0 Red Sox' Derek Lowe facing 5-6-7,Bottom of the 2nd Devil Rays Batting Ahead 1-0 Red Sox' Derek Lowe facing 5-6-7,Bottom of the 2nd Devil Rays Batting Ahead 1-0 Red Sox' Derek Lowe facing 5-6-7,Bottom of the 2nd Devil Rays Batting Ahead 1-0 Red Sox' Derek Lowe facing 5-6-7,Bottom of the 2nd Devil Rays Batting Ahead 1-0 Red Sox' Derek Lowe facing 5-6-7,Bottom of the 2nd Devil Rays Batting Ahead 1-0 Red Sox' Derek Lowe facing 5-6-7,Bottom of the 2nd Devil Rays Batting Ahead 1-0 Red Sox' Derek Lowe facing 5-6-7,Bottom of the 2nd Devil Rays Batting Ahead 1-0 Red Sox' Derek Lowe facing 5-6-7
-b2,1-0,0,"['', '', '']",2(0-1) CX,O,TBD,J. Cruz,D. Lowe,-2%,63%,Flyball: CF (Deep CF)
-b2,1-0,1,"['', '', '']",4(1-2) CBCC,O,TBD,J. Lugo,D. Lowe,-1%,62%,Strikeout Looking
-b2,1-0,2,"['', '', '']",2(0-1) CX,O,TBD,G. Blum,D. Lowe,-1%,61%,Groundout: SS-1B
+b2,1-0,0,"______, ______, ______",2(0-1) CX,O,TBD,J. Cruz,D. Lowe,-2%,63%,Flyball: CF (Deep CF)
+b2,1-0,1,"______, ______, ______",4(1-2) CBCC,O,TBD,J. Lugo,D. Lowe,-1%,62%,Strikeout Looking
+b2,1-0,2,"______, ______, ______",2(0-1) CX,O,TBD,G. Blum,D. Lowe,-1%,61%,Groundout: SS-1B
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Devil Rays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Devil Rays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Devil Rays 1.
 Top of the 3rd Red Sox Batting Behind 0-1 Devil Rays' Victor Zambrano facing 2-3-4,Top of the 3rd Red Sox Batting Behind 0-1 Devil Rays' Victor Zambrano facing 2-3-4,Top of the 3rd Red Sox Batting Behind 0-1 Devil Rays' Victor Zambrano facing 2-3-4,,Top of the 3rd Red Sox Batting Behind 0-1 Devil Rays' Victor Zambrano facing 2-3-4,Top of the 3rd Red Sox Batting Behind 0-1 Devil Rays' Victor Zambrano facing 2-3-4,Top of the 3rd Red Sox Batting Behind 0-1 Devil Rays' Victor Zambrano facing 2-3-4,Top of the 3rd Red Sox Batting Behind 0-1 Devil Rays' Victor Zambrano facing 2-3-4,Top of the 3rd Red Sox Batting Behind 0-1 Devil Rays' Victor Zambrano facing 2-3-4,Top of the 3rd Red Sox Batting Behind 0-1 Devil Rays' Victor Zambrano facing 2-3-4,Top of the 3rd Red Sox Batting Behind 0-1 Devil Rays' Victor Zambrano facing 2-3-4,Top of the 3rd Red Sox Batting Behind 0-1 Devil Rays' Victor Zambrano facing 2-3-4
-t3,0-1,0,"['', '', '']",7(3-2) SBBSFBB,,BOS,M. Bellhorn,V. Zambrano,-4%,57%,Walk
-t3,0-1,0,"['Bellhorn', '', '']",3(1-1) BCX,O,BOS,D. Ortiz,V. Zambrano,4%,61%,Popfly: SS (Short CF)
-t3,0-1,1,"['Bellhorn', '', '']",6(3-2) 1BSBSBS,OO,BOS,M. Ramirez,V. Zambrano,6%,67%,Double Play: Strikeout Swinging Baserunner Out Advancing/Interference called; Bellhorn out at 1B/C
+t3,0-1,0,"______, ______, ______",7(3-2) SBBSFBB,,BOS,M. Bellhorn,V. Zambrano,-4%,57%,Walk
+t3,0-1,0,"M. Bellhorn, ______, ______",3(1-1) BCX,O,BOS,D. Ortiz,V. Zambrano,4%,61%,Popfly: SS (Short CF)
+t3,0-1,1,"M. Bellhorn, ______, ______",6(3-2) 1BSBSBS,OO,BOS,M. Ramirez,V. Zambrano,6%,67%,Double Play: Strikeout Swinging Baserunner Out Advancing/Interference called; M. Bellhorn out at 1
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Devil Rays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Devil Rays 1.,0 runs 0 hits 0 errors 0 LOB. Red Sox 0 Devil Rays 1.
 Bottom of the 3rd Devil Rays Batting Ahead 1-0 Red Sox' Derek Lowe facing 8-9-1,Bottom of the 3rd Devil Rays Batting Ahead 1-0 Red Sox' Derek Lowe facing 8-9-1,Bottom of the 3rd Devil Rays Batting Ahead 1-0 Red Sox' Derek Lowe facing 8-9-1,,Bottom of the 3rd Devil Rays Batting Ahead 1-0 Red Sox' Derek Lowe facing 8-9-1,Bottom of the 3rd Devil Rays Batting Ahead 1-0 Red Sox' Derek Lowe facing 8-9-1,Bottom of the 3rd Devil Rays Batting Ahead 1-0 Red Sox' Derek Lowe facing 8-9-1,Bottom of the 3rd Devil Rays Batting Ahead 1-0 Red Sox' Derek Lowe facing 8-9-1,Bottom of the 3rd Devil Rays Batting Ahead 1-0 Red Sox' Derek Lowe facing 8-9-1,Bottom of the 3rd Devil Rays Batting Ahead 1-0 Red Sox' Derek Lowe facing 8-9-1,Bottom of the 3rd Devil Rays Batting Ahead 1-0 Red Sox' Derek Lowe facing 8-9-1,Bottom of the 3rd Devil Rays Batting Ahead 1-0 Red Sox' Derek Lowe facing 8-9-1
-b3,1-0,0,"['', '', '']",2(0-1) CX,O,TBD,J. Gomes,D. Lowe,-2%,65%,Groundout: 3B-1B
-b3,1-0,1,"['', '', '']",5(1-2) CCBFX,,TBD,B. Fordyce,D. Lowe,2%,67%,Single to CF (Ground Ball)
-b3,1-0,1,"['Fordyce', '', '']",3(0-2) SS+1X,,TBD,C. Crawford,D. Lowe,8%,74%,Double to LF (Line Drive to Deep LF Line); Fordyce to 3B
-b3,1-0,1,"['', 'Crawford', 'Fordyce']",7(3-2) CFBBBFX,RR,TBD,R. Baldelli,D. Lowe,9%,84%,Single to CF (Ground Ball); Fordyce Scores; Crawford Scores
-b3,3-0,1,"['Baldelli', '', '']",2(0-1) 11C>X,,TBD,A. Huff,D. Lowe,3%,87%,Single to CF (Line Drive); Baldelli to 3B
-b3,3-0,1,"['Huff', '', 'Baldelli']",5(3-1) BBFB>X,R,TBD,T. Martinez,D. Lowe,4%,91%,Single to RF (Line Drive); Baldelli Scores; Huff to 3B
-b3,4-0,1,"['Martinez', '', 'Huff']",4(2-1) BBFX,RR,TBD,J. Cruz,D. Lowe,4%,96%,Double to CF (Line Drive to Deep LF-CF); Huff Scores; Martinez Scores
-b3,6-0,1,"['', 'Cruz', '']",7(2-2) CBCBFFX,R,TBD,J. Lugo,D. Lowe,2%,97%,Double to LF (Fly Ball to Deep LF-CF); Cruz Scores
+b3,1-0,0,"______, ______, ______",2(0-1) CX,O,TBD,J. Gomes,D. Lowe,-2%,65%,Groundout: 3B-1B
+b3,1-0,1,"______, ______, ______",5(1-2) CCBFX,,TBD,B. Fordyce,D. Lowe,2%,67%,Single to CF (Ground Ball)
+b3,1-0,1,"B. Fordyce, ______, ______",3(0-2) SS+1X,,TBD,C. Crawford,D. Lowe,8%,74%,Double to LF (Line Drive to Deep LF Line); B. Fordyce to 3B
+b3,1-0,1,"______, C. Crawford, B. Fordyce",7(3-2) CFBBBFX,RR,TBD,R. Baldelli,D. Lowe,9%,84%,Single to CF (Ground Ball); B. Fordyce Scores; C. Crawford Scores
+b3,3-0,1,"R. Baldelli, ______, ______",2(0-1) 11C>X,,TBD,A. Huff,D. Lowe,3%,87%,Single to CF (Line Drive); R. Baldelli to 3B
+b3,3-0,1,"A. Huff, ______, R. Baldelli",5(3-1) BBFB>X,R,TBD,T. Martinez,D. Lowe,4%,91%,Single to RF (Line Drive); R. Baldelli Scores; A. Huff to 3B
+b3,4-0,1,"T. Martinez, ______, A. Huff",4(2-1) BBFX,RR,TBD,J. Cruz,D. Lowe,4%,96%,Double to CF (Line Drive to Deep LF-CF); A. Huff Scores; T. Martinez Scores
+b3,6-0,1,"______, J. Cruz, ______",7(2-2) CBCBFFX,R,TBD,J. Lugo,D. Lowe,2%,97%,Double to LF (Fly Ball to Deep LF-CF); J. Cruz Scores
 ,,,,,,,,,Lenny DiNardo replaces Derek Lowe pitching,Lenny DiNardo replaces Derek Lowe pitching,Lenny DiNardo replaces Derek Lowe pitching
-b3,7-0,1,"['', 'Lugo', '']",3(1-1) .BSX,O,TBD,G. Blum,L. DiNardo,-0%,97%,Flyball: LF
-b3,7-0,2,"['', 'Lugo', '']",5(1-2) SSBFS,O,TBD,J. Gomes,L. DiNardo,-0%,97%,Strikeout Swinging
+b3,7-0,1,"______, J. Lugo, ______",3(1-1) .BSX,O,TBD,G. Blum,L. DiNardo,-0%,97%,Flyball: LF
+b3,7-0,2,"______, J. Lugo, ______",5(1-2) SSBFS,O,TBD,J. Gomes,L. DiNardo,-0%,97%,Strikeout Swinging
 ,,,,,,,,,6 runs 7 hits 0 errors 1 LOB. Red Sox 0 Devil Rays 7.,6 runs 7 hits 0 errors 1 LOB. Red Sox 0 Devil Rays 7.,6 runs 7 hits 0 errors 1 LOB. Red Sox 0 Devil Rays 7.
 Top of the 4th Red Sox Batting Behind 0-7 Devil Rays' Victor Zambrano facing 5-6-7,Top of the 4th Red Sox Batting Behind 0-7 Devil Rays' Victor Zambrano facing 5-6-7,Top of the 4th Red Sox Batting Behind 0-7 Devil Rays' Victor Zambrano facing 5-6-7,,Top of the 4th Red Sox Batting Behind 0-7 Devil Rays' Victor Zambrano facing 5-6-7,Top of the 4th Red Sox Batting Behind 0-7 Devil Rays' Victor Zambrano facing 5-6-7,Top of the 4th Red Sox Batting Behind 0-7 Devil Rays' Victor Zambrano facing 5-6-7,Top of the 4th Red Sox Batting Behind 0-7 Devil Rays' Victor Zambrano facing 5-6-7,Top of the 4th Red Sox Batting Behind 0-7 Devil Rays' Victor Zambrano facing 5-6-7,Top of the 4th Red Sox Batting Behind 0-7 Devil Rays' Victor Zambrano facing 5-6-7,Top of the 4th Red Sox Batting Behind 0-7 Devil Rays' Victor Zambrano facing 5-6-7,Top of the 4th Red Sox Batting Behind 0-7 Devil Rays' Victor Zambrano facing 5-6-7
-t4,0-7,0,"['', '', '']",5(3-1) BBCBB,,BOS,B. Daubach,V. Zambrano,-1%,96%,Walk
-t4,0-7,0,"['Daubach', '', '']",5(3-1) SBBBX,,BOS,J. Varitek,V. Zambrano,-2%,94%,Single to CF (Line Drive); Daubach to 2B
-t4,0-7,0,"['Varitek', 'Daubach', '']",3(1-1) BSH,,BOS,K. Millar,V. Zambrano,-3%,91%,Hit By Pitch; Daubach to 3B; Varitek to 2B
-t4,0-7,0,"['Millar', 'Varitek', 'Daubach']",7(2-2) CBSFBFX,RO,BOS,K. Youkilis,V. Zambrano,2%,92%,Flyball: RF/Sacrifice Fly; Daubach Scores; Varitek to 3B
-t4,1-7,1,"['Millar', '', 'Varitek']",6(3-2) BCBBFB,,BOS,P. Reese,V. Zambrano,-2%,90%,Walk; Millar to 2B
-t4,1-7,1,"['Reese', 'Millar', 'Varitek']",4(1-2) CBCX,O,BOS,J. Damon,V. Zambrano,3%,93%,Groundout: P-C/Forceout at Hm; Millar to 3B; Reese to 2B
-t4,1-7,2,"['Damon', 'Reese', 'Millar']",6(3-2) CBFBBB,R,BOS,M. Bellhorn,V. Zambrano,-4%,90%,Walk; Millar Scores; Reese to 3B; Damon to 2B
-t4,2-7,2,"['Bellhorn', 'Damon', 'Reese']",5(3-1) BBCBB,R,BOS,D. Ortiz,V. Zambrano,-5%,85%,Walk; Reese Scores; Damon to 3B; Bellhorn to 2B
-t4,3-7,2,"['Ortiz', 'Bellhorn', 'Damon']",4(1-2) FBFX,O,BOS,M. Ramirez,V. Zambrano,6%,91%,Groundout: SS-2B/Forceout at 2B
+t4,0-7,0,"______, ______, ______",5(3-1) BBCBB,,BOS,B. Daubach,V. Zambrano,-1%,96%,Walk
+t4,0-7,0,"B. Daubach, ______, ______",5(3-1) SBBBX,,BOS,J. Varitek,V. Zambrano,-2%,94%,Single to CF (Line Drive); B. Daubach to 2B
+t4,0-7,0,"J. Varitek, B. Daubach, ______",3(1-1) BSH,,BOS,K. Millar,V. Zambrano,-3%,91%,Hit By Pitch; B. Daubach to 3B; J. Varitek to 2B
+t4,0-7,0,"K. Millar, J. Varitek, B. Daubach",7(2-2) CBSFBFX,RO,BOS,K. Youkilis,V. Zambrano,2%,92%,Flyball: RF/Sacrifice Fly; B. Daubach Scores; J. Varitek to 3B
+t4,1-7,1,"K. Millar, ______, J. Varitek",6(3-2) BCBBFB,,BOS,P. Reese,V. Zambrano,-2%,90%,Walk; K. Millar to 2B
+t4,1-7,1,"P. Reese, K. Millar, J. Varitek",4(1-2) CBCX,O,BOS,J. Damon,V. Zambrano,3%,93%,Groundout: P-C/Forceout at Hm; K. Millar to 3B; P. Reese to 2B
+t4,1-7,2,"J. Damon, P. Reese, K. Millar",6(3-2) CBFBBB,R,BOS,M. Bellhorn,V. Zambrano,-4%,90%,Walk; K. Millar Scores; P. Reese to 3B; J. Damon to 2B
+t4,2-7,2,"M. Bellhorn, J. Damon, P. Reese",5(3-1) BBCBB,R,BOS,D. Ortiz,V. Zambrano,-5%,85%,Walk; P. Reese Scores; J. Damon to 3B; M. Bellhorn to 2B
+t4,3-7,2,"D. Ortiz, M. Bellhorn, J. Damon",4(1-2) FBFX,O,BOS,M. Ramirez,V. Zambrano,6%,91%,Groundout: SS-2B/Forceout at 2B
 ,,,,,,,,,3 runs 1 hit 0 errors 3 LOB. Red Sox 3 Devil Rays 7.,3 runs 1 hit 0 errors 3 LOB. Red Sox 3 Devil Rays 7.,3 runs 1 hit 0 errors 3 LOB. Red Sox 3 Devil Rays 7.
 Bottom of the 4th Devil Rays Batting Ahead 7-3 Red Sox' Lenny DiNardo facing 9-1-2,Bottom of the 4th Devil Rays Batting Ahead 7-3 Red Sox' Lenny DiNardo facing 9-1-2,Bottom of the 4th Devil Rays Batting Ahead 7-3 Red Sox' Lenny DiNardo facing 9-1-2,,Bottom of the 4th Devil Rays Batting Ahead 7-3 Red Sox' Lenny DiNardo facing 9-1-2,Bottom of the 4th Devil Rays Batting Ahead 7-3 Red Sox' Lenny DiNardo facing 9-1-2,Bottom of the 4th Devil Rays Batting Ahead 7-3 Red Sox' Lenny DiNardo facing 9-1-2,Bottom of the 4th Devil Rays Batting Ahead 7-3 Red Sox' Lenny DiNardo facing 9-1-2,Bottom of the 4th Devil Rays Batting Ahead 7-3 Red Sox' Lenny DiNardo facing 9-1-2,Bottom of the 4th Devil Rays Batting Ahead 7-3 Red Sox' Lenny DiNardo facing 9-1-2,Bottom of the 4th Devil Rays Batting Ahead 7-3 Red Sox' Lenny DiNardo facing 9-1-2,Bottom of the 4th Devil Rays Batting Ahead 7-3 Red Sox' Lenny DiNardo facing 9-1-2
-b4,7-3,0,"['', '', '']",4(2-1) BCBX,O,TBD,B. Fordyce,L. DiNardo,-1%,90%,Lineout: SS
-b4,7-3,1,"['', '', '']",5(3-1) BBCBB,,TBD,C. Crawford,L. DiNardo,1%,91%,Walk
-b4,7-3,1,"['Crawford', '', '']",5(2-2) CSB1BT,O,TBD,R. Baldelli,L. DiNardo,-1%,90%,Strikeout Swinging
-b4,7-3,2,"['Crawford', '', '']",2(1-0) B>X,,TBD,A. Huff,L. DiNardo,1%,91%,Single to RF (Line Drive); Crawford to 3B
-b4,7-3,2,"['Huff', '', 'Crawford']",2(0-1) CX,O,TBD,T. Martinez,L. DiNardo,-2%,89%,Groundout: 1B unassisted
+b4,7-3,0,"______, ______, ______",4(2-1) BCBX,O,TBD,B. Fordyce,L. DiNardo,-1%,90%,Lineout: SS
+b4,7-3,1,"______, ______, ______",5(3-1) BBCBB,,TBD,C. Crawford,L. DiNardo,1%,91%,Walk
+b4,7-3,1,"C. Crawford, ______, ______",5(2-2) CSB1BT,O,TBD,R. Baldelli,L. DiNardo,-1%,90%,Strikeout Swinging
+b4,7-3,2,"C. Crawford, ______, ______",2(1-0) B>X,,TBD,A. Huff,L. DiNardo,1%,91%,Single to RF (Line Drive); C. Crawford to 3B
+b4,7-3,2,"A. Huff, ______, C. Crawford",2(0-1) CX,O,TBD,T. Martinez,L. DiNardo,-2%,89%,Groundout: 1B unassisted
 ,,,,,,,,,0 runs 1 hit 0 errors 2 LOB. Red Sox 3 Devil Rays 7.,0 runs 1 hit 0 errors 2 LOB. Red Sox 3 Devil Rays 7.,0 runs 1 hit 0 errors 2 LOB. Red Sox 3 Devil Rays 7.
 Top of the 5th Red Sox Batting Behind 3-7 Devil Rays' Victor Zambrano facing 5-6-7,Top of the 5th Red Sox Batting Behind 3-7 Devil Rays' Victor Zambrano facing 5-6-7,Top of the 5th Red Sox Batting Behind 3-7 Devil Rays' Victor Zambrano facing 5-6-7,,Top of the 5th Red Sox Batting Behind 3-7 Devil Rays' Victor Zambrano facing 5-6-7,Top of the 5th Red Sox Batting Behind 3-7 Devil Rays' Victor Zambrano facing 5-6-7,Top of the 5th Red Sox Batting Behind 3-7 Devil Rays' Victor Zambrano facing 5-6-7,Top of the 5th Red Sox Batting Behind 3-7 Devil Rays' Victor Zambrano facing 5-6-7,Top of the 5th Red Sox Batting Behind 3-7 Devil Rays' Victor Zambrano facing 5-6-7,Top of the 5th Red Sox Batting Behind 3-7 Devil Rays' Victor Zambrano facing 5-6-7,Top of the 5th Red Sox Batting Behind 3-7 Devil Rays' Victor Zambrano facing 5-6-7,Top of the 5th Red Sox Batting Behind 3-7 Devil Rays' Victor Zambrano facing 5-6-7
-t5,3-7,0,"['', '', '']",4(1-2) BCFS,O,BOS,B. Daubach,V. Zambrano,2%,91%,Strikeout Swinging
-t5,3-7,1,"['', '', '']",2(0-1) FX,R,BOS,J. Varitek,V. Zambrano,-5%,85%,Home Run (Fly Ball)
-t5,4-7,1,"['', '', '']",5(1-2) CCBFS,O,BOS,K. Millar,V. Zambrano,2%,87%,Strikeout Swinging
-t5,4-7,2,"['', '', '']",4(1-2) BCCX,,BOS,K. Youkilis,V. Zambrano,-1%,86%,Single to RF (Line Drive to RF Line)
-t5,4-7,2,"['Youkilis', '', '']",5(3-1) BFBBB,,BOS,P. Reese,V. Zambrano,-2%,84%,Walk; Youkilis to 2B
+t5,3-7,0,"______, ______, ______",4(1-2) BCFS,O,BOS,B. Daubach,V. Zambrano,2%,91%,Strikeout Swinging
+t5,3-7,1,"______, ______, ______",2(0-1) FX,R,BOS,J. Varitek,V. Zambrano,-5%,85%,Home Run (Fly Ball)
+t5,4-7,1,"______, ______, ______",5(1-2) CCBFS,O,BOS,K. Millar,V. Zambrano,2%,87%,Strikeout Swinging
+t5,4-7,2,"______, ______, ______",4(1-2) BCCX,,BOS,K. Youkilis,V. Zambrano,-1%,86%,Single to RF (Line Drive to RF Line)
+t5,4-7,2,"K. Youkilis, ______, ______",5(3-1) BFBBB,,BOS,P. Reese,V. Zambrano,-2%,84%,Walk; K. Youkilis to 2B
 ,,,,,,,,,John Halama replaces Victor Zambrano pitching,John Halama replaces Victor Zambrano pitching,John Halama replaces Victor Zambrano pitching
-t5,4-7,2,"['Reese', 'Youkilis', '']",7(2-2) .BCF*BF2FX,RR,BOS,J. Damon,J. Halama,-18%,66%,Double to CF (Line Drive to Deep LF-CF); Youkilis Scores; Reese Scores
-t5,6-7,2,"['', 'Damon', '']",6(3-2) BBFSBB,,BOS,M. Bellhorn,J. Halama,-2%,64%,Walk
-t5,6-7,2,"['Bellhorn', 'Damon', '']",1(0-0) X,O,BOS,D. Ortiz,J. Halama,6%,71%,Flyball: CF (Deep CF-RF)
+t5,4-7,2,"P. Reese, K. Youkilis, ______",7(2-2) .BCF*BF2FX,RR,BOS,J. Damon,J. Halama,-18%,66%,Double to CF (Line Drive to Deep LF-CF); K. Youkilis Scores; P. Reese Scores
+t5,6-7,2,"______, J. Damon, ______",6(3-2) BBFSBB,,BOS,M. Bellhorn,J. Halama,-2%,64%,Walk
+t5,6-7,2,"M. Bellhorn, J. Damon, ______",1(0-0) X,O,BOS,D. Ortiz,J. Halama,6%,71%,Flyball: CF (Deep CF-RF)
 ,,,,,,,,,3 runs 3 hits 0 errors 2 LOB. Red Sox 6 Devil Rays 7.,3 runs 3 hits 0 errors 2 LOB. Red Sox 6 Devil Rays 7.,3 runs 3 hits 0 errors 2 LOB. Red Sox 6 Devil Rays 7.
 Bottom of the 5th Devil Rays Batting Ahead 7-6 Red Sox' Lenny DiNardo facing 5-6-7,Bottom of the 5th Devil Rays Batting Ahead 7-6 Red Sox' Lenny DiNardo facing 5-6-7,Bottom of the 5th Devil Rays Batting Ahead 7-6 Red Sox' Lenny DiNardo facing 5-6-7,,Bottom of the 5th Devil Rays Batting Ahead 7-6 Red Sox' Lenny DiNardo facing 5-6-7,Bottom of the 5th Devil Rays Batting Ahead 7-6 Red Sox' Lenny DiNardo facing 5-6-7,Bottom of the 5th Devil Rays Batting Ahead 7-6 Red Sox' Lenny DiNardo facing 5-6-7,Bottom of the 5th Devil Rays Batting Ahead 7-6 Red Sox' Lenny DiNardo facing 5-6-7,Bottom of the 5th Devil Rays Batting Ahead 7-6 Red Sox' Lenny DiNardo facing 5-6-7,Bottom of the 5th Devil Rays Batting Ahead 7-6 Red Sox' Lenny DiNardo facing 5-6-7,Bottom of the 5th Devil Rays Batting Ahead 7-6 Red Sox' Lenny DiNardo facing 5-6-7,Bottom of the 5th Devil Rays Batting Ahead 7-6 Red Sox' Lenny DiNardo facing 5-6-7
-b5,7-6,0,"['', '', '']",2(1-0) BX,,TBD,J. Cruz,L. DiNardo,3%,74%,Single to CF (Line Drive)
-b5,7-6,0,"['Cruz', '', '']",5(2-2) BCTBX,,TBD,J. Lugo,L. DiNardo,5%,79%,Single to 3B (Ground Ball); Cruz to 2B
-b5,7-6,0,"['Lugo', 'Cruz', '']",6(3-2) BBFBC>S,OO,TBD,G. Blum,L. DiNardo,-10%,69%,Double Play: Strikeout Swinging Cruz Caught Stealing 3B (C-3B); Lugo to 2B
+b5,7-6,0,"______, ______, ______",2(1-0) BX,,TBD,J. Cruz,L. DiNardo,3%,74%,Single to CF (Line Drive)
+b5,7-6,0,"J. Cruz, ______, ______",5(2-2) BCTBX,,TBD,J. Lugo,L. DiNardo,5%,79%,Single to 3B (Ground Ball); J. Cruz to 2B
+b5,7-6,0,"J. Lugo, J. Cruz, ______",6(3-2) BBFBC>S,OO,TBD,G. Blum,L. DiNardo,-10%,69%,Double Play: Strikeout Swinging J. Cruz Caught Stealing 3B (C-3B); J. Lugo to 2B
 ,,,,,,,,,Mike Timlin replaces Lenny DiNardo pitching,Mike Timlin replaces Lenny DiNardo pitching,Mike Timlin replaces Lenny DiNardo pitching
-b5,7-6,2,"['', 'Lugo', '']",1(0-0) .X,R,TBD,J. Gomes,M. Timlin,10%,79%,Single to CF (Line Drive); Lugo Scores
-b5,8-6,2,"['Gomes', '', '']",6(2-2) 1CBBFFS,O,TBD,B. Fordyce,M. Timlin,-2%,77%,Strikeout Swinging
+b5,7-6,2,"______, J. Lugo, ______",1(0-0) .X,R,TBD,J. Gomes,M. Timlin,10%,79%,Single to CF (Line Drive); J. Lugo Scores
+b5,8-6,2,"J. Gomes, ______, ______",6(2-2) 1CBBFFS,O,TBD,B. Fordyce,M. Timlin,-2%,77%,Strikeout Swinging
 ,,,,,,,,,1 run 3 hits 0 errors 1 LOB. Red Sox 6 Devil Rays 8.,1 run 3 hits 0 errors 1 LOB. Red Sox 6 Devil Rays 8.,1 run 3 hits 0 errors 1 LOB. Red Sox 6 Devil Rays 8.
 Top of the 6th Red Sox Batting Behind 6-8 Devil Rays' John Halama facing 4-5-6,Top of the 6th Red Sox Batting Behind 6-8 Devil Rays' John Halama facing 4-5-6,Top of the 6th Red Sox Batting Behind 6-8 Devil Rays' John Halama facing 4-5-6,,Top of the 6th Red Sox Batting Behind 6-8 Devil Rays' John Halama facing 4-5-6,Top of the 6th Red Sox Batting Behind 6-8 Devil Rays' John Halama facing 4-5-6,Top of the 6th Red Sox Batting Behind 6-8 Devil Rays' John Halama facing 4-5-6,Top of the 6th Red Sox Batting Behind 6-8 Devil Rays' John Halama facing 4-5-6,Top of the 6th Red Sox Batting Behind 6-8 Devil Rays' John Halama facing 4-5-6,Top of the 6th Red Sox Batting Behind 6-8 Devil Rays' John Halama facing 4-5-6,Top of the 6th Red Sox Batting Behind 6-8 Devil Rays' John Halama facing 4-5-6,Top of the 6th Red Sox Batting Behind 6-8 Devil Rays' John Halama facing 4-5-6
-t6,6-8,0,"['', '', '']",7(3-2) CCBBFBS,O,BOS,M. Ramirez,J. Halama,3%,81%,Strikeout Swinging
-t6,6-8,1,"['', '', '']",4(1-2) BCCC,O,BOS,B. Daubach,J. Halama,2%,83%,Strikeout Looking
-t6,6-8,2,"['', '', '']",3(0-2) CSS,O,BOS,J. Varitek,J. Halama,1%,84%,Strikeout Swinging
+t6,6-8,0,"______, ______, ______",7(3-2) CCBBFBS,O,BOS,M. Ramirez,J. Halama,3%,81%,Strikeout Swinging
+t6,6-8,1,"______, ______, ______",4(1-2) BCCC,O,BOS,B. Daubach,J. Halama,2%,83%,Strikeout Looking
+t6,6-8,2,"______, ______, ______",3(0-2) CSS,O,BOS,J. Varitek,J. Halama,1%,84%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 6 Devil Rays 8.,0 runs 0 hits 0 errors 0 LOB. Red Sox 6 Devil Rays 8.,0 runs 0 hits 0 errors 0 LOB. Red Sox 6 Devil Rays 8.
 Bottom of the 6th Devil Rays Batting Ahead 8-6 Red Sox' Mike Timlin facing 1-2-3,Bottom of the 6th Devil Rays Batting Ahead 8-6 Red Sox' Mike Timlin facing 1-2-3,Bottom of the 6th Devil Rays Batting Ahead 8-6 Red Sox' Mike Timlin facing 1-2-3,,Bottom of the 6th Devil Rays Batting Ahead 8-6 Red Sox' Mike Timlin facing 1-2-3,Bottom of the 6th Devil Rays Batting Ahead 8-6 Red Sox' Mike Timlin facing 1-2-3,Bottom of the 6th Devil Rays Batting Ahead 8-6 Red Sox' Mike Timlin facing 1-2-3,Bottom of the 6th Devil Rays Batting Ahead 8-6 Red Sox' Mike Timlin facing 1-2-3,Bottom of the 6th Devil Rays Batting Ahead 8-6 Red Sox' Mike Timlin facing 1-2-3,Bottom of the 6th Devil Rays Batting Ahead 8-6 Red Sox' Mike Timlin facing 1-2-3,Bottom of the 6th Devil Rays Batting Ahead 8-6 Red Sox' Mike Timlin facing 1-2-3,Bottom of the 6th Devil Rays Batting Ahead 8-6 Red Sox' Mike Timlin facing 1-2-3
-b6,8-6,0,"['', '', '']",4(1-2) CCBX,,TBD,C. Crawford,M. Timlin,2%,86%,Single to CF (Ground Ball)
-b6,8-6,0,"['Crawford', '', '']",3(0-2) FCT,O,TBD,R. Baldelli,M. Timlin,-2%,84%,Strikeout Swinging
-b6,8-6,1,"['Crawford', '', '']",1(0-0) >X,O,TBD,A. Huff,M. Timlin,-1%,83%,Groundout: 2B-1B; Crawford to 2B
-b6,8-6,2,"['', 'Crawford', '']",4(3-0) IIII,,TBD,T. Martinez,M. Timlin,0%,84%,Intentional Walk
-b6,8-6,2,"['Martinez', 'Crawford', '']",3(1-1) BC2H,,TBD,J. Cruz,M. Timlin,2%,85%,Hit By Pitch; Crawford to 3B; Martinez to 2B
-b6,8-6,2,"['Cruz', 'Martinez', 'Crawford']",2(0-1) SX,O,TBD,J. Lugo,M. Timlin,-4%,81%,Groundout: P-1B
+b6,8-6,0,"______, ______, ______",4(1-2) CCBX,,TBD,C. Crawford,M. Timlin,2%,86%,Single to CF (Ground Ball)
+b6,8-6,0,"C. Crawford, ______, ______",3(0-2) FCT,O,TBD,R. Baldelli,M. Timlin,-2%,84%,Strikeout Swinging
+b6,8-6,1,"C. Crawford, ______, ______",1(0-0) >X,O,TBD,A. Huff,M. Timlin,-1%,83%,Groundout: 2B-1B; C. Crawford to 2B
+b6,8-6,2,"______, C. Crawford, ______",4(3-0) IIII,,TBD,T. Martinez,M. Timlin,0%,84%,Intentional Walk
+b6,8-6,2,"T. Martinez, C. Crawford, ______",3(1-1) BC2H,,TBD,J. Cruz,M. Timlin,2%,85%,Hit By Pitch; C. Crawford to 3B; T. Martinez to 2B
+b6,8-6,2,"J. Cruz, T. Martinez, C. Crawford",2(0-1) SX,O,TBD,J. Lugo,M. Timlin,-4%,81%,Groundout: P-1B
 ,,,,,,,,,0 runs 1 hit 0 errors 3 LOB. Red Sox 6 Devil Rays 8.,0 runs 1 hit 0 errors 3 LOB. Red Sox 6 Devil Rays 8.,0 runs 1 hit 0 errors 3 LOB. Red Sox 6 Devil Rays 8.
 Top of the 7th Red Sox Batting Behind 6-8 Devil Rays' Jorge Sosa facing 7-8-9,Top of the 7th Red Sox Batting Behind 6-8 Devil Rays' Jorge Sosa facing 7-8-9,Top of the 7th Red Sox Batting Behind 6-8 Devil Rays' Jorge Sosa facing 7-8-9,,Top of the 7th Red Sox Batting Behind 6-8 Devil Rays' Jorge Sosa facing 7-8-9,Top of the 7th Red Sox Batting Behind 6-8 Devil Rays' Jorge Sosa facing 7-8-9,Top of the 7th Red Sox Batting Behind 6-8 Devil Rays' Jorge Sosa facing 7-8-9,Top of the 7th Red Sox Batting Behind 6-8 Devil Rays' Jorge Sosa facing 7-8-9,Top of the 7th Red Sox Batting Behind 6-8 Devil Rays' Jorge Sosa facing 7-8-9,Top of the 7th Red Sox Batting Behind 6-8 Devil Rays' Jorge Sosa facing 7-8-9,Top of the 7th Red Sox Batting Behind 6-8 Devil Rays' Jorge Sosa facing 7-8-9,Top of the 7th Red Sox Batting Behind 6-8 Devil Rays' Jorge Sosa facing 7-8-9
 ,,,,,,,,,Jorge Sosa replaces John Halama pitching,Jorge Sosa replaces John Halama pitching,Jorge Sosa replaces John Halama pitching
-t7,6-8,0,"['', '', '']",3(0-2) .CSX,,BOS,K. Millar,J. Sosa,-6%,75%,Single to LF (Line Drive)
-t7,6-8,0,"['Millar', '', '']",3(1-1) FBX,O,BOS,K. Youkilis,J. Sosa,5%,80%,Foul Popfly: 1B (1B Foul)
-t7,6-8,1,"['Millar', '', '']",8(3-2) SBBSFBFS,O,BOS,P. Reese,J. Sosa,4%,85%,Strikeout Swinging
-t7,6-8,2,"['Millar', '', '']",2(0-1) CX,O,BOS,J. Damon,J. Sosa,3%,88%,Foul Popfly: 3B (3B Foul)
+t7,6-8,0,"______, ______, ______",3(0-2) .CSX,,BOS,K. Millar,J. Sosa,-6%,75%,Single to LF (Line Drive)
+t7,6-8,0,"K. Millar, ______, ______",3(1-1) FBX,O,BOS,K. Youkilis,J. Sosa,5%,80%,Foul Popfly: 1B (1B Foul)
+t7,6-8,1,"K. Millar, ______, ______",8(3-2) SBBSFBFS,O,BOS,P. Reese,J. Sosa,4%,85%,Strikeout Swinging
+t7,6-8,2,"K. Millar, ______, ______",2(0-1) CX,O,BOS,J. Damon,J. Sosa,3%,88%,Foul Popfly: 3B (3B Foul)
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Red Sox 6 Devil Rays 8.,0 runs 1 hit 0 errors 1 LOB. Red Sox 6 Devil Rays 8.,0 runs 1 hit 0 errors 1 LOB. Red Sox 6 Devil Rays 8.
 Bottom of the 7th Devil Rays Batting Ahead 8-6 Red Sox' Jamie Brown facing 7-8-9,Bottom of the 7th Devil Rays Batting Ahead 8-6 Red Sox' Jamie Brown facing 7-8-9,Bottom of the 7th Devil Rays Batting Ahead 8-6 Red Sox' Jamie Brown facing 7-8-9,,Bottom of the 7th Devil Rays Batting Ahead 8-6 Red Sox' Jamie Brown facing 7-8-9,Bottom of the 7th Devil Rays Batting Ahead 8-6 Red Sox' Jamie Brown facing 7-8-9,Bottom of the 7th Devil Rays Batting Ahead 8-6 Red Sox' Jamie Brown facing 7-8-9,Bottom of the 7th Devil Rays Batting Ahead 8-6 Red Sox' Jamie Brown facing 7-8-9,Bottom of the 7th Devil Rays Batting Ahead 8-6 Red Sox' Jamie Brown facing 7-8-9,Bottom of the 7th Devil Rays Batting Ahead 8-6 Red Sox' Jamie Brown facing 7-8-9,Bottom of the 7th Devil Rays Batting Ahead 8-6 Red Sox' Jamie Brown facing 7-8-9,Bottom of the 7th Devil Rays Batting Ahead 8-6 Red Sox' Jamie Brown facing 7-8-9
 ,,,,,,,,,Jamie Brown replaces Mike Timlin pitching,Jamie Brown replaces Mike Timlin pitching,Jamie Brown replaces Mike Timlin pitching
-b7,8-6,0,"['', '', '']",4(2-1) .BCBX,,TBD,G. Blum,J. Brown,3%,91%,Ground-rule Double (Fly Ball to CF-RF)
-b7,8-6,0,"['', 'Blum', '']",4(1-2) BCFX,O,TBD,J. Gomes,J. Brown,-2%,89%,Popfly: 2B (Short RF)
-b7,8-6,1,"['', 'Blum', '']",6(1-2) CSFBFX,R,TBD,B. Fordyce,J. Brown,5%,94%,Single to LF (Line Drive); Blum Scores
-b7,9-6,1,"['Fordyce', '', '']",3(1-1) CBX,O,TBD,C. Crawford,J. Brown,-1%,93%,Groundout: 2B-SS/Forceout at 2B
-b7,9-6,2,"['Crawford', '', '']",1(0-0) 11>P,O,TBD,R. Baldelli,J. Brown,-1%,92%,Crawford Caught Stealing 2B (C-2B)
+b7,8-6,0,"______, ______, ______",4(2-1) .BCBX,,TBD,G. Blum,J. Brown,3%,91%,Ground-rule Double (Fly Ball to CF-RF)
+b7,8-6,0,"______, G. Blum, ______",4(1-2) BCFX,O,TBD,J. Gomes,J. Brown,-2%,89%,Popfly: 2B (Short RF)
+b7,8-6,1,"______, G. Blum, ______",6(1-2) CSFBFX,R,TBD,B. Fordyce,J. Brown,5%,94%,Single to LF (Line Drive); G. Blum Scores
+b7,9-6,1,"B. Fordyce, ______, ______",3(1-1) CBX,O,TBD,C. Crawford,J. Brown,-1%,93%,Groundout: 2B-SS/Forceout at 2B
+b7,9-6,2,"C. Crawford, ______, ______",1(0-0) 11>P,O,TBD,R. Baldelli,J. Brown,-1%,92%,C. Crawford Caught Stealing 2B (C-2B)
 ,,,,,,,,,1 run 2 hits 0 errors 0 LOB. Red Sox 6 Devil Rays 9.,1 run 2 hits 0 errors 0 LOB. Red Sox 6 Devil Rays 9.,1 run 2 hits 0 errors 0 LOB. Red Sox 6 Devil Rays 9.
 Top of the 8th Red Sox Batting Behind 6-9 Devil Rays' Jorge Sosa facing 2-3-4,Top of the 8th Red Sox Batting Behind 6-9 Devil Rays' Jorge Sosa facing 2-3-4,Top of the 8th Red Sox Batting Behind 6-9 Devil Rays' Jorge Sosa facing 2-3-4,,Top of the 8th Red Sox Batting Behind 6-9 Devil Rays' Jorge Sosa facing 2-3-4,Top of the 8th Red Sox Batting Behind 6-9 Devil Rays' Jorge Sosa facing 2-3-4,Top of the 8th Red Sox Batting Behind 6-9 Devil Rays' Jorge Sosa facing 2-3-4,Top of the 8th Red Sox Batting Behind 6-9 Devil Rays' Jorge Sosa facing 2-3-4,Top of the 8th Red Sox Batting Behind 6-9 Devil Rays' Jorge Sosa facing 2-3-4,Top of the 8th Red Sox Batting Behind 6-9 Devil Rays' Jorge Sosa facing 2-3-4,Top of the 8th Red Sox Batting Behind 6-9 Devil Rays' Jorge Sosa facing 2-3-4,Top of the 8th Red Sox Batting Behind 6-9 Devil Rays' Jorge Sosa facing 2-3-4
-t8,6-9,0,"['', '', '']",2(1-0) BX,O,BOS,M. Bellhorn,J. Sosa,2%,95%,Flyball: LF (LF-CF)
-t8,6-9,1,"['', '', '']",4(1-2) FBFS,O,BOS,D. Ortiz,J. Sosa,1%,96%,Strikeout Swinging
-t8,6-9,2,"['', '', '']",4(1-2) SSBT,O,BOS,M. Ramirez,J. Sosa,1%,97%,Strikeout Swinging
+t8,6-9,0,"______, ______, ______",2(1-0) BX,O,BOS,M. Bellhorn,J. Sosa,2%,95%,Flyball: LF (LF-CF)
+t8,6-9,1,"______, ______, ______",4(1-2) FBFS,O,BOS,D. Ortiz,J. Sosa,1%,96%,Strikeout Swinging
+t8,6-9,2,"______, ______, ______",4(1-2) SSBT,O,BOS,M. Ramirez,J. Sosa,1%,97%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 0 LOB. Red Sox 6 Devil Rays 9.,0 runs 0 hits 0 errors 0 LOB. Red Sox 6 Devil Rays 9.,0 runs 0 hits 0 errors 0 LOB. Red Sox 6 Devil Rays 9.
 Bottom of the 8th Devil Rays Batting Ahead 9-6 Red Sox' Jamie Brown facing 2-3-4,Bottom of the 8th Devil Rays Batting Ahead 9-6 Red Sox' Jamie Brown facing 2-3-4,Bottom of the 8th Devil Rays Batting Ahead 9-6 Red Sox' Jamie Brown facing 2-3-4,,Bottom of the 8th Devil Rays Batting Ahead 9-6 Red Sox' Jamie Brown facing 2-3-4,Bottom of the 8th Devil Rays Batting Ahead 9-6 Red Sox' Jamie Brown facing 2-3-4,Bottom of the 8th Devil Rays Batting Ahead 9-6 Red Sox' Jamie Brown facing 2-3-4,Bottom of the 8th Devil Rays Batting Ahead 9-6 Red Sox' Jamie Brown facing 2-3-4,Bottom of the 8th Devil Rays Batting Ahead 9-6 Red Sox' Jamie Brown facing 2-3-4,Bottom of the 8th Devil Rays Batting Ahead 9-6 Red Sox' Jamie Brown facing 2-3-4,Bottom of the 8th Devil Rays Batting Ahead 9-6 Red Sox' Jamie Brown facing 2-3-4,Bottom of the 8th Devil Rays Batting Ahead 9-6 Red Sox' Jamie Brown facing 2-3-4
-b8,9-6,0,"['', '', '']",4(1-2) CFBS,O,TBD,R. Baldelli,J. Brown,-0%,97%,Strikeout Swinging
-b8,9-6,1,"['', '', '']",1(0-0) X,,TBD,A. Huff,J. Brown,0%,97%,Single to LF (Line Drive to LF-CF)
-b8,9-6,1,"['Huff', '', '']",3(1-1) BCX,O,TBD,T. Martinez,J. Brown,-0%,97%,Foul Popfly: 3B (3B Foul)
-b8,9-6,2,"['Huff', '', '']",1(0-0) >C,,TBD,J. Cruz,J. Brown,0%,97%,Huff Steals 2B
-b8,9-6,2,"['', 'Huff', '']",5(3-1) >C.BBBX,O,TBD,J. Cruz,J. Brown,-1%,96%,Groundout: 2B-1B
+b8,9-6,0,"______, ______, ______",4(1-2) CFBS,O,TBD,R. Baldelli,J. Brown,-0%,97%,Strikeout Swinging
+b8,9-6,1,"______, ______, ______",1(0-0) X,,TBD,A. Huff,J. Brown,0%,97%,Single to LF (Line Drive to LF-CF)
+b8,9-6,1,"A. Huff, ______, ______",3(1-1) BCX,O,TBD,T. Martinez,J. Brown,-0%,97%,Foul Popfly: 3B (3B Foul)
+b8,9-6,2,"A. Huff, ______, ______",1(0-0) >C,,TBD,J. Cruz,J. Brown,0%,97%,A. Huff Steals 2B
+b8,9-6,2,"______, A. Huff, ______",5(3-1) >C.BBBX,O,TBD,J. Cruz,J. Brown,-1%,96%,Groundout: 2B-1B
 ,,,,,,,,,0 runs 1 hit 0 errors 1 LOB. Red Sox 6 Devil Rays 9.,0 runs 1 hit 0 errors 1 LOB. Red Sox 6 Devil Rays 9.,0 runs 1 hit 0 errors 1 LOB. Red Sox 6 Devil Rays 9.
 Top of the 9th Red Sox Batting Behind 6-9 Devil Rays' Danys Baez facing 5-6-7,Top of the 9th Red Sox Batting Behind 6-9 Devil Rays' Danys Baez facing 5-6-7,Top of the 9th Red Sox Batting Behind 6-9 Devil Rays' Danys Baez facing 5-6-7,,Top of the 9th Red Sox Batting Behind 6-9 Devil Rays' Danys Baez facing 5-6-7,Top of the 9th Red Sox Batting Behind 6-9 Devil Rays' Danys Baez facing 5-6-7,Top of the 9th Red Sox Batting Behind 6-9 Devil Rays' Danys Baez facing 5-6-7,Top of the 9th Red Sox Batting Behind 6-9 Devil Rays' Danys Baez facing 5-6-7,Top of the 9th Red Sox Batting Behind 6-9 Devil Rays' Danys Baez facing 5-6-7,Top of the 9th Red Sox Batting Behind 6-9 Devil Rays' Danys Baez facing 5-6-7,Top of the 9th Red Sox Batting Behind 6-9 Devil Rays' Danys Baez facing 5-6-7,Top of the 9th Red Sox Batting Behind 6-9 Devil Rays' Danys Baez facing 5-6-7
 ,,,,,,,,,Danys Baez replaces Jorge Sosa pitching,Danys Baez replaces Jorge Sosa pitching,Danys Baez replaces Jorge Sosa pitching
-t9,6-9,0,"['', '', '']",1(0-0) .X,O,BOS,B. Daubach,D. Baez,2%,98%,Flyball: LF (Deep LF)
-t9,6-9,1,"['', '', '']",5(0-2) CFFFH,,BOS,J. Varitek,D. Baez,-2%,96%,Hit By Pitch
-t9,6-9,1,"['Varitek', '', '']",3(1-1) BSX,O,BOS,K. Millar,D. Baez,3%,99%,Popfly: SS (Short CF)
-t9,6-9,2,"['Varitek', '', '']",3(0-2) CF>S,O,BOS,K. Youkilis,D. Baez,1%,100%,Strikeout Swinging
+t9,6-9,0,"______, ______, ______",1(0-0) .X,O,BOS,B. Daubach,D. Baez,2%,98%,Flyball: LF (Deep LF)
+t9,6-9,1,"______, ______, ______",5(0-2) CFFFH,,BOS,J. Varitek,D. Baez,-2%,96%,Hit By Pitch
+t9,6-9,1,"J. Varitek, ______, ______",3(1-1) BSX,O,BOS,K. Millar,D. Baez,3%,99%,Popfly: SS (Short CF)
+t9,6-9,2,"J. Varitek, ______, ______",3(0-2) CF>S,O,BOS,K. Youkilis,D. Baez,1%,100%,Strikeout Swinging
 ,,,,,,,,,0 runs 0 hits 0 errors 1 LOB. Red Sox 6 Devil Rays 9.,0 runs 0 hits 0 errors 1 LOB. Red Sox 6 Devil Rays 9.,0 runs 0 hits 0 errors 1 LOB. Red Sox 6 Devil Rays 9.

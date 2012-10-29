@@ -45,14 +45,58 @@ class Game(object):
             index[key] = col.index(key)
         return index
 
+    def replaceColumn(self, array, dictionary, key, List):
+        """
+        Replaces old column (array[:, dictionary[key]])
+        with new column of contents List.
+        """
+##        print len(List)
+##        print array.shape[0]
+
+##
+##        # Test Code
+##        #################
+##        playList1 = []
+##        for play in List:
+##            playList1.append(play[0])
+##        #################
+        
+        col = dictionary[key]
+        array = numpy.delete(array, numpy.s_[col:col+1], 1)
+        array = numpy.insert(array, [col], List, 1)
+
+##        # Test Code
+##        #################
+##        playList2 = []
+##        for play in array[:, dictionary['Play Description']]:
+##            playList2.append(play)
+##        for play in range(len(playList2)):
+##            #print len(playList1[play]) == len(playList2[play])
+##            if len(playList1[play]) != len(playList2[play]):
+##                print len(playList1[play]), len(playList2[play])
+##        #################
+            
+        return array
+        
     def writeFile(self, array):
+        """
+        Writes a new csv file after processing
+        """
         fileList = []
+        newFileList = []
+        if 'ProcessedFiles/' in self.game:
+            newFileName = self.game
+        else:
+            newFileName = 'ProcessedFiles/' + self.game
+            
         for row in array[:, :]:
             fileList.append(row)
-        updatedFile = open('ProcessedFiles/'+ self.game, 'w')
+        updatedFile = open(newFileName, 'w')
+        newFileList.append(newFileName)
         writer = csv.writer(updatedFile, 'excel')
         self.game = writer.writerows(fileList)
         
+        return newFileList
 
     def getLabels(self):
         """
@@ -71,6 +115,59 @@ class Game(object):
         array = self.formatBaserunners()[0]
         dictionary = self.formatIndices()
         return array[row, dictionary[key]]
+
+    def formatPlayers(self):
+        """
+        Returns two dictionaries, one for each team,
+        representing the spot in the batting order
+        each player is batting.
+        """
+        array = self.formatFile()
+        dictionary = self.formatIndices()
+        vLineup = {}
+        hLineup = {}
+        play = ''
+        newPlays = [['Play Description']]
+        v = 0
+        h = 0
+        for row in range(1, array.shape[0]):   
+            try:
+                play = array[row, dictionary['Play Description']]
+                inning = array[row, dictionary['Inn']]
+                batter = array[row, dictionary['Batter']]
+                batterLastName = batter.split()[-1]
+                if inning[0] == 't':
+                    v+=1
+                    vLineup[v] = batter
+                    if v == 9:
+                        v = 0
+                if inning[0] == 'b':
+                    h+=1
+                    hLineup[h] = batter
+                    if h == 9:
+                        h = 0
+                try:
+                    for hitter in range(1, 10):
+                        if inning[0] == 't':
+                            Hitter = vLineup[hitter]
+                        elif inning[0] == 'b':
+                            Hitter = hLineup[hitter]
+                        else:
+                            Hitter = ''
+                        HitterLastName = Hitter.split()[-1]
+                        if HitterLastName in play\
+                           and Hitter not in play:
+                            play = play.replace(HitterLastName, Hitter)
+                except KeyError:
+                    pass
+            except IndexError:
+                pass
+            newPlays.append([play])
+        array = self.replaceColumn(array, dictionary, 'Play Description', newPlays)
+        fileList = self.writeFile(array)
+
+        return fileList
+             
     
     def checkBaserunners(self, names, numbers, array, dictionary):
         """
@@ -90,11 +187,11 @@ class Game(object):
             row2 = row
             while play == array[row2-1, dictionary['Play Description']]:
                 play = array[row2, dictionary['Play Description']]
-                batter = str(array[row2, dictionary['Batter']]).split()
-                if batter != []: 
-                    batter = batter[-1]
-                else:
-                    batter = ''
+                batter = str(array[row2, dictionary['Batter']])#.split()
+##                if batter != []: 
+##                    batter = batter[-1]
+##                else:
+##                    batter = ''
                 row2 -= 1
             for base in range(len(name)):
                 if name[base] == ''\
@@ -129,7 +226,8 @@ class Game(object):
                or runnerOnThird + ' Steals Hm' in play\
                or runnerOnThird + ' Caught Stealing' in play\
                or runnerOnThird + ' out at' in play\
-               or runnerOnThird + ' Picked off 3B' in play\
+               or (runnerOnThird + ' Picked off 3B' in play\
+                   and "Picked off 3B safe on E" not in play)\
                or 'Ground Ball Double Play' in play:
                 newOnBase[2] = ''    
         return newOnBase
@@ -140,7 +238,8 @@ class Game(object):
             if runnerOnSecond + ' Caught Stealing' in play\
                or runnerOnSecond + ' out at' in play\
                or 'Ground Ball Double Play' in play\
-               or runnerOnSecond + ' Picked off 2B' in play:
+               or (runnerOnSecond + ' Picked off 2B' in play\
+                   and "Picked off 2B safe on E" not in play):
                 newOnBase[1] = ''
             if runnerOnSecond + ' to 3B' in play\
                or runnerOnSecond + ' Steals 3B' in play:
@@ -159,7 +258,8 @@ class Game(object):
             if runnerOnFirst + ' Caught Stealing' in play\
                  or 'Ground Ball Double Play' in play\
                  or runnerOnFirst + ' out at' in play\
-                 or runnerOnFirst + ' Picked off 1B' in play:
+                 or (runnerOnFirst + ' Picked off 1B' in play\
+                     and 'Picked off 1B safe on E' not in play):
                 newOnBase[0] = ''
             if runnerOnFirst + ' to 2B' in play\
                or runnerOnFirst + ' Steals 2B' in play:
@@ -183,6 +283,7 @@ class Game(object):
            or play == 'Walk'\
            or 'Walk ' in play\
            or 'Single' in play\
+           or 'Single (' in play\
            or 'Reached on E' in play\
            or "Fielder's Choice" in play\
            or "Hit By Pitch" in play\
@@ -191,6 +292,7 @@ class Game(object):
             newOnBase[0] = batter2   
         if 'Double to' in play\
            or 'Double;' in play\
+           or 'Double (' in play\
            or play == 'Double'\
            or 'Ground-rule Double' in play\
            or batter + ' to 2B' in play:
@@ -198,6 +300,7 @@ class Game(object):
             newOnBase[1] = batter2
         if 'Triple to' in play\
            or 'Triple;' in play\
+           or 'Triple (' in play\
            or play == 'Triple'\
            or batter + ' to 3B' in play:
             newOnBase[0] = ''
@@ -231,7 +334,7 @@ class Game(object):
         while array[row2, dictionary['Inn']] == '':
             row2 -= 1
             play = array[row2, dictionary['Play Description']]
-        batter = str(array[row2, dictionary['Batter']]).split()[-1] 
+        batter = str(array[row2, dictionary['Batter']]) #.split()[-1] 
         runnerOnFirst = onBase[0]
         runnerOnSecond = onBase[1]
         runnerOnThird = onBase[2]
@@ -301,7 +404,8 @@ class Game(object):
                         index = splitReplace.index('runs')
                         pinchRunner = splitReplace[index-2]
                         splitPinch = pinchRunner.split()
-                        runner = splitReplace[index+3]
+                        runner = splitReplace[index+2][0] + '. '\
+                                 + splitReplace[index+3]
                         namesIndex = names.index(runner)
                         names[namesIndex] = pinchRunner
 
@@ -330,9 +434,8 @@ class Game(object):
                 testNumbers.append([''])
 
         # Replaces original baserunner data with new data
-        col = dictionary['RoB']
-        array = numpy.delete(array, numpy.s_[col:col+1], 1)
-        array = numpy.insert(array, [col], namesList, 1)
+        array = self.replaceColumn(array, dictionary, 'RoB', namesList)
+
 
         self.writeFile(array)
         
